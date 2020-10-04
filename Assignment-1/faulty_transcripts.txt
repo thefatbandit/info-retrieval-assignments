@@ -1,0 +1,6 @@
+Faulty Transcripts:
+    2656:- QnA 
+    4118:- QnA
+    281:-  QnA
+    2907:- Date not in the heading
+    1659:- 2907 + (August 65 2020 8:30 AM ET) [No commas present] in Date

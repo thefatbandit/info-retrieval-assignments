@@ -1,0 +1,484 @@
+{
+   "Date": "September 10, 2020",
+   "Presentation": {
+      "Operator": [
+         "Greetings and welcome to the Frequency Electronics First Quarter Fiscal Year 2021 Earnings Release Conference Call. At this time all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.",
+         "Any statements made by the company during this conference call regarding the future constitutes forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements inherently involve uncertainties that could cause actual results to differ materially from the forward-looking statements. Factors that would cause or contribute to such differences are included in the company's press releases and are further detailed in the company's periodic report filings with the Securities and Exchange Commission. By making these forward-looking statements, the company undertakes no obligation to update these statements for revisions or changes after the date of this conference call.",
+         "It is now my pleasure to introduce your host, Mr. Stanton Sloane, President and CEO.",
+         "Are you ready to take questions? I apologize about that."
+      ],
+      "Stanton Sloane": [
+         "Thank you. Hello, everyone. Thank you for joining us today to discuss first quarter '21 results. Steve will cover financial details with you in a minute, but let me first give you my perspectives on the quarter.",
+         "I'll start by stating that I'm pleased with the direction I am seeing in the business. Our team has been working hard both to pursue new business and work our way through some difficult technical challenges on previous programs. We're starting to see the results from these efforts.",
+         "FEI has a long history of providing products that go into space. And as the U.S. increases its focus there, FEI is well positioned to service that market. Building electronics that have to operate reliably and effectively in that environment is very difficult. FEI has the benefit of over 50 years of experience with our systems operating in space, and that is a knowledge base that we leverage to ensure better, more reliable products. That's an invaluable FEI asset and one which fosters customer confidence in us as is reflected by the increasing number of awards for precision time and Frequency products for satellite applications. I believe we will see continuing growth in this arena as space becomes an increasingly more important domain to the U.S. Military, and that bodes very well for FEI.",
+         "Not wanting to slide our terrestrial market, I'm also pleased with recent awards for precision oscillators that will go into various U.S. military airborne platforms, one of which we announced this afternoon. We, at FEI, are proud that our electronics can be found in some of the most important tactical and strategic military assets of the United States and its allies.",
+         "As we complete a couple of the programs that have been nagging us, I expect that our overall financial performance will continue to improve. We, of course, continue to focus on internal operational improvements and cost reductions. One example is our continuing rollout of a new ERP system that is helping us streamline our manufacturing and program management processes.",
+         "While this quarter showed a net operating loss on a non-GAAP pro forma basis, taking into account extraordinary legal and insurance expenses and the accounting associated with the problem programs I mentioned above, we would be profitable. I see that as a significant improvement.",
+         "Now let me turn it over to Steve to take you through the financial details. Steve?",
+         "Thank you, Steve. We'll take questions now, and let me ask the operator to come back on and tell you how to do that. Operator? Hello, Hector, are you there? Did we lose the line? No.",
+         "Yes. Yes. Go ahead, please."
+      ],
+      "Steve Bernstein": [
+         "Thank you, Stan, and good afternoon. For the three months ended July 31, 2020, consolidated revenue was $13 million, up 3% compared to $12.6 million for the same period of the prior fiscal year. The components of revenue are as follows: revenue from commercial and U.S. government satellite programs was $6.7 million compared to $3.9 million for the same period of the prior fiscal year and accounted for approximately 51% of consolidated revenues compared to 31% for the same period of the prior fiscal year.",
+         "Revenues on satellite payload contracts are recognized primarily under the percentage of completion method and are recorded only in the FEI-New York segment. Revenues from non-space U.S. Government and DOD customers, which are recorded in both the FEI-New York and FEI-Zyfer segments was $5.3 million compared to $6.7 million in the same period of the prior fiscal year and accounted for approximately 41% of consolidated revenue compared to 54% for the prior fiscal year. Other commercial and industrial revenues were $1 million compared to $1.9 million in the prior fiscal year. Intersegment revenues are eliminated in consolidation.",
+         "For the three-month period ending July 31, 2020, the gross margin and gross margin rate both increased marginally over the same period in fiscal 2020. The increase is primarily due to product mix. There were higher engineering costs on several programs in both periods, but as these programs are completed, we expect margins to increase.",
+         "For the three months ended July 31, 2020 and 2019, selling and administrative costs were approximately 25% and 20%, respectively of consolidated revenue. The increase is due to additional insurance costs and professional fees relating to litigation for which we expect to receive a partial reimbursement through the company's insurance.",
+         "R&D expense for the three months ending July 31, 2020 and 2019 decreased to $1.2 million from $2.3 million, a decrease of $1.1 million and were 9% and 18% of consolidated revenue. The decrease is due to previous R&D efforts that have ended and turned into production. However, the company plans to continue to invest in R&D.",
+         "For the three months ended July 31, 2020, the company recorded an operating loss of $337,000 compared to $780,000 in the prior year. The operating loss reflects improved in revenue, gross margin and gross margin rate. Other income consists primarily investment income derived from the company's holdings of marketable securities. The prior year investment income included a dividend received from Morion of $125,000. This yields a pretax loss of approximately $253,000 compared to a pretax loss of approximately $570,000 for the previous year.",
+         "For the three months ending July 31, 2020, the company recorded a tax provision of $9,000 compared to $19,000 for the same period of fiscal 2020.",
+         "Consolidated net loss for the three months ending July 31, 2020, was $262,000 or $0.03 per diluted share compared to $591,000 or $0.07 per diluted share in the previous year.",
+         "Our fully funded backlog at the end of July 2020 was approximately $38 million, up approximately $2 million from the previous year-end April 30, 2020. The company's balance sheet continues to reflect the strong working capital position of approximately $39 million at July 31, 2020, and a current ratio of approximately 4.6:1.",
+         "The company believes that its liquidity is adequate to meet its operating and investing needs for the next 12 months and the foreseeable future.",
+         "I will turn the call back to Stan, and we look forward to your questions later."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "[Operator Instructions] Your first question comes from the line of Sam Rebotsky with SER Asset Management. Please proceed with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "The annual report really looks good, and the improvement this quarter is good. Now where -- you generally mentioned the bids that you have outstanding. And what is the bids? And what is the nonfunded backlog that you presently have?"
+         ],
+         "Speaker": "Sam Rebotsky"
+      },
+      "3": {
+         "Remarks": [
+            "We don't report nonfunded. We only report what is funded, which is what the backlog number that Steve gave you is."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "4": {
+         "Remarks": [
+            "And what is the bids that we have?"
+         ],
+         "Speaker": "Sam Rebotsky"
+      },
+      "5": {
+         "Remarks": [
+            "The total number of bids outstanding?"
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "6": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Sam Rebotsky"
+      },
+      "7": {
+         "Remarks": [
+            "Let's see. It's probably in the 600, 625 range. I haven't checked it this week, but it's around there."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "8": {
+         "Remarks": [
+            "Well, that's wonderful. Northrop Grumman won a $13 billion contract for a missile. I know you did 10% of your business with Northrop this past year, and I think this $13 billion could be $85 billion. Do you participate in missile contracts in addition to satellites?"
+         ],
+         "Speaker": "Sam Rebotsky"
+      },
+      "9": {
+         "Remarks": [
+            "Yes. So my comments about terrestrial market is the nonsatellite part. So the answer is yes. And we provide various electronics, mostly small quartz oscillators, which are used in high vibration, high G environments, but we do provide products into that market."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "10": {
+         "Remarks": [
+            "Your next question comes from the line of Brett Reiss with Janney Montgomery Scott. Please proceed with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "11": {
+         "Remarks": [
+            "The precision oscillator contract you announced today, is that from the same customer from the August 12, $5 million precision oscillator contract? Or is it a different customer?"
+         ],
+         "Speaker": "Brett Reiss "
+      },
+      "12": {
+         "Remarks": [
+            "That's a different customer."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "13": {
+         "Remarks": [
+            "Okay. Are we going to see other multiple precision oscillator contracts from different customers? Is that a possibility?"
+         ],
+         "Speaker": "Brett Reiss "
+      },
+      "14": {
+         "Remarks": [
+            "Well, we hope so. We have a lot of things pending that are in the competitive process. But my answer is I would expect to see that, yes."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "15": {
+         "Remarks": [
+            "Okay. And the factors that would lead your customer to go from unfunded to funded backlog, based on what's going on in the world, has the propensity for them to go to funded from unfunded, has it increased, stayed about the same? Can you talk to that at all?"
+         ],
+         "Speaker": "Brett Reiss "
+      },
+      "16": {
+         "Remarks": [
+            "So let me start by trying to make sure that I articulate these terms because I know there tends to be some confusion. So when we get a contract -- and this is very typical of government contracts. In fact, I would hesitate to say it's universal, but it's very common when you get a government contract that the government will award the contract and -- but they don't fund the entire contract value, they fund it incrementally. And so there's a limitation of liability on the government's part that is associated with the amount of the funding. So you could have a valid contract for, let's say, $10, it could be only funded at the $2 level. And for us, what we do is we record the $2, which is funded in the backlog. So when Steve talks about backlog, that's how we account for that.",
+            "Now to further confuse things, you can also have a contract with options. So in that case, let's say you have, again, a $10 contract. It includes another option for another $5 million, let's say. So the total contract value might be $15 million, but the $5 million options are not exercised, and then you have the funding limitation also. So you could have a $15 million contract that has $10 million base contract that's funded at $2 million but also has an additional $5 million worth of options. So that is the case on several of our programs. We have contracts which are at a particular value, but the funding has been limited. So what we report to you in public is the backlog. So when we say backlog, that is completely funded.",
+            "Most of our contracts are either -- if they're not direct with the government, they are to government prime contractors, and the contractual slowdowns associated with those contracts are essentially the same as what the government does for the prime contractor. So that's the way things work.",
+            "And you asked about trends. So at the moment, we're seeing an increase in the number of contract awards. We've reported probably 5. I think we had maybe 4 or 5 press releases here in the last couple of months, some of them significant. So the trend for contract awards is increasing, and the funding has been flowing pretty readily. So at the moment, all those contracts are adequately funded. And as far as I can tell, they'll continue through to their -- at least to their base values. We would anticipate that the options associated with those will largely get exercised at some point as well. Did that answer your question?"
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "17": {
+         "Remarks": [
+            "It does. And just tagging on to that, to move -- in your hypothetical $10 million base contract with $2 million funding, that other $8 million that we want to get funded, is that something that's totally out of your control and in the control of the customer? Or is there something that you proactively can do to accelerate or be a catalyst to it being funded?"
+         ],
+         "Speaker": "Brett Reiss "
+      },
+      "18": {
+         "Remarks": [
+            "Ultimately, it's controlled by the government, but we don't -- usually, there's not a problem. If the government, for example, initiates a contract for a satellite, and they have -- I don't know, they're one-third of the way through construction of the satellite, they're going to fund the completion of the satellite. I mean it'd be very unusual if they didn't do that. Sometimes they do stretch the funding. They'll stretch the schedule so that the funding in any one fiscal year spreads a little bit more. That happens. But by and large, once these programs are underway, they tend to get funded."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "19": {
+         "Remarks": [
+            "Your next question comes from the line of [Michael Eaisner], private investor. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "20": {
+         "Remarks": [
+            "Great quarter. Your August and September contracts, none of that is in the backlog, correct?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "21": {
+         "Remarks": [
+            "No. That's not correct."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "22": {
+         "Remarks": [
+            "No."
+         ],
+         "Speaker": "Steve Bernstein"
+      },
+      "23": {
+         "Remarks": [
+            "I'm sorry, what dates did you say again?"
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "24": {
+         "Remarks": [
+            "August and September -- the one today also. They can't be in the backlog, which is up until July 31."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "25": {
+         "Remarks": [
+            "Right. That is correct."
+         ],
+         "Speaker": "Steve Bernstein"
+      },
+      "26": {
+         "Remarks": [
+            "We're only talking first quarter here."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "27": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Steve Bernstein"
+      },
+      "28": {
+         "Remarks": [
+            "Yes. So those two -- that was $5 million in August and I think almost $3 million today."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "29": {
+         "Remarks": [
+            "Right. That has nothing to do with the $37.9 million or $38 million that I reported, correct."
+         ],
+         "Speaker": "Steve Bernstein"
+      },
+      "30": {
+         "Remarks": [
+            "Yes. And the way you wrote this, it looks like you started the increase in backlog in part of the first quarter because it looks like revenue is going to go up -- the backlog is going to go up -- continue to go up the way you wrote the press release."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "31": {
+         "Remarks": [
+            "So the press release is for a contract that was awarded not in the first quarter. So the numbers we're reporting to you today are first quarter numbers. But clearly, other contract awards will go into backlog, but that's not a Q1 -- that's going to do with the Q1 numbers."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "32": {
+         "Remarks": [
+            "No. What I'm saying is you wrote in the press release -- let me see. The contracts start off slowly."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "33": {
+         "Remarks": [
+            "Yes. So yes."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "34": {
+         "Remarks": [
+            "So I expect -- the way I took that is you expect backlog to go up higher?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "35": {
+         "Remarks": [
+            "Yes, you're missing up a couple of things, Mike. Let me explain to you."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "36": {
+         "Remarks": [
+            "No. I think I call it myself because you could actually do the same revenue and backlog could go up or down."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "37": {
+         "Remarks": [
+            "Yes. My point was when you get a large contract award, the revenue is not linear. You -- it takes a little bit of time to do the planning for the project before you see the uptick in the revenue. That was the point I was trying to make."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "38": {
+         "Remarks": [
+            "Exactly. If I'm not forgetting, I think you jumped up 30% in revenue from last quarter, roughly."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "39": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "40": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Steve Bernstein"
+      },
+      "41": {
+         "Remarks": [
+            "Absolutely. Yes."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "42": {
+         "Remarks": [
+            "That's a large -- a very large increase because I think you were doing like $10 million every quarter like for the last year."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "43": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "44": {
+         "Remarks": [
+            "Roughly. I think you did $41 million last year."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "45": {
+         "Remarks": [
+            "Yes. That's about right."
+         ],
+         "Speaker": "Steve Bernstein"
+      },
+      "46": {
+         "Remarks": [
+            "Are all the problem programs, are they over with?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "47": {
+         "Remarks": [
+            "Not totally, but one of them, we will deliver all the products in about 10 days. That one will be behind us. The other one, we're in -- we have stuff in final test. The deliveries run out through October, but I would anticipate that we'll be finishing up in the time frame."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "48": {
+         "Remarks": [
+            "Are they going to cost us money or we're okay on that?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "49": {
+         "Remarks": [
+            "Well, I am doing my best to avoid additional costs, but we have to get through the test."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "50": {
+         "Remarks": [
+            "All right. And without those extra expenses, you would have made money this quarter?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "51": {
+         "Remarks": [
+            "Yes. That was my point in the commentary in the press release."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "52": {
+         "Remarks": [
+            "All right. What about salespeople? Did you hire more salespeople?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "53": {
+         "Remarks": [
+            "Not in Q1, but we have added folks -- and we've added employees generally. Since May, I think we have probably an additional 14 or 15 people, and we're hiring in another 12 or 14 right now. So employment is increasing."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "54": {
+         "Remarks": [
+            "So from last quarter, you added like -- it will be like 28 people?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "55": {
+         "Remarks": [
+            "No. 14 since probably around May time frame."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "56": {
+         "Remarks": [
+            "And then another 14 you plan on?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "57": {
+         "Remarks": [
+            "I have additional openings was what I meant to say."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "58": {
+         "Remarks": [
+            "Is it hard to find people?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "59": {
+         "Remarks": [
+            "We seem to be having pretty good luck staffing the key positions. I've actually encouraged that we have not had more problem. So I don't know if that's related to COVID situation or the economy or whatever. But at the moment, we're able to find the people we need."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "60": {
+         "Remarks": [
+            "[Operator Instructions] Your next question comes from the line of Robert Smith with Center of Performance Investing. Please proceed with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "61": {
+         "Remarks": [
+            "What percentage of your funded backlog do you expect to ship in this current fiscal year?"
+         ],
+         "Speaker": "Robert Smith"
+      },
+      "62": {
+         "Remarks": [
+            "Give me one second. Give me a second. We actually have that number. Just hold on."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "63": {
+         "Remarks": [
+            "Somewhere between 70% and 80% of it, we expect."
+         ],
+         "Speaker": "Steve Bernstein"
+      },
+      "64": {
+         "Remarks": [
+            "Okay. With an increasing backlog and these problem contracts out of the way, what kind of gross margin target do you have?"
+         ],
+         "Speaker": "Robert Smith"
+      },
+      "65": {
+         "Remarks": [
+            "I don't know. I think the business should run north of 35%."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "66": {
+         "Remarks": [
+            "And what run rate do you need to have profitability?"
+         ],
+         "Speaker": "Robert Smith"
+      },
+      "67": {
+         "Remarks": [
+            "That's a little tricky to answer. It depends on the product mix and other things. But I think at the 35% or north of 35%, the business should be profitable."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "68": {
+         "Remarks": [
+            "Okay. And what particularly was the litigation amount?"
+         ],
+         "Speaker": "Robert Smith"
+      },
+      "69": {
+         "Remarks": [
+            "Are you referring to Martin Block litigation?"
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "70": {
+         "Remarks": [
+            "Is that what it was? Okay. Got it. The one that you had expense for?"
+         ],
+         "Speaker": "Robert Smith"
+      },
+      "71": {
+         "Remarks": [
+            "Yes. Mostly associated with that litigation."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "72": {
+         "Remarks": [
+            "Ladies and gentlemen, we have reached the end of the question-and-answer session, and I would like to turn the call back to management for closing remarks."
+         ],
+         "Speaker": "Operator"
+      },
+      "73": {
+         "Remarks": [
+            "Great. Thank you, everybody. Appreciate you joining us today, and we look forward to talking to you next quarter. With that, we will sign off. Have a great day."
+         ],
+         "Speaker": "Stanton Sloane"
+      },
+      "74": {
+         "Remarks": [
+            "This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation. "
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

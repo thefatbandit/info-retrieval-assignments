@@ -1,0 +1,611 @@
+{
+   "Date": "July 16, 2020",
+   "Presentation": {
+      "Sigve Brekke": [
+         "A very good morning to all of you. Unfortunately, once again there is an empty room here. But I really hope that in the next quarter that I can see some of you back in the audience.",
+         "The second quarter has brought unprecedented challenges to the group. Our focus has been on health and safety for our employees and our customers, but also our contribution to the societies where we work. And never has our purpose, empowering societies, been more relevant.",
+         "But despite these challenges, we have shown a stable operation with robust networks. And very early in the quarter, we took our employees from offices to their homes, and about 90% of our employees, and many of them still are working remotely. And I\u2019m quite pleased to see how we were basically able to take the whole Telenor operation, 9 countries, 19,000 employees from the offices into the homes. Even call center and the network operating center, we are now operating remotely.",
+         "With that, we have taken a digital leap that I\u2019m going to talk more about. And we are now focusing on how can we further free up our operations and make sure that our digital \u2013 the customer digital journeys are happening, a new way of working.",
+         "As we said when the quarter started, we thought that we are going to be affected by 2 factors, and that\u2019s exactly what has happened: roaming effects, mainly in the Nordic operations; and lockdown in the Asian prepaid market. But we also said that we believe we have a flexibility in our operating model, a flexibility to adjust the challenging top-line with cost compensations. And this is exactly what we have done.",
+         "And I\u2019m satisfied to see that this flexibility actually has worked. So when we have a S&T decline of 4%, more or less in line with what we expected when the quarter started, that is more than offset by an OpEx reduction of 12%, giving us an EBITDA growth of 1% and a solid free cash flow of NOK 4 billion.",
+         "This financial result is positively impacted by strong performance in Norway and Finland, which I will come back to, while Pakistan and Bangladesh has been challenging and still are challenging markets.",
+         "Starting with Norway, the Norwegian performance in the quarter reflects a steady progress on our modernization agenda. And we are actually about to become a legacy-free incumbent. And what I mean by that, it\u2019s replacing a legacy infrastructure with future-proof new infrastructure.",
+         "I\u2019m very pleased with the Norwegian team and their ability to simultaneously handle revenue growth with not only getting growth from access, data access, but also putting new services on top of that. At the same time, they continue with the infrastructure modernization, and also continue to focus on the efficiency in the operations.",
+         "And to put more pressure on the team, and I see we have the CEO, Petter-B\u00f8rre in the audience here today, you are not done yet.",
+         "Starting on the mobile segment, S&T revenue decreased 1%, but that\u2019s including a 3 percent point negative impact from roaming. And most of the roaming effects come from our B2B customers. We have an ARPU increase of 2%. That\u2019s coming from growth in adjacent services, offsetting the lower roaming revenues.",
+         "And the adjacent services that we have talked about now in several quarters are coming from insurance, from safety product and also storage. And one very popular service is the safety product that we launched some quarters ago with now more than 180,000 customers.",
+         "On the fixed segment, we see a decline of 31,000 DSL customers. But those are replaced by 32,000 new fiber and fixed wireless access customers; 14,000 new fiber connections and 18,000 new fixed wireless access customers. And with this, for the first time, actually, we are now replacing the churning out of the copper network customers with new customers on future technology.",
+         "This gives a 3% increase in the fixed S&T revenues despite a decline then from the churning customers on the copper legacy. And as I said, we are continuing this structural efficiency program. And as you can see in the middle of this slide, that\u2019s coming from not one area, but several areas. That\u2019s a part of the modernization program that Norway is in the midst of, giving us then EBITDA margin improvements of 1 percent point, bringing it up to 48%.",
+         "On top of the modernization agenda that our Norwegian operations, it\u2019s in the midst of, we are also preparing ourselves for a 5G future. We have launched 5G now in 10 places in Norway. And we have also now introduced what we call a 5G-ready price plan. First time we have launched an unlimited price plan. And learning from the success in Finland, where they have had success on the revenue growth coming from speed-based pricing versus volume-based pricing.",
+         "I also said that the quarter is positively impacted by a continuous growth in Finland. And we are now able to monetize the 5G in Finland. DNA is showing a continuous solid performance. And we are continuing then to learn from DNA and integrating DNA into the rest of the Telenor Group.",
+         "As a result of that, we have also established a Nordic Hub and the Nordic product house, led by the CEO in DNA and the CEO in Denmark, Jesper. And the ambition with this Nordic product house and the Nordic Hub is to create a tighter Nordic cooperation in the B2B segment, but also in the consumer segment.",
+         "The financials from DNA shows a 4% S&T growth and it\u2019s continuing to be based on speed-based up-selling from 3G to 4G, 4G to 5G. We also see a solid EBITDA growth of 3% in DNA. And we are continuing to expanding the 5G network. We now have 5G coverage in 20 towns in Finland. And we see that 5G-enabled devices are growing in the market. And our customers are appreciating the 5G speed.",
+         "We also have good customer feedback now on the 5G fixed wireless access customers. And with this, I think we are demonstrating our ability to monetize the investments we are doing into 5G technology.",
+         "Then some comments on the COVID-19 impact. As I said, in the second quarter, we see the development we talked about when we had our Q1 presentation. And in the Nordic, we see that the Nordic business units are relatively robust. We see that the roaming revenues, they are gone. On the group level roaming in-and-outbound roaming account for around NOK 1.5 billion. And 30% of that, it\u2019s related to the Norwegian operation.",
+         "But in addition to the roaming, we also see that closed retail we have had in some of our Nordic market has reduced physical transactions. So, for example, the handset sales are down 7% in the quarter and also reduced gross sale for customers.",
+         "However, the biggest effect we have seen in the quarter related to COVID-19 is coming from Asia. Asia also had some roaming effects, especially inbound roaming in Thailand being the biggest one. But the biggest effect in Asia is when the markets, the prepaid markets are being closed.",
+         "And in April/May, we saw that some of the markets, 90% of the retail shops were closed, in other markets less. So on average, I think, April/May, we saw 50%, 50%, 60% of our retail shops being closed in Asia. As you see on this graph, in May, June, we saw a gradual reopening of the shops. And with this, we also saw and still see an improved S&T development.",
+         "However, there are still uncertainties in, especially Bangladesh and in Pakistan. The situation is better in what we call developed Asia, that\u2019s Malaysia and Thailand. And that\u2019s due to now 60% of the revenues in those 2 markets coming from postpaid.",
+         "But also on the postpaid side, we see that the gross sale is impacted. But remaining 40% in these 2 markets are prepaid. And we see that in that prepaid segment, we are being affected by tourists not coming to Thailand anymore and migrant workers also not coming to neither Thailand nor Malaysia.",
+         "And on top of that, of course, we also have some negative effects from government-initiated free voice and free data packages. Overall, we estimate that the EBITDA effect of COVID-19 in the quarter is around NOK 1 billion. Again, this is in line with what we said that we expected when we had our Q1 presentation. And out of that NOK 1 billion, approximately 80% of it comes from Asia.",
+         "As I said, I\u2019m pleased to see that we have an operating model, where we have the flexibility to adjust cost in relation to top-line development. And this is a result of the transformation agenda, the modernization agenda we have been on the last 3 years, where we have focused the whole organization on value creation. And we have developed that operating model that gives us the ability and the flexibility to adjust cost in accordance with market and revenue development.",
+         "And that\u2019s why, as you see on this slide, a minus 4% S&T development is more than compensated by a minus 12% OpEx reduction. The way we do this and what we have been focusing on the last 2, 3 years if we have changed the way we worked \u2013 we work, and we have changed our governance and leadership. We have centralized our procurement and centralized spectrum and CapEx prioritization. It is the group CFO and the group CTO that is sitting on top of this, together with the business units.",
+         "We have also implemented a global way of working in the network and IT sector. And again, it\u2019s driven by the group CTO. And we have implemented a systematic OpEx benchmarking and focused structural programs. Again, this is driven by the group CFO, together with the cluster heads that I have in my management team. And we have focused on organizational redesign, both on the group level and in the business units.",
+         "Bringing you back to the slide we showed you when we had our Capital Markets Day in early March. The COVID situation is not changing its direction. Actually, COVID has given us learning and motivation to actually accelerate the plans that we presented in our Capital Markets Day. And I will give you some examples of that, starting with the first element here on growth.",
+         "What we said in the Capital Markets Day is that we think growth for us will come from 3 areas. It\u2019s from putting new services on top of data access in the Nordics, and that\u2019s exactly what we do in Norway. And two-third of the ARPU growth in Norway is coming from those new digital services; the second area was 5G; and the third area was data growth in Asia.",
+         "And what this slide shows is that we see this data growth accelerating now, especially in our Asian business units. And for example, as you see on this slide, usage increase of 46% in our emerging part of Asia, Bangladesh, Pakistan and Myanmar, and 59% in the more developed markets, Thailand and Malaysia. And we also see a tremendous increase then in data on the group level, 20% increase, as you also see on this slide. Despite this, we are able to improve the customer experience measured by NPS.",
+         "The way we are able to do this, handling this tremendous data growth, and at the same time, improve the customer experience is also a result of the investments we have done over the last few years. We have talked to you about the CDC model, the common delivery centers that we are doing, both on IT and network together with partners. We have invested in automation, robotics, AI and machine learning. It has given us then the ability to do remote optimization and fine-tuning of our networks to do remotely capacity shifts to sites that have increased loading or to move traffic from peak hours to off-peak hours. All this as a result of the journey we have been on.",
+         "The question then is, is this data growth we see in Asia? Is it sustainable? And is it \u2013 can it be monetized? In \u2013 giving you some numbers, in Telenor Myanmar, we saw in the second quarter year-on-year that we grew our data revenues with 30%, more than compensating for the reduction in voice. Or in Grameenphone and Pakistan, where data revenues in the quarter, also year-on-year, grew by around \u2013 a little bit less than 20%. So we are able to monetize this growth.",
+         "And we also see that this is sustainable. The demand is there and the willingness to pay and affordability to pay is there. The challenge is still the penetration of smartphones. That is gradually going up when the smartphone device prices are coming down.",
+         "Another example of how we see now that digitalization is accelerating is on the distribution side. The prepaid business in Asia is all about distribution. We have more than 1 million point-of-sale across our 5 business units in Asia. And the digitalization is an opportunity for us now to change the distribution model.",
+         "The typical model is to go from company to a distributor, and distributor to retailer, and retailer to customers. Now we can shortcut, go directly to retailer, and in some cases, directly to the customers. And we do that through smartphone apps. That gives us an opportunity to both save costs and not least the commission cost, but again, also improve the customer journeys.",
+         "An example of this, it\u2019s what you also see on this slide, it\u2019s how the digital top-up, the recharge in the prepaid market, it\u2019s going up during the COVID situation. We see a 46% increase in Grameenphone, Bangladesh, and that 36% increase in Pakistan. And this is then introducing recharge based on mobile wallets and also based on bulk recharge to corporate customers. So \u2013 and overall, now in this market, 25% of the total recharge is now happening digital.",
+         "During \u2013 then moving to the second element in our strategy, responsible business. During the crisis this has been very important for us. And I think the COVID crisis has showed everyone the role and the responsibility we have as in our societies. I would even say that it\u2019s our license to operate, the way we are handling such crisis that goes way beyond our company.",
+         "Starting with the customers. The tremendous data increase we have seen has put our networks to a test. But as this slide also to see, fortunately, we have invested in those new tools that gives us the opportunity actually to improve the customer experience, a quite sizable 13% increase in NPS \u2013 network NPS during this crisis. And we have also been challenged then to implement new alternative distribution channels to make sure that we, despite the lockdown in the market, are staying close to the customers.",
+         "Then to our employees. As I said, we took \u2013 we were very early on to take the whole Telenor operation to home offices. That was to ensure the safety of our employees, including also the difficult operations in the network operating centers and the customer centers. And most employees are still working from home. That\u2019s why this experience, that\u2019s why we announced a new policy that will give our employees flexibility to choose, going forward, where to work.",
+         "And last but not least, the societies. We were well prepared to offer mobility data to health authorities, because we have done this now for several years in the Asian markets fighting dengue fever and also fighting malaria. So we were prepared to do that. We have also continued our program providing children with remote education, and we have opened up digital training for unemployed in Norway, and also then offered free data and voice in many of our markets.",
+         "Then to the modernization, which is the third element in our strategy. Early on in the COVID crisis, we saw that this could also give us some opportunities. So we established a project to look at what will be the new normal. What should we be prepared for coming out of this? And these are the 3 areas we have learned from and that are preparing to take a more accelerated implementation of because COVID have given us that necessary knowledge to speed up this implementation.",
+         "Starting with the organizational modernization. As I said, we have announced a policy where all our 19,000 employees can choose a more flexible working model. We have learned from DNA that have had this for many years, way before the COVID situation came. And our experience is that this flexibility to choose gives both increased efficiency and increased engagement. And we will now use this as changing the way we work, more cross-functional, less silos, flatter organization, more project-based way of working, and with this increased efficiency.",
+         "Digitalization of customer interactions, I already talked on that. And we are continuing now to implement platforms, both on the customer care side, but also on sales and distribution. And we see this shift now happen very, very fast, especially in Asia. And again, we see positive effects coming out of that, both on the cost side, but also on the customer experience.",
+         "And then the third element, touch free operations. And this is something we have been on \u2013 the journey we have been on for some time now on robotics automation and AI. And it involves both network and IT. And we believe that we will do this together with partners to make sure that we get scale enough to implement those new way of working.",
+         "For example, in Denmark, in the customer service in Denmark now, 74% of all tickets are loaded automatically, 74%. Or in Myanmar, 45% now of all tickets are resolved automatically in \u2013 again, in the customer service. That gives some indication on what this means in practice. And the acceleration of our touch free operation strategy will be based on automation first and leveraged in the partnership.",
+         "So with those few remarks on how we see the quarter and how we see going forward, I will leave it to Tone to take it from here."
+      ],
+      "Tone Hegland Bachke": [
+         "Thank you, Sigve, and good morning, everyone. Going back to the first quarter presentation in April, we then communicated that we expected the pandemic to mainly impact our roaming revenues and prepaid markets in Asia, as Sigve has talked about. To mitigate these effects, management would focus to secure resilience in cash flow through CapEx and cost management. We saw these effects on top-line materializing this quarter with S&T revenues declining by 4%.",
+         "Our operating model has, as we\u2019ve seen, given us flexibility to manage operations, cost and investments. This has contributed to the OpEx decline of 12%, the EBITDA growth of 1% and the free cash flow generation of NOK 4 billion in the quarter. To mitigate the expected impact on the Asian prepaid markets, we have focused on establishing alternative distribution channels. Beyond the roaming effect, our Nordic operations seems robust towards the COVID-19 situation.",
+         "We have taken substantial measures through OpEx reductions, both within sales and marketing, personnel and other OpEx. We are also delivering a lower CapEx to sales level in the quarter through granular prioritization and project planning. But in the end, our key priority remains to deliver critical services to our customers and safeguard our employees by strictly limiting physical presence.",
+         "If we then have a look at the group figures for the quarter. Total revenues increased by NOK 4 billion or 15% compared to last year as a result of the inclusion of D&A of NOK 2.5 billion and currency effects of around NOK 2.8 billion. As expected, the lockdowns have affected the prepaid markets in Asia and global roaming negatively. Combined with a reduction in new sales, this led to a decline in organic subs and traffic revenues of 3.6%.",
+         "We now see, as Sigve talked about, a gradual reopening of our Asian markets, and physical distribution are running more or less as normal. We also see the Nordic markets coming back to normal, except for the roaming impact from reduced traveling.",
+         "Looking more into the details. Out of the decrease of 3.6%, approximately one-third of this comes from roaming and then mainly in the Nordics. In Myanmar, despite COVID and the removal of the price floor, we continue to see growth this quarter of 8%. Going forward, we will see a reduction in the subscriber base due to the ongoing SIM re-registration process.",
+         "We also see, as Sigve talked about more in details, a solid performance from Norway, where the mobile ARPU increase of 1% is particularly strong, given the negative roaming impact of 3 percentage points. In fixed, an ARPU increase of 11%, combined with fiber and fixed wireless access uptake continued to offset the copper decline. It\u2019s also worth mentioning that DNA, not shown on this graph, as Sigve also said, delivers a solid growth in the area of 4% in the quarter.",
+         "Bangladesh saw revenues decline with 8% based on the lower customer intake seen in the first quarter and the strongly limited sales activities during the lockdown. In Thailand, subs and traffic revenues fell by 4%, driven by prepaid subscriber losses, lower prepaid ARPU and tourist SIMs revenues being reduced by almost 80%. In Pakistan, subscription and traffic revenues fell 11%. Going forward, we will see easier comparables as the suspension of telco service fee was lifted from Q2 last year.",
+         "In Sweden, we continue to see pressure on S&T revenues with a decrease of 7% in the quarter. Roaming impact and tough price competition in the business segment continues to weigh heavily on the revenue development. In the customer segment, the revenue development is still negative. However, we now see early signs of recovery with lower churn and stabilization of the mobile subscriber base in the quarter.",
+         "Sigve talked about the flexibility in our operating model and the proactive way we manage our operations. And these are the key elements to contributing the OpEx reduction of 12% on a currency-adjusted basis. When we take out the onetime effect in Bangladesh last year, the reduction is still 8%.",
+         "Sales and marketing costs decreased in all Asian operations, given the general lower activity during the lockdown. Structural modernization initiatives across the group, both this year and also what we\u2019ve done in previous years, result in lower personnel costs, particularly in Norway, dtac, Digi and Pakistan. I\u2019m also pleased to see an OpEx reduction across all business units, including D&A.",
+         "If we look at the development per business unit, we see solid cost reductions in Norway, Sweden and Digi, all with 7% reduction; Thailand, which has a 13% reduction; and Pakistan, 15% cost reduction. Corporate units have over the last 5 years reduced the number of FTEs with more than 40%. And this explains the significant development in the other category.",
+         "The strong development on OpEx this quarter is mitigating the top-line decline. And we delivered an EBITDA increase of 1%. As Sigve said, we estimate an EBITDA effect of NOK 1 billion in the first half of the year, as a result of the decline in roaming and prepaid markets in Asia. And this is also in line with the estimates that we gave when we presented the first quarter.",
+         "The improvements in EBITDA were, to a large extent, driven by OpEx development in Thailand, revenue growth in Myanmar and the overall strong performance in Norway. In Sweden, although significant cost reductions, they are not able to compensate the top-line decline.",
+         "In Malaysia, we see reduced gross profit coming from a shift in product mix towards lower-margin project revenues and Digi\u2019s performance was also impacted by lower traditional voice and roaming revenues from closed borders. Growth in the other category is coming mainly from the passive infrastructure operations in Norway, through Telenor Infra, better performance in Tapad, and as I said, lower cost in corporate functions.",
+         "Reported net income to equity holders of Telenor ASA in the second quarter was NOK 4.4 billion, an increase of NOK 1.6 billion compared to last year. The increase in depreciation is driven by the same factor, as we talked about in the first quarter, namely the inclusion of DNA and higher investments in Norway related to copper and high fiber investments, and there are also significant currency effects.",
+         "The net financial items were positively impacted by net currency gains of NOK 1.5 billion in the quarter due to the strengthening of the NOK. And there was increased profit from discontinued operations from the gain on the disposal of Canal Digital of NOK 1.7 billion. We have in this quarter provisioned for the appealed ESA fine of NOK 1.2 billion.",
+         "CapEx this quarter shows a reduction compared to last year. We see, however, continued high CapEx in Norway due to fiber investments and 5G preparations. This is countered by lower CapEx in our Asian operations. Free cash flow in the second quarter was NOK 3.6 billion, including net negative deconsolidation effects of NOK 0.5 billion from the recognition of Canal Digital as a joint venture.",
+         "Combined with higher EBITDA, improved working capital and lower corporate taxes of NOK 0.8 billion, free cash flow before M&A was NOK 4 billion. Despite the negative impact of the deposit to BTRC of NOK 1.1 billion, this was an improvement of NOK 5.1 billion compared to last year.",
+         "Looking then at leverage, as you remember, the NOK was particularly weak at the end of the first quarter. And over the second quarter, we have seen a strengthening of the NOK. However, we still experienced significant volatility in the currency market and towards the Norwegian kroner. The strengthening of the NOK has a direct impact on our net debt. And the currency development had a positive impact of NOK 6 billion in addition to the positive cash flow of NOK 4 billion delivered in the quarter.",
+         "This was offset by the dividend payment of NOK 6 billion in May and the completion of last year\u2019s share buyback program, where we \u2013 towards the Norwegian state \u2013 the Norwegian state share of NOK 4 billion. Based on this, net debt remains relatively stable over the quarter. The improved EBITDA then leads to a leverage ratio at the end of the quarter of 2.2.",
+         "I\u2019m also pleased, and particularly coming from the Treasury Department, that under the midst of the COVID turbulence, we were able to refinance our revolving credit facility of \u20ac2 billion with 12 banks. We have chosen this time to link the pricing of the facility to the performance of our ESG-targets as announced on the Capital Markets Day.",
+         "By this, we have established the first sustainability-linked financing in Telenor.",
+         "Then let\u2019s talk about the outlook. When presenting the first quarter results, Sigve and J\u00f8rgen stated that main uncertainty we saw was related to the duration of the lockdowns and authorities\u2019 decisions going forward, particularly related to the prepaid markets in Asia. We also expected roaming revenues to come down significantly.",
+         "Today, we deliver second quarter results, which includes the full effect of these top-line elements, but we have been able to keep the cost and CapEx focus necessary to create resilience in the EBITDA and cash flow.",
+         "For the full year 2020, we now see a low-single-digit percentage decline in the organic subs and traffic revenue and continued focus on cost management leads to an expected stable organic EBITDA compared to 2019. CapEx to sales outlook for the year, full year 2020 remains at 13%.",
+         "However, the COVID situation continues to be volatile, particularly in Bangladesh and Pakistan. We also see follow-on effects as countries are gradually opening up after the shutdowns and markets will take time to recover. In this situation, our financial focus remains to create resilience in cash flow by having strong cost focus and CapEx management.",
+         "Our midterm guiding remains unchanged.",
+         "Then, Sigve, I believe we\u2019re ready for the Q&A. We kindly ask everyone to state your name and the company you\u2019re representing. We also kindly ask you to limit yourself to one question and one follow-up. Then, moderator, may we have the first question, please."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Thank you. We will take our first question from Peter Nielsen from ABG. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Thank you. Peter Kurt Nielsen from ABG. Good morning. Just a question on the outlook, please, if I can follow-up on that one. You are expecting, as you say, stable EBITDA despite we are in positive territory in Q2 and after the first half of the year. And seemingly, you are anticipating a slight improvement in revenue trends in the second half.",
+            "So why do you not expect a negative EBITDA? And are you not expecting you can be able to maintain the strong OpEx reduction rate at the moment? I\u2019m thinking, as you highlighted, there will be easier comps in arguably in Pakistan and Bangladesh. If you could just elaborate on that, please, and how you see the OpEx developments you can maintain in the second half? Thank you very much."
+         ],
+         "Speaker": "Peter Kurt Nielsen"
+      },
+      "3": {
+         "Remarks": [
+            "You want to comment on that, Tone?"
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "4": {
+         "Remarks": [
+            "No. I\u2019ll leave it you, Sigve."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "5": {
+         "Remarks": [
+            "No, I don\u2019t think we do any kind of guiding within the guiding. So what Tone also said, there are still uncertainties in 2 big markets in Asia, Pakistan and Bangladesh, on the revenue development due to COVID. And that uncertainty, we don\u2019t really have any \u2013 where we exactly will land on that. So however, we think we will continue with our OpEx focus.",
+            "And out of the NOK 1.1 billion OpEx reduction we saw in the second quarter, around SEK 300 million came from a one-off in Bangladesh a year ago. And then, we estimate probably NOK 300 million, NOK 400 million coming from COVID and the rest are real OpEx savings. And those are the savings that we are going to continue also looking at in the months to come.",
+            "So that\u2019s the background for the guiding. Of course, roaming effects will still be there also in the second half of the year. We don\u2019t expect neither everyone to start traveling again nor tourists to come into several of our markets. So that\u2019s the background for the guiding."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "6": {
+         "Remarks": [
+            "Thank you. That\u2019s helpful. Thank you."
+         ],
+         "Speaker": "Peter Kurt Nielsen"
+      },
+      "7": {
+         "Remarks": [
+            "Okay."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "8": {
+         "Remarks": [
+            "And we will go to our next question from Henriette Trondsen from Arctic Securities."
+         ],
+         "Speaker": "Operator"
+      },
+      "9": {
+         "Remarks": [
+            "Hi. Henriette Trondsen in Arctic. The margin in Thailand was strong in Q2 due to solid OpEx control. Can you comment further on this? And if there are any temporary effects behind the 13% OpEx decrease this quarter?"
+         ],
+         "Speaker": "Henriette Trondsen"
+      },
+      "10": {
+         "Remarks": [
+            "Yeah. Thanks, Henriette. There are some one-time effects in Thailand in the quarter. However, the efficiency focus is going to continue in Thailand as well. And we have embarked on a big modernization journey in Thailand, that being on the organization, but also being on some of the cost elements.",
+            "So I don\u2019t want to give you an exact number on what you can expect in the second half of this year. But we will further make sure that our Thai operation is not only coming back on revenue growth, but also continuing the margin improvements. And I\u2019m actually quite pleased with the result we see in the second quarter from Thailand. The revenue decline we see in Thailand is I think is around 4%, Tone, isn\u2019t it, in the quarter?"
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "11": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "12": {
+         "Remarks": [
+            "And that\u2019s mainly coming from the effect of tourists, because we are quite \u2013 our market share in the tourist segment is quite high, but also the migrant workers from Myanmar, Bangladesh and some other neighboring countries. But if we look at it from the postpaid side, which comes around 6% of the revenues, we are actually doing quite well in Thailand.",
+            "And as we have talked about in several quarters now, we are changing the model from a kind of price-sensitive prepaid model into a more data-subscription-based postpaid model. And that is what happened in the second quarter and also going to happen in the quarters to come."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "13": {
+         "Remarks": [
+            "Thanks."
+         ],
+         "Speaker": "Henriette Trondsen"
+      },
+      "14": {
+         "Remarks": [
+            "Thank you. We now have a question from Maurice Patrick from Barclays."
+         ],
+         "Speaker": "Operator"
+      },
+      "15": {
+         "Remarks": [
+            "Yeah, morning, guys. It\u2019s Maurice here from Barclays. Just a question on the comments you made about the new operating model. So you made the point on the call around having a centralized function and changing governance, leadership, allows for a greater ability to drive the cost base too in line with revenues.",
+            "I mean is there a risk that you\u2019ve possibly sort of sacrificed some future revenue growth opportunities, given the significant OpEx reduction that you saw in the second quarter? I know that a reasonable portion of that was sales and marketing being reduced. I\u2019m wondering whether you sacrificed any potential growth. And implications of that cost function during the rest of the year would be helpful, if you do see that V-shaped recovery continue."
+         ],
+         "Speaker": "Maurice Patrick"
+      },
+      "16": {
+         "Remarks": [
+            "Yes. It\u2019s a good question. The short answer to that question is no. We are not sacrificing growth opportunities, because of our efficiency program, no. And that\u2019s why I think if you look at our market share development in most of these markets, we are not losing out compared with our competitors. So the cost focus that you are seeing now, of course, some of it is related, short-term related to COVID, because when the shops are closed, the retail shops are closed, we can save some marketing expenses.",
+            "But most of it actually comes from the structural programs. It is on IT. It is on network. It is on fewer employees. It is on digitalizing customer journeys to save commissions and so on. So that is what we see now that the cost focus or the structural cost program is yielding a result. And that\u2019s also going to be going forward.",
+            "And we are in this new operating model sitting quite close, I will say, to what\u2019s happening in the various business units, both when it comes to CapEx allocation, but also when it comes to the way we use OpEx not to jeopardize then the growth opportunities.",
+            "And going forward, it is basically cost savings from all the different areas. And I think, Tone, you had the slide on showing where is the OpEx reduction coming from. And it is from almost all the different elements you have in our OpEx base. And that\u2019s what we are going to continue. And we think that there is more to be done here.",
+            "And as you remember from our Capital Markets Day, again, we said that even though we \u2013 in the last 3 years from 2017 [Technical Difficulty] than what we believed, we can also use it as an opportunity to further it on costs.",
+            "So the operating model I will say now really helps us to not only handle the crisis situation, but also helps us to then take the opportunity of accelerating some of these programs."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "17": {
+         "Remarks": [
+            "It\u2019s very clear. Thank you."
+         ],
+         "Speaker": "Maurice Patrick"
+      },
+      "18": {
+         "Remarks": [
+            "Thank you. Our next question comes from Usman Ghazi from Berenberg Bank."
+         ],
+         "Speaker": "Operator"
+      },
+      "19": {
+         "Remarks": [
+            "I just had a question on the service revenue development, which is shown in one of the slides, where you show the difference between the developed Asia trend through January to June and the emerging Asia trend. I think it\u2019s on Slide 6."
+         ],
+         "Speaker": "Usman Ghazi"
+      },
+      "20": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "21": {
+         "Remarks": [
+            "In that, I mean, the emerging Asia trend obviously seems has recovered, which is encouraging. But the trend in developed Asia, it saw a leg down in March. So I can see from growth of 3% to now minus 3%. And it seems to have settled in that minus 3% with no improvement since lockdowns were lifted.",
+            "I was just wondering if you could talk to that and just indicate perhaps why we\u2019re not seeing an improvement in the trend in June as a result of easing lockdowns in that part of the segment. Thank you."
+         ],
+         "Speaker": "Usman Ghazi"
+      },
+      "22": {
+         "Remarks": [
+            "Yeah. That\u2019s a little bit back to what I said. In the emerging Asia, most of our customers are on prepaid. In the, what we call, the developed Asia, Thailand and Malaysia, it\u2019s 60% of their revenues coming from postpaid. So it\u2019s a different customer mix. That\u2019s the reason why you see that in the emerging Asia, when the markets are closed, that directly hit the prepaid business.",
+            "But when the markets open up again, then you see that customers go back to their behavior they had going to their shops and then top-up their accounts. That\u2019s why you see this immediate effect.",
+            "Why you do not see that immediate effect then in Thailand and Malaysia is basically that due to the tourist and the migrant segment. Because in the 40% of our revenues coming from prepaid, in those 2 countries, a big proportion of that is migrant workers and tourist related revenues. And we think that it will take some time before all the tourists are back in Thailand or all the migrant workers are back in these 2 markets. So that\u2019s the main reason for it. However, in Thailand and Malaysia, you see that the postpaid business never went down the same way as the prepaid business did in emerging part of our portfolio."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "23": {
+         "Remarks": [
+            "Thank you very much."
+         ],
+         "Speaker": "Usman Ghazi"
+      },
+      "24": {
+         "Remarks": [
+            "Thank you. Our next question now comes from Siyi He from Citigroup."
+         ],
+         "Speaker": "Operator"
+      },
+      "25": {
+         "Remarks": [
+            "Hello. Hi, good morning. It\u2019s Siyi He from Citigroup. I just have 1 question and 1 follow-up. I just want to ask about the cost and actually more about the CapEx side. And you have decided to lower the CapEx to sales ratio. And I think in Thailand, we see a further downgrade on the CapEx guidance. And my question is whether you see that the lower CapEx spending this year could potentially having some risk that the network might not be sufficient to cope with the rising network demand post-COVID.",
+            "And your clarification is that \u2013 I think, you mentioned that the total EBITDA effect in first half is NOK 1 billion. And I was wondering whether you take into account of the NOK 400 million cost savings, OpEx savings as it relates to a low commission in that number. Thank you very much."
+         ],
+         "Speaker": "Siyi He"
+      },
+      "26": {
+         "Remarks": [
+            "Now to your first question, no. We do \u2013 it\u2019s a little bit the same question as OpEx versus sacrificing revenue growth. We are not cutting CapEx either and then sacrificing network quality. And I think what we\u2019ve learned during the COVID situation is that the expectation to us from our customers on having those solid robust networks have actually increased. So it\u2019s even more important than it was before now to deliver that network capacity, I will say. And that goes both to speeding the network and it also goes to always being on. So \u2013 and that\u2019s why we are continuing our investment programs.",
+            "We are continuing our investment programs into 5G in Norway and 5G in Sweden. We are continuing to invest into fiber in Norway. We are continuing to invest into data position in Bangladesh, because it\u2019s important to secure our number-one position there. So I wouldn\u2019t say that any of that is related to this. Actually, it is a little bit, as I talked about, that the new tools that we have developed together with partners enabled us actually to balance that \u2013 to handle that capacity, the volume increase without having to invest a lot in capacity, increase our network. So I wouldn\u2019t say that we are holding back on CapEx here, that could mean that we are losing out on the top positions going forward.",
+            "The second question we had was on what? You had another question."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "27": {
+         "Remarks": [
+            "I understood your second question to be whether the NOK 300 million in Bangladesh from last year is included in the NOK 1 billion COVID effect. And if that was the question, this is \u2013 no."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "28": {
+         "Remarks": [
+            "No, no, no. The question is, you mentioned that the total COVID impact is NOK 1 billion on EBITDA. I\u2019m just wondering whether that take into account the related lower commissions that you would save, because of the shops closed?"
+         ],
+         "Speaker": "Siyi He"
+      },
+      "29": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "30": {
+         "Remarks": [
+            "Yeah. That includes, yes."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "31": {
+         "Remarks": [
+            "So I think it includes both the revenue effects and the OpEx effect."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "32": {
+         "Remarks": [
+            "Yeah, it\u2019s the EBITDA effect. Yes."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "33": {
+         "Remarks": [
+            "Thank you. Our next question now comes from Paul Sidney from Credit Suisse. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "34": {
+         "Remarks": [
+            "Yeah. Thank you very much. Good morning. Just 1 question for me, please. You flagged the strong performance of your Norwegian and Finnish businesses within the Nordic footprint. But we saw deterioration in the organic revenue and EBITDA trends for Sweden and Denmark. I just wondered, what are your plans to address the struggling performance of your Swedish and Danish businesses? Thank you."
+         ],
+         "Speaker": "Paul Sidney"
+      },
+      "35": {
+         "Remarks": [
+            "Yeah. Let me take Denmark first. I think we are quite pleased actually with the performance in Denmark. We \u2013 as you know, we brought the profitability of that business up to now having an EBITDA margin of mid-20s, I think, 25%, 26% EBITDA margin and it was very, very low if we go back some years. So what we have been doing in the Danish business is rather than waiting for consolidation in the market, which we think has to happen to make the whole market more profitable, but rather than wait for that, we have implementing a turnaround business case, where we are really focusing now on the efficiency, but also focusing on delivering good service to the customers.",
+            "So we added, I think, if I\u2019m right, 10,000 or 11,000 new customers in Denmark during the quarter. And that\u2019s where we want to be and, in the midst, then of also cost measures. So we are quite okay with the Danish business. But however, the market is very, very competitive still with too many players.",
+            "In Sweden, it\u2019s a different picture. I think the Swedish market is not very competitive, especially in the B2B segment, but also on the consumer segment. And we are in the midst of having, I will say, 2, 3 challenges. The first challenge is that we need to modernize our network, modernize the 4G network, and we are sharing that with Tele2. We are in the midst of then preparing for that. The second part is that our Swedish operation is a result of several mergers over many, many years. So we are left with a quite challenging IT legacy. So we are now replacing that also with a new BSS platform. And hopefully, we will see some results of that in the end of this year or early part of next year.",
+            "And the third area we are challenged \u2013 we are working with is to reposition the company, because we are now a clear attacker in the Swedish market. So I think over the quarter now, we see that we are \u2013 the plans start to have some effects. We start to get back on positive subscriber additions, and we are also now flattening out the revenue development week by week. So I hope that we will be able to demonstrate that the efforts that we have been working on in the last 2 to 3 quarters will return Sweden back to growth in not that long in the future."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "36": {
+         "Remarks": [
+            "That\u2019s great. Thank you very much."
+         ],
+         "Speaker": "Paul Sidney"
+      },
+      "37": {
+         "Remarks": [
+            "Thank you. Our next question now comes from Roman Arbuzov from JPMorgan."
+         ],
+         "Speaker": "Operator"
+      },
+      "38": {
+         "Remarks": [
+            "Thank you very much for taking my questions. I\u2019ll start with 1 on Bangladesh and Pakistan. Can you please comment on the regulatory developments in Bangladesh, in particular, the new initiatives that were launched in the context of the significant market power framework in July? And what effect do you expect to have that on your business? And also in the context of this, you\u2019ve mentioned some uncertainties that have \u2013 that Bangladesh and Pakistan have. So is there anything in particular that\u2019s concerning? For example, is there any signs of the lockdowns coming back? Now if you can just give us additional color? That would be helpful. Thank you."
+         ],
+         "Speaker": "Roman Arbuzov"
+      },
+      "39": {
+         "Remarks": [
+            "Now, the uncertainties we mentioned in these 2 markets are related to how the COVID situation will affect those markets further. I think in both the 2 markets, the spread of the virus is a little bit out of control, the way we see it. So we don\u2019t really know when these markets will be totally open up again or what \u2013 in which \u2013 to which extent our customers or the population in general will be affected. So that is the uncertainty that we are talking about.",
+            "On the regulatory side in Bangladesh, we are into a much better situation now than we were half a year ago. And that is the reason why we decided to pay a deposit to the BTRC as the regulator\u2019s claim. That was an order that we got from the Supreme Court. So we have done that. And as Supreme Court order said, was that they will then give us \u2013 grant us a stay order, meaning that we will go back to normal. So we are now able to function normally. We get new number series, which we had struggled with, we get approvals on import \u2013 to import new equipments. We get approvals of also changing price plans and new products. So we are back to normal, and that was important for us.",
+            "And I would also say that the COVID situation has helped us to \u2013 in the dialogue with the government, because it has showed the government how critical our infrastructure and business is. The significant market power regulations, they are not new. This is something that the regulator has been talking about actually for a long time, is it a year or 2? And we have been challenging that over the last 1 or 2 years. It\u2019s nothing wrong with the SMP regulation as such. We are used to that in many markets, not at least in Norway, but also in several other markets.",
+            "So we understand that the regulator want to introduce that with the position we have in Bangladesh. But it\u2019s in the detail, what does it really mean? That is what we have been arguing over the last year or 2. And now they have taken some of our feedbacks, and then they have come forward again with some proposals. And now we are into a discussion with them on what we hope that will come out as a final result of this. But it\u2019s too early to say where they will land or what they will decide and what the potential effect on us will be."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "40": {
+         "Remarks": [
+            "Okay. Can I just ask a follow-up to Tone, perhaps building on the question that was asked earlier as well? In terms of the NOK 1 billion impact from COVID, once we come to the second quarter of 2021, so same time next year, how much of that NOK 1 billion do you think we\u2019re going to see in your EBITDA potentially come back into the numbers? And how much of that is going to be eaten up presumably by some short-term mitigation measures that you have implemented such as that you said the marketing expenditure and costs that are naturally correlated to the revenues. So how much of that NOK 1 billion do you think we\u2019re going to see back?"
+         ],
+         "Speaker": "Roman Arbuzov"
+      },
+      "41": {
+         "Remarks": [
+            "I think that\u2019s a question that is impossible to answer where we stand today. We are obviously constantly working on the cost base, as Sigve also talked a lot about. And where we are on this next year, we will see them."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "42": {
+         "Remarks": [
+            "But I totally agree to what Tone said. But as we mentioned, if you take the cost saving we had in the second quarter, NOK 1.1 billion, then you take out the NOK 300 million for the one-off in Bangladesh. Then you are down to NOK 800 million, and then you probably can take out another NOK 300 million, NOK 400 million, which is directly COVID-related savings. And then you are still left with the NOK 400 million, NOK 500 million real OpEx savings. And this is \u2013 as I said, this is a result of the ongoing structural efficiency program that we are continuing with also in the next quarter to come."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "43": {
+         "Remarks": [
+            "Thank you very much."
+         ],
+         "Speaker": "Roman Arbuzov"
+      },
+      "44": {
+         "Remarks": [
+            "Thank you. We\u2019ll go to our next question now from Frank Maa\u00f8 from DNB."
+         ],
+         "Speaker": "Operator"
+      },
+      "45": {
+         "Remarks": [
+            "Yes. Hello. Thank you very much. Good morning. Just a brief follow-up on some of the same topics around cost structure over the structural part of the cost reduction. So if you look at specifically the sales and marketing costs, there has been certain movement towards digital channels during the quarter. And how much of that has basically \u2013 is likely to be more permanent, a lot more permanent switch in your view? So that perhaps, especially in emerging markets, we \u2013 do you expect to see some of that kind of savings effect from not paying physical retail commissions and so on being sticky as these countries come out of pandemic? Thank you."
+         ],
+         "Speaker": "Frank Maa\u00f8"
+      },
+      "46": {
+         "Remarks": [
+            "Yeah, I cannot give you an exact answer to that, Frank. But just giving some hints. I think what we talked about or I talked about in my presentation on the way we now are using digital channels for top-up is one example of that. And I said that 25% of our customers now are topping up digitally, which means that we don\u2019t have to pay commission for those 25% to the retailer. But there\u2019s still 75% that we pay commission on. But in the quarter, we saw then this actually increasing by what was the number, 40%, 50%. So if we are able now to continue with that, there\u2019s a significant saving on all the top-ups. That\u2019s one example of that.",
+            "Another example of that is if we are able now to use digital-based apps to kind of surpass the \u2013 or pass the distributor level and go directly to the retail, there\u2019s other savings from that. And this is what we now are trying to implement in several of the Asian markets.",
+            "And then the third example of that is call centers. If you are able now to, as I also demonstrated or talked about to actually use more automatic based solutions to handle tickets, not people taking all the calls and then bringing those calls into the operation. And we do that in Denmark, to a large extent. So it\u2019s a combination of all this, but how much that is in money, I \u2013 we don\u2019t have that numbers. But there is a \u2013 and what \u2013 and this is nothing new to this either. We have talked about this for several quarters. What is new is hopefully that it will be accelerated, and that it could happen faster, both in the care \u2013 customer care side, on the distributor side, but also on the direct relation with the customers."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "47": {
+         "Remarks": [
+            "Great. Thank you."
+         ],
+         "Speaker": "Frank Maa\u00f8"
+      },
+      "48": {
+         "Remarks": [
+            "Thank you. We\u2019ll go to our next question now from Andrew Lee from Goldman Sachs. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "49": {
+         "Remarks": [
+            "Yeah. Good morning, everyone. I had 1 question and a quick follow-up. The question was, just your thoughts on the EU General Court ruling on the [Digicom] [ph] block of the UK mobile deal. I just wondered if you think there is now a greater potential for consolidation in your European markets. You mentioned that Denmark needs to consolidate, and I\u2019m sure a couple of others could too. Would you now hypothetically have the confidence to pursue a consolidating deal based on what we\u2019ve heard? And then just a quick follow-up just on the cost control questions you\u2019ve had through this call. Is there any way you can give us a kind of split on how much of the cost control has been temporary direct-cost related? And how much of it is structural? Thank you."
+         ],
+         "Speaker": "Andrew Lee"
+      },
+      "50": {
+         "Remarks": [
+            "Now the last question, I think the best estimate there is what I already said, NOK 1.1 billion, minus NOK 300 million, minus probably NOK 400 million, then it\u2019s NOK 400 million, NOK 500 million, which is structural and not related to COVID, and how much of that is kind of very structural and how much of it is still kind of some lowering fruits, I don\u2019t \u2013 that I don\u2019t have a number. But it just shows you that in the first quarter, I think we took out NOK 200 million on cost that was not COVID-related. And then we did NOK 400 million, NOK 500 million in this quarter, which is not COVID-related. So this is the effects of the program that we have that we will also continue with.",
+            "On your first question, well, we don\u2019t know what the ruling really means. But of course, we \u2013 if the competition authorities in EU will be a little bit more relaxed when it comes to lowering consolidation, of course, we will be interested in looking at Denmark again. And probably the only way to get an answer to your question is that someone tries and bring forward some cases to the EU system. So Denmark is obviously a market that need to be consolidated. We have not changed our mind on that or our views on that. So let\u2019s wait and see. And I think what we have said all along, and it\u2019s even clear for us now is that to make sustainable business in the telecom sector, I think it\u2019s very hard to do that with more than 3 or 4 players in a market. That\u2019s what we have said all long. And, of course \u2013 but we are value driven, so we will look at opportunities, but only if it makes sense for us."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "51": {
+         "Remarks": [
+            "Okay. Thank you."
+         ],
+         "Speaker": "Andrew Lee"
+      },
+      "52": {
+         "Remarks": [
+            "Thank you. Our next question is from Adam Fox-Rumley from HSBC."
+         ],
+         "Speaker": "Operator"
+      },
+      "53": {
+         "Remarks": [
+            "Thank you very much. In your release, you mentioned a step-up in taxes as a COVID-related risk. And I think you cite Bangladesh particularly as seeing something in that area in June. Are there any other proposals like that, that are on the table or that you\u2019re concerned about at the moment?",
+            "And then maybe just as a quick follow-up in Sweden. In consumer, you were pointing to improved trends in churn being a cause for optimism. But I just wondered how much of that is likely down to COVID. Maybe there\u2019s something else you can tell us about underlying behavior that gives you a bit of confidence there. Thank you very much."
+         ],
+         "Speaker": "Adam Fox-Rumley"
+      },
+      "54": {
+         "Remarks": [
+            "Now, Sweden, I think I don\u2019t have that exact answer. But I think it\u2019s the main challenge in Sweden now, and that\u2019s not only for us. I think it\u2019s for the other operators as well. It\u2019s the competition we see on the B2B segment.",
+            "And I think when Tele2 also announced their Q2 yesterday I think they talked about the same. So what we are trying to do then on a Nordic level is to see can we leverage some of the B2B experience we have from Norway into a Nordic setting, being on product, but also being at kind of getting into relations with the B2B customers, which are not only price driven, but it\u2019s more value-added services and integrated services to the customers.",
+            "On the first question, on tax, Tone?"
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "55": {
+         "Remarks": [
+            "Yeah, if you refer to the taxes that was shown on the cash flow slide, that\u2019s a delay or postponement in taxes due to the COVID situation. So that\u2019s not an increased risk. That had a positive impact on the cash flow."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "56": {
+         "Remarks": [
+            "I think there was reference in the release to a 5-point step-up in tax in Bangladesh. And I just wonder whether or not that\u2019s in light of governments needing more funding, whether or not the sector and I suppose you and your markets are at risk there."
+         ],
+         "Speaker": "Adam Fox-Rumley"
+      },
+      "57": {
+         "Remarks": [
+            "Yes, you are right. We saw a step-up of 5%. Was it, on tax?"
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "58": {
+         "Remarks": [
+            "Yeah, from 10% to 15%."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "59": {
+         "Remarks": [
+            "And, of course, that\u2019s unfortunate, and we are implementing that. I don\u2019t think we have any visibility to \u2013 on further tax increases neither in Bangladesh nor in any other markets. We don\u2019t expect that."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "60": {
+         "Remarks": [
+            "Okay. I appreciate that. Thanks."
+         ],
+         "Speaker": "Adam Fox-Rumley"
+      },
+      "61": {
+         "Remarks": [
+            "Thank you. We\u2019ll go to our next question now from Ulrich Rathe from Jefferies. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "62": {
+         "Remarks": [
+            "Yeah, thanks. I wanted to come back to an earlier question on margin in Thailand. I think it\u2019s a question for Tone. You mentioned there are one-offs, and then there wouldn\u2019t be outlook into the second half. That\u2019s fair enough. But could you just comment on these one-offs? I think specifically, there have been some lease capitalizations, and the commentary sounded if these are sort of not things that have been there in the past. Not, I think dtac, not your release, but the dtac release talked about a onetime gain in regulatory costs.",
+            "So could you just shed a bit more light? And the reason I\u2019m asking this is because Thailand really was the 1 item that really drove the group figure far above consensus. So Thailand seems to be really the swing factor. And if there are one-offs in there, it would be interesting to know what exactly they are? Thank you."
+         ],
+         "Speaker": "Ulrich Rathe"
+      },
+      "63": {
+         "Remarks": [
+            "Yes, I think we need to come back to the Investor Relations team on that. So they will follow you up on that after the call."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "64": {
+         "Remarks": [
+            "Okay. Thank you."
+         ],
+         "Speaker": "Ulrich Rathe"
+      },
+      "65": {
+         "Remarks": [
+            "Sigve, I think we need to start rounding up. Should we allow...?"
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "66": {
+         "Remarks": [
+            "Yeah, so we take 2 more?"
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "67": {
+         "Remarks": [
+            "Yeah, 2 more."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "68": {
+         "Remarks": [
+            "Thank you. We will go to our second last question from Russell Waller from New Street Research."
+         ],
+         "Speaker": "Operator"
+      },
+      "69": {
+         "Remarks": [
+            "Yeah, hi, thank you very much. Yeah, I just had a follow-up on the cost cutting. So you\u2019ve been very clear, NOK 400 million to NOK 500 million is structural. That\u2019s pretty impressive. I mean, that is quite a high percentage of overall OpEx and is above your capital markets. They target 1% to 3%. I think it\u2019s about 5%.",
+            "So I mean how sustainable therefore is it at that rate? Or should we expect it to sort of drop down to the 1% to 3% for the rest of the year? Or have you seen, identified further opportunities and you\u2019re pulling some of those forward, given the kind of revenue environment? Thank you."
+         ],
+         "Speaker": "Russell Waller"
+      },
+      "70": {
+         "Remarks": [
+            "I don\u2019t want to give you an exact answer to that, because this varies from quarter-to-quarter. And in the first quarter, as I said, we had NOK 200 million. In this quarter, probably NOK 400 million, NOK 500 million. So this goes a little bit up and down. And it\u2019s really \u2013 it\u2019s related to, for example, in the quarter, I think we reduced employees in Thailand. For example, we had an effect also of reduced employees in Sweden. That\u2019s another example.",
+            "In other quarters, that\u2019s not a factor. So this goes a little bit up and down. But we are very, very determined in continuing now our \u2013 I\u2019m not even calling it cost cutting, I don\u2019t like that. It\u2019s efficiency. It\u2019s modernization. We are going to continue that.",
+            "And that is hitting basically all the different lines in our OpEx base. So the 1% to 3% we talked about in the Capital Markets Day, it\u2019s going to stay there. Some time, some years it could be 3%, other years it could be 1%. So I don\u2019t want to give any more visibility than that."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "71": {
+         "Remarks": [
+            "Okay. Thank you."
+         ],
+         "Speaker": "Russell Waller"
+      },
+      "72": {
+         "Remarks": [
+            "Okay. I think the last caller then, Tone?"
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "73": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "74": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "75": {
+         "Remarks": [
+            "Thank you. Our last question today comes from Johanna Ahlqvist from SEB. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "76": {
+         "Remarks": [
+            "Yes, thank you. So last \u2013 perhaps 2 questions for today, if I may then. The first one, it\u2019s a follow-up to previous questions on the COVID impact. You mentioned NOK 1 billion in the first half. I\u2019m just wondering, is that sort of the magnitude that you also expect for the second half? Is it sort of the NOK 1 billion that we should talk about?",
+            "And then, I\u2019m just wondering the mix here, because, obviously, the roaming impact has been quite substantial now in the second quarter, and I expect that to level off, but maybe something else will take over. So that\u2019s the first one.",
+            "And the second one relates to, you talked about sort of strategic alternatives in the Asian footprint. And I\u2019m just wondering, has the COVID situation sort of delayed that process in any way or how are things developing? Thank you."
+         ],
+         "Speaker": "Johanna Ahlqvist"
+      },
+      "77": {
+         "Remarks": [
+            "Now, your second question, I basically don\u2019t have any updates on that. But just repeating what we have said in the past, we think we will see consolidation, in-market consolidation in one of our Asian markets, because the number 4, 5 operator, they are struggling.",
+            "And we also think that there could be some more cross-market asset restructuring opportunities like what we tried to do with Axiata Group last year. So there is no update on this. We are continuing to have those plans, to have those dialogues. And if something is materializing, you will be the first to know.",
+            "On the other question, on the NOK 1 billion saving, Tone, for the second half?"
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "78": {
+         "Remarks": [
+            "Yes, I think our perspectives on the second-half is reflected in the guiding that we have given, so we will not go into further details on that."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "79": {
+         "Remarks": [
+            "Okay. I think that ends the session today. Thanks a lot for participating. Thanks for good questions. And for those of you in Europe, have a very nice summer. Thank you."
+         ],
+         "Speaker": "Sigve Brekke"
+      },
+      "80": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Tone Hegland Bachke"
+      },
+      "81": {
+         "Remarks": [
+            "Thank you. This will conclude today\u2019s conference call."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

@@ -1,0 +1,367 @@
+{
+   "Date": "August 19, 2020",
+   "Presentation": {
+      "Operator": [
+         "Good morning and good evening, ladies and gentlemen. Thank you, and welcome to the 21Vianet Group's Second Quarter 2020 Earnings Conference Call. With us today are Mr. Alvin Wang, Chief Executive Officer and President; Ms. Sharon Liu, Chief Financial Officer; and Ms. Rene Jiang, Investor Relations Director of the Company.",
+         "I'll now turn the call over to your first speaker today, Ms. Rene Jiang, IR Director of 21Vianet. Please go ahead, ma'am."
+      ],
+      "Rene Jiang": [
+         "Thank you, operator. Hello, everyone. Welcome to our second quarter 2020 earnings call. Before we start, please note that this call may contain forward-looking statements made pursuant to the safe harbor provisions for the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on management's current expectations and observations that involve known and unknown risks, uncertainties and other factors not under the Company's control, which may cause actual results, performance or achievements of the Company to be materially different from the results, performance or expectations implied by these forward-looking statements. All forward-looking statements are expressly qualified in their entirety by the cautionary statements, risk factors and details of the Company's filings with the SEC. 21Vianet undertakes no duty to revise or update any forward-looking statements for selected events or circumstances after the date of this conference call.",
+         "I will now turn the call over to Mr. Alvin Wang, CEO and President of 21Vianet."
+      ],
+      "Sharon Liu": [
+         "Thank you, Alvin, and hello, everyone. Before we start our detailed financial discussion, please note that we will present non-GAAP measures today. Our non-GAAP results exclude certain non-cash expenses, which are not part of our core operations. The details of these expenses maybe found in the reconciliation tables included in our press release. Please note that unless otherwise stated, all the financial numbers we are presenting today are for the second quarter of 2020 and are in RMB terms, and that percentage changes are on a year-over-year basis.",
+         "Despite the uncertainties in the macro environment, we concluded the second quarter with strong financial results, while also keeping our cabinet delivery schedules on track, improving our operating efficiency and enhancing our utilization rate. As a result, in the second quarter, both our revenue and adjusted EBITDA met our previous announced guidance.",
+         "Revenue in the second quarter increased by 28.8% and RMB1.14 billion from RMB888 million in the same period of 2019. Such growth was mainly driven by the industry health growth trajectory and our ongoing capacity expansion which enabled us to address the uptick in the demand for hyperscale IDC solutions during the quarter.",
+         "Retail IDC MRR per cabinet in the second quarter increased to RMB8,953 from RMB8,663 in the same period of 2019. We added 4,404 new cabinets during the second quarter. This includes the recent acquired IDC in Shanghai, wherein over 95% of the cabinets are currently being utilized by a public cloud customer. The income that this IDC generate will contribute to our revenue and EBITDA starting immediately from the third quarter of 2020.",
+         "As of June 30, 2020, we operated and managed 44,050 cabinets despite our capacity expansion. Compound utilization rate in the second quarter increased to 61.4% from 60.4% in the first quarter of 2020. More specifically, our utilization rate for those mature IDCs delivered prior to 2019 improved to 73.6% in the second quarter compared to 72.3% in the first quarter of 2020.",
+         "At the same time, our utilization rate for those newly-built and ramp-up IDCs delivered since the start of 2019 improved to 30.1% compared to 12.3% in the first quarter of 2020. Our improved utilization rate was mainly due to our continuous delivery of additional cabinets in the period as well as shortened ramp-up period.",
+         "Adjusted cash gross profit in the second quarter, which excludes depreciation, amortization, and share-based compensation expenses, was RMB467.6 million compared to RMB403.8 million in the same period of 2019. Adjusted cash gross margin was 40.9% compared to 45.5% in the same period of 2019. The decline in margin on a yearly basis was due to the delivery of additional IDC capacity.",
+         "Adjusted operating expenses in the second quarter, which exclude share-based compensation expenses, increased by 13.1% to RMB182.5 million from RMB161.3 million in the same period of 2019. As a percentage of net revenues, adjusted operating expenses decreased to 15.9% from 18.2% in the same period of 2019, demonstrating our improvement to operating leverage and efficiency.",
+         "Adjusted EBITDA in the second quarter grew by 17.5% to RMB306.4 million from RMB260.7 million in the same period of 2019. Adjusted EBITDA margin decreased to 26.8% from 29.4% in the same period of 2019 due to the delivery of additional capacity.",
+         "Net loss attributable to ordinary shareholders in the second quarter increased to RMB2.12 billion from RMB102.1 million in the same period of 2019. Net loss attributable to ordinary shareholders in the second quarter included changes in the fair value of convertible promissory notes of RMB1.61 billion due to the rapid rise in the company\u2019s stock price, and a deemed distribution of RMB470.6 million from the issuance of Series A perpetual convertible preferred shares, which were both non-operation related and non-cash loss. Basic and diluted loss was RMB3.21 per ordinary share and RMB19.26 per ADS, respectively. Each ADS represents six ordinary shares. ",
+         "Moving on to our balance sheet and liquidity. At the end of the second quarter, our debt to asset ratio was 74.7%. Taking out the effect of the changes in the fair value of convertible promissory notes, our debt to adjusted EBITDA rate was 4.7. Net cash generated from operating activity was RMB161.8 million in the second quarter. As of June 30, 2020, we reported a cash position of RMB4.98 billion. Earlier this month, we paid the remaining US$131 million of our 2020 bond.",
+         "During the quarter, we explored a diversified range of financing resources to continue fueling our long-term business growth. In addition to securing those opportunities available in the current banking environment, which is quite favorable to Chinese IDC industry, we also entered into a US$200 million private placement deal with a group of investors led by Goldman Sachs and received additional US$150 million investment from funds management by Blackstone.",
+         "Going forward, we will maintain our focus on the execution of development initiatives that are both prudent and cost efficient. In addition, we will also continue to exploit different financing channels to further strengthen our balance sheet, support our business growth and accelerate our expansion of services in key markets over the long-term.",
+         "To better support the company's organic growth, acquisition efforts and achievement of its delivery targets for 15,000 cabinets by the end of the year, we are planning for CapEx to be between RMB3 billion and RMB3.4 billion in 2020, which is in line with our three-year growth plan. Looking ahead, we expect net revenue for the third quarter of 2020 to be in the range of RMB1.23 billion to RMB1.25 billion and adjusted EBITDA to be in the range of RMB340 million to RMB360 million.",
+         "For the full-year of 2020, we now expect net revenue to be in the range of RMB4.7 billion to RMB4.9 billion and adjusted EBITDA to be in the range of RMB1.28 billion to RMB1.38 billion. This forecast reflects our current and preliminary views on the market and operational conditions, which are subject to change and do not factor in any of the potential impact that could be caused by the COVID-19 epidemic in the future.",
+         "This concludes our prepared remarks for today. Operator, we are now ready to take questions."
+      ],
+      "Shiqi Wang": [
+         "Thank you, Rene. Good morning, and good evening, everyone. Thank you for joining us on our earnings call today.",
+         "Before I proceed with our second quarter results, I would like to take a moment to recognize the incredible resilience and courage that we have seen people exhibit around the globe in response to the pandemic. In addition, while our business and the IDC industry as a whole have remained largely insulated from the impact of COVID-19, we continue to be inspired on a daily basis by those working to support their families, neighbors and the communities in the face of the adversity. These acts provide all of us here at 21Vianet with hope, not only in the future and the potential for a bright tomorrow, but also in the power of human ingenuity and compassion.",
+         "During the second quarter of 2020, we grew our revenues to RMB1.14 billion and adjusted EBITDA to RMB306.4 million, meeting both of our previous guidance range. This solid quarterly performance was primarily attributable to our expansion of total cabinet capacity as well as our improvements to the operating efficiency and utilization rates in the period. We continued to pursue dual-core strategy and rollout of additional IDC capacity in the second quarter.",
+         "Despite the second wave of COVID-19 in Beijing, we delivered cabinets in accordance with our established delivery schedule and long-term growth plan. During the period, we delivered approximately 2,400 self-built cabinets in Jiangsu to two of our major wholesale customers and thus, continued to increase our organic growth trajectory. We also acquired over 2,000 wholesale cabinets in Shanghai. Looking ahead, we remain confident in our ability to maintain our cabinet delivery schedule throughout the remainder of 2020 and achieved our total cabinet delivery target for the year.",
+         "In addition, we kept the project that were already underway on track and continued to advance IDC projects on the partnership front during the second quarter. Consequently, the total signed wholesale MoUs has committed over 130 megawatts as of June 30, 2020.",
+         "On the retail front, we wrapped up the initial phase of our mission-critical production center for China Everbright Bank. Our carrier-neutral centers, solid brand recognition and knowledge of large-scale and hyperscale IDC services remain attractive to renowned [indiscernible], and we look ahead to continue developing this type of partnership going forward.",
+         "From a broader perspective, we are optimistic about the market\u2019s long-term growth trajectory. As such, we plan to invest in those pipeline resources capable of delivering positive returns and improving our sustainable growth. Such disciplined execution requires a significant amount of planning and preparation. During the quarter, for example, we increased the power quota at our Jiangsu campus which will support us during our second phase of development at this location.",
+         "In terms of market coverage, we also continue to explore potential business opportunities in Tier 1 and satellite cities during the second quarter. Our newly secured brownfield sites in Hebei is in a promising location for future expansion initiatives. Based on the current plan, we will deliver over 2,000 cabinets at this site in the second half of 2021.",
+         "Recognizing the ongoing trend of corporate digitalization across the country, we will continue to invest in these types of opportunities going forward to further expand our geographic footprint, increase our market share and then make use of those opportunities that will emerge as a result of positive industrial growth.",
+         "In summary, we continue to work in alignment with our long-term growth plans during the second quarter, expanding our cabinets capacity on schedule, enhancing our utilization rates and prudently allocating our resources towards those areas of the market with favorable growth perspectives.",
+         "Looking ahead, we aim to continue exploring new opportunities to deliver our scalable services offerings, the solutions of which range from IDC to VPN and cloud. While the outbreak of COVID-19 has caused a certain amount of market uncertainty, we believe that our core value proposition remains attractive to enterprise partners and that we will be able to deliver increasing shareholder value over the long run.",
+         "Now I will turn the call over to Ms. Sharon Liu, CFO of 21Vianet."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] Our first question comes from the line of Yang Liu from Morgan Stanley. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Well thanks for the opportunity. Congratulations on solid results and the upward revision of the full-year revenue and EBITDA guidance. I have two questions here. First, compared with the first quarter when the company mentioned that you have 90 megawatts MoU for wholesale, I think the company added 40 megawatts in one single quarter. If I do the calculation, that is around 5,000 cabinets versus full-year guidance of wholesale cabinets net at 6,000, which means that it's very strong, solid and almost occupy more than 80% of the full-year target. I would like to ask what is the contribution from the M&A in Shanghai in the 40 megawatts and also how sustainable such kind of very strong wholesale demand can sustain \u2013 how sustainable is the demand.",
+            "And my second question is that the company also disclosed two new projects. One is Shanghai JQ and the other is HeBei II. Could you please elaborate more about the potential future for \u2013 especially for HeBei II, given it's a brownfield project and whether it will be for the hotel or retail customer? And what is the current indication from the customer in terms of demand? Thank you."
+         ],
+         "Speaker": "Yang Liu"
+      },
+      "3": {
+         "Remarks": [
+            "Thank you, Liu Yang. It's Alvin here. Thank you for your question. Regarding the demand from wholesale customers, actually, as we disclosed, we have committed customer demand of 130 megawatts, which includes 10 megawatts from merger and acquisition in Shanghai and the others are mainly from customer demand on our ongoing projects. And actually, we do see very strong customer demand not only from the top leading cloud operators, but also some other leading Internet players and also some other big enterprises as well. So we do see a strong pipeline not only in Shanghai and Beijing, but in some other places as well, especially in some satellite cities of these top-tier markets.",
+            "And to your second question about our new sites in the Hebei province, actually, this site is in a quite good location, which is very nearby to Beijing City area, which there is very high-quality network connection. And also, we do see very strong customer demand. Actually, we already have very kind of promising customer demand from more than one customer. So we do expect that we will deliver these projects to our customers in the second half of next year.",
+            "And your second question also mentioned that our site in Shanghai, right?"
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "4": {
+         "Remarks": [
+            "Yes, Shanghai JQ project and HeBei II. Yes, I think you have already covered that."
+         ],
+         "Speaker": "Yang Liu"
+      },
+      "5": {
+         "Remarks": [
+            "Okay. Actually, the Shanghai JQ project is actually \u2013 the project, as Sharon mentioned, which is a newly acquired data center, which is a very high-quality data center for one of our leading wholesale customers. It's with very high utilization rate. Thank you."
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "6": {
+         "Remarks": [
+            "Yes. Hi, Liu Yang, this is Sharon. Yes, I will add more color on the two projects. For the Shanghai JQ project, we acquired by the end of Q2 and we will start to recognize revenue and EBITDA from Q3. And this data center is a mature data center and the utilization rate is around 95% with around 10 megawatts. And for the HeBei II project, the total power capacity is around 20 megawatts, and we are targeting to deliver this data center in next year and the targeted customers is the wholesale customers. And as Alvin mentioned, we now have more than one customer."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "7": {
+         "Remarks": [
+            "Very strong demand\u2026"
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "8": {
+         "Remarks": [
+            "Very strong demand from the customer. And for the customer demand, if you see the utilization rate we disclosed for the existing data center as well as the newly built and ramp-up cabinet, the utilization rate increased in Q2, thus demonstrated our increasing demand from both wholesale and retail customers. Thank you."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "9": {
+         "Remarks": [
+            "Can I follow-up a very quick question? Could you please disclose or talk about the valuation multiple for the Shanghai JQ project. We know that maybe the private market, actually, the valuation is also getting higher. Not sure \u2013 or how should we think about how accretive this project is? Thank you."
+         ],
+         "Speaker": "Yang Liu"
+      },
+      "10": {
+         "Remarks": [
+            "As we mentioned before, our targeting multiple is six to eight for the mature data center acquisition, and this project is within that range. Thank you."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "11": {
+         "Remarks": [
+            "Okay. Thank you."
+         ],
+         "Speaker": "Yang Liu"
+      },
+      "12": {
+         "Remarks": [
+            "Thank you. Our next question comes from the line of James Wang from UBS. Please ask your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "13": {
+         "Remarks": [
+            "Good evening, management. I've got two questions. So first question is on the MRR. So I've noticed that it's risen about 3% in the second quarter year-on-year. So just wondering what are the main drivers. And what's your outlook for MRR over the next one to two years as your wholesale customers or the percentage of wholesale business grows?",
+            "And for the new entrants coming into the market, I just want to get a sense of what sort of pricing are they offering versus your current pricing. Are they discounting heavily to grab customers? So that's the first question on the MRR outlook.",
+            "And the next question is just on operating expense. So I've noticed operating expense as a percent of revenue has come down about three percentage points year-on-year. Can you give us a sense of, over the next one to two years, how low this ratio can get to, whether you have any internal target? Thank you."
+         ],
+         "Speaker": "James Wang"
+      },
+      "14": {
+         "Remarks": [
+            "Okay. Thank you for your question. Regarding your question one on the MRR, the driver of the increase in this quarter was because we signed a new contract with a financing customer with higher MRR as well as more value-added service provided to our existing customers. And in the next one or two years, we expect the MRR per cabinet for retail business will be stable. And compared with the other new entrants, I think we provide different products to them. For the new entrants, they always provide colocation and power. But for 21Vianet, as we provide more value-added service, including interconnectivity and IT hybrid cloud services to those customers, we can achieve more \u2013 higher MRR per cabinet. And also, the value-added services help us to increase the stickiness of our customers.",
+            "Your question two is relating to the operating expenses rate. Of course, we have achieved operating leverage since year 2018 after we refocused on the IDC business. And this year, we expect the operating expenses rate will be around 15% for the whole year. And in the midterm, we are targeting to 14% to 15% of the operating rate as a percentage of revenue. We will continue to improve our operating efficiencies. Thank you."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "15": {
+         "Remarks": [
+            "Great. Thank you."
+         ],
+         "Speaker": "James Wang"
+      },
+      "16": {
+         "Remarks": [
+            "Thank you. Our next question comes from the line of Colin McCallum from Credit Suisse. Please ask your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "17": {
+         "Remarks": [
+            "Thanks a lot. My question was just regarding the \u2013 thinking ahead to the cabinet additions for 2021. I'm quite clear on your 2020, but just thinking about next year. I think you had \u2013 maybe had a problem on the power allocation on one of the projects that was in your stated pipeline. Are you still confident you can do 15,000 for next year? Or indeed, can you give us any revised guidance that that could be a higher number? Obviously, I'm looking for what your cabinet guidance is that you feel confident that you have both the land and the power allocation sorted out already? Thank you."
+         ],
+         "Speaker": "Colin McCallum"
+      },
+      "18": {
+         "Remarks": [
+            "Thank you for the question, Colin. It's Alvin here. Regarding our capacity expansion plan for the next year or so, at this moment, still, we keep our original three-year growth plan, which is around 15,000 cabinets next year. And we do have very strong resources pipeline, especially in our focus markets, Tier 1 cities and also satellite cities around these areas. So we do have a very strong confidence going forward. And we will update our capacity expansion plan in the coming quarters. Thank you."
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "19": {
+         "Remarks": [
+            "Okay. Thank you."
+         ],
+         "Speaker": "Colin McCallum"
+      },
+      "20": {
+         "Remarks": [
+            "Thank you. Our next question comes from the line of Xin Yang from CICC. Please ask your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "21": {
+         "Remarks": [
+            "Thank you. Good evening, management. This is Xin Yang from CICC. Thanks for taking my question and congrats on the strong results. I have two questions. First one is about our margin. We see visible margin improvements quarter-over-quarter in the second quarter. And I'm wondering how the margin's like looking forward, given more wholesale business in our total revenues.",
+            "And the second question is about our future IDC expansion. We noticed some new financing options in the market like rates or building joint venture or using some idealized models. Would we consider this kind of different ways in our future expansion? Thank you."
+         ],
+         "Speaker": "Xin Yang"
+      },
+      "22": {
+         "Remarks": [
+            "Xin Yang, thank you for your question. Regarding to your question one about our margins, this quarter, our adjusted EBITDA margin improved. That was because of the improvement of our utilization rate of both existing and new delivery and ramp-up data centers. And if you're looking at the guidance we provided to the market, the adjusted EBITDA will be \u2013 for this year will be in the range of 27% to 28%. And we believe we will be achieving a longer upward trend supported by the utilization improvement and future operating leverage going forward.",
+            "Your question two regarding the financing channels, of course, as an asset and capital-intensive industry, we are targeting to diversify our funding channels, including the project financing bond as well as the series or the joint ventures with potential strategic cooperators to support our future expansion plans. And we also noted that the NDRC and CSRC has announced detailed instruction on the series. We may consider that financing channel, but currently, they're \u2013 we have no definitive timetable for the project. Thank you."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "23": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Xin Yang"
+      },
+      "24": {
+         "Remarks": [
+            "Thank you. Our next question comes from the line of Edison Lee from Jefferies. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "25": {
+         "Remarks": [
+            "Hi, management. Thank you very much for the opportunity to ask questions and congratulations on the results. I have two questions. Mainly both of them are on capacity expansion and demand and supply. So for 2021, your plan is 15,000 cabinet expansion. And based on the supply and demand that you have seen over the past six months after the government is pushing new infrastructure, do you think that supply or demand, which side is actually better than expected? Or actually, would it be that supply is \u2013 well, supply meaning the supply of projects, right, and demand is coming from your assessment by talking to customers. So can you maybe give us some color on what do you think demand has changed and supply has changed over the past six months?"
+         ],
+         "Speaker": "Yu Sang Lee"
+      },
+      "26": {
+         "Remarks": [
+            "Okay. Thank you for your question. This is Alvin here. So regarding the capacity expansion plan, as we mentioned before, still we keep our three-year growth plan. This year, we will deliver more than 15,000 self-built. And next year, currently, our plan is also the same level. And also, we do see very strong customer demand, especially after this COVID-19 breakout. So we do see the digital transformation is accelerating and also that we see very strong demands from end users as well.",
+            "And especially in top-tier cities, we do see very strong customer demand. And at the same time, we also expect some newcomers with new investments to enhance the supply side as well. But we do see the very kind of strong supply \u2013 sorry, the demand side, especially in Tier 1 cities, which is \u2013 which are the major \u2013 our focus markets. So we still keep a very strong confidence that we will meet this strong customer demand in these focus markets. Thank you."
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "27": {
+         "Remarks": [
+            "And let me ask a follow-up question. Do you see more greenfield projects or do you see more acquisition opportunities? What is the mix, you think?"
+         ],
+         "Speaker": "Yu Sang Lee"
+      },
+      "28": {
+         "Remarks": [
+            "Do you mean for our own or for the market?"
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "29": {
+         "Remarks": [
+            "For your own."
+         ],
+         "Speaker": "Yu Sang Lee"
+      },
+      "30": {
+         "Remarks": [
+            "Yes. For sure, our growth was mainly driven by our organic growth. At the same time, we do see \u2013 keep very close eyes on some very good acquisition opportunities. But for sure, organic is the mainstream."
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "31": {
+         "Remarks": [
+            "Okay. Thank you."
+         ],
+         "Speaker": "Yu Sang Lee"
+      },
+      "32": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "33": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] Our next question comes from the line of Chris Ko from DBS. Please ask your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "34": {
+         "Remarks": [
+            "Good evening, management team. Thanks for giving me the opportunity to ask questions and congratulations on the strong results. And I've got two questions. First is for the cabinets coming online in the second half this year, is there a pre-committed rate? Or could you share some color on the move-in pace?",
+            "And the second question is, I would like to follow-up on the 40-megawatt wholesale contract increase. Was it mainly driven by new wholesale customers or existing customers? And what are the projects accounting for the new net adds? And do we have the time line for the new net adds? Thank you."
+         ],
+         "Speaker": "Chris Ko"
+      },
+      "35": {
+         "Remarks": [
+            "Thank you, Chris for your question. It's Alvin here. Regarding the expansion plan for the second half, we see very strong \u2013 we have very strong confidence we will deliver the new capacity to reach our yearly target. And also from the demand side, as I mentioned before, we do see very strong demand, especially in the Tier 1 cities and also satellite cities around these areas. And we do have a very strong customer demand pipeline. And so we will have \u2013 we will improve our utilization rates in the coming quarters as well.",
+            "And regarding our wholesale customers, we do have a very strong relationship with our top wholesale customers, not only one, but a few ones. And going forward, we will expand our customer base in the wholesale segment as well. Thank you."
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "36": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Chris Ko"
+      },
+      "37": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] Our next question comes from the line of Shiyuan Wang from Goldman Sachs. Please ask your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "38": {
+         "Remarks": [
+            "Hi. This is Tina Hou from Goldman Sachs. Thank you very much for taking the question. I have three questions. The first one is regarding our revenue and EBITDA guidance rate in 2020. I was wondering if this is purely due to the acquisition of Shanghai JQ project. Or are you seeing higher momentum in terms of the organic part of the business as well? And also regarding Shanghai JQ, management mentioned that this is for like a wholesale customer. I was just wondering if this is an existing wholesale customer or a new wholesale customer.",
+            "And then my second question is regarding our FY 2021 expansion pipeline. Out of the 15,000 cabinets, just wondering what is our pre-commitment or commitment rate from customers. And then last question is wondering if we have any new customer wins, both for the wholesale as well as for the retail side, that you can share with us. Thank you."
+         ],
+         "Speaker": "Tina Hou"
+      },
+      "39": {
+         "Remarks": [
+            "Thank you, Tina for your questions. Regarding our new guidance, we raised the full-year guidance because of two reasons. One is the acquisition of Shanghai JQ project. Another reason is because of the higher momentum from our customers as well as the shorter ramp-up in our certain data centers.",
+            "For your question number two, the JQ customer is one of our existing wholesale customers. And for your question three regarding our 2021 cabinet expansion plan, around 40% was pre-committed by the hotel customers. But in the future, we may receive more MoUs with potential wholesale as well as the retail customers from financial sectors. Thank you."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "40": {
+         "Remarks": [
+            "Thank you. Our final question today comes from the line of [Anna Zhang from Tiburon Advisors]. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "41": {
+         "Remarks": [
+            "Hi. Thanks management. I have two questions. The first one is on the balance sheet. I just want to clarify the 3 billion convertible promissory note. Is it just the 200 million CB on \u2013 to GS and the rest of the amount is just the fair value change in the quarter?",
+            "And the second question is that \u2013 we understand that there is divesting cost in the CB and also preferred share of Blackstone. So I'm just wondering if you have a concrete plan on the secondary in Hong Kong. Thanks."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "42": {
+         "Remarks": [
+            "Okay. Regarding your question one, the answer is yes. And regarding the question two, as I mentioned before, we are targeting to diversify our funding channels and we consider all kinds of financing channels, like the project financing debt, secondary listing, series and other joint ventures with the strategic cooperators. Thank you."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "43": {
+         "Remarks": [
+            "I just want to \u2013 so you guys are currently in talks with banks and lawyers regarding the secondary listing, right, but it's just no concrete plan yet?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "44": {
+         "Remarks": [
+            "We are not ruling out any options at this moment, but we have no kind of concrete timetable for any options at this moment. Thank you."
+         ],
+         "Speaker": "Shiqi Wang"
+      },
+      "45": {
+         "Remarks": [
+            "Okay. Thanks."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "46": {
+         "Remarks": [
+            "Thank you. We can take one more question from the line of Arthur Lai from Citi. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "47": {
+         "Remarks": [
+            "Hello. I would like to ask \u2013 we see loss in this quarter due to the convertible promissory notes due to the rising company stock price. Just wondering is that a one-off or if the stock price keeps rising, then we might have some of the losses as well in third quarter or in the future. Thank you."
+         ],
+         "Speaker": "Arthur Lai"
+      },
+      "48": {
+         "Remarks": [
+            "Okay. Actually, for the CB, in accordance with certain terms we signed with the investors, according to the accounting treatment, we should recognize the balance as a mark-to-market basis. So that will be fluctuated in each quarter until the investor converts the CB into our ordinary shares. Thank you."
+         ],
+         "Speaker": "Sharon Liu"
+      },
+      "49": {
+         "Remarks": [
+            "Thank you. I'll now turn the call back to management team for the closing remarks. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "50": {
+         "Remarks": [
+            "Thank you once again for joining us today. If you have any further questions, please contact the company's IR through the website. Thank you. Good day."
+         ],
+         "Speaker": "Rene Jiang"
+      },
+      "51": {
+         "Remarks": [
+            "Ladies and gentlemen, that does conclude our conference for today. Thank you for participating. You may all disconnect."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

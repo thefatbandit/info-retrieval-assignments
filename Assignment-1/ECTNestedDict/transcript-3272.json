@@ -1,0 +1,445 @@
+{
+   "Date": "August 4, 2020",
+   "Presentation": {
+      "Anthony Ambrose": [
+         "Well, thank you very much, Jordan. I\u2019ll begin my formal remarks by addressing some corporate governance matters. And then we\u2019ll move on to commenting about 2020 Q2 and recent developments, and then I\u2019ll turn it over to Joel for details on the numbers.",
+         "On corporate governance matters, our annual meeting was held on May 18 at our corporate headquarters in Redmond, Washington. For this year\u2019s event, due to the COVID-19 challenges, we made our information available via Internet delivery, and the process worked extremely well with excellent shareholder participation. All of our proposals received affirmation from shareholders, including the election of directors, ratification of independent auditors and say-on-pay provisions for our executive officers.",
+         "I\u2019d also like to comment on a few of the SEC\u2019s recent announcements. On July 22, the SEC adopted new rules pertaining to proxy advisory firm disclosures. These rulings seek to provide an improved framework for transparency pertaining to institutional proxy voting practices, and we applaud the SEC for ushering in such advancements. We worked with NASDAQ and let them know how we felt about the current situation on proposals and are happy with the new rules.",
+         "There\u2019s also a proposed rule change from the SEC for modifying which investment firms must file 13F ownership data. The proposal is to change from $100 million in assets under management to $3.5 billion as the threshold for these firms required to file quarterly 13F reports. This would limit transparency of investment firm ownership in our opinion. The proposal remains under review but, if passed, would work against all public companies and, particularly, smaller public companies since a smaller stock, such as Data I/O, typically have a shareholder base represented by investment firms managing under USD 3.5 billion.",
+         "Moving on to the second quarter ending June 30. Challenging conditions for us, for society and all companies continued from the first quarter. We\u2019re grateful for the health of our staff, our customers, our partners and their families and appreciate the sacrifices made by many health care professionals and first responders around the world. To reiterate, we remain committed to our priorities amid COVID-19, which are: number one, keeping our people and their families safe; number two, keeping our facilities safe and secure; number three, serving our customers, with COVID-19-related customers as our top priority.",
+         "Further, as I noted in last quarter\u2019s call, we believe our business and operational strategies have proven helpful as we manage the effects of the pandemic. Under the circumstances, during the better part of the past 6 months, global commerce has been anything but predictable. In addition to COVID-19, there have been increased trade and geopolitical tensions. Expectations in general have been then reduced, and our performance in the second quarter reflected those reduced business conditions. As an essential supplier to the medical and aerospace industries, Data I/O has remained open for business in China, the United States and Germany. Within our markets, we have seen recovery in China and some encouraging signs in EMEA. Southeast Asia and the Americas are lagging in terms of recovery from COVID-19. Overall progress is happening in fits and starts, and this is impacting capital equipment markets all over the world.",
+         "During the second quarter, COVID-19 negatively affected many of our customers in our business. Capacity-related purchases were being deferred, while new technology-related purchases and process improvements continue. We saw many automotive manufacturing facilities temporarily closing in the second quarter, delaying equipment and consumable purchases. Within automotive, the market for electric vehicles has been emerging to complement our strength in ADAS and infotainment market segments. In the second quarter, we shipped the PSV7000 unit for use in a major European OEM\u2019s electrification program. We also had other competitive automotive system wins in Asia and Latin America and additional UFS programming purchases. While the traditional automotive capital market has been challenging, we experienced pockets of strength within the broader industrial and IoT electronics market as well as from other sectors. We gained a significant new IoT customer in Asia in the second quarter, and we\u2019re pleased to have reached the milestone of deploying our 300th PSV unit during the second quarter. This is a major milestone for that program.",
+         "Our SentriX initiatives saw continued progress with our channel partners in the second quarter. For a programming center partner, we won a significant opportunity in utilities and smart metering. On the semiconductor side, Cypress and Infineon Technologies Company announced in July the production availability of its PSoC 64 Standard Secure Amazon Web Services microcontroller. This MCU provides secure IoT device management that enables OEMs to safely deploy applications and handle data at scale. We\u2019ve been a partner of Cypress for a couple of years on the PSoC program and are very excited about this announcement. These are just a couple of the highlights in our SentriX ecosystem in Q2 and illustrate its growing presence.",
+         "The basic tenets of our success over the years have been well and continue to be rooted in our technology and prudent financial planning with realistic expectations. Data I/O has built a sustainable and resilient business to withstand down periods, such as the one we\u2019re in, and then to flourish from a proven operational leverage as conditions improve. The last market cycle upswing for Data I/O was based on our capital equipment and consumable business lines, whereas the next cycle upswing will also include and benefit from our SentriX platform. At the end of the second quarter, we had $13.3 million in cash and no debt. This provides us with ample liquidity so that we may be flexible in these challenging times and remain committed to our long-term growth objectives.",
+         "With that, I will turn it over to Joel Hatlen, our Chief Operating Officer and Chief Financial Officer. Joel?"
+      ],
+      "Joel Hatlen": [
+         "Thank you, Anthony. Good day to everyone. Net sales in the second quarter of 2020 were $4.7 million as compared with $5.8 million in the prior year period and $4.8 million in the first quarter of 2020. Second quarter 2020 bookings were $5 million as compared with $5.1 million in the second quarter of 2019 and $4.3 million in the first quarter of 2020.",
+         "On a geographic basis, international sales represented approximately 93.8% of total net sales for the second quarter of 2020 compared with 89.6% in the 2019 period. Total capital equipment sales were 53% of revenues; adapters, 28%; and software/services, 19% of revenues through the second quarter of 2020 compared with 61%, 24% and 15%, respectively, through the second quarter of 2019. 2020 second quarter bookings composition included 49% from the automotive sector; 42% from IoT, industrial and other sectors; and 9% from programming centers. Gross margin as a percentage of sales in the second quarter of 2020 was 52.4% as compared to 61.4% in the second quarter of 2019 and 58.2% in the first quarter of 2020. For the second quarter of 2020, gross margin was primarily impacted by fixed costs being spread over lower revenues, a less favorable channel and product mix and less favorable factory variances, especially currency related.",
+         "Operating expenses were down compared to both the prior year and the prior quarter periods. The year-over-year changes include business-level variable expenses, including lower sales commissions. Reductions in work hours, pay cuts and government assistance programs were cost-saving measures taken in response to COVID-19. Also, due to COVID-19 limitations, we curbed travel and other trade show and other promotional activities, which led to reduced SG&A costs as compared to both the year earlier and sequential quarter.",
+         "R&D spending of $1.6 million in the second quarter of 2020 was flat compared to the first quarter and approximately $66,000 lower than in the first \u2013 in the second quarter of 2019. Partially offsetting the reductions I just discussed was higher stock-based compensation, which is a non-cash expense. In accordance with generally accepted accounting principles, net loss in the second quarter of 2020 was a loss of $1.1 million or $0.13 loss per share compared with a net income of $127,000 or $0.02 per diluted share in the second quarter of 2019.",
+         "Backlog at June 30, 2020, was $2.8 million, up 22%, as compared with $2.3 million at March 31 and $1.4 million at June 30, 2019. Data I/O had $1.4 million in deferred revenue at the end of the second quarter of 2020, which was modestly lower than at the end of the first quarter of 2020, which was $1.5 million. Our days sales outstanding, or DSO, a receivables collection measure, at June 30 were below our target measure at 55 days with receivables reduced by $300,000 from good collections from the end of the first quarter. Payables were reduced to $3.5 million at June 30, 2020, from $3.6 million at March 31, 2020, and $4.1 million at the end of the prior year.",
+         "Net working capital at the end of the second quarter was $18 million as compared with $18.4 million at March 31, 2020, and $18.5 million at 12/31 of 2019. Data I/O\u2019s financial condition remains strong with cash of $13.3 million at June 30, 2020. Our cash position is down from $13.8 million at March 31 and $13.9 million at the beginning of the year. From a financial perspective, we entered the crisis in a position of strength and remain healthy. We believe that Data I/O is the largest company in our industry with the strongest balance sheet, and we continue to be debt-free.",
+         "As previously disclosed, early in the second quarter, we implemented cash conservation and expense management initiatives. Most of these actions are continuing during the third quarter, with expectations there will be some costs resuming as business and travel start resuming. We have not, and still do not, expect to accept funding from the SBA PPP plan in the United States. Finally, we had shares outstanding of 8,391,000 at June 30, 2020. That concludes my remarks.",
+         "I will turn the call back to the operator to begin the Q&A segment. Operator, will you please start the Q&A process?"
+      ],
+      "Jordan Darrow": [
+         "Thank you and welcome to the Data I/O Corporation\u2019s second quarter 2020 financial results conference call. With me today are Anthony Ambrose, President and Chief Executive Officer of Data I/O and Joel Hatlen, Chief Operating Officer and Chief Financial Officer of Data I/O.",
+         "Before we begin, I would like to remind you that statements made in this conference call concerning COVID-19, future revenues, results from operations, financial position, markets, economic conditions, estimated impact of tax reform, product releases, new industry partnerships and any other statements that may be construed as a prediction of future performance or events are forward-looking statements, which involve known and unknown risks, uncertainties and other factors, which may cause actual results to differ materially from those expressed or implied by such statements. These factors include uncertainties as to the impact from the COVID-19 pandemic along with the expected reopening and recovery efforts within the supply chain and among our customer base, levels of orders, ability to record revenues based upon the timing of product deliveries and installations, market acceptance of new products, changes in economic conditions and market demand, pricing and other activities by competitors and other risks, including those described from time to time in the company\u2019s filings on Forms 10-K and 10-Q with the Securities and Exchange Commission, press releases and other communications. The accuracy and completeness of forward-looking statements should not be unduly relied upon. Data I/O is under no duty to update any of these forward-looking statements.",
+         "Now I would like to turn the call over to Anthony Ambrose, President and CEO of Data I/O."
+      ],
+      "Operator": [
+         "Good afternoon and welcome to the Data I/O Corporation Second Quarter 2020 Financial Results Conference Call. All participants will be in listen-only mode. [Operator Instructions] Please note, this event is being recorded. I would now like to turn the conference over to Jordan Darrow. Please go ahead."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "[Operator Instructions] And the first question will come from Jaeson Schmidt with Lake Street. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Hey, guys. Thank for taking my questions. I know it\u2019s probably going to vary by geography. But sort of big picture, curious if you could talk about the linearity of orders in the quarter. Is it fair to assume it\u2019s sort of bottomed in April, better in May and then best in June?"
+         ],
+         "Speaker": "Jaeson Schmidt"
+      },
+      "3": {
+         "Remarks": [
+            "I think it depended, Jaeson. It wasn\u2019t that straightforward. Probably we would have to dig in to get any linearity, and it also is dominated by the law of small numbers, certainly from a capital perspective. I think, in general, we have seen China come back fastest. EMEA, at least up until the last few weeks, has done really well as well. Southeast Asia has lagged. And then Mexico and the U.S. have lagged as well. And we are seeing encouraging signs in those places."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "4": {
+         "Remarks": [
+            "Okay. That\u2019s helpful. And then it seems like the traction with SentriX continues. Can you remind us the number of engagements you have today? And any sort of goalposts investors should be looking at going forward? And I guess, relatedly, has the macro uncertainty pushed out this opportunity at all in a significant way?"
+         ],
+         "Speaker": "Jaeson Schmidt"
+      },
+      "5": {
+         "Remarks": [
+            "Well, I think the engagements we have had in terms of system deployed remain unchanged from prior quarters. We keep adding OEM customers through our channel partners. Remember, we are working predominantly through programming centers, and so there\u2019s a two-tier distribution model right now. We know about most of their customers, if we have to do work with them, if it\u2019s a standard offering, they just take what we have already deployed and go forward from there. But we continue to gain customers through that channel. We did mention that we had a nice win through a channel partner in a big smart meter manufacturer. We don\u2019t have permission to use their name, but we are very excited about this. And then also, we are very excited about Cypress\u2019 announcement of their PSoC 64 family product that supports the Amazon Web Services integration. We think that\u2019s another big step forward, and we have been a very good partner of Cypress, which is now an Infineon company, for a couple of years."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "6": {
+         "Remarks": [
+            "Sort of in follow-up to your question was we actually had a couple of SentriX that we had planned to get installed in the late first quarter, second quarter time frame. And the COVID-19 actually shut those down and deferred them until later, hopefully, this quarter. And we will see how it goes. But yes, the COVID-19 did have an impact in terms of getting some new systems installed."
+         ],
+         "Speaker": "Joel Hatlen"
+      },
+      "7": {
+         "Remarks": [
+            "Okay. That\u2019s helpful. And the last one for me, and I will jump back in the queue, I know you outlined a number of factors that impacted gross margin in Q2. How should we think about it going forward? Can it get back to that sort of mid-50% level?"
+         ],
+         "Speaker": "Jaeson Schmidt"
+      },
+      "8": {
+         "Remarks": [
+            "That would certainly be our kind of expectation. So we had \u2013 I would say currency were probably the most surprising one. We just really hadn\u2019t planned for the dollar weakening like it did during the quarter. But the other piece is we are continuing to still have a small impact of tariffs and depending on which channel it is as to whether it\u2019s distributors who you get your revenue net of the distributor discount versus domestic sales, which are generally a rep sale and have selling commissions associated with them. So yes, there is an expectation that we will improve in our gross margin, but we won\u2019t be getting into the high 55s, in my mind, and above."
+         ],
+         "Speaker": "Joel Hatlen"
+      },
+      "9": {
+         "Remarks": [
+            "Okay. Thanks a lot, guys."
+         ],
+         "Speaker": "Jaeson Schmidt"
+      },
+      "10": {
+         "Remarks": [
+            "Thank you. Jaeson."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "11": {
+         "Remarks": [
+            "[Operator Instructions] The next question will come from [indiscernible] Smith with LBJ Capital. Please go ahead. "
+         ],
+         "Speaker": "Operator"
+      },
+      "12": {
+         "Remarks": [
+            "Yes. Hi, thank you. Congratulations on the deployment of the 300 PSV system. Can you review the different models and what they are used for and then talk about the IoT deployments in Asia and how that worked out?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "13": {
+         "Remarks": [
+            "Certainly. We have a product line, the PSV family of automated programming systems. It\u2019s a scalable family. We have the 7000, which is our flagship product. It\u2019s the industry\u2019s most comprehensive programming platform, supports all of our programmers, all the media options the customer may want: tray, tape, tube, input, output, etcetera, laser marking, 3D inspection, all the things that someone may want to have to not only do programming but media transfer, inspection and marking. We also have the PSV5000, which is more of a standard, I will call it, the 4-door sedan or maybe now the 4-door SUV of the market. It supports a broad range of customers all over the world that have, I will call it, standard programming needs. And then the PSV3000 is our entry-level product targeted for price-sensitive customers in emerging markets. All the handlers have the same Data I/O software, the same look and feel, the same access to our programmers, the FlashCORE and the LumenX. So the customer can really mix and match exactly what they need based on things like annual programming volume, capacity and features beyond programming that they wish to do at the same time. And then the second question on IoT in Asia. Yes, we had a new customer. We worked with them. I was very pleased with our sales team\u2019s efforts during the pandemic. It\u2019s pretty hard to get a sales call face to face these days. And we were able to work with the customer. They purchase multiple systems, and we look forward to a long relationship with them. We don\u2019t have permission to use their name, but it\u2019s a nice win for us, especially in a challenging quarter."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "14": {
+         "Remarks": [
+            "Thank you. I have a couple other questions if you don\u2019t mind. Typically, you get about 25% or more revenue from services and maintenance, which is sort of, like, recurring consumable sales. Can you drill down on the amounts for the second quarter, including adapter sales, and what we can expect when the automotive sector picks back up?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "15": {
+         "Remarks": [
+            "Yes. So I wouldn\u2019t draw any long-term conclusions from Q2. In Q2, we saw a number of our automotive customers actually shut down their factories. And factories that are shut down don\u2019t order consumables. And so there\u2019s a dibit, if you will, in some of the consumables orders in Q2. Services held in there pretty well, all things considered, and CapEx was obviously down. Going forward, we think adapters and other consumables will get back to more normal order patterns. The CapEx market will recover when people feel confident ordering capacity again. And then, again, we think services and software is a pretty steady part of our business."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "16": {
+         "Remarks": [
+            "Okay. I had a question on SentriX as well. Do you consider this to be a platform technology? And I was curious who are your key partners and how the economics work as this service gains more traction?"
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "17": {
+         "Remarks": [
+            "Sure. We have a pretty good summary of the partners and the platform. Yes, we do consider it a platform. It builds on our core programming technology with some very comprehensive security additions that are protected by patents, trade secrets and know-how. And we have had that deployed now for a couple of years. The ramp was a little bit slower than we had anticipated to be perfectly frank about it, predominantly because the initial set of tools were more difficult to use than we would have liked. We have had a major enhancement to our platform that makes it much easier to use, as we have talked about in prior quarters. This was all about simplifying and scaling in 2020, at least when we started the year. I think the scale part will be delayed a bit due to COVID-19, but we are on track for the simplification. And we are also starting to see better performance on the marketing side from some of our partners, indicating that they have completed a lot of the parts of the solution where we rely upon them. So it\u2019s a good part of our business, and it\u2019s a long-term part of our overall investor value."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "18": {
+         "Remarks": [
+            "Lastly, on the previous question, you touched on this, and you responded a little bit. I just wondered if there\u2019s any more detail you can provide regarding the launch in the second quarter of Cypress in Amazon Web Services. Specifically, how critical is Data I/O\u2019s SentriX machine for this application? And that will be it for me. Thanks. "
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "19": {
+         "Remarks": [
+            "Yes. We have been a partner with them, and we provide the hardware for that program via SentriX through not only working with Cypress, which is an Infineon company, but also their partner, Arrow Electronics. And again, that\u2019s a great partner. I would encourage you to go look at the announcements, the webinars that are out there, and that will give you a real good idea of exactly the specifics of the product, why they are excited about it and then, obviously, why we\u2019re excited about it."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "20": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Unidentified Analyst"
+      },
+      "21": {
+         "Remarks": [
+            "[Operator Instructions] And the next question will come from Steve Spence with RBC. Please go ahead. There is suspense as your line is muted on your end. Alright we are still unable to hear you we will suspense and we will move on to our next question and that is from Art Winston with Pilot Advisors. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "22": {
+         "Remarks": [
+            "Hi, guys. Is there any reason that you could think of to conclude that the worst of the order intake is behind us and that we\u2019re going to do the same or better going forward? Or is there\u2019s just no way to know?"
+         ],
+         "Speaker": "Art Winston"
+      },
+      "23": {
+         "Remarks": [
+            "Art, that\u2019s a $64 question. I think we had a pretty good Q2 all things considered, especially with automotive shutting down. I think it really comes back to the new technology purchases where people have to buy something or absolutely compelling purchases on a process improvement are moving forward and capacity purchases are not. And again, just given the nature of our business, the funnel mix from quarter-to-quarter will bounce around between various types of projects like that. So again, we\u2019re optimistic in certain parts of the world, and we are cautiously optimistic in other parts of the world."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "24": {
+         "Remarks": [
+            "Does the gear-up on the part of certain customers in electronic vehicles have any bearing on your business?"
+         ],
+         "Speaker": "Art Winston"
+      },
+      "25": {
+         "Remarks": [
+            "Absolutely. We have been telling you for a long time that automotive electronics is a big part of our business. Relatively speaking, it was down probably at the lowest point in, what, Joel, two or three years in Q2 because again, a lot of the automotive electronics plants were closed. But the \u2013 we\u2019ve talked about infotainment. We\u2019ve talked about advanced driver assist. We\u2019ve talked about connected cars and mobility. And I think electrification presents another great opportunity for Data I/O as cars get more and more \u2013 either through hybrid technology or 100% electric, that becomes a bigger part of the overall mix in the market. Just on a personal note, my fianc\u00e9 swapped out her 15-year-old car for a 4-year-old hybrid. And that thing has just tremendous performance for a car. It\u2019s fun to drive. And the electric motor is a much faster response than even some of the best turbochargers I\u2019ve driven. So they can be a lot of fun, not just environmentally sound. And maybe someone will figure out how to market that at some point."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "26": {
+         "Remarks": [
+            "Thanks and good luck guys."
+         ],
+         "Speaker": "Art Winston"
+      },
+      "27": {
+         "Remarks": [
+            "The next question will come from Mark Spiegel with Stanphyl Capital."
+         ],
+         "Speaker": "Operator"
+      },
+      "28": {
+         "Remarks": [
+            "Thank you. Just wanted to follow-up a little bit on the last question, which is about electric cars since that seems to be what the stock market, frankly, is going nuts over these days. Is the electric car business additive to you guys? Or is it basically just substituting machines you would have sold that would have gone into internal combustion cars?"
+         ],
+         "Speaker": "Mark Spiegel"
+      },
+      "29": {
+         "Remarks": [
+            "Well, Mark, it\u2019s the \u2013 I\u2019ll go back to what I\u2019ve talked about in automotive for years on electronics. If you\u2019re in the tire business, an electric car is a swap for an internal combustion engine as long as they have four wheels. What you find is, in the newer technology, there\u2019s a much greater reliance on electronics content. So it would be the equivalent of having eight tires in a car instead of 4. Why more electronics content? Well, there\u2019s a lot more software. There\u2019s a lot more \u2013 there are a lot more complex systems to control. If you have a hybrid, you are actually adding an electric motor and an internal combustion engine and then also adding elements to control the interaction between the two. You\u2019ve got dynamic energy recovery on the braking, for example. So you\u2019re adding all these different electronic subsystems that require intelligence. And as we\u2019ve talked about in the past, where there\u2019s intelligence, there\u2019s code and where there is code, there is bits to be programmed. And that\u2019s our business. So overall, the more interesting they make the car, the better off Data I/O is."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "30": {
+         "Remarks": [
+            "So in a pure battery car, obviously, you don\u2019t need all the intricate stuff controlling the engine to meet emissions requirements, whatever. Is there still enough extra electronics even net of the, let\u2019s call it, the simplicity of the car that it\u2019s additive for you guys?"
+         ],
+         "Speaker": "Mark Spiegel"
+      },
+      "31": {
+         "Remarks": [
+            "Have you driven a Tesla?"
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "32": {
+         "Remarks": [
+            "Sure."
+         ],
+         "Speaker": "Mark Spiegel"
+      },
+      "33": {
+         "Remarks": [
+            "What do you think about all the electronic systems they bolted onto that electric motor?"
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "34": {
+         "Remarks": [
+            "Well, I don\u2019t, no. I mean, yes."
+         ],
+         "Speaker": "Mark Spiegel"
+      },
+      "35": {
+         "Remarks": [
+            "Well, no, think about it for a second. So you\u2019ve got the infotainment system. You\u2019ve got all the sensors for advanced driver assist. You\u2019ve got additional complex software for, ultimately, autonomous driving. You\u2019ve got the interactions for a connected car for media, right, all the real-time updates, mapping, right, all that other good stuff."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "36": {
+         "Remarks": [
+            "So basically saying, regardless of the simpler power train, there\u2019s so much other stuff going into all cars that it\u2019s net additive for you, it sounds like you\u2019re saying."
+         ],
+         "Speaker": "Mark Spiegel"
+      },
+      "37": {
+         "Remarks": [
+            "Exactly. And we talked about infotainment and advanced driver assist. I think we\u2019re going to be adding electrification and as a nice theme for us going forward."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "38": {
+         "Remarks": [
+            "Terrific. Thank you very much."
+         ],
+         "Speaker": "Mark Spiegel"
+      },
+      "39": {
+         "Remarks": [
+            "Thank you, Mark."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "40": {
+         "Remarks": [
+            "And the next question will be from Steve Spence with RBC. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "41": {
+         "Remarks": [
+            "Thank you very much I wonder if you could \u2013 I appreciate the comments on the auto industry. It was part of my question for me. Second part of the question was are there other applications in the sense that you see out on the horizon for the technology that is not being \u2013 where your technology is not being used today."
+         ],
+         "Speaker": "Steve Spence"
+      },
+      "42": {
+         "Remarks": [
+            "So Steve, in general, we think automotive and \u2013 which is a fairly well-defined market segment, automotive electronics, and then IOT, which is a much more broadly defined market segment, are the 2 areas for growth. We felt that way two years ago, last year, we felt that way when COVID-19 hit, and we still feel that way. The IoT market, more and more things have more and more intelligence, and they\u2019re connected to the cloud for data analytics, for software updates and for combination with other IoT devices to help create a better user experience. All those things require intelligence and programming whereas before, they may not have. And just look around your house at things that were analog 10 years ago that are digital, and not only digital but digitally connected IoT devices now: locks, lighting, thermostats, appliances, et cetera. And so those are the two big market segments that we believe will power the growth."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "43": {
+         "Remarks": [
+            "And does the cloud fit into that equation on some of them, I would assume?"
+         ],
+         "Speaker": "Steve Spence"
+      },
+      "44": {
+         "Remarks": [
+            "Yes, absolutely. And it\u2019s a couple of things because a lot of these IoT devices, people could care less about the device, what they want is the information and then the analytics behind the information to enable decision support. So for example, if I put a bunch of meters on factory equipment, I really don\u2019t care about the meters on the equipment, what I want to know is if the meter is telling me that I\u2019m going to need to do preventive maintenance on machine 25 in a couple of days, otherwise, it\u2019s going to break down. And to do that, you need to have the information move off of the premise into the cloud, and it has to be done in a secure way. That provides opportunities not only for programming of data, which we do, but the fact that, that data must be securely managed means that any firmware updates for the devices also need to be securely managed, and that\u2019s really where our SentriX platform shines. So again, the two big markets there have a presence both for data and security deployments, which we offer in our product line today."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "45": {
+         "Remarks": [
+            "And are any of those products being sold today? Or is this still in the earlier stages of development and, for example, at Apple watches and phones and so on, mass market?"
+         ],
+         "Speaker": "Steve Spence"
+      },
+      "46": {
+         "Remarks": [
+            "Oh, no. We have active deployments with IoT today both in our data programming line, the PSV family of products as well as SentriX, which is our secure deployment platform. There are customers out there today."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "47": {
+         "Remarks": [
+            "Market penetration today, do you have any sense of that? I know it\u2019s hard when the markets \u2013 I\u2019m not defining the market very well. But do you have sense of that?"
+         ],
+         "Speaker": "Steve Spence"
+      },
+      "48": {
+         "Remarks": [
+            "Well, the market for IoT is big, and we\u2019re small. So I guess our penetration is pretty low right now, and our job is to make it go up."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "49": {
+         "Remarks": [
+            "Okay. Last question for you, can you comment on the competitive environment today?"
+         ],
+         "Speaker": "Steve Spence"
+      },
+      "50": {
+         "Remarks": [
+            "The competitive environment has changed a little bit overall. What we find is some of the people that were competitors maybe five years ago have fallen by the wayside. Some of these competitors, they don\u2019t just go away. They sort of fade away slowly. We remain the largest company in our industry. Our balance sheet gives us the flexibility to take a more long-term view than some of these other companies. We have seen some that were \u2013 some of the smaller companies in Asia have fallen behind and almost to the point of being a zombie. And \u2013 but the \u2013 we still have aggressive competitors both domestically and internationally. And so I think compared to, let\u2019s say, 5 years ago, there are fewer viable competitors, but at the same time, they are enough where we have to be on our toes all the time."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "51": {
+         "Remarks": [
+            "Okay, thank you very much."
+         ],
+         "Speaker": "Steve Spence"
+      },
+      "52": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "53": {
+         "Remarks": [
+            "And our next question will come from Avi Fisher with Long Cast Advisers."
+         ],
+         "Speaker": "Operator"
+      },
+      "54": {
+         "Remarks": [
+            "Thank you. Congrats, Anthony, on your engagement."
+         ],
+         "Speaker": "Avi Fisher"
+      },
+      "55": {
+         "Remarks": [
+            "Well, thank you."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "56": {
+         "Remarks": [
+            "How many SentriX platforms \u2013 did you say there are five units deployed?"
+         ],
+         "Speaker": "Avi Fisher"
+      },
+      "57": {
+         "Remarks": [
+            "That\u2019s correct, Avi."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "58": {
+         "Remarks": [
+            "So just you\u2019ve elaborated on the market opportunity ahead with electrification, IoT, many others and medical devices. Can you talk about your expectation on how you\u2019ll meet that demand either by unit sales or by SentriX deployments?"
+         ],
+         "Speaker": "Avi Fisher"
+      },
+      "59": {
+         "Remarks": [
+            "Sure. So we commented on 300 PSV systems sold this quarter. And so that gives you an idea of the installed base. And that installed base is predominantly in places like automotive suppliers, EMS suppliers and programming centers. SentriX with five units, we believe, going forward, the idea would be that when the market picks up, if demand explodes, we have an opportunity that we didn\u2019t have before to upgrade a number of our systems in the field that are PSV systems today, we can include that, we can upgrade them to SentriX technology in half a day, okay? So if the market really moves substantially to SentriX, we believe we have a way to manage that demand without choking on it. Having said that, I think the plan \u2013 data will far outweigh security, certainly for this year. We need to get additional engagements. The marketing engines need to pick up on not only our part but also the part of our partners for SentriX, and we\u2019re in the process of seeing some good results there. So it\u2019s a combination of increased marketing, the ability to satisfy any demand that\u2019s created very easily through an upgrade program that gives me good confidence in SentriX going forward."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "60": {
+         "Remarks": [
+            "Could you talk a little bit about the upgrade program? Because it\u2019s my understanding with SentriX that it\u2019s a \u2013 sort of a per unit, it\u2019s a different sales model. How would an upgrade look relative to your revenue generation?"
+         ],
+         "Speaker": "Avi Fisher"
+      },
+      "61": {
+         "Remarks": [
+            "Well, it would be something between what we\u2019re doing today where we place the full system and a full system sale, which we do today on the PSV. And I\u2019ll keep the details a little bit hidden since I know a lot of my competitors are on the call. But think of it as a hybrid model."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "62": {
+         "Remarks": [
+            "Okay. And your technology partner, your secure technology partner, is onboard with doing upgrades for existing systems?"
+         ],
+         "Speaker": "Avi Fisher"
+      },
+      "63": {
+         "Remarks": [
+            "Well, we didn\u2019t really ask permission from any third parties on our strategy for upgrades. We take care of that ourselves."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "64": {
+         "Remarks": [
+            "Okay, thank you for your time."
+         ],
+         "Speaker": "Avi Fisher"
+      },
+      "65": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "66": {
+         "Remarks": [
+            "Ladies and gentlemen, that is all the time that we have for Q&A today. I\u2019d like to turn the call back over to management for any closing remarks."
+         ],
+         "Speaker": "Operator"
+      },
+      "67": {
+         "Remarks": [
+            "Thank you very much, operator. Before we close, I would like to invite any of our Chinese customers that hear this call to meet with us at the NEPCON Shenzhen trade show, which will be upcoming later this month in Shenzhen, China. I\u2019d also like to let investors know that we\u2019ve been invited to present at the annual MicroCapClub Summit in September, and I hope to see them there. With that, I\u2019d like to close the call and thank everyone for attending."
+         ],
+         "Speaker": "Anthony Ambrose"
+      },
+      "68": {
+         "Remarks": [
+            "And thank you, sir. The conference has now concluded. Thank you for attending today\u2019s presentation. You may now disconnect."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

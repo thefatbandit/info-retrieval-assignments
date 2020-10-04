@@ -1,0 +1,349 @@
+{
+   "Date": "September 8, 2020",
+   "Presentation": {
+      "Jim Suva": [
+         "Hello, everyone, and thank you so much for joining us here to the Dell Technologies fireside chat here at City Investment Research. My name is Jim Suva, and I am here -- specifically I got to re-orientate my item perfect. I\u2019m here with the Chief Financial Officer of Dell Technologies, Tom Sweet.",
+         "Dell Technologies statements that relate to future results and events are forward-looking statements and are based on Dell Technologies current expectations. Actual results and events in future periods may differ materially from those expressed or implied by these forward-looking statements, because of a number of risks, uncertainties and other factors including those discussed in Dell Technologies periodic reports filed with SEC. Dell Technologies assumes no obligation to update its forward-looking statements.",
+         "We also note that City Investment Research has disclosures associated with this and any subject -- and any clients who are subject to MiFID II and need to make sure that they have those agreements in place. No media or press are allowed on this."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "So, first of all, this is Dell Technologies. Jim Suva here with Tom Sweet, the Chief Financial Officer\u2019s of Dell. So, Tom, as we kick things off more, I got to tell you person-to-person here, the events of 2019 and 2020 year-to-date, there\u2019s been a lot of changes, a lot of challenging situations for tech companies, including U.S., China, tensions, tariffs, the pandemic-related operational headwinds, many companies are adjusting their business practices to become more nimble. What are your top priorities as Chief Financial Officer for Dell right now?"
+         ],
+         "Speaker": "Q - Jim Suva"
+      },
+      "2": {
+         "Remarks": [
+            "Well, thanks, Jim, and hey, it\u2019s good to see you. Only if it\u2019s just virtually right. So it\u2019s too bad if we couldn\u2019t do this in person. But I appreciate you having me on today. So, well, it\u2019s clear, there\u2019s been a lot going on in the environment this year as we\u2019ve navigated through the first six months to seven months of the year.",
+            "I was mentioning to Michael Dell and Jeff Clarke, the other day, that I said, it feels like this first couple of quarters of the year have taken about two years to get through so far, so it\u2019s been interesting to work our way through it.",
+            "So, look, it\u2019s, like many of you and we\u2019ve been navigating through a work-from-home scenario and impacts to the daily life that all of our team members are going through. But even as we do that we\u2019re clearly focused on how do we serve our customers? How do we ensure that we\u2019re providing the technology solutions that our customers need to drive their businesses?",
+            "So right now, Michael, Jeff and I have been very focused on, again, helping our customers, making sure our employees are safe. But also thinking about how do we position the company for future growth? What are those growth tangents and vectors that we need to be focused on?",
+            "And so it\u2019s -- and we\u2019re taking the learnings from what we\u2019ve learned so far as we\u2019ve gone through this COVID pandemic. We\u2019ve seen customer\u2019s behaviors change, where they\u2019re now more willing to engage virtually and how do you think about that in a post-COVID world and how do you lever capabilities to better serve our customers?",
+            "We\u2019ve rolled out payment flexibility programs to help our customers who are navigating. How do they preserve capital, but still need access to technology. And so it\u2019s been a really interesting six months. And then we\u2019ve also, obviously, had the whole George Floyd dynamic that we\u2019ve had to work our way through around racial and social injustice, and how do we ensure that we\u2019re building on continue to accelerate an inclusive culture?",
+            "Having said all of that, I mean, we\u2019re extraordinarily focused on what are those future ready growth vectors that we ought to be focus -- that we\u2019re -- that we look to as growth opportunities, areas like telco, areas like edge, areas like data management, data services are all areas that we\u2019re investing in even as we do invest in other areas as we navigate the dynamics?",
+            "And also, you mentioned China, right? China is a very big important growth market for us. It\u2019s a -- our supply chain has a number of operations there. We\u2019re, obviously, pro-free trade and we\u2019re hopeful that we can continue to work our way and that the government\u2019s can continue to work your way through that navigation and come to a constructive resolution.",
+            "But we feel pretty good about our navigation today, Jim. It\u2019s been an interesting half year. We\u2019re optimistic about the long-term, but we have more work to do as we work our way through the next number of years."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "3": {
+         "Remarks": [
+            "And, Tom, you actually spoke on the topic a little bit earlier in your comments on the last question about capital allocation and cash. Can you remind investors about your debt paid down plans? I think stock buyback you kind of suspended it given the pandemic. Just walk us through your capital allocation and your priorities and strategic priorities for your use of cash?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "4": {
+         "Remarks": [
+            "Yeah. Jim, it\u2019s a question we get a lot and we\u2019ve been fairly consistent, I think, are very consistent in how we think about this, which is, hey, from a capital allocation perspective, we\u2019re very focused on debt pay down. We have paid down $3.5 billion year-to-date as a Dell Technologies entity. We are scheduled to pay down another $5.5 billion as we go through the remainder of the year.",
+            "All of -- all as we position the organization to get back to investment grade, we just finished the -- we just closed the RSA transaction here last week and those proceeds will also go towards debt paid down as part of that $5.5 billion that we\u2019re going to do.",
+            "So, look, we -- what\u2019s important for us, Jim. We think it\u2019s the right thing to do from an overall capital allocation perspective. We did have a bit of a share buyback earlier in the year, but we suspended that just given the uncertainty in the demand environment and making sure that we positioned the organization properly.",
+            "And we think it\u2019s important from just as you think about our scale and breadth of business that we get back to investment grade and we\u2019re, obviously, having conversations with the rating agencies. It\u2019s going to be their decision on when that -- when you cross that threshold and they make those calls and it\u2019s our job to position the company appropriately to drive that. So that\u2019s our navigation. That\u2019s what we\u2019re focused on. I am pleased with the debt reduction to-date and we\u2019re just going to continue that framework as we move forward."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "5": {
+         "Remarks": [
+            "Sounds great. How about if we shifted over now to kind of the core fundamentals of the business, specifically, you and some of your competitors have talked about as-a-service models? How are you approaching as-a-service? What\u2019s your view on it over the long-term? And is there any impact to, say, cash flows or something we should be modeling or changes to revenue outlook, as you look at as-a-service model more?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "6": {
+         "Remarks": [
+            "Yeah. Hey, Jim. It\u2019s -- we -- I think what\u2019s been interesting is, as we\u2019ve navigated through this pandemic is that there has been an increase in customer interest in these types of consumption models, whether it\u2019s as-a-service models or flexible consumption models or on-demand models, but those things that offer some variability in many instances take CapEx and make it changing into objects.",
+            "And we\u2019ve got a whole set of capabilities around our Dell Technologies on-demand solutions that include both commitment-based models like Flex On Demand or pay as you go or pay as you grow to the various usage models, as we\u2019ve discussed.",
+            "And so, again, what we\u2019re focused on is, how do we help our customers acquire technology and how can we help them in way that they consume and pay for technology, and look, we\u2019d like it. I like these types of these frameworks. I think from a predictability of cash flow, from a long-term relationship from an overall profitability perspective, they\u2019re very useful and good models for us and so we\u2019re focused on how do we grow these as-a-service models.",
+            "And so if you recall in q2, I highlighted the fact that our recurring revenue, which is a combination of utility as-a-service and some of the other financing models that we have grew 15% year-over-year to $6 billion a quarter. So you think about that, roughly 25% of our quarterly revenue is a recurring revenue framework.",
+            "And we like that. We think it\u2019s -- we\u2019re going to continue to focus on growing it. Our DFS is a key enabler of how do we drive that? And so we\u2019re very, very focused on helping our customers drive these types of programs.",
+            "So look from a cash flow perspective, in terms of that question of how do you model it, we have a pretty, incredibly efficient capital structure. So, I think, and we use DFS and we placed that against those DFS originations and finance receivables and with quite an efficient way.",
+            "So I think we feel good about our ability to continue to grow it, customers are interested in it and we\u2019re going to continue to push on this. I think appropriately from a profit -- long-term profitability framework, we think it is a really interesting proposition for us."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "7": {
+         "Remarks": [
+            "Tom has literally a week ago or two, when you and I were talking, as well as with your investors on your recent results, and I got to tell you, they were very positive. You\u2019re upside it on almost all metrics. But your commentary on the future seemed almost like a yin and a yang, the opposite there of a lot more cautionary. So maybe can you discuss your outlook for demand trends because you just had a fantastic quarter amongst Coronavirus, amongst a lot of business and retail and hospitality and restaurant wind downs or closures, and you had great results, but your outlook to me seemed pretty conservative or cautionary? Are you seeing something out there or walk us through your outlook for demand and how we should take your comments and kind of bridge it to just what stellar results you just had?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "8": {
+         "Remarks": [
+            "Well, thanks, Jim, and I do appreciate those comments. And the team did do a good job of executing through Q2. What I tried to convey with you -- as we talked on the call a few weeks ago was, hey, look, the domain environment to-date is a bit uncertain. And so we are focused on, we want to be thoughtful about our commentary out there.",
+            "And what -- I would remind you, Jim, what I reminded everybody on the call was, as you look at our seasonal pattern for Dell Technologies, Q2 and Q4 generally our strongest quarters and Q1 and Q3 tend to be slight -- slightly softer quarters.",
+            "And traditionally what we see in Q3 is, as you go from Q2 to Q3, we typically historically get a sort of a -- from a revenue perspective sort of a flat to a minus 2% quarter-on-quarter demand our revenue dynamic. We do think it\u2019s going to be a bit softer this year. Obviously, we\u2019ve got the economic uncertainty with the pandemic. We\u2019ve got some mixed dynamics as we look at our clients, our CSG business where we\u2019ve seen incredible growth and strength in government and education buying.",
+            "And as you and I have chatted about it, but that comes typically with the touch of products they\u2019re buying are typically a lower ASP and a lower margin dollar product, and therefore, you\u2019ve got some mix dynamics that are also happening -- sort of playing into it.",
+            "So, my perspective was, look, I wanted to -- with the lack of clarity around the demand, I wanted to make sure that we sort of set the framework I think the way that it\u2019s shared with everybody the way we\u2019re thinking about it.",
+            "We\u2019ve had a -- we\u2019re still optimistic, obviously, over the long run. We just think the next couple of quarters are going to be a bit -- we\u2019re going to have some navigation to do as we work our way through this.",
+            "And so, I\u2019m optimistic, again, we take and share quite aggressively in storage for instance over the last couple years over 220 basis points. We\u2019ve taken over 510 basis points of mainstream server revenue over the last three years. So, we continue to consolidate, but yet, I do think that, we\u2019re going to have to work our way through this uneven time over the next number of quarters."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "9": {
+         "Remarks": [
+            "Tom, you\u2019d mentioned storage. You\u2019ve been gaining a lot of share in storage. Maybe if you can talk a little bit more about looking more mid-term, the pandemic hasn\u2019t resulted in more needs and maybe we can talk about both storage and servers together independently, more need for connectivity. I know there\u2019s a side of the PC business, but maybe we can focus on servers and storage, because you\u2019ve been gaining share?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "10": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "11": {
+         "Remarks": [
+            "Is there going to be a pent up demand from this? Does it result in tail winds or is it more difficult where if you ship something to Citigroup, there\u2019s nobody in our building to really accept and sign the delivery and install it into the cabinets or at least those things are more complicated, because there are people there to receive it, it\u2019s just a little more logistical complicated in the past. Can you talk about servers and storage in the pandemic and how we should think about people using more data, more security, more connectivity and how that should impact your servers and storage business?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "12": {
+         "Remarks": [
+            "Yeah. Look, it\u2019s been an interesting time, generally, again, I\u2019d chatted about this from time to time. What we saw with customers was a behavior where they pivoted pretty dramatically to the end-user devices in the first part of the year, and so our foot -- in some instances differ investment in some of the infrastructure area.",
+            "Having said that, we do think that, there is an investment cycle that will -- that is going to happen in the infrastructure space. If you looked at IDC forecasts for the -- for calendar \u201821 for instance, you would see that they\u2019re forecasting growth in both mainstream server revenue, as well as in storage, and we do think there is a bit of a -- there will be a bit of a pent-up demand.",
+            "I do think, however, though, in the next couple of quarters that we\u2019re still going to have to work our way through the unevenness, if you will, of the demand environment. We\u2019ve refreshed our entire product line and storage, the receptivity has been quite strong.",
+            "We\u2019re seeing pockets of growth in storage, for instance, in our PowerMax, our high-end storage with our Data Protection offerings. Yet, we still saw some softness in mid-range and we\u2019re optimistic that PowerStore, the new mid-range product is going to accelerate our performance in the mid-range.",
+            "And servers is an interesting dynamic as well, the server market has generally been a bit soft. We\u2019ve seen softness in the transactional demand, meaning that those smaller value transactions. We\u2019ve seen the large bit businesses continue to hold up quite well.",
+            "But, again, that\u2019s -- it\u2019s very much a geographic dynamic in terms of where the pockets of strength are. We\u2019ve seen growth in China -- the China markets growing, but, yet, the price points there have been pretty competitive. So we\u2019ve been very deliberate there in what we do.",
+            "So, overall, the ISG space, the infrastructure space, it has been a bit uneven. But over the long-term, I think, we\u2019re very bullish on what that looks like as customers continue to drive the hybrid cloud adoption that we\u2019re seeing. And so, but we\u2019re going to have to work our way through the demand environment to continue to focus on serving our customers."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "13": {
+         "Remarks": [
+            "Tom, you actually touched on the product at PowerStore. If I remember right, I think, it launched in May time period or so."
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "14": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "15": {
+         "Remarks": [
+            "Can you kind of update us a little bit on the launch of that and does it have a meaningful impact on your ISG and any impact of margins? And the reason I ask is, sometimes when companies launch new products, there\u2019s a lot of promotion and advertising or discounting that goes on. Other times the people launch a new product, it\u2019s a higher and higher ASP of what\u2019s going in versus what\u2019s coming out or sometimes it\u2019s just simply you discount what the prior one was. So it\u2019s a net no change to the margins. How should we think about PowerStore?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "16": {
+         "Remarks": [
+            "Yeah. Look, Jim, we\u2019re very optimistic about PowerStore and you are right it launched back in the May timeframe. And the receptivity by the customer base has been quite strong. We have seen a strong growth in the pipeline of interest from customers in terms of the -- our sales pipeline, if you will.",
+            "But we\u2019ve also been a bit slowed down quite frankly by the pandemic in the sense of many of our customers are not in the office. So therefore we think about a new storage array with a new operating system and the work that most of our customers want to do in their labs to test it and qualify it. That\u2019s been a bit slower if you will in terms of working our way through some of the qualifications. But we\u2019re very optimistic. We think it\u2019s a great product. It is a differentiated product.",
+            "As you recall and as you know, storage -- the storage selling cycle tends to be a bit longer, right? And so, one of the things that we\u2019re seeing is, perhaps, that sales cycle is even a bit longer because of some of the qualification dynamics that I\u2019ve kind of highlighted to you.",
+            "But there\u2019s a couple of things that we find pretty interesting, Jim. We\u2019ve been shipping for about a quarter now, right, and we\u2019ve acquired hundreds of new customers with PowerStore. And what\u2019s been interesting is that, our hundreds of customers, I should say, with our PowerStore product and solution, what\u2019s been interesting is about 20% of those customers are either new to Dell or new to Dell storage. And so it\u2019s been a really interesting vehicle to begin to think about customer acquisition and so we\u2019re very pleased with that.",
+            "So, look, I -- we expect PowerStore to continue to ramp as we go through the year in terms of how does it translate into revenue. But as we get to the later half -- later this year and on into next year, we were very optimistic about the velocity that PowerStore will continue to drive. And customers are very favorable with what their impressions on it. So far so good, but there\u2019s some -- we\u2019re going to have to continue to make progress here."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "17": {
+         "Remarks": [
+            "And Tom, sticking with the infrastructure market, your margins were much, much stronger and richer than expected. And this was despite revenue, pressures and inflationary environment where components cost a lot more in the first half of the year compared to past historically have when memory prices trail down. What\u2019s really driven the margin improvement, because it just seems like the whole world would see margin compression, yet, Dell saw margin better than expected, which is great. But I can also wonder, not only what\u2019s driving it, is that kind of as good as it gets or is there still margin expansion opportunities?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "18": {
+         "Remarks": [
+            "Yeah. Look, you did see operating margins, clearly, remained strong or stayed up as we worked our way through the first half of the year. I would tell you that in many respects we benefited, the operating margins benefited from the OpEx controls that we put in place.",
+            "We talked about that in our Q1 call, Jim, if you recall, right? Where we talked about the fact that we were limiting backfill, we were going to T&E trend -- as most companies, there\u2019s not much of that going on now with limited consultants and contractors. We suspended our 401(k) match.",
+            "All hard decisions and tough decisions, but we thought appropriate decisions to protect the P&L and protect the liquidity of the company, particularly given the uncertainty in the demand environment. And so that OpEx control, obviously, benefited the P&L we saw in Q1 and again in Q2. And -- so, I think, in the immediate that\u2019s clearly been helpful.",
+            "So other trends that I\u2019d highlight for you, though, Jim, as we think about mix of product and mix of the various solutions is, we have seen growth in our high value workloads and in those servers that customers buy for AI/ML type capabilities and they tend to carry a higher ASP, which generally translates into higher margin. So we\u2019ve seen good positive trends there as well.",
+            "We\u2019re also very focused on some of the as-a-service and recurring revenues, which aren\u2019t carry higher margin dynamic as well. So there\u2019s a number of trends that are working their way through the business. But, I think, what we\u2019re navigating right now, what we\u2019re very much focused on is, how do we drive and sustain margins at the same point in time expand those areas that customers are seeing are our focus areas for them, be as-a-service offerings, the some of the new storage solution capabilities, which carry a nice margin with it. So it\u2019s a mix of areas, Jim, to be honest, but I\u2019m very pleased with the result to-date and I think the team has done a really nice job of sort of navigating the environment to help our customers."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "19": {
+         "Remarks": [
+            "We have PCs to the latter half of our discussion here, because I often find myself reminding investors that Dell has a more outsized exposure to commercial PCs versus consumers [Technical Difficulty] So going back to school is a little bit disproportionate favor as opposed to returning back to work. So are you -- am I still right on that as far as a lot more exposure to commercial versus consumer? And are you expecting that the trends to improve going forward as economy start to [Technical Difficulty] start to come back to [Technical Difficulty] -- employees coming back to work or what\u2019s your view on the PCs sector and Dells positioning?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "20": {
+         "Remarks": [
+            "Yeah. Hey, Jim. Look, I do think you\u2019re correct in the sense of, if you think about the long-term dynamic we\u2019re very much focused on the commercial PC. We think that\u2019s where the profit pool is. The fact that we have a direct selling organization allows us to do, attach motion to attach services cross sell. So all of that platform, the commercial PC platforms are very stable and profitable business for us and generates really nice cash flow.",
+            "There obviously are some dynamics that we are -- we have had to work our way through as we\u2019ve come through the pandemic. We saw strong corporate PC growth in Q1, principally the notebook, the desktop, clearly, suffered as customers move to mobility products. We saw that softness continuing to Q2.",
+            "We saw the corporate PC space soften in Q2, but yet we saw the acceleration of government and education as we worked our way through our Q2 and we also saw the acceleration of the consumer space to your comment around learn-from-home. And so we saw really good growth in our consumer business.",
+            "Our Consumer Direct Online, for instance, was up 79% year-over-year. And so, as we move now into Q3 as we\u2019ve talked about on the call, we continue to see some of the mixed dynamics in the PC space where education and government continue to remain strong in the PC space and the consumer space remains quite strong.",
+            "We do think over time the corporate PC bounces back and we -- even that is the area of focus in the longer term that\u2019s of interest to us given the profitability profile. But the reality is that you can\u2019t control the market and you need to take advantage of the market opportunities that are there. And to-date if you look at government and education, excuse me, which are quite strong and we\u2019re going to push on those, as well as take advantage of and serve our consumer customers principally consumer through our direct selling motion, we think is quite strong and very beneficial.",
+            "So, we\u2019ll see how the rest of the year works its way out, but long-term we\u2019re optimistic about the corporate PC, but clearly, lots of short-term or intermediate demand in the education space and in the consumer space at this point."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "21": {
+         "Remarks": [
+            "I imagine the component costs are large feature also. So maybe can you give us here, first of all, walk us through when memory prices go up or down and I\u2019m sure it has to do with magnitude of the slope. Is it like a one quarter delay or is it hit you or help me right away? Do you pass all that through or some of it through? And again, it depends upon the magnitude of up or down on those components. Can you walk through investors about how that impacts Dells margins of components and kind of what you kind of expect going forward for component pricing?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "22": {
+         "Remarks": [
+            "Yeah. I\u2019m happy to Jim. And you know that there\u2019s a couple of product lines that are quite sensitive to component cost changes, right? Our PC space and in the server space tends to be quite sensitive.",
+            "And let me remind everybody that last year we saw unprecedented deflation, if you will, in the component cost. And from a Dell model, let me remind everybody that, one, we -- I am curious, our inventory positioning is given that word direct selling organization tends to be less. So therefore, in a component cost deflation environment that tends to be quite beneficial from a margin perspective, which is what we saw last year with our PC and servers.",
+            "And memory costs were quite deflationary and they flipped to inflationary this year and were inflationary in Q2, and so, in that type of model, what tends to happen is that, you\u2019ve got a price the memory and therefore you tends to be a suppressant on operating margin until you can adjust pricing appropriately and so that dynamic continues to be one that continues to grow year-over-year was a bit of a challenge.",
+            "As we look forward, as we talked about on the call, Q2 was inflationary and we think Q3 would be slightly inflationary, but we then think that memory flips to deflationary in Q4 and we talked about that on the call, given the demand environment that we\u2019re seeing.",
+            "So our -- and so what do we do about that? Well, it\u2019s all about how do you adjust your pricing and how do you adjust configuration strategies to ensure that when you\u2019re providing customers with the configurations that they need, but we\u2019re optimizing margins to the extent that we can.",
+            "And as we talk about -- when we make a list price adjustment, we tend to realize about roughly 50% to 60% of that list price adjustment in any given quarter, just given the float around quotes and things of that sort. So that\u2019s the dynamic we\u2019re in right now and component costs, as I said, are -- for both our servers and PCs and those are the two principal areas that where we see sensitivity."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "23": {
+         "Remarks": [
+            "Great. In the near-term, are there any other component -- things, I think, you\u2019d mentioned memory the most. Is there anything else like constraints on shortage of CPUs?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "24": {
+         "Remarks": [
+            "Jim, I\u2019m having a hard time hearing you, but if I heard the question properly\u2026"
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "25": {
+         "Remarks": [
+            "Tom, of course. Yeah. Hey, Tom -- continue to hear."
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "26": {
+         "Remarks": [
+            "Jim, I -- try that again please."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "27": {
+         "Remarks": [
+            "Great. So we should keep an eye on, I recall last year, I think, was CPUs were a little bit of a challenge. I know a lot of displays? I bought more monitors for my house, so we could host this call. Are there any other components we should keep an eye on, because mostly you mentioned memory?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "28": {
+         "Remarks": [
+            "Yeah. Hey, Jim, right now, I mean, it should be a surprise to anybody, given the demand that we\u2019ve seen with education and with notebooks and with Chromebooks that some of those low core count CPUs are in short supply. And so that you\u2019ve seen that is -- that has manifested itself in sort of long lead times as you look out at some of those types of product offerings.",
+            "In addition to the CPUs also the -- some of the monitor or the flat panels for the Chromebooks and for the education notebooks are a bit in short supply. So there are some constraints on the low end.",
+            "But absent that, I think, the overall supply chains are in pretty good shape, lead times are generally in line and we\u2019ll have to work our way through the education and Chromebook bulge that we have right now. But other than that I think we are in good shape, Jim."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "29": {
+         "Remarks": [
+            "And CPUs, is it fair to say you\u2019re getting all you need now, are there like allocations, I remember last year, I think, there were some constraints I have seen you use for Dell, is that right?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "30": {
+         "Remarks": [
+            "There were Jim, and we are working quite closely with Intel on in terms of total, not only quantity, but also sort of mix, which types of CPUs and there still are some dynamics there. We\u2019re working very closely with Intel daily on our CPU requirements and the types of CPUs.",
+            "And so that continues to be an ongoing set of activities and work that we\u2019re doing. But it\u2019s our job to work our way through it and to ensure that we provide the right platforms and have the right cap -- solutions for our customers. So still a bit of a constraint but we\u2019re working through it."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "31": {
+         "Remarks": [
+            "Hey, Tom. Can you hear me?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "32": {
+         "Remarks": [
+            "Yeah. I can now."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "33": {
+         "Remarks": [
+            "And I got a couple more questions here. I think it would be fair for us not [Technical Difficulty] to lose a little bit about, you mentioned, SEC filing earlier that you file about the potential spin or tax-free spin of VMware. I don\u2019t expect you can give us an update on that because on a like [Technical Difficulty] CPA, I know you have to get IRS approval. There\u2019s a lot of things, you have to do commercial agreements in place. [Technical Difficulty] But can you just kind of walk us through the logic because for years Michael Dell was so much talking about stronger being together. Just walk us through kind of the logics?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "34": {
+         "Remarks": [
+            "Hey, Jim. Fair question, right? And so, look, I think, that what we\u2019ve thought about there is that\u2026"
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "35": {
+         "Remarks": [
+            "Tom, it\u2019s Jim Suva. Can you hear me?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "36": {
+         "Remarks": [
+            "Yeah. Jim, can you hear me now? Jim?"
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "37": {
+         "Remarks": [
+            "Hey, Tom."
+         ],
+         "Speaker": "Rob Williams"
+      },
+      "38": {
+         "Remarks": [
+            "Hey, Tom."
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "39": {
+         "Remarks": [
+            "Stop before you\u2026"
+         ],
+         "Speaker": "Rob Williams"
+      },
+      "40": {
+         "Remarks": [
+            "Yeah. Tom, go ahead."
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "41": {
+         "Remarks": [
+            "We\u2019re talking over each other here, apologize. Hey, Tom, before you answer that question, hey, Jim, you\u2019re breaking up pretty bad. We might suggest that you turn off your video and just go audio-only for the rest of the interview and we\u2019ll see how that works. And Tom, I think, you got to address the Jim\u2019s question."
+         ],
+         "Speaker": "Rob Williams"
+      },
+      "42": {
+         "Remarks": [
+            "I did. I just and I\u2019m happy to answer it. And Jim, you had broken up, but I think I got your gist of the question around VMware. So let me give you some thoughts on that. And hopefully we -- you\u2019ll be able to hear me effectively.",
+            "So, look, I think, as we\u2019ve thought about it, we don\u2019t think that the market is appropriately valuing our structure and we\u2019ve said that on a number of occasions. And we obviously state are very much focused on value creation.",
+            "So we have been thinking our way through alternatives that can maintain some of the benefits of our current relationship with VMware, while unlocking some of the respective equity holders and benefits for each of the companies. So a potential pathway here is this, potential tax-free spin of 81% of our interest in VMware to Dell stockholders.",
+            "And so, having said that, that was the -- that resulted in 13D filing in mid-July, we are continuing to work our way through that and that -- we\u2019ll have to see if that comes to fruition or if that makes sense.",
+            "But we do think there\u2019s benefits to both the Dell Technologies shareholders and the VMware shareholders, if we could do the tax-free spin, while maintaining through a strong -- a good operating agreement, some of the benefits that we\u2019ve articulated around the better together the joint innovation and the coordinated go-to-market.",
+            "And we have both Dell Tech and VMware have workstreams that are focused on working our way through some of these questions to see if there\u2019s a way to do this in a way that makes sense. And as part of this, we would consider how do you think about a special dividend from VMware to VMware shareholders as part of this construct as well.",
+            "So lots of work going on. We\u2019ll have to see if this comes to fruition. But we do think that there\u2019s an opportunity here to optimize the strength of the relationship and what we bring from Dell, what Dell brings from a go-to-market strategy, from a hardware innovation, as well as VMware from their capabilities, as well as the DFS capabilities that we bring to bear.",
+            "So, we\u2019re exploring this. We\u2019ll see if it becomes, there\u2019s a lot of work to do. Obviously, the earliest we could do this would be September of next year. But right now, we\u2019re focused on thinking our way through and working our way through some of the areas that we would need to resolve. So more to come at the appropriate time."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "43": {
+         "Remarks": [
+            "And Tom, as we wrap up now last few minutes, is there anything you want to communicate to investors that either they\u2019re overlooking or the top questioner to that you want to clarify as we conclude?"
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "44": {
+         "Remarks": [
+            "Yeah. Look, Jim, thanks, and I appreciate you have give me a second here. So, look, I think, that the question we get a lot is, how do you think about the near-term growth and how do you position the organization to grow in some -- particularly with some of the end-user markets?",
+            "We are very focused on, if we -- as we look out over the intermediate the opportunity in front of us, we participate in these markets that have very large total addressable market opportunities. We have, although, we\u2019re the leader in mainstream servers. We\u2019re the leader in external storage. We\u2019re the leader in commercial PC profitability.",
+            "There is opportunity yet to continue to consolidate the market. There\u2019s -- as we look at growth vectors, some of the new adjacent TAMs that are emerging and whether that\u2019s in telco, whether that\u2019s in edge, whether that\u2019s in data management, data services, I think, also provides some interesting opportunities for us to think about growth.",
+            "We\u2019re going to have to navigate the intermediate or the short-term, if you will, with the COVID dynamic, but we\u2019re optimistic that the technology trends are in our favor, right? If you think about the adoption of hybrid is sort of the operating model that most organizations are migrating to, which is, so there\u2019s a role for both public cloud, as well as on-prem and private cloud.",
+            "So, we believe the world is coming our way, Jim. We\u2019ve got work to do and we\u2019ve got to continue to build our capabilities and serve our customers. But we\u2019re very optimistic given the state of our business framework, given the -- our strong cash flow generation capabilities and we\u2019re focused on paying down debt, getting back to investment grade and continuing to serve our customers."
+         ],
+         "Speaker": "Tom Sweet"
+      },
+      "45": {
+         "Remarks": [
+            "That sounds great. Tom, I want to thank you and your management team for joining us and we wish you a nice healthy time here and we look forward to seeing you again in the not too distant future. Thanks so much Tom Sweet, Chief Financial Officer of Dell Technologies."
+         ],
+         "Speaker": "Jim Suva"
+      },
+      "46": {
+         "Remarks": [
+            "Thanks, Jim."
+         ],
+         "Speaker": "Tom Sweet"
+      }
+   }
+}

@@ -1,0 +1,430 @@
+{
+   "Date": "August 4, 2020",
+   "Presentation": {
+      "John Fan": [
+         "Good morning and thank you for joining us to discuss our second quarter results. Given the continued unprecedented circumstances that we all are currently facing, I want to start by expressing our hope that all of you and your families are staying well and safe.",
+         "We are very pleased with our Q2 results both from our operations and technical standpoint. With a solid Q1 momentum continuing into the second quarter. We had a very strong revenue growth, driven by defense business, which increased 150% over the prior year. We saw expanding gross margins for improved manufacturing efficiencies and our cost structure continues to decline significantly. ",
+         "As we continue to execute our strategy that reinstitutes our [Indiscernible]. The second quarter also saw the first production shipment of our OLED Backplane wafers and encourage that as we increase our focus on our OLED displays. ",
+         "We also make a very exciting announcement this morning. In a separate press release, on our further technology development advancements in OLED. I will discuss that more in this. So we had very successful first half of the year and we look forward for the continued momentum in the second half of this year and beyond. ",
+         "Well, let us look more closely on our defense business. As I have discussed previously, we have commenced production in our two important programs, the F-35 Fighter Jet program, and FWS-I program. ",
+         "These two programs again drove our defense business and revenue in the last quarter. We also made further progress on a number of other development programs moving down closer to production as the scope of some the programs continue to expand. ",
+         "These important steps on defense programs are actually related to many different areas including fixed-wing and rotary planes, armed vehicles, and offering our soldiers already. We are gaining additional leverage for this development products as we can use the knowledge in the future industrial and consumer applications. ",
+         "These large portfolio of programs poised through significant revenue opportunity. But there is no guarantee all those programs will reach production range. We expect these additional programs will reach production by the end of 2021. So Kopin should have five to ten programs generating production in revenues.",
+         "Shifting to initial production order about OLED Backplane wafers, one of the important steps is by expanding on that business. We are also pleased to receive a follow-up order. ",
+         "Starting out from last quarter end we will introduce a breakthrough lining 2.6K x 2.6K display based on our ColorMax technology. This technology display utilizes what\u2019s referred to as a reduced OLED which is three to OLED structures go on top of each other. ",
+         "The two OLEDs were connecting a series with a carrier pass to the two-stack OLED which generates full touch flat instead of what are in conventional single-stack OLED. The two-stack provides a lot more flexibility in the OLED design and a huge selection versus the single-stack, which can be much higher efficacy \u2013 and gets to reduced real color consumption and has longer life. ",
+         "What\u2019s particularly impressive about this dual-stack display is the ratio and Nits per end. Now let me explain to you, Nits is a measure of brightness. Historically, you can keep very high brightness on Nits on running a lot of current through the ambient. With the top of what\u2019s at the high current significantly shortens the life of the display an additional cost to [Indiscernible]",
+         "Kopin is developing unique technology. We call it ColorMax that allow the lining 2.6K x 2.6K display to achieve remarkably color fidelity, greater than 115% sRGB brightness while a very low current. The ratio of candela per amp which is really the index of how good there was over 6 which is particularly exciting. ",
+         "On the press release we issued this morning, is the Nits discussion and highlight a new level our results came in above a month ago and \u2013 a month\u2019s understanding and confidence is really. So it is top of the press but the quantum just is such a high rich and application for VI AI that we wanted to share with you today. Essentially, Kopin has now achieved 7,000 Nits with our new lighting 720p OLED display. ",
+         "Going back to the figure a moment, the candela per amp has gone up from 6 to a total of 2.6K x 2.6K, which at that time is a very unprecedented number now it has gone to 14 in two months. ",
+         "The panel reduced duo-stack can really now addresses the charging issues around brightness for. As COVID-19 has accelerated the interest around AR VR, it is important to not only break through turning points. While it\u2019s too early with this technology to come, and we look forward to sharing more, much more in the coming months. ",
+         "Finally, I have to thank the Kopin employees who are continuing to work throughout these challenging times. Their dedication, without possible and we appreciate all the efforts to stay safe and healthy. ",
+         "With that, I would turn the call to Rich."
+      ],
+      "Operator": [
+         "Good day, and welcome to the Kopin Corporation Second Quarter 2020 Earnings Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Mr. Rich Sneider, Chief Financial Officer. Please go ahead, sir."
+      ],
+      "Richard Sneider": [
+         "Thank you, operator. Welcome everyone, and thank you for joining us this morning. John will begin today's call with a discussion of our strategy, technology and markets. I will go through the second quarter results at a high level and then we'll be happy to take your questions.",
+         "I would like to remind everyone that during today's call, taking place on Tuesday, August 4, 2020, we will be making forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These statements are based on the Company's current expectations, projections, beliefs and estimates and are subject to a number of risks and uncertainties that could cause actual results to materially differ from those forward-looking statements. Potential risks include, but are not limited to, demand for our products, operating results of our subsidiaries and market conditions and other factors discussed in our most recent Annual Report on Form 10-K and other documents filed with the Securities and Exchange Commission. The Company undertakes no obligation to update the forward-looking statements made during today's call.",
+         "And with that, I'll turn the call over to John.",
+         "Thank you, John. Turning to our financial results. Product revenues for the second quarter ended June 27, 2020 were $8.7 million compared to $4.4 million for the second quarter ended June 29, 2019, a 50% increase year-over-year. ",
+         "Research and development and other revenues were $2.1 million for the second quarter ended June 27, 2020 compared with $4.7 million for the second ended June 29, 2019. Included in the $4.7 million of revenues in the second quarter of 2019 was a one-time license fee payment of $3.5 million. ",
+         "Total revenues for Q2 2020 were $8.8 million versus $9.1 million in the prior year with 2019 reflecting the $3.5 million one-time payment. Cost of goods sold for the second quarter of 2020 was $4.8 million or 72% of product revenue, compared with $5.3 million or 118% for the second quarter of last year. ",
+         "The significant decrease in cost of product revenue as understand the net product revenues for the year for the three months ended June 27, 2020 as compared to the three months ended June 29, 2018 was primarily due to lower fuel costs, along with improving manufacturing yield efficiencies due to higher sales volume with reduced fixed cost per unit than we have planned. ",
+         "As a reminder, we were commencing production of certain products and we experienced higher than normal scrap for the first three and six months of 2019 as compared to same period of 2020. ",
+         "R&D expenses in the second quarter of 2020 were $2.2 million, compared with $3.3 million for the second quarter of 2019. The lower R&D cost for the second quarter of 2020 as compared to the prior year was a result of IT commercialization strategies put in place in 2019, specifically the licensing of Golden-I Infinity and Solos smart glasses.",
+         "SG&A expenses were $2.9 million in the second quarter of 2020, compared to $5.4 million in the second quarter of 2019. The decrease was primarily due to lower compensation expenses including stock-based compensation, bad debt expense, professional fees, information technology expenses, travel and the accretion of the NVIS contingent consideration. ",
+         "Other income, expense was expense of approximately $6,000 for the second quarter of 2020, compared with $627,000 of income for the second quarter of 2019. During the three months ended June 27, 2020, we recorded $10,000 of foreign currency gains as compared to $184,000 of foreign currency losses for the three months ended June 29, 2019. The three months ended June 29, 2019 also included a mark-to-market gain on an investment of $768,000. ",
+         "Turning to the bottom-line, our net loss attributable to controlling interest for the quarter was approximately $1 million, or $0.01 per share, compared with a net loss of $4.3 million, or $0.05 per share in the second quarter of 2019, a 77% improvement. ",
+         "Kopin\u2019s cash equivalent and marketable securities was approximately $15.3 million at June 27, 2020, as compared to $21.8 million at December 28, 2019. Second quarter amounts for depreciation and stock compensation are attached in the table to the Q2 press release. ",
+         "The above amounts discussed are based on current estimates and listeners should review our final Form 10-Q for the second quarter of 2020 for any possible changes and additional disclosures.",
+         "And with that operator, we will take questions. "
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "[Operator Instructions] And we will take our first quarter from Glenn Mattson with Ladenburg. "
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Hi. Thanks for taking the question and congrats for the results. So, couple \u2013 I guess, for Rich first, just \u2013 you just mentioned some of the operating highlights, the decrease in cost of goods sold, it sounds like a lot of leverage due to efficiencies related to volume. I guess, the gross margin was in line with than what we expected, so, is that kind of the runrate we should expect as a ballpark going forward for a while here or just some color there please? "
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "3": {
+         "Remarks": [
+            "Yes. The current gross margin percent is a good parameter for the next couple of quarters. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "4": {
+         "Remarks": [
+            "Great. And on the SG&A expense, also that, some of that is like you say the reduced travel and things that are better. Is that also \u2013 maybe there is a lower sales expense related to selling to military perhaps. Again, that\u2019s the bigger portion of that pie right now or there are also some sales? "
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "5": {
+         "Remarks": [
+            "Yes. We would expect SG&A may pop up a little bit over the next couple of quarters. We do have some litigation which frankly has done the back burner as the courts have been closed. Assuming they come back, there is also going to be traditional legal expenses of a couple of hundred thousand to $300,000 a quarter. Otherwise, it should be relatively consistent. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "6": {
+         "Remarks": [
+            "Okay. And do you have any operating cash burn in CapEx in the quarter? Or operating cash flows?"
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "7": {
+         "Remarks": [
+            "Yes. So the burn for the quarter, cash used in operations was $2.9 million. CapEx was de minimis and sort of are planned. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "8": {
+         "Remarks": [
+            "And lastly, on the top-line, was there anything in terms of the order flow that would have boosted this quarter the pull in on the military side or is this just a function of the programs kicking in?"
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "9": {
+         "Remarks": [
+            "Well, yes, I mean, you will see that the contract assets on the balance sheet is up and that\u2019s a function of the 606 revenue recognition standard. So, two years ago, units that we would have made that they would have been sitting in finished goods. Today, those are sitting in contract assets and there is revenue recognized on them and that\u2019s really top of the only difference. The other piece of course is that we have a significant number of R&D programs going on and that revenue was also recognized on a percent of completion basis. So, and so we hit a billing milestone, the \u201cunbilled\u201d receivable collection at contract asset account. But that\u2019s fairly consistent with what we\u2019ve been doing for the last 20 years. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "10": {
+         "Remarks": [
+            "Right. On the military side, I missed the quote was, three programs to reach production by the end of 2020 or 2021, three programs?"
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "11": {
+         "Remarks": [
+            "So this, we will end 2020 with the two programs in production and we expect 2021 end with five programs in production. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "12": {
+         "Remarks": [
+            "Right. And can you give us any big investor calls as a concern of order of magnitude of how decisive with either what that incremental adds or would the total pie would look like with this five programs earnings revenue? "
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "13": {
+         "Remarks": [
+            "No, we are not going to give any revenue guidance for 2021 today. I mean, these are all very large programs, I can\u2019t say that, but we have to look at qualification and so when and if during the course of the next year they get go into production or dependent upon the R&D qualifying them. So, we do feel confident that we will actually be able to production, but we got the \u2013 on new purchase and production up to there. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "14": {
+         "Remarks": [
+            "Okay, great. Thanks. On the industrial side, you ever want to answer this be great is just the \u2013 I guess, two things, one, the way I think about it - correct me if I am wrong is that 2019 was a year when a lot of these heading out to display, headsets were put into various corporations, Honeywell, people like that and perhaps they went into the field kind of quickly. ",
+            "And in 2020 maybe there have been a bit of a digestion period where these companies are kind of deciding just where they want to put their products, how they most efficiently use this and then maybe work around some safety and security issues there, things like that and then maybe 2020 becomes a digesting year and 2021 maybe as a bit of a bounce back. Is there any \u2013 is that the way we should think about it for the head mounts and displays market? "
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "15": {
+         "Remarks": [
+            "Yes. I think that\u2019s exactly right. In other revenues, for the quarter it\u2019s $300,000 to $400,000 of royalties and that\u2019s consistent with the prior years. So, it tells us that they are selling units \u2013 our customers are selling units, but they may be working off of inventory, because as you say there is products we introduced last year and so you really doing a lot of guess work is the inventory level. But it looks like they are selling toward the endpoint, because they are paying us royalties. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "16": {
+         "Remarks": [
+            "Okay, great. And then, I guess, lastly, I don\u2019t know, John, I know you had the new product announcement today, but I guess, one of the exciting news about Kopin is that, at some point down the line, would VR some sort of mixed reality or maybe the latest sports or general entertainment, when it gets hold on the consumer side, you guys are staying to benefit. ",
+            "Is this product announcement getting one step \u2013 get into that point and just getting it as outlook for a timeframe and when you think that kind of market could come alive for you guys? "
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "17": {
+         "Remarks": [
+            "Yes. Thanks for asking the question. I think it\u2019s important to understand in the world of AR VR which of course is actually conveys to our interest, because of the make. The biggest problem facing everybody is really the brightness and is differences in frequency of the display and we were been focusing that last few years how to get their high brightness with variable current. ",
+            "And what happened today is that, in fact we have in the past nine months is the last chance seems to be broken and we actually getting very rapid improvement and there will be lot more discussion in that, because what happened today needs a lot of explanation in physics, because it is not intuitively obvious for past couple of months to understand it. But I think you will be explained \u2013 we will explain to the world what really happened and I think it\u2019s a critical turn in products to come. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "18": {
+         "Remarks": [
+            "Okay, great. That\u2019s it for me. Thanks guys. "
+         ],
+         "Speaker": "Glenn Mattson "
+      },
+      "19": {
+         "Remarks": [
+            "And next we will move to Jeff Bernstein with Cowen. "
+         ],
+         "Speaker": "Operator"
+      },
+      "20": {
+         "Remarks": [
+            "Yes. Hi, nice quarter guys. So, a couple of questions for you. The FWS speed of taking production to start by the end of this year, it sounds like it\u2019s going out into 2021, is that really?"
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "21": {
+         "Remarks": [
+            "I am sorry, Jeff. You pulled a couple, but do you repeat the question? "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "22": {
+         "Remarks": [
+            "Yes, the FWS-II program, I guess, you\u2019ve won that but we are waiting for production to begin and is that now early 2021? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "23": {
+         "Remarks": [
+            "Yes. We are still through in development, but we expect production in 2021, yes. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "24": {
+         "Remarks": [
+            "Got you. Early or late 2021? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "25": {
+         "Remarks": [
+            "That ultimately depends on the military, but we would think it\u2019s in the first half. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "26": {
+         "Remarks": [
+            "Great. And then on the FWS-CS, I guess you still view it\u2019s impending for that. Have you won that yet or what\u2019s the progress of both there?"
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "27": {
+         "Remarks": [
+            "Okay. So, Jeff, I understand it\u2019s to do, I thought your question was? "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "28": {
+         "Remarks": [
+            "Yes, what was the unit [Indiscernible]"
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "29": {
+         "Remarks": [
+            "I am Sorry, Jeff. I understand you. I thought the first question with CS and the question was FWS-I we are in production in that. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "30": {
+         "Remarks": [
+            "Right. I\u2019ll do that. I thought that was Q1 and thought that was \u2013 and kind of who served the CS is something? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "31": {
+         "Remarks": [
+            "No, it\u2019s two pieces. It\u2019s the FWS-I and the CS who served. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "32": {
+         "Remarks": [
+            "Got you. Okay. So that\u2019s production in 2021, potentially? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "33": {
+         "Remarks": [
+            "Yes. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "34": {
+         "Remarks": [
+            "But \u2013 and then the pilot helmet? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "35": {
+         "Remarks": [
+            "That\u2019s still in development. They\u2019ve actually been awarded the program. We\u2019ve been awarded the contract, but it\u2019s still in development and again, we expect that to go into production in 2021. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "36": {
+         "Remarks": [
+            "Okay. And then, first you mentioned it looks like industrial took a little bit of a step down pretty understandable considering what\u2019s going on in there. Can you give a little more to what\u2019s going on in terms of \u2013 there, how do you expect that to bounce back as the economies reopen? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "37": {
+         "Remarks": [
+            "Yes, actually, FED was pretty consistent with the prior year. As Glenn just mentioned, it was really on industrial \u2013 it was really more of the wearable headsets FED, as a reminder, that the slip in volume in business for 3D metrology now have \u2013 seems pretty consistent. They have to do military development for us. ",
+            "Some of their displays go, versus the General Dynamics armored vehicle, FED\u2019s displays go into that. But it was really the wearable headset and I would believe this is \u2013 as Glenn alluded to that, that\u2019s one of the function of the units just came out last year for the most part. People kind of guessing its inventory levels in adoptions but \u2013 so, sales of their displays seems to have moved down.",
+            "But as I mentioned, the royalties were consistent with the prior periods last year which tells us they are selling end-units. And so, it\u2019s just they are getting their inventories managed. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "38": {
+         "Remarks": [
+            "So on the \u2013 sort of four dimensional car displays that go into machines, we\u2019ve been waiting for a ramp here with Chinese buyers being kind of the biggest market for this. Where are we on that?"
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "39": {
+         "Remarks": [
+            "I think the question for Jeff is, how is Chinese taking into FED\u2019s quality. If you look on, as you all know, China also had the pandemic and they closed down for a few months. But they are getting back to work right now. So, we are very cautiously optimistic about the situation right now."
+         ],
+         "Speaker": "John Fan"
+      },
+      "40": {
+         "Remarks": [
+            "Got you. Okay. And it sounds like your hitting now with the new duo-stack technology hitting kind of metrics that other people haven\u2019t been able to do that. People have been showing that this is what you have to get to in the critical market in AR and VR. So, I guess, the final onus is to make these things at cost and gross margin that\u2019s worth more? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "41": {
+         "Remarks": [
+            "Yes. You are kind of breaking up. So, again, I guess, what your question was, your question is that, we\u2019d be looking on the duo-stack and how easy it can be manufactured and how much additional cost with this performance. ",
+            "I think I\u2019ve gone through this two \u2013 two questions separately. On the micro OLED, I think we know there is a lot of activities also on the micro LED effected. The latest call is about 200 companies in the world working on micro LED, why is everybody going to micro LED is that, micro OLED is because, micro LED potentially can give you the brightness versus current which is really required for AR VR. ",
+            "What we\u2019ve done is that on Duo-Stack, we basically increased the potential brightness by about four, five times and then we will go into the range where AR VR continues. Now, what happened additional cost on making this on micro LED the duo-stack is actually high a mini field, because it\u2019s all in the \u2013 and it just go longer and get you get double-stack. ",
+            "The difficulty is not in the growth. The difficulty is in the technology. How do you maximize and peak and automize it, and how do you understand the physics. If you are going to watch and understand physics, we do understand it now and say, we stay through and we will come out and explain to the world what really had happened. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "42": {
+         "Remarks": [
+            "Okay. So \u2013 but, you are saying that\u2019s from a cost standpoint kind of view here that these can be made good gross margin and at reasonable cost measures? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "43": {
+         "Remarks": [
+            "In fact, we say in a year or two, nobody will do single-stack. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "44": {
+         "Remarks": [
+            "I am sorry. No one will still think of what? "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "45": {
+         "Remarks": [
+            "Nobody is going to do single-stack, because additional cost of doing double-stack versus the performance improvement, is overwhelming. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "46": {
+         "Remarks": [
+            "Got you. Okay. Thank you. "
+         ],
+         "Speaker": "Jeff Bernstein"
+      },
+      "47": {
+         "Remarks": [
+            "And there are no further questions. At this time, I would like to turn the call back over to Dr. Fan for any additional or closing \u2013 excuse me, there was one question that came in. Would you like to proceed with it?"
+         ],
+         "Speaker": "Operator"
+      },
+      "48": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "49": {
+         "Remarks": [
+            "Okay. We\u2019ll hear from Patrick Metcalf with I-bankers."
+         ],
+         "Speaker": "Operator"
+      },
+      "50": {
+         "Remarks": [
+            "Hey guys. Congratulations on a great quarter. Just wanted to ask if you guys, most recently we saw Facebook invest in Classy for their technologies. Considering the breakthrough today, did you believe that you can get a partner like a Facebook to come and invest behind you? "
+         ],
+         "Speaker": "Patrick Metcalf "
+      },
+      "51": {
+         "Remarks": [
+            "I am glad if I am [Indiscernible] is that, that activities on Facebook into Classy which is a micro LED. As I mentioned, in the last few months, people began to recognize brightness was currently the most important factor and theoretically, LED micro has a great advantage. But what happened today, what happened in the last \u2013 with announcing the 2.6K x 2.6K which it has the index around 6 candela over a amp. Today we announced 14 candela over a amp and with this current. ",
+            "All these numbers really as ever be achieved yet \u2013 knowing one. So it\u2019s going to be very fantastic. I think people would digest it. I am sure the first six seven days, people first will not believe it and second is, we are displaying it and then I think people will react. ",
+            "This will not go into a range that most applications of AR can be first-class, yes, definitely. Then range go over 2000 levels of brightness, I think as LEDs stick on to you. So, micro LED will be a new range. So, but we will \u2013 micro OLED will satisfy the large range of applications. It\u2019s a different world today. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "52": {
+         "Remarks": [
+            "Okay. Great. And then, my next question is, I see your investment in RealWear and you are a licensee in RealWear and gaining real momentum with Microsoft themes and Cisco WebEx now behind them. I want to see, A, does RealWear have an exclusive on the device or on the Golden-I software? And B, what is the Golden-I software if they do not have an exclusive? What does it mean to Kopin to shareholders in the future if AR actually take hold and goes forward? "
+         ],
+         "Speaker": "Patrick Metcalf "
+      },
+      "53": {
+         "Remarks": [
+            "So, they have exclusivity in the field for certain Kopin technologies, but RealWear at least, and anyway I should talk to RealWear, but they\u2019ve developed quite a bit of software themselves on their own. So, it\u2019s \u2013 we\u2019ve kind of provided the hardware aspect to it and I think they kind of provided the software in the equation. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "54": {
+         "Remarks": [
+            "And then maybe add \u2013 let me add a bit more color to that. At RealWear Golden-I systems, that\u2019s a very, very good system. We get \u2013 we have several things we do with license and technology for them \u2013 for the license is the design for the system, as well as some of the software. The software allows through is a voice, exactly to everybody going to listen it. ",
+            "Everybody praise about how good the voice command \u2013 how text is commanding. In addition to that, prior and they do in fact our module \u2013 explain module is actually designed for that purpose. So their exclusivity out to modules, the use of software for the audio and so, and it is also licensed, developed the whole program like system they are using. So, we have several ways to help them and get to improve Wi-Fi we know in the market right now. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "55": {
+         "Remarks": [
+            "Okay. And then, lastly, Lenovo. Does Lenovo has a Golden-I license? Or is Lenovo a different joint venture and so? "
+         ],
+         "Speaker": "Patrick Metcalf "
+      },
+      "56": {
+         "Remarks": [
+            "It\u2019s a different kind of a license and Lenovo is also doing pretty well. But they have to put more in the Asian and China markets. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "57": {
+         "Remarks": [
+            "Okay. Alright. Thank you guys and I look forward to see you in next quarter results. "
+         ],
+         "Speaker": "Patrick Metcalf "
+      },
+      "58": {
+         "Remarks": [
+            "Thank you. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "59": {
+         "Remarks": [
+            "Thank you there, Pat. "
+         ],
+         "Speaker": "Richard Sneider "
+      },
+      "60": {
+         "Remarks": [
+            "And there are no further questions at this time. I would like to turn the call back over to Dr. Fan for any additional or closing remarks. "
+         ],
+         "Speaker": "Operator"
+      },
+      "61": {
+         "Remarks": [
+            "Well, thank you for joining us this morning and please, everybody stay safe. Thank you. "
+         ],
+         "Speaker": "John Fan"
+      },
+      "62": {
+         "Remarks": [
+            "And that will conclude today's call. We thank you for your participation. "
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

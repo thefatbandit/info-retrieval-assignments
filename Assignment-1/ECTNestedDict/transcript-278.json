@@ -1,0 +1,512 @@
+{
+   "Date": "August 4, 2020",
+   "Presentation": {
+      "Beth Eby": [
+         "Thank you, Tim and good afternoon. NeoPhotonics\u2019 performance remains strong with Q2 non-GAAP EPS of $0.16, higher than our guidance range, as a result of outstanding execution by our team and our suppliers in a challenging quarter. As Tim mentioned, revenue was $103.2 million, above the high end of our outlook. Huawei was 52% and our next four customers contributed 30% of revenue, similar to last quarter.",
+         "Our revenue was not materially impacted by the most recent U.S. Department of Commerce restrictions on the sale of customer designed products designed or manufactured using U.S. software or manufacturing equipment, as we design all of our own products. Similarly, as we stated in our press release dated May 26, based on our review of the products we ship, our revenue was not materially impacted by the addition of FiberHome and their affiliates to the entities list. We remain committed to complying with all U.S. EAR rules.",
+         "Our Non-GAAP Q2 gross margin was 33.2%, coming in toward the high end of our range. Within this, product margins were 36.3%,up slightly from last quarter on increased volume. Other cost of sales charges of 3.1 percentage points improved sequentially, as expected. These charges were approximately: a point of warranty charges, a point of residual tariff adjustments, a half a point of underutilization and other minor charges.",
+         "Total non-GAAP operating expense for the second quarter was $23.6 million, slightly lower than expected on continued push-outs related to COVID-19 impacts. The spending delays are not impacting our project timing. As we said last quarter, we expect to make up the first half under spend in the back half of the year to ensure continued success on our 64 Gbaud and 400ZR programs.",
+         "Non-GAAP operating profit for the second quarter was a record for NeoPhotonics at $10.7 million, or 10.4%, reflecting both the increasing leadership of our products and our continued strong execution. Non-GAAP net income for the second quarter was $8.7 million, or 8.4%.",
+         "I will close out my discussion of the second quarter income statement with a review of our GAAP results. Second quarter gross margin was 32.5%, up two points from Q1, driven by an increase in volume.",
+         "Operating expense was $26.9 million, up $4.5 million quarter-over-quarter as expected, with the lack of the one-time license credit in Q1 and higher variable compensation expense.",
+         "Operating profit for the second quarter was $6.6 million, which included $3.8 million of stock-based compensation expense and approximately, $0.3 million of amortization of acquisition-related intangibles and other costs.",
+         "Net profit for the quarter was $5.7 million, compared to a profit of $6.3 million in the prior period.",
+         "Turning to the balance sheet, our cash position continued to improve to $113 million of cash, short-term investments and restricted cash. Cash from operations was $10 million and we paid down $4 million of debt, while increasing our inventory as planned, to buffer continued supply chain volatility. We continue to be well positioned to invest in our next phase of growth.",
+         "Before I discuss our earnings and revenue outlook for the third quarter of 2020, I would like to remind everyone of our public filings with the SEC and our Safe Harbor Statement included in our press release that discusses the risks and uncertainties that could affect future performance, causing actual results to differ materially from our forward-looking statements.",
+         "As we have noted in the last few quarters, we believe that Huawei and their affiliate HiSilicon have been building strategic inventory. We believe this action is now complete and future orders will better reflect end-customer demand. As Tim mentioned, given the strength in demand of our highest speed products, we expect that our other customers will continue to ramp, largely offsetting the Huawei decrease. The net result is a Q3 revenue outlook, which is nominally in line with Q2.",
+         "Gross margin reflects some increase in underutilization charges. This is the result of slower than planned deployments, due to COVID-19, of customer\u2019s silicon photonics-based transceivers that use our fixed wavelength lasers.",
+         "As I mentioned earlier, operating expense is increasing in the back half of the year, to maintain the planned investment in 64 Gbaud and 400ZR for the year. We believe that investment will continue to drive both revenue growth and customer diversification in 2021 and beyond.",
+         "In Q3, we are taking the unusual move of including a $1 million FX impact in our forecast, or a $0.02 per share adverse impact, as we have seen an increase in the value of the Chinese Yuan relative to the U.S. dollar. As a reminder, this impact is the non-cash revaluation of our U.S. dollar assets on our China balance sheet and will change if the U.S. dollar valuation recovers.",
+         "Given that, the company\u2019s expectations for the September 2020 quarter are: revenue in the range of $97 million to $105 million; GAAP gross margin in the range of 29% to 33%; non-GAAP gross margin in the range of 30% to 34%; GAAP diluted earnings per share in the range of a $0.03 loss to a $0.07 profit, and non-GAAP diluted earnings per share in the range of a $0.03 to $0.13 profit. These numbers are reflective of approximately $54.7 million fully diluted shares.",
+         "In summary, we have now had eight quarters of delivering year-over-year revenue growth, expanding gross margins and positive free cash flow. We have also delivered four quarters in a row of profitability. Q2 revenue grew 26% year-over-year and our non-GAAP gross margins expanded by eight points over the same period last year, demonstrating our focus to drive profitability. Net cash increased from $26 million to $77 million from the same period last year, putting us in a good position to fund long-term growth with an expanded customer base. We are excited about our growth prospects.",
+         "This concludes our formal comments and now, I will ask the operator to open up the line for questions. Brad?"
+      ],
+      "Erica Mannion": [
+         "Good afternoon. Thank you for joining us to discuss NeoPhotonics operating results for the second quarter of 2020 and outlook for the third quarter of 2020. On the call today are Tim Jenks, Chairman and CEO, and Beth Eby, Chief Financial Officer.",
+         "Tim will begin with a review of the company\u2019s business in the second quarter and a discussion of market drivers and products. Beth will then provide financial results for the second quarter before providing the outlook for the third quarter of 2020. Beth will then open the call for questions.",
+         "The company\u2019s press release and management\u2019s statements during this call include discussions of certain non-GAAP financial measures and information, including all income statement and balance sheet amounts and percentages other than revenue, unless otherwise noted. These non-GAAP financial measures are not prepared in accordance with GAAP and are not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. These financial measures and a reconciliation of GAAP to non-GAAP results are provided in the company\u2019s press release and related Form 8-K, being filed today with the SEC and can be found in the Investor Relations section on the NeoPhotonics website.",
+         "Material contained in the webcast is the sole property and copyright of NeoPhotonics, with all rights reserved. Certain statements in this conference call, which are not historical facts, may be considered forward-looking statements that involve risks and uncertainties and include statements regarding future business results, product and technology development, customer demand, inventory levels, economic and industry projections, or subsequent events. Various factors could cause actual results to differ materially. Some of these factors have been set forth in our press release dated August 4, 2020and are described at length in our annual and quarterly SEC filings.",
+         "Now, I will turn the call over to CEO, Tim Jenks."
+      ],
+      "Operator": [
+         "Good day. Welcome to the NeoPhotonics Second Quarter 2020 Conference Call. This call is being webcast live on the company\u2019s website, at www.neophotonics.com, on the events page of the investors section. This call is the property of NeoPhotonics and any recording, reproduction or transmission of this call without the express written consent of NeoPhotonics is prohibited.",
+         "I would now like to turn the call over to Erica Mannion at Sapphire Investor Relations. Please go ahead."
+      ],
+      "Tim Jenks": [
+         "Thank you, Erica, and good afternoon. Our business continues to perform well despite the challenges of operating through a full quarter in the COVID pandemic. We continue to put the highest priority on the health and safety of our employees, our supply partners and their families.",
+         "Revenue in the second quarter was $103 million, growing 26% year-over-year compared to 23% growth in the first quarter. Our growth for our last four quarters was 19% over the prior year. Non-GAAP gross margins continued to expand to 33.2%, up 8 percentage points from the year prior and 2 percentage points sequentially. Similarly, our operating margin and EBITDA are at the highest levels in our history. Our non-GAAP EPS was $0.16 per share.",
+         "Sequential growth was driven by cloud and data center demand, as our 64 Gbaud and other products for 400 gigabit and above applications accelerate. We view ongoing demand for bandwidth and associated infrastructure upgrades for data centers to be an important growth area in the years ahead, notably at 400 gigabit and above.",
+         "NeoPhotonics continues to be an industry leader for the highest speed over distance optical network solutions, supplying customers with components and modules, which deliver the highest interconnect bandwidth per wavelength and per fiber for distances at 40 kilometers and longer. Our products enable these highest data rates in backbone networks, regional and metro area networks, and the \u201cbiggest pipes\u201d for data center interconnects.",
+         "Our high speed products now consistently represent 90% or more of our business. Within this, our newest and highest speed products, including ultra-pure light tunable lasers, high speed modulators and receivers, are at the core of 400 Gbps, 600 gigabit and 800 gigabit solutions. These components are also used in lower speed applications such as 200 gigabit to extend reach to longer transmission distances. Taken together, these highest speed over distance deployments are forecasted to be among the fastest areas of growth in the industry for the next several years and have been driving our recent growth in both revenue and profitability. We believe that our products for 400 gigabit and above applications will approach 20% of our total revenue this year. Beyond top-line growth, our 400 gigabit and above solutions are also increasing our customer revenue diversification.",
+         "At this point, almost all of the world\u2019s leading network equipment customers leverage NeoPhotonics products for their 400 gigabit and faster systems. Moreover, these customers are now ramping their deployments. In the second quarter, excluding our top two customers, our next eight customers combined grew a total of 35% sequentially. We expect this trend to continue. We anticipate that we will have additional industry leaders become 10% customers during the second half of 2020, based on our existing customer orders and delivery commitments for 400 gigabit and above products.",
+         "Trade tensions are causing market share shifts between our customers. Due to the breadth of our design wins and customer base, NeoPhotonics is likely to be a beneficiary of these shifts. For example, a market share shift of one 400 gigabit and above port away from our largest customer and to another industry leader would likely be favorable to NeoPhotonics in revenue terms. Similarly, a market share shift of one 100 gigabit port away from our largest customer and to another leader would likely be roughly equivalent to NeoPhotonics in revenue terms.",
+         "Over the last year we have reported that our largest customer, Huawei, has had a plan to build strategic inventory due to trade tensions. We believe at this point that they have achieved their goal. As our next group of customers ramp their respective systems for 400 gigabit and above applications, we believe the strength of deployments from these customers will offset potential revenue impact from Huawei\u2019s inventory adjustments.",
+         "We previously noted that carriers in China are using the Super C-Band spectral window to increase fiber network capacity, leveraging the NeoPhotonics C++ LASER product and 64 Gbaud component and module solutions. Using higher baud rate is efficient for distance and the expanded spectral range allows additional wavelength channels, increasing fiber capacity in backbone and provincial networks.",
+         "Looking beyond 2020, strong progress continues with our 400ZR and 400ZR+ pluggable coherent modules, which we launched in the fourth quarter last year. Our 400ZR and 400ZR+ modules for Cloud and Ethernet applications are in customer qualifications, having moved from initial sampling in the first quarter.",
+         "We have taken further steps toward establishing the 400ZR and 400ZR+ ecosystem. Together with Inphi, we completed the industry\u2019s first interoperability demonstration of OIF 400ZR compliant coherent transceivers operating over a 120 kilometer optical fiber link and utilizing multiple wavelengths across the C-Band. Both 400ZR coherent optical transceivers carried error-free traffic, demonstrating the availability of interoperable coherent transceivers from multiple vendors. This is a key step to enable next generation DCI links using IP over DWDM and a 400ZR architecture.",
+         "We expect initial volume applications for 400ZR to be with hyperscale customers for data center interconnect. However, with 400ZR+ capability for longer distances, there is also an opportunity for new use cases to emerge beyond data center interconnects, including metro area interconnects, 5G backhaul interconnects, and longer distance regional and long haul interconnects. It is important to note that for NeoPhotonics, the 400ZR and 400ZR+ module market expands our overall TAM as it adds higher ASP module solutions to our existing market leading position in highest speed over distance components.",
+         "Additionally, each of these new high speed systems, including 400ZR and 400ZR+ applications, operate over DWDM line systems, including open line systems, that require specific high performance multiplexing products having unique channel spacings and filter shapes, and channel monitors, which we also provide.",
+         "Rapidly growing global bandwidth needs continues to be the fundamental driver of our business, whether it be for cloud services, capacity increases due to remote working, high-speed deployments to the edge, or 5G wireless rollouts. With increasing momentum in 400G and above design wins across the major network equipment manufacturers, as well as the 400ZR and 400ZR+ opportunity in 2021, and with caution due to risks related to the ongoing pandemic, we remain optimistic that industry trends continue to move in NeoPhotonics\u2019 favor.",
+         "With that, I\u2019ll turn the call over to our CFO, Beth Eby."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] We will take our first question from Samik Chatterjee with JPMorgan."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Hi guys. This is actually Joe Cardoso on for Samik Chatterjee. For my first question, I just wanted to know relative to your 2Q revenue performance, whether you guys actually ended up seeing any COVID headwind there and then relative to your 3Q guide, are you guys making any COVID headwind?"
+         ],
+         "Speaker": "Joe Cardoso"
+      },
+      "3": {
+         "Remarks": [
+            "So, what we said when we put the Q2 guide in place was that we were expecting about $10 million of supply chain headwinds. We were able to mitigate almost all of those, in \u2013 which is how we got the revenue over our guidance range. We are still seeing supply chain impacts in Q3, but we believe based on our experience in Q1 and in Q2, we believe that we will be able to mitigate those through the quarter."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "4": {
+         "Remarks": [
+            "Understood. And then just relative to your comments on Huawei, and then finally achieving the inventory level. I suppose that they were targeting as you see maybe, Huawei revenues kind of moderate in the subsequent quarters and potentially offset by ramping business with other customers. How do you guys expect that to impact your margin? Is that \u2013 would you expect the margin benefit from that shift in customer mix? Thank you."
+         ],
+         "Speaker": "Joe Cardoso"
+      },
+      "5": {
+         "Remarks": [
+            "I think we\u2019ll see ups and downs need to see the exact numbers on what those are. Huawei is our largest customer. They get the most volume discounts, but that is \u2013 could be offset by some level of under utilization charges. So, we need to see how that plays through when we see their actual orders?"
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "6": {
+         "Remarks": [
+            "Thank you. We\u2019ll take our next question from Fahad Najam with Cowen and Company."
+         ],
+         "Speaker": "Operator"
+      },
+      "7": {
+         "Remarks": [
+            "Thanks for taking my question, Tim and Beth. Tim, I want to ask you a big picture question on forgetting \u2013 putting Huawei aside, your U.S.-based largest customer has certainly done a significant amount of vertical integration. How should we be thinking about your non-Huawei business? How are those customers vertically integrating and how do you see your business being impacted by that trend? And are you beginning to see some of that shift already from some of your non-Huawei customers to internally develop some of the components that you were previously supplying to them?"
+         ],
+         "Speaker": "Fahad Najam"
+      },
+      "8": {
+         "Remarks": [
+            "Well, we do see and we have commented in past quarters about some level of vertical integration. But as I said in the prepared remarks, if we look beyond our top two into our top 10, essentially, the other eight did grow 35% Q2 over Q1. And they are collectively on a growth path. Of those, the vast majority are not vertically integrated. Now, we do expect that the rate of growth will continue and industry forecast suggests that for 400 gigabits and above, the growth rates are expected to be quite good.",
+            "And then right now, that is for 400 gig, 600 gig, and to some extent for 800 gig. all of that for us is at a component level with the exception of telecom focused coherent modules. But the \u2013 by the time we get to 2021, then we\u2019re looking at 400ZR being an additional revenue capability and then 400ZR+. So, there are, without doubt, headwinds to vertical integration by the same token. There are continuing to be very good opportunities with an expanding market and expanding TAM that we\u2019re addressing. And these opportunities are really what\u2019s causing us to be pretty excited about the prospects."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "9": {
+         "Remarks": [
+            "Got it. And then on the near-term, can you speak to, I mean, there\u2019s always this concern and I appreciate the comments that you had, but maybe, if you can give us some idea in terms of inventory build-up in China. I mean, certainly, 5G is a big piece of the deployment in China. Do you know how much of your revenue can be attributed to 5G deployments versus BCI type deployments? Just kind of help us understand the end application that\u2019s driving much of your demand for your components."
+         ],
+         "Speaker": "Fahad Najam"
+      },
+      "10": {
+         "Remarks": [
+            "Let\u2019s see, for 5G, we have to think about the front-haul, mid-haul and backhaul aspects of a 5G deployment. Early in the deployment, it is mostly front-haul and some mid-haul. our largest position would be in the backhaul, which would move toward a network build out and it is based both on the rate of deployment of the front-haul and the subscriber usage. So essentially, as they deploy a front-haul and mid-haul, they build it up with subscribers, then that requires more capacity for back-haul, and that would use \u2013 that would impact us. So for the part that is, that is front-haul and mid-haul, we do sell some fixed wavelength lasers and components, but it\u2019s actually, a very small percent of our revenue in total. So, there really is a kind of very modest impact on revenue at the moment."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "11": {
+         "Remarks": [
+            "I appreciate the answers. I\u2019ll pass it on."
+         ],
+         "Speaker": "Fahad Najam"
+      },
+      "12": {
+         "Remarks": [
+            "Thank you. And we\u2019ll take our next question from Alex Henderson with Needham and company."
+         ],
+         "Speaker": "Operator"
+      },
+      "13": {
+         "Remarks": [
+            "Thank you very much."
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "14": {
+         "Remarks": [
+            "Hey, Alex."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "15": {
+         "Remarks": [
+            "Hello. So, I thought I\u2019d start with a little bit of mundane stuff. Could you give us some direction on what you think the tax rate is going to do or tax expense is going to do for the next quarter or two, something nice mundane?"
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "16": {
+         "Remarks": [
+            "Our tax rates remain the same as we have NOLs that offset the U.S. taxes. Japan is 35%. China is 25%. We have had a shift in approach of how those taxes are accrued. And honestly, Alex, they\u2019re still stable. They\u2019re still sorting out because Q1 and Q2 were both significantly higher profits than expected. We got hit with a significantly higher tax burden in Q1 and Q2 than expected."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "17": {
+         "Remarks": [
+            "So, I assume it\u2019s something considerably less than the 1,500 that was posted in the June quarter."
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "18": {
+         "Remarks": [
+            "No. that\u2019s the right one for June, because June was a..."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "19": {
+         "Remarks": [
+            "No, no, I mean going forward."
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "20": {
+         "Remarks": [
+            "yes, yes. Well, it should average out over the year to something in \u2013 slightly lower than our current levels."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "21": {
+         "Remarks": [
+            "Great. And I just wanted to make sure I understood your comments around Huawei. Clearly, the revenues were benefiting from a building inventory. Now, you\u2019re saying your other customers are going to be able to offset some relative weakness in Huawei, but then you also said that Huawei orders would be to meet demand, do you expect Huawei to sustain the current level of inventory and therefore, underlying demand growth out of China would be consistent with the order rate, growth rate, or do you expect them to start to draw inventory down a little bit? I\u2019m not sure. I completely got the subtlety around that."
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "22": {
+         "Remarks": [
+            "Yes. So, the trade tensions are putting Huawei in a somewhat unique position, and they have built up a strategic inventory and we do expect that they will continue to be purchasing products that are based on their market demand and run rate. as opposed to working down their strategic inventory, that would change if there was a highly favorable change in the trade tensions. but as it is, we do expect to have a smaller revenue base from Huawei as a result, because over the last year, we have had a larger than normal Huawei percent of revenue as they were accumulating a strategic inventory. Historically, over multiple years, looking back about five years, Huawei has been in the range of high 30-s to 40% of revenue, but in the last year, it\u2019s been more like 50%. So that\u2019s how we expect it to play out.",
+            "Now, as we look out toward, beyond the quarter and next year, Huawei is in a situation, where they may see, they may be subject to market share shifts. And as I commented, their competitors are our customers as well and the relative balance of market share remains to be playing out. However, if they are losing share, then their inventory actually on a relative basis is probably more than ample. But we do expect them to purchase on an ongoing basis."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "23": {
+         "Remarks": [
+            "Thank you. We\u2019ll now take our next question from Richard Shannon with Craig Hallum Capital Group."
+         ],
+         "Speaker": "Operator"
+      },
+      "24": {
+         "Remarks": [
+            "Hi, Richard."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "25": {
+         "Remarks": [
+            "Hi, Richard."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "26": {
+         "Remarks": [
+            "Thanks, Tim and Beth. Hi, thanks for taking my questions as well. Maybe, a question on the third quarter asking a slightly different way than one than prior ones here. Is it fair to think about the sales guidance here, which is kind of down, I think down slightly in the \u2013 at the midpoint here essentially flat, but pretty close as it is safe to think about it Huawei being down in the rest of your revenues kind of flat to up, or should we think about that differently?"
+         ],
+         "Speaker": "Richard Shannon"
+      },
+      "27": {
+         "Remarks": [
+            "No, I think that\u2019s a \u2013 that\u2019s the right way to think about it is. As Huawei has been building inventory, but we believe they\u2019re going to hold that inventory and still continue to order as Tim just said, but we\u2019re seeing good growth from the high-speed purchases of others."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "28": {
+         "Remarks": [
+            "Thank you. Tim, I think you said with respect to one or more 10% customers in the second half of the year, can you characterize these guys in any way, or I would assume what their OEMs, or is it a possibility to you see in direct cloud customers? And if there are OEMs, can you characterize them in any way to geographically or otherwise?"
+         ],
+         "Speaker": "Richard Shannon"
+      },
+      "29": {
+         "Remarks": [
+            "Yes. sure. So specifically, I said that these are network equipment manufacturers that I\u2019m referring to. So that yes, their OEMs, but there are a number of companies that have launched 400 gigabit, 600 gigabit and the new systems and demoing even higher speed. And so we\u2019re selling to each of those and as they ramp, that\u2019s seeing a much higher than market average rate of growth. The result of those ramps is, we are seeing increasing quarter-over-quarter revenue, but we\u2019re also seeing strong backlog for subsequent quarters. So, we\u2019re in the situation, where certainly, in the case of Huawei\u2019s unique position, they have been the largest, but they are challenged by the overall trade situation. We\u2019ve got a very strong group of customers relying on our component solutions for their 400 gig, 600 gig and above products. And as those ramps, that\u2019s a very strong growth stream for us going forward and the customers are kind of all in the top 10 network equipment companies in the industry."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "30": {
+         "Remarks": [
+            "Okay. That\u2019s helpful, Tim. One last quick question. I\u2019ll jump out of line for Beth on the OpEx here. Your guidance in your discussion mentioned in a higher level here for this quarter, I think you\u2019re implying and beyond that, how should we think about the trajectory or model for opex as we go out a few quarters years expected to flatten out, or kind of be percent of sales, or how should we think about that?"
+         ],
+         "Speaker": "Richard Shannon"
+      },
+      "31": {
+         "Remarks": [
+            "Yes. This year is going to be unusual, because we were so low in Q1, Q2 and so balance that out in Q3, Q4, because the projects we\u2019re working on are important. but ongoing the model that we\u2019re \u2013 we\u2019ve said for a while now is a gross margin of 35% and OpEx is 25% of revenue. That\u2019s how I model it out."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "32": {
+         "Remarks": [
+            "Thank you. Our next question comes from Tim Savageaux with Northland Capital Markets."
+         ],
+         "Speaker": "Operator"
+      },
+      "33": {
+         "Remarks": [
+            "Hi, Tim."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "34": {
+         "Remarks": [
+            "Hey, good afternoon. Well, a couple of questions, let\u2019s continue on with this sort of discussion around changing customer mix and you mentioned that kind of 35% sequentially, I guess, customers three to 10 in Q2. Do you expect that sort of trajectory to continue into Q3? I guess it\u2019d be the question and in which case, you could see your Huawei concentration come down almost to kind of historical levels, is that the magnitude of shift that you\u2019re implying in the guidance, or might you see that sequential growth rates slow a bit with the new customers."
+         ],
+         "Speaker": "Tim Savageaux"
+      },
+      "35": {
+         "Remarks": [
+            "Yes. That\u2019s exactly right. It\u2019s exactly right. We are referring to customers three to 10. We do expect that rate of growth to continue based on our view of our committed shipments and our backlog. for these higher speed systems, we have a range of products that we sell. We have narrow line with lasers, which are critical and the highest rate systems. We have our coherent driver modulator or CDM. We have our high bandwidth receivers. We combine these together in our CFP2, 400 gig module and different customers qualify one to all of these products. And so each customer is a little different in terms of their content, but for some customers as they ramp, our content is very, very strong. And this is why I said in my prepared remarks that we can be a beneficiary of this as customers argue over market share."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "36": {
+         "Remarks": [
+            "Okay. And just to follow up on that, I may have one afterwards, but that was interesting. So, it sounds like in addition to the different customer mix here, you might have kind of mixed issues going on a couple of different fronts that I\u2019d like to ask about one, I think you alluded to was maybe component versus module, right, where some of these newer customers you\u2019re seeing come in, might be more focused on the module level. I don\u2019t know if that has, or maybe a revenue plus possibly a margin minus, I\u2019m not sure. And then can you speak to whether there is a changing kind of end-market mix, as that customer mix shifts in that, do you see at 400 gig in a more cloud type applications versus carrier metro and long-haul transport applications?"
+         ],
+         "Speaker": "Tim Savageaux"
+      },
+      "37": {
+         "Remarks": [
+            "Yes. Yes. So for the \u2013 right now, the 400 gigabit, 600 gigabit and above applications are primarily components in line card that are essentially fabricated by network equipment manufacturers, some of which are used in DCI. The preponderance are telco. The designs that we have and products for coherent modules do include the CFP2 400 gigabit product that is capable of distances, essentially much longer than ZR alone. And so these are four regional network applications and kind of leading market for that kind of deployment actually is the market in China. For \u2013 in 2021, we would expect to be then ramping 400ZR, cloud and Ethernet versions, this for us would mean the OSFP form factor and QSFP-DD form factor. And those are decidedly, cloud-focused customers and applications."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "38": {
+         "Remarks": [
+            "Okay. And that was going to be the area of my final follow-up, which is on ZR interest; I don\u2019t know if you heard the Inphi call this morning. But the interoperability test was also mentioned. and so was some \u2013 at least some opinion over there about prospects extending beyond the DCI market and the ZR could have \u2013 as you mentioned in your remarks in the significant applications on the telecom side, I think you mentioned metro in a range. So, would you save visibility toward those applications, has increased for you over the last quarter or so, as you\u2019ve moved from sampling into qualification, maybe, you could characterize your opportunities, cloud versus telecom and with that telecom has increased over that time period."
+         ],
+         "Speaker": "Tim Savageaux"
+      },
+      "39": {
+         "Remarks": [
+            "Well, I think, for the 400 gig modules for 400ZR, this is really focused on cloud. And I think you referred to Inphi\u2019s call this morning, I think we would agree with their timing of it being mostly 2021, and with volume in the second half of 2021. Our product offerings do include capabilities for taking this to ZR \u2013 400ZR, but also for 400ZR+. And this is where, as I said in my prepared remarks, we would expect there to be additional use cases. And the use cases do extend for these longer interconnects. So, not just data center interconnect, but metro 5G backhaul, and regional and long-haul interconnects. And so these would essentially be the telco. So, the 400G in the ZR our application is cloud first, but then the additional use cases would have a gain share in telco applications. Does help? Okay."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "40": {
+         "Remarks": [
+            "Thank you. And we\u2019ll take our next question from Simon Leopold with Raymond James & Associates."
+         ],
+         "Speaker": "Operator"
+      },
+      "41": {
+         "Remarks": [
+            "Thank you for taking my question. This is Mauricio for Simon today. I think if you could continue to extend on the 400 gig ZR opportunity; maybe, you can sort of help us understand the size of the ZR for you. But also, if you could talk about the competitive landscape here as you will likely be directly competing with some of your current customers, as well as those, who supply a DSP \u2013 a coherent DSP capabilities to you?"
+         ],
+         "Speaker": "Mauricio Roldan"
+      },
+      "42": {
+         "Remarks": [
+            "Okay. Well, let\u2019s see, first is the discussion of the opportunity in ZR. I think over the last two conference calls in response to questions, we talked about this as potentially $500 million over three years. I think that the view is increasing closer to a $1 billion opportunity over three years for the market. And so we\u2019re competing for a share of that opportunity. That would be the size of the ZR TAM, if you will.",
+            "Now, with our product offerings being each of three form factors and both ZR and ZR+ we would be competing for all of the TAM, our served market is there for quite broad. But again, the first real application is 400ZR serving the cloud with respect to DSPs, we do \u2013 we did the interop with Inphi. And we did say in that press release that we use a DSP for that product from them and they have been a strong partner. We have also deployed in the past other coherent module products using DSPs including from NEL in Japan. So, we are depends on the product deploying DSPs from different vendors."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "43": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Mauricio Roldan"
+      },
+      "44": {
+         "Remarks": [
+            "Thank you. And we will take our next question from Dave Kang with B. Riley FBR."
+         ],
+         "Speaker": "Operator"
+      },
+      "45": {
+         "Remarks": [
+            "Thank you. Good afternoon. First of all \u2013 hello, did you give out what the book-to-bill or maybe perhaps orders were and how did they compare with the first quarter?"
+         ],
+         "Speaker": "Dave Kang"
+      },
+      "46": {
+         "Remarks": [
+            "No. We didn\u2019t give that out. We generally don\u2019t report on our book-to-bill, but I will say that, first quarter was quite strong with second quarter as well. If we look back over the year, we\u2019ve consistently had a positive book-to-bill, but we don\u2019t generally report quarter-to-quarter with specific numbers due to the amount of VMI that we have, because it means \u2013 meaningful amount of our shipments are from vendor managed inventory, the book-to-bill doesn\u2019t reflect that."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "47": {
+         "Remarks": [
+            "Got it. And regarding Huawei, obviously, there have been a lot of questions, but my question is, where do you think the trough at and how long do you think it will take?"
+         ],
+         "Speaker": "Dave Kang"
+      },
+      "48": {
+         "Remarks": [
+            "Say that again, that I misunderstood you."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "49": {
+         "Remarks": [
+            "Sales for Huawei, where do you think, I mean, you guys did what about $53 million or so with Huawei in the second quarter, just trying to gauge what the bottom is, as far as Huawei is concerned?"
+         ],
+         "Speaker": "Dave Kang"
+      },
+      "50": {
+         "Remarks": [
+            "Well, let\u2019s see, as I said previously, we\u2019ve seen historically over a longer-term, we\u2019ve seen, Huawei revenue be approximately equal to their market share, that historically has been mid-30% to 40%, something like that. But Huawei is an interesting and unique position right now with the trade tensions and the geopolitical tensions. We have to be pragmatic and expecting that there will be market share shifts and we\u2019re seeing some of that. And so how that plays out over the longer term is really not possible for us to accurately forecast at the moment. But what we do expect is that the revenue specifically from Huawei will no longer reflect, build up a strategic inventory. And that\u2019s really the key point here."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "51": {
+         "Remarks": [
+            "Thank you. And we\u2019ll take our next question from Michael Genovese with MKM Partners."
+         ],
+         "Speaker": "Operator"
+      },
+      "52": {
+         "Remarks": [
+            "Thanks."
+         ],
+         "Speaker": "Michael Genovese"
+      },
+      "53": {
+         "Remarks": [
+            "Hi, Mike."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "54": {
+         "Remarks": [
+            "Hey, I\u2019ve got first question. Can you just tell us more detail again, what\u2019s going on with the gross margin? If you said to me about under the utilization and delay in this third quarter, that\u2019s causing gross margin to be down sequentially, could you explain that better?"
+         ],
+         "Speaker": "Michael Genovese"
+      },
+      "55": {
+         "Remarks": [
+            "Yes. So, as you\u2019ve heard me say for a number of quarters, we become underutilized on a regular basis in our indium phosphide fabs. We have two indium phosphide fabs. So, we have customers that are doing some very interesting SIFO-based transceivers that use our fixed wavelength lasers. And a couple of those projects have pushed out, not because of our products, but because of maybe, their own internal projects."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "56": {
+         "Remarks": [
+            "So, we got the reason that the gross margin, I mean, you came in at 32.5%, guiding to 32%, is that the explanation for that?"
+         ],
+         "Speaker": "Michael Genovese"
+      },
+      "57": {
+         "Remarks": [
+            "That\u2019s the biggest one."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "58": {
+         "Remarks": [
+            "Okay. I know you only got one quarter at a time, but do you \u2013 any comments during \u2013 can you comment on your fourth quarter versus normal seasonality with this customer mix shift going on, do we want to be confident about the fourth quarter cautiously?"
+         ],
+         "Speaker": "Michael Genovese"
+      },
+      "59": {
+         "Remarks": [
+            "I\u2019m always cautious. But what we did say in, Tim said in the prepared remarks is, that we do expect to have multiple 10% customers and that we see good momentum on our 64 Gbaud and highest speed product revenue."
+         ],
+         "Speaker": "Beth Eby"
+      },
+      "60": {
+         "Remarks": [
+            "Okay. And then last one for me. And it has been a lot of discussion about Huawei, I understand the inventory discussion. I understand the market share discussion, but what we haven\u2019t talked about is do you have any more color or visibility or clarity on the potential for knock on effects of, if they have trouble getting supplies in some other part of the business? I mean, there just seems to be a lot of confidence here that Huawei is going to remain a sizeable customer willing to in the future. And can you talk about the risk of that not happening, or is that something that we have to worry about?"
+         ],
+         "Speaker": "Michael Genovese"
+      },
+      "61": {
+         "Remarks": [
+            "Well, in the way Mike, I think it\u2019s an insightful question, because we have to think about it multiple ways. So, in the first instance, in China, Huawei has a broad portfolio of systems that they\u2019re going to continue to deploy. And to the extent that there are knock-on effects, as you say, and they\u2019re unable to get some parts, then they will be fulfilling customer orders in China with things that they can fulfil. In the international market, it\u2019s a little different situation, because in the international marketplace, there are more competitors with strong market positions. But as I said previously, all of those customers are essentially our customers as well.",
+            "So, to the extent that there are market share shifts, things may have a little bit of a delay period, for example. But ultimately if Huawei\u2019s share decreases in the international market, we would expect to be a beneficiary of their \u2013 whoever is gaining the market share from Huawei, we would expect to be supplying to them as well.",
+            "Now, in China, we have to look at two effects. The first one is, just what\u2019s happening with Huawei\u2019s supply chain, but in China, as in the rest of the world, we sell to all of the network equipment companies. So to the extent that there are share shifts to other Chinese network equipment providers, we would be in those supply chains too. So, because Huawei has been a significant customer and they have been the largest market shareholder in the industry, and they have been building strategic inventory, they get kind of outsize identification and therefore, they get outsize risk profile. But the fact of the matter is to the extent that there are share shifts in China or outside China, other companies will, and we supply to the other companies as well. So, that\u2019s how we look at the whole equation."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "62": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] We will take our next question from Alex Henderson with Needham and Company."
+         ],
+         "Speaker": "Operator"
+      },
+      "63": {
+         "Remarks": [
+            "Thanks. So, I was hoping you could go back to the basics a little bit and talk about what\u2019s going on in China, in terms of the actual demand from that geography. I think, you\u2019ve got as good a pulse on that as anybody and pretty hard for us to read it externally. Can you give us some sense of how many \u2013 what the port growth might look like and has that changed between national backbones and provincial? Just some color around that would be very helpful. Thanks."
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "64": {
+         "Remarks": [
+            "Okay. The overall demand in China has continued to be, I will say, it\u2019s actually surprisingly strong given the \u2013 what we might otherwise conclude, just from media in the U.S. essentially, China mobile is continuing to do deployments. They are using, as I said, the prepared remarks, they\u2019re deploying using the C++ spectrum. This is where they use a wider spectral width, add more channels, and then they can get, even more capacity with the additional channels on each wavelength than on each fiber. So that is actually going strong. And it also is important to note that that uses among other things our C++ laser product, as well as our 64 Gbaud components. And so it is, while I said that the customers, if you will, three through eight, we\u2019re growing 35% sequentially, is also true that, we have essentially 64 Gbaud revenue streams from the major players in China as well.",
+            "So, our visibility to national backbone versus provincial backbone is really not different than before. It\u2019s hard to see the differences, because of the fact that the provincial networks aren\u2019t accompanied by broad announcements. but the overall consumption, in terms of ports is \u2013 I think it\u2019s in the range of up 10% or so from last year. So, it\u2019s continuing to be a consistent business."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "65": {
+         "Remarks": [
+            "I guess, I\u2019m a little confused by that comment, a 10% port growth in China is below historical averages, I think 15% plus. And if I adjust for pricing, that would imply down revenues, can you clarify that because that doesn\u2019t sound correct to me. Did you mean revenue port or do you mean shipping unit ports?"
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "66": {
+         "Remarks": [
+            "I\u2019m referring to our assessment of total ports between Huawei, ZTE and FiberHome. And I\u2019m not intending to comment on whether other analysts numbers are right or wrong. We see a modest increase in the total number of ports. And when \u2013 within the error range is it 10%, or is it 15%, I\u2019m not sure were that accurate."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "67": {
+         "Remarks": [
+            "Isn\u2019t pricing still down double digits?"
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "68": {
+         "Remarks": [
+            "No."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "69": {
+         "Remarks": [
+            "Okay. So, it\u2019s \u2013 the functions of pricing has stabilized more than normal declines, and then you\u2019re still seeing port growth, hence revenue growth out of China, excluding inventory bills?"
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "70": {
+         "Remarks": [
+            "Well, yes. Inventory is the elephant in the room, isn\u2019t it? So, yes. Aside from the biggest factor, yes."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "71": {
+         "Remarks": [
+            "Okay, perfect. And do you have any sense of whether there\u2019s acceleration in that, because of delays in the first half due to COVID or \u2013 and therefore in the back half, it\u2019ll accelerate in terms of improved deployment rates, or do you think it\u2019s decelerating any trajectory in first order derivative there?"
+         ],
+         "Speaker": "Alex Henderson"
+      },
+      "72": {
+         "Remarks": [
+            "No. frankly, it\u2019s not that clear. What I would say is that, we don\u2019t have that level of visibility yet for what \u2013 how the third quarter and fourth quarter are going to play out. We have to keep in mind, Huawei was placed on the entities lists in the second quarter of 2019, FiberHome was placed on the entities list in the second quarter of 2020. And with those companies being on the entities list that more than COVID or any other factor does have a stabilizing effect on pricing. They are continuing to ship ports, as long as they are able to be supported by their respective supply chain. There is supply chain risk. There\u2019s COVID supply chain risk. There\u2019s also entities list and there are additional BIS requirements related to Huawei design chip production.",
+            "And all of these factors are \u2013 they\u2019re identified, but they\u2019re not fully quantified. And so what we\u2019re seeing is continued demand, continued strength in terms of volume. However, our forward visibility is limited to what we actually know and our ability to speculate on what might happen, we don\u2019t have that ability. However, it is also notable given Huawei\u2019s unique situation in the international marketplace and with the entities list, and the limitations on their chip availability, there is expectation for some loss of market share that has two effects. One is that their strategic inventory is relatively larger and we would expect to see increasing backlog and demand forecast from other customers. That\u2019ll play out over the next two quarters."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "73": {
+         "Remarks": [
+            "Thank you. And ladies and gentlemen, that concludes today\u2019s question-and-answer session. I would now like to turn the call back to Mr. Tim Jenks for closing remarks."
+         ],
+         "Speaker": "Operator"
+      },
+      "74": {
+         "Remarks": [
+            "Thank you to everyone for dialing in. We thank you very much for your interest in NeoPhotonics. We do appreciate the diligent work of our employees and our suppliers to drive progress, especially in light of the current environment and the conditions of the ongoing global pandemic. Stay safe. We look forward to updating you in the future and meeting with shareholders again, in person as we are all able to in the quarters to come. Have a good evening."
+         ],
+         "Speaker": "Tim Jenks"
+      },
+      "75": {
+         "Remarks": [
+            "Ladies and gentlemen, this concludes today\u2019s call. We thank you for your participation. You may now disconnect."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

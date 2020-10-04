@@ -1,0 +1,496 @@
+{
+   "Date": "August 6, 2020",
+   "Presentation": {
+      "Barak Eilam": [
+         "Thank you, Marty and welcome everyone. We are pleased to report a strong quarter driven by further acceleration of our cloud growth. On our last call, we talked about our expectation that organizations will become more focused on extreme agility due to the need to respond in record time to the constantly changing circumstances.",
+         "Today, three months later, as evidenced by our Q2 results, we see that it\u2019s happening at a rapid pace and that we are well positioned at the center of this effort. Furthermore, we can clearly see from the changing environment that, one, NICE is extremely mission-critical to our customers now more than ever.",
+         "Two, our solutions are essential to enable a flexible work-from-home mode of operation. And three, cloud and digital transformation, which are at the core for business, are now dramatically accelerating in the enterprise, due to recent events.",
+         "Our strong Q2 performance underscored by an accelerated robust 30% growth in the cloud demonstrates how well positioned we are, together with the strength of our cloud platforms. All Q metrics were strong.",
+         "Total revenue increased 4% to $395 million, operating income was $111 million, which was an increase of 10% compared to Q2 2019 and operating margin increased 163 basis points to 28.2% compared to Q2 last year. These strong operating results led to a 10% increase in earnings per share to $1.37. Additionally, operating cash flow increased 231% to $60 million in Q2 compared to the same period last year.",
+         "We are winning in the cloud, because we have the most firmly established, proven and comprehensive platforms. Our cloud platforms are capturing opportunities in all segments of the markets, from SMB to the largest enterprises.",
+         "In SMB, we continue to see a vast amount of new business, signing nearly 200 new logos each and every quarter for CXone alone. At the higher end of the market, we continue to demonstrate our strength and having the only cloud native platform in that market. We have a significant competitive advantage and a strong leadership position due to the substantial breadth and depth of our offering, which is absolutely critical in order to compete in this segment, as well as our many years of experience and domain expertise with large enterprises.",
+         "We are also winning in the cloud, for the largest and fastest growing ecosystem partners, both domestic and international. We continue to sign new key partners at a rapid pace. Just recently, we signed a partnership with Orange Business Services, which serves enterprises across six continents. They will bring CXone to the company\u2019s installed base of 90,000 contact center agents, many of which are in Europe, as well as other international locations.",
+         "We also signed a partnership with ConvergeOne, ConvergeOne can now bring CXone to those very large on-premise customer base. This is on top of the several new result partnership we mentioned on previous calls, as well as further partnerships, including with Salesforce.com, Zendesk, RingCentral, Zoom and Microsoft.",
+         "We\u2019re winning in the cloud to continue the clear leadership as recognized by many of the independent industry analysts. For example, NICE is the only vendor that was named the leader by Gartner across both the Magic Quadrant for contact center as a service and Magic Quadrant for Workforce Engagement Management.",
+         "In another industry report by DMG, NICE was named the leader in cloud WFO with a double-digit percentage lead over the nearest competitor. NICE Actimize was also named the leader in the IDC Marketscape 2020 Enterprise Fraud Management Report. We are the largest cloud provider in our market, and we are twice the size of our next largest cloud competitor, as well as demonstrating faster growth.",
+         "As our cloud business with its very high retention rates continues to flourish, we expect that we will end the year with an annual run rate of well over \u2013 well above $800 million in cloud revenue. Moreover, during 2021, we expect to cross a significant milestone, an annual run rate of $1 billion in cloud revenue.",
+         "CXOne continues to drive our cloud business. It is unique in the customer engagement market and that it is the only fully integrated native cloud platform that incorporates omnichannel routing, workforce optimization and analytics. CXone also boasts an ecosystem of 160 independent software vendors building solution on CXone and fast-growing marketplace called CXexchange, on which those software vendors can sell their solutions.",
+         "The continued success of CXone is evident in the numbers. We\u2019re seeing an increase in the number and size of deals in all segments of the market, especially in the large enterprise. We continue to witness the displacement of incumbent on-premise providers. To-date, 80% of CXone@home free trial customers have committed to a paid subscription, demonstrating the much-needed flexibility that we provide to organizations as they move to work-from-home.",
+         "We saw a dramatic increase in the number of seven-figure deals signed this quarter, compared to the second quarter of last year. We signed a seven-digit cloud ACV deal with a large consulting and services company in which we replace the on-premise legacy incumbent. We also signed a seven-digit cloud ACV deal with a large financial services provider, also replacing the on-premise legacy incumbent vendors.",
+         "We\u2019re seeing continued strength in our government vertical, boosted by our FedRAMP authorization. As we signed multiple deals, including a seven-digit ACV deal with a large state agency. We signed a seven-digit cloud deal with a well-known media streaming company, as well as a seven-digit deal with a large financial services company and they are transforming to a common cloud platform.",
+         "In addition, we continue to see acceleration in our RPA business, signing multiple new logos as well as significant expansion deals with existing RPA customers. For example, we signed a large seven-digit expansion deal with a very big global home furnishing company that has standardized on our RPA solutions.",
+         "In Financial Crime and Compliance, we\u2019re seeing an increase in the number of customers leveraging the capabilities, tools and analytics of our X-Sight cloud platform. In addition, the number of partners building solutions on X-Sight platform continues to grow. We now have more than 60 partners on the X-Sight marketplace. We continue to see an increase in cloud growth in Financial Crime and Compliance, up triple-digit percentage year-over-year, as our X-Sight cloud platform continues to gain traction.",
+         "We signed several seven-digit cloud deals, including one with a large global bank, replacing the incumbent with our cloud AML and fraud offerings. We signed another seven-digit cloud deal with a large domestic bank as they needed the flexibility of the cloud platform along with the ability to expand with NICE as they grow. We signed an eight-digit deal with the large insurance company, expanding their relationship with NICE for fraud and AML, as well as a seven-digit deal with a very large Canadian financial services institution.",
+         "Our Public Safety cloud platform also continues to provide its NICE Investigate gains more traction. Thousands of public safety organizations have yet to embrace the cloud, giving us tremendous opportunities to bring the end-to-end evidence management market into the cloud with the NICE Investigate cloud platform.",
+         "Just this past quarter, we continue to sign new NICE Investigate customers, including two large public safety organizations in the UK. We also signed a large government state agency for nearly $60 million to enable their digital transformation over the next few years. As the current situation continues to unfold, we are in a unique position to further accelerate the pace of our innovation and widening the gap compared to our competitors.",
+         "For example, we just recently announced a significant breakthrough with our launch of Real-time Interaction Guidance, powered by our proven AI technology called ENLIGHTEN. With this new solution, AI behavioral model help to predict agent behaviors that directly drive customer satisfaction. NICE ENLIGHTEN technology is an integral part of the CXone platform, infusing AI into all customer engagement processes.",
+         "In conclusion, it is clear that the changes taking place in the environment are no longer just temporary in the minds of business leaders, and therefore, rethinking the need for agility is now a part of the long-term plans. We believe that we are clearly in the best competitive position to capture the opportunities ahead of us in this rapidly changing environment is a key strategic part of organization\u2019s current and future plans.",
+         "The reasons, one, NICE is extremely mission-critical to our customers. Two, our solutions are essential to enable a work-from-home mode of operation and three, cloud and digital transformation, which are in the core of our business are now dramatically accelerating in the enterprise due to recent events.",
+         "And finally, it has been our tradition that we meet with many of you in person at our Annual Investor Day in conjunction with our Interactions User Conference. This year, given the circumstances, we are bringing our conference to you with the industry largest virtual event Interactions Live. And we look forward to hosting all of you.",
+         "I will now turn the call over to Beth."
+      ],
+      "Beth Gaspich": [
+         "Thank you, Barak and good day, everyone. I\u2019m pleased to provide the analysis of our financial results and business performance for the second quarter of 2020, as well as our outlook for the third quarter.",
+         "Total revenue for the second quarter reached $395 million, an increase of 4% from $381 million in the same period of last year. Our total revenue growth was driven again by our strong cloud performance. Cloud revenue increased 30% in the quarter and reached $186 million. Sequential growth in cloud revenue between the first and second quarter of 2020 nearly doubled, compared to the same period in 2019, demonstrating the acceleration we are seeing in our cloud business.",
+         "Cloud revenues continued to grow as a percentage of our total revenue, accounting for 47% of total revenue. Product revenues accounted for 10% of total revenue in the second quarter, and service revenues accounted for the remaining 43% of total revenue in the second quarter.",
+         "Moving to our business breakdown, Customer Engagement revenues for the second quarter were $323 million, a 3% increase over the same quarter in 2019 and represented 82% of our total revenues. Financial Crime and Compliance revenues for the second quarter were $72 million, an increase of 6% and represented 18% of total revenues.",
+         "Looking at geographies, Americas\u2019 revenues were $317 million in the second quarter, compared to $307 million for the same period last year. Revenues in EMEA were $45 million in the second quarter, compared to $48 million last year and APAC revenues in the second quarter were $33 million, compared to $26 million in the same period last year.",
+         "And now, to profitability. Gross profit in the second quarter reached $281 million, compared to $271 million in the second quarter of 2019, and gross margin reached 71%, similar to last year. The strong performance of our cloud business is also evident in the cloud gross margin, as it expanded by 430 basis points and reached 65.7% compared to 61.4% in the same quarter last year. We\u2019ve continued to expand our cloud operations internationally, while simultaneously expanding our cloud margins due to our substantial operating leverage.",
+         "Operating income increased 10% to $111 million and operating margin was 28.2%, an increase of 160 basis points. Earnings per share for the second quarter grew 10% to $1.37, compared to $1.25 in the second quarter of last year. Cash flow from operations in the second quarter was $60 million, an increase of over 230% compared to $18 million in Q2 2019. The increase is primarily attributed to strong collections.",
+         "Total cash and investments at the end of the quarter reached $1,103 million At the end of the quarter total debt was $470 million, net of issuance costs and the equity component associated with our convertible debt.",
+         "Turning over to guidance. Given the continued uncertainty in the current environment, it is challenging to predict our license related revenue, and consistent with our direction from last quarter, we are not providing guidance for the full year 2020. Instead, we will continue to provide only quarterly guidance at this time. While license related revenue is harder to predict, our cloud business remains consistently strong as reflected in our cloud growth in the first half of this year.",
+         "We continue to see excellent demand for our cloud solutions, and expect continued strong growth for the remainder of the year, with an expected end of the year annual run rate of more than $800 million in cloud revenue. As we see rapidly increasing cloud revenue, and as we have highlighted in previous quarters, we exposed both our revenue and our profitability to continue to be more evenly distributed among the quarters.",
+         "Our guidance is as follows. For the third quarter of 2020, we expect total revenue to be in the range of $403 million to $413 million. We expect the third quarter of 2020 fully diluted earnings per share to be in an expected range of $1.33 to $1.43.",
+         "I will now turn the call over to the operator for questions. Operator?"
+      ],
+      "Marty Cohen": [
+         "Thank you, operator. With me on the call today are Barak Eilam, Chief Executive Officer; Beth Gaspich, Chief Financial Officer; and Eran Liron, Executive Vice President, Marketing and Corporate Development.",
+         "Before we start, I would like to point out that some of the statements made on this call will constitute forward-looking statements in accordance with the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Please be advised, that the company\u2019s actual results could differ materially from these forward-looking statements.",
+         "Additional information regarding the factors that could cause actual results or performance of the company to differ materially is contained in the section entitled Risk Factors in Item 3, for the company\u2019s 2019 annual report on Form 20-F as filed with the Securities and Exchange Commission on April 6th, 2020.",
+         "During today\u2019s call, we will present a more detailed discussion of second quarter 2020 results and the company\u2019s guidance. Following our comments, there will be an opportunity for questions.",
+         "Let me remind you that unless otherwise noted on this call, we will be commenting on our adjusted results of operations which differ in certain respects from Generally Accepted Accounting Principles as reflected mainly in accounting for acquisition related revenues and expenses, amortization of intangible assets and accounting for stock-based compensation. The differences between the non-GAAP adjusted results and the equivalent GAAP figures are detailed in today\u2019s press release.",
+         "We\u2019d also like to remind you that we are hosting our Virtual Investor Day on September 15th in conjunction with our Interactions Live User Conference. The special program for analysts and investors will include presentations from NICE executives and product and technology sessions. If you haven\u2019t received the registration email, please email us at ir@nice.com.",
+         "I\u2019ll now turn the call over to Barak."
+      ],
+      "Operator": [
+         "Welcome to the NICE Conference Call discussing the Second Quarter 2020 Results, and thank you all for holding. All participants are present in a listen-lonely mode. Following management\u2019s formal presentation, instructions will be given for the question-and-answer session. As a reminder, this conference is being recorded August the 6th, 2020.",
+         "I would now like to turn the call over to Mr. Marty Cohen, VP, Investor Relations at NICE. Please go ahead."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] Your first question comes from the line of Shaul Eyal from Oppenheimer. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Thank you. Shaul Eyal with Oppenheimer. Good day, everybody. Congrats on the ongoing consistent execution. Barak, the cloud performance is really stemming out this quarter in light of the pandemic, and all things considered. 27% last quarter to 30% nice acceleration this quarter. I think you were also implying for about 20% growth as we\u2019d start thinking about fiscal \u201921 if I got that right, give to take.",
+            "I know that you\u2019ve mentioned some of the drivers behind it in your prepared remarks, but can you provide us with slightly more color? Are these cloud wins driven by displacements, granted opportunities? Is there any specific vertical which is buying more cloud solutions than others? And maybe what\u2019s typically the average contract size of a cloud related engagement? And I have a follow-up."
+         ],
+         "Speaker": "Shaul Eyal"
+      },
+      "3": {
+         "Remarks": [
+            "Sure. Thanks, Shaul. I\u2019ll try to give a bit more color and indeed, we see an acceleration in the cloud business that to begin with was very strong. And but also important to notice that or to mention that this is a growth over a pretty big cloud revenue that we have, a pretty big base, as we said, significantly bigger than the next competitor we have in the market.",
+            "We see three main drivers related to the kind of the current situation that is driving our cloud business, I would say that one is the more of the \u2013 let\u2019s start with the first one. So the first one is, all our solutions and for sure, our cloud solution, we see as a result of the current situation are mission-critical. And that provide us a very strong strength to the business and we, as a result of that experiencing a very high retention rate and expansion opportunity just from the fact that we are the cloud incumbent with many of our customers.",
+            "And the second thing, the second driver is more I\u2019ll call it the short-term and medium term as the organization are either moving to work-from-home or now trying to enable an even further more flexibility, being able to toggle between work-from-home and work-from-everywhere.",
+            "Our solutions are central to enable that, a lot of organization that experience that move in a painful way with their on-premise legacy solution back in March are now coming to us to displace their other vendors which are on-premise one and move to our solutions which are essential in order to enable a very flexible work-from-home mode of operation.",
+            "And long-term or a bit \u2013 further into the future, core of our business and the core of the strategy that we have is banking on the transformation of organizations, both to the cloud and to digital. And we see very large enterprises that we thought will drive those transformation, only two, three years down the road are starting to move those much \u2013 move those forward and do it much faster than originally thought as a result of the aftermath, if you\u2019d like of COVID-19.",
+            "So these are the key drivers as I mentioned on the example that I gave it, actually across many different verticals. Even vertical that considered to be less and fast to react like government and states are moving very fast into these transformations as I\u2019ve mentioned.",
+            "With respect to the size of deals, they are growing in a rapid pace due to two facts. First that we are going fastly up market and signing much bigger deals than in the \u2013 originally in the SMB. And second, since we are the only provider that provides such a breadth of offering with a complete platform, which takes one for example, we see that we gain much more in terms of our ACV because of the desire of customers to standardize on a much richer portfolio than just deploying solution."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "4": {
+         "Remarks": [
+            "Got it, got it. And maybe for Beth as we start thinking about second half of 2020. What\u2019s the current thinking about hiring?"
+         ],
+         "Speaker": "Shaul Eyal"
+      },
+      "5": {
+         "Remarks": [
+            "Yes, so we\u2019ve continued to hire both in the first half of this year and we expect that hiring to continue on to the second half of this year. You know, Barak talked to specifically today around innovation and the importance of that and our leadership position in the market more generally, and even looking at Q2, you can see the impact of that as we are continuing to invest heavily in our R&D efforts and we\u2019ll continue to focus our hire there."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "6": {
+         "Remarks": [
+            "Got it, thank you. Congrats again."
+         ],
+         "Speaker": "Shaul Eyal"
+      },
+      "7": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "8": {
+         "Remarks": [
+            "Thank you. Your next question comes from the line of Samad Samana of Jefferies. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "9": {
+         "Remarks": [
+            "Hi. Good morning. Thanks for taking my questions. Barak, good to have you back on the call as well and congrats on a great quarter. So maybe just following up on the last question around deals and the increased traction on market. Any change in either who you\u2019re displacing or who inside of the organization when you\u2019re selling a deal that\u2019s making the decision? You know, we\u2019ve heard that increasingly you\u2019re \u2013 you know C level and board level decisions given the disruption that\u2019s happened from working-from-home. So I\u2019m just curious if you\u2019re seeing anything in that regard? And then I have a couple of follow-ups."
+         ],
+         "Speaker": "Samad Samana"
+      },
+      "10": {
+         "Remarks": [
+            "Yeah, Thanks for that. I wouldn\u2019t say that there is a dramatic change due to the current situation. But we do see that a lot of organizations that experience what does it take to have their BCP plan, executed back in March. Now having the C level initiative to make sure that they do move into what we call this agility. So it is C level-driven.",
+            "And there are special budgets starting to get allocated to that effort. Some are taking it relatively tactically, like let\u2019s move fast and somehow moving much broader. And so I would say that we do gain more and more visibility to more C level although even before our solution used to be sold to pretty, you know, senior people.",
+            "The other thing that I see in the market is that, the whole notion of customer service, for example, and customer engagement, as a result of what happened back in March, there is a realization that it is a very critical part of every BCP plan of organization. The need to be able to stay in touch with your customers, the consumers and citizens that have high demand of communication while you\u2019re executing on your BCP plans. So it elevates the criticality, if you\u2019d like, of customer service and the customer service role in the BCP plans of the organization."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "11": {
+         "Remarks": [
+            "Great, very helpful. And then maybe just, you know, on the free trials that were brought upon on the earnings call last quarter, and then as you just think maybe how is conversion activity been there? And you know, now that you\u2019ve seen that that\u2019s something that\u2019s driving new customers, how should we think about maybe extending that just on a go-forward basis, the free trials?"
+         ],
+         "Speaker": "Samad Samana"
+      },
+      "12": {
+         "Remarks": [
+            "So, to-date, we have seen 80% of all CXone@home trial that we have, converted to long-term commitment, the commitment by customers. And that\u2019s what we\u2019ve seen so far due to the high demand we decided to extend it in several markets. But it also enables us to somewhat tweak and change our go-to market in the way that we are enabling those type of trials in a very fast deployment and excavation that gave us a certain realization that we can do things even much faster. So we\u2019re very happy with both the conversion as well as the realizations of how we can run the business moving forward."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "13": {
+         "Remarks": [
+            "Great and then maybe, Beth, one for you on the financials. I know that international is a priority as far as investments go. I guess any change in the near-term investment philosophy of where maybe spent dollars for hiring are being allocated between US and international?"
+         ],
+         "Speaker": "Samad Samana"
+      },
+      "14": {
+         "Remarks": [
+            "Yeah, thank you for the question. Specifically international is a focus for us, especially as we\u2019re continuing to expand our cloud business internationally. And certainly as we have looked over the past several quarters, we are promoting and investing in those areas to help promote that rapid expansion there. So we continue to expect that international growth and specifically around the cloud platforms."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "15": {
+         "Remarks": [
+            "Great, thank you for taking my questions and congrats, again, I\u2019ll hop out of the queue."
+         ],
+         "Speaker": "Samad Samana"
+      },
+      "16": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "17": {
+         "Remarks": [
+            "Thanks."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "18": {
+         "Remarks": [
+            "Thank you. Your next question is from Sanjit Singh of Morgan Stanley. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "19": {
+         "Remarks": [
+            "Thank you for taking the question and congrats on the exceptional cloud growth, 30% is definitely very, very impressive. On that front on the sort of composition of the cloud, I was just wondering if I could get some more contexts around it. To what extent has the cloud growth been sort of accelerated by, you know, seasonal seed counts or an uptick in seed counts? And is \u2013 and that normalize like going into the second half?",
+            "And then more broadly, as you look at the large enterprise segment, I wanted to get a sense of, is your customer acquisition costs coming down, meaning, that is it easier to bring on new deals or sales cycles shortening so that the efficiency of acquiring new cloud there are is improving? Any sort of comments on kind of the user economics of the cloud business? Thank you."
+         ],
+         "Speaker": "Sanjit Singh"
+      },
+      "20": {
+         "Remarks": [
+            "Sure. So let\u2019s start with the first one about the comment about the seasonality or any additional color. So you know, first of all, we do have seasonality in our cloud business. And I\u2019ll remind you that every year we have where the seasonality depending on the vertical et cetera and we\u2019ll have to see how the rest of these plays out in terms of seasonality.",
+            "But no doubt that the current situation causes certain verticals to have higher volume, while other had lower volume. But I will add to the majority of the growth just to the fact that we have more customers, more seeds, more deals, faster activation and we had all of that together, this is what brought us to the 30% growth which, of course, we\u2019re very happy with. And it also provided some color about our expectations for the rest of the year with the run rate we believe that the end of December we will be much higher than the $800 million, as we say, and crossing the $1 billion mark sometime next year.",
+            "About the customer acquisition cost, the answer is yes, as you go up market and you find larger and larger deals, at least in the way that we operate, we believe that our unit economics improve, improve even dramatically. We also believe that the fact that the cloud in the Customer Engagement market, in Financial Crime and Compliance and also in Public Safety is starting to become much more of a mainstream.",
+            "Sales cycles are getting shorter, there is much less, if it all need to educate customers, why cloud or going through certain trials and things like that. And by definition, that\u2019s a short on the sales cycle and as a result of that, reducing the cost of acquisition of customers."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "21": {
+         "Remarks": [
+            "That\u2019s great to hear. And just one follow-up on the traction with the large enterprise. If I remember maybe from earnings calls maybe a year or so ago, you guys were penetrating the large enterprise, but kind of at a, I don\u2019t want to say departmental level, but just sort of a large enterprise customer maybe expanding at a particular region or a particular geography.",
+            "Can you give us a sense of what difference in July or now versus last year in terms of the size of the deployments that customers are looking to, to get on board with? Is it a much more larger standardization type deployment versus a sort of trial on a specific region? Any sort of color on how the sizes of the large enterprise deals have changed today versus maybe four or five quarters ago?"
+         ],
+         "Speaker": "Sanjit Singh"
+      },
+      "22": {
+         "Remarks": [
+            "I would say, generally speaking that the difference from a year ago and it does related things to certain realization, and clarity organization that due to their experience with addressing the COVID-19 and that if a year ago, we saw large enterprises stepping towards cloud, I would say now they\u2019re rushing towards the cloud.",
+            "And the reason is that the understanding that they need to completely change the approach that they have in their infrastructure, refer to their technology stack and see the benefit more than the benefit, they just being how cloud is essential in order for them to respond to highly dynamic environment. So that\u2019s the change that that we see.",
+            "And as you said, as last year, we talked a bit about large enterprises, deploying it in a, you know, a department or something like that. Today, there is much more appetite to advance much faster in both digital and cloud transformation. And things will start to happen two or three years down the road, I\u2019ll push forward to now and we see an appetite to go all in if you\u2019d like on both cloud and digital."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "23": {
+         "Remarks": [
+            "Thank you, Barak. Thank you, Beth."
+         ],
+         "Speaker": "Sanjit Singh"
+      },
+      "24": {
+         "Remarks": [
+            "Thank You."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "25": {
+         "Remarks": [
+            "Your next question comes from the line of Walter H Pritchard of Citi. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "26": {
+         "Remarks": [
+            "Hi, thanks. I\u2019m wondering if you could talk a little bit about RPA. You highlighted that more in the script. And I assume you\u2019re not ready to start breaking out that business. But maybe help us understand what the source of what it seems \u2013 what it sounds like an acceleration is in that business and any order of magnitude you can give us on the size of that in terms of your revenue?"
+         ],
+         "Speaker": "Walter Pritchard"
+      },
+      "27": {
+         "Remarks": [
+            "Yeah, I think we\u2019re starting \u2013 thanks for the question. I assume that what we\u2019re starting to see is, let\u2019s call it, RPA to that all, and in the past few years, what we saw in RPA is a fast adoption of what we call, unattended robots, by many, many enterprises that saw the value and actually saw many of the low-hanging fruits that they can address with unattended robots and indeed, many, many enterprises deployed here and there different robots. And most deployments are relatively small, both in terms of footprint and in terms of the dollar value.",
+            "What we see right now is the realization that in order to take RPA in a much more strategic level in the enterprise, two things are important. It\u2019s no longer enough just to automate micro tasks as I call it. And if you really want to gain the full benefit in the arrival of robotics, they need to take its most strategically in the sense that they need to augment it with the manpower, the folk in different back offices. And this is our approach of the attended RPA, meaning, to put robots together with the manpower human beings and combining the two efforts together.",
+            "And the second thing is injecting or infusing a lot of AI capabilities and machine learning in order to enable more sophisticated automation scenarios. So this is what we see, as a result of that, what we see is a larger expansion with both existing customers as well as new customers that are taking it most strategically than just buying a few bots.",
+            "I still believe that we are in the early innings and this market is still it\u2019s in infancy and I call this kind of RPA 2.0, I think we\u2019ll have few more generations and there is a very long and healthy run rate. And we\u2019re in a great position, because we also have the domain expertise. We\u2019ve done in the contact center markets we optimize this market for many, many years. And now we\u2019re bringing both the technology, the unique RPA technology that we have together with domain expertise of how do you optimize processes to a market that is broader just than the contact center market for us."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "28": {
+         "Remarks": [
+            "And quick follow-up for Beth on sales capacities we think about cloud. How should we think about your growth and sales capacity around cloud as we head into 2021? Are you looking to add reps with the sort of pace you were adding them, you know, either adding them now or adding them six months ago? Or do you expect that to slow down or speed up specifically around cloud?"
+         ],
+         "Speaker": "Walter Pritchard"
+      },
+      "29": {
+         "Remarks": [
+            "Sure and thanks for the question, Walter. Generally, as we look at our sales organization, I\u2019m looking forward for the rest of the year and moving into 2021, we generally expect to continue at a similar pace to what we\u2019ve had in the past."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "30": {
+         "Remarks": [
+            "Great, thank you."
+         ],
+         "Speaker": "Walter Pritchard"
+      },
+      "31": {
+         "Remarks": [
+            "Sure."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "32": {
+         "Remarks": [
+            "Your next question is from the line of Daniel Ives of Wedbush. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "33": {
+         "Remarks": [
+            "Yeah, thanks. To Barak, when you\u2019re thinking about let\u2019s say the next year, just given the cloud growth that you\u2019re seeing, do you think the bigger opportunity is new logos, replacements or continued penetration existing customers just go into the broader cloud strategy?"
+         ],
+         "Speaker": "Daniel Ives"
+      },
+      "34": {
+         "Remarks": [
+            "Thanks for the question. Well the answer for us is both and I\u2019ll further explain. I think that the \u2013 well the beauty of our cloud transformation as a company is that, it\u2019s not just taking our on-premise customer base and transfer it or move it to the cloud in the course of two years as we\u2019ve seen in the last three years, but also into the future, the benefits for us is that we are doing both.",
+            "Since we took cloud in a much broader aspect and just what we used to do as a company in the on-premise, most of the clouds business we\u2019ve seen so far was taking market and domain where we did not operate in as an on-premise provider. So that has been most of our cloud growth so far.",
+            "At the same time and while this will continue, I believe in a dramatic way. Don\u2019t forget that in most of our markets the penetration of cloud is still roughly at somewhere in the 16%. So there is still a very long way to go and tremendous opportunity. But on top of that, there\u2019s an opportunity for us also to convert our own on-premise product into the cloud, so that\u2019s, the two are combined to a great opportunity for us moving forward.",
+            "And we also see existing customers of ours already moved to the cloud, given the fact that our platform are not just point solution, but they are very wide in terms of the offering that we have, a lot of those customers are now adopting more and more of our offerings, meaning, expansion opportunities, especially in the areas of analytics and AI and also as they\u2019re transforming to digital."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "35": {
+         "Remarks": [
+            "Great, thanks."
+         ],
+         "Speaker": "Daniel Ives"
+      },
+      "36": {
+         "Remarks": [
+            "Your next question is from the line of Rishi Jaluria of D.A. Davidson. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "37": {
+         "Remarks": [
+            "Hey guys, this is Rishi Jaluria from D.A. Davidson. Thanks for taking my questions and really nice to see the continued acceleration on the cloud side. I wanted to start by asking about the recent acquisition of Guardian Analytics. I was wondering if you could give us a little bit more color on the strategy for this, how it fits in with the SEC side of the business and, you know, maybe how it can accelerate cloud on that side? And I\u2019ve got a follow-up."
+         ],
+         "Speaker": "Rishi Jaluria"
+      },
+      "38": {
+         "Remarks": [
+            "Yeah, thanks for the question. So we did announce the acquisition not so long ago. And we\u2019re feeling the phase of the regulatory approval and we believe that we can still close the deal before the end of the year pending of course on the regulatory approval.",
+            "From a strategic perspective, as we announced the deal, what we saw with Guardian is a very unique AI technology that will enable us to further accelerate and augment of fraud capabilities in our Financial Crime and Compliance business as well as taking it to other aspects of Financial Crime and Compliance in the AML part, CDD, KYC, and few other places.",
+            "So the technology stack and the IP that Guardian has will help us to boost those solutions. And as this market overall is also starting to migrate to the cloud I referred in my earlier remarks that this quarter, the Financial Crime and Compliance business and specifically X-Sight grew double \u2013 triple I\u2019m sorry, triple-digit percentagewise on the clouds, that can also help us to accelerate that part as well because it is, when you deal with AI, it is much more favorable to inject AI to cloud solutions because of the accessibility to data."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "39": {
+         "Remarks": [
+            "Great, that\u2019s helpful. And then, Beth for you wanted to touch a little bit on cloud gross margins, you saw some really nice cloud gross margin expansion, I think 430 basis points, year-over-year. What led to that margin expansion there? Was that revenue mix shift and infrastructure efficiency, benefits of scale and anything else? And, you know, maybe is this indicative of kind of the direction of cloud gross margins going forward or how should we be thinking about that line? Thanks."
+         ],
+         "Speaker": "Rishi Jaluria"
+      },
+      "40": {
+         "Remarks": [
+            "Thanks for the question, Rishi. And as you highlighted, we had very strong cloud gross margin during the quarter, it was actually an all-time high of just under 66%. And it is a trend we expect to continue to see it\u2019s really reflective of the strength in our cloud business. Barak has talked a lot about our move more into the large enterprise.",
+            "And as we shift even further into the large enterprise, what we see with that is, we have a higher attach rate, the software that we\u2019re selling on our platforms. And that comes at a higher margin relative to the network or telephony component that we\u2019ve highlighted in the past.",
+            "So as a percent of the mix, we\u2019re selling more software and that, again is expanding as well as our average contract value of our sales in our [ACV] [ph] that we\u2019re signing. So it is a trend that we can expect to continue to see in our cloud business."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "41": {
+         "Remarks": [
+            "Wonderful, thank you so much."
+         ],
+         "Speaker": "Rishi Jaluria"
+      },
+      "42": {
+         "Remarks": [
+            "Your next question comes from the line of Tavy Rosner of Barclays. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "43": {
+         "Remarks": [
+            "Hi. Thank you for taking my questions. Most of them have been asked. I had one on operating expense, I guess when you look at the current situation with most of your employees not travelling and taking flights, I guess some of them working from home. You guys hosting conferences virtually. Are there any structural savings that you can keep even post-pandemic that would \u2013 that you can sustain and that would improve your structural margins?"
+         ],
+         "Speaker": "Tavy Rosner"
+      },
+      "44": {
+         "Remarks": [
+            "Yeah. Thanks for the question, Tavy. You\u2019re correct that given the recent events this year, we have been able to see some reduction in cost savings. And certainly as you go through times like this, that this \u2013 this gives you the opportunity to kind of further dig into all of your expenses.",
+            "It\u2019s always been extremely important at NICE that we\u2019re very prudent when it comes to cost management. And so absolutely, we will be able to retain some of those savings as we go on beyond kind of the current situation and, you know, looking forward into the future. So we will be able to retain some of the benefits and some of the changes we\u2019ve made internally here at NICE."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "45": {
+         "Remarks": [
+            "Great, thank you and congrats on the strong results."
+         ],
+         "Speaker": "Tavy Rosner"
+      },
+      "46": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "47": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "48": {
+         "Remarks": [
+            "Your next question is from the line of Patrick Walravens of JMC [sic - JMP]. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "49": {
+         "Remarks": [
+            "Oh, great. Thank you. Congratulations. Hey, Beth just I just want to make sure I understand. So for the cloud run rate when we say, $800 million by the end of this year that means, Q4 will be north of $200 million, right?"
+         ],
+         "Speaker": "Patrick Walravens"
+      },
+      "50": {
+         "Remarks": [
+            "Hi, Pat, thank you for the question. Generally, when we talk about the $800 million run rate in our cloud business, we, for revenue, we are talking about the run rate we expect to exit with however, we\u2019re confident in saying that, that we expect it to be well above the $800 million mark."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "51": {
+         "Remarks": [
+            "Yeah, because I can say you\u2019re \u2013 but the streets already there. So that well got \u2013 got it with well above. Now, when you look at what you said for next year, that\u2019s sort of more interesting. So there, if you\u2019re saying north of $1 billion, we\u2019re talking about Q4 being north of $250 million, right. And that is sort of well above where I am. I just want to make sure we\u2019re interpreting that right?"
+         ],
+         "Speaker": "Patrick Walravens"
+      },
+      "52": {
+         "Remarks": [
+            "So we specifically have highlighted again, the $800 million mark as we exit this year. So you know, I think in terms of the growth that we\u2019re talking about on cloud, that\u2019s what we\u2019re seeing, as I said, we expect to be above that, but that\u2019s the kind of milestone that we expect to see this year. And as you highlighted, we are really excited and highly confident and being able to surpass the $1 billion milestone of cloud run rate and our revenue next year."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "53": {
+         "Remarks": [
+            "Wonderful, okay. And then, Barak, you know, it\u2019s been two years now since Mattersight. And I think when you bought it, it was a $50 million business. I know you had to make a ton of changes and now it\u2019s part of your analytics solution. How\u2019s it working out?"
+         ],
+         "Speaker": "Patrick Walravens"
+      },
+      "54": {
+         "Remarks": [
+            "We\u2019re very happy with the acquisition of Mattersight. The reason why we acquired Mattersight was less about the revenue which was a mix of some overlaps or existing business. But we acquired Mattersight because of their PBR, Predictive Behavioral Routing technology and the intent and this is exactly how we executed them that was to embed that technology into CXone, in order to give us a very unique capability to our platform.",
+            "And that\u2019s exactly what we\u2019ve done. We\u2019ve invested in the past couple of years, mainly on that front, which is taking the technology and embedded into CXone. And today indeed, when we go out there to the market, it gives us a tremendous competitive advantage as we go ahead and continue to take the market to CXone."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "55": {
+         "Remarks": [
+            "Right. Thank you, both very much."
+         ],
+         "Speaker": "Patrick Walravens"
+      },
+      "56": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "57": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Beth Gaspich"
+      },
+      "58": {
+         "Remarks": [
+            "And your next question is from the line of Ryan Koontz of Rosenblatt Securities. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "59": {
+         "Remarks": [
+            "Hi, congrats and thanks for the questions. On the CXone go-to market partners as you move up market there in the cloud and take on bigger enterprise deals as you talked about, you know how are you positioned to handle the demand for professional services for some of these deals? Do you work with the global FIs or you know, how much of that do you bring in-house versus outsource? I have a follow-up question as well."
+         ],
+         "Speaker": "Ryan Koontz"
+      },
+      "60": {
+         "Remarks": [
+            "Sure. So the answer that I guess is all the above. We, of course, some customers would like to get those professional services and consulting services and managed services from us. But we have today a lot of experience with some great partners and have great opportunities for our partners as they go and further evolve their services.",
+            "So if we have a partner that can do the work well, of course, we\u2019d be very happy to hand it over to a partner. And it\u2019s not very different from what we\u2019ve seen in the mid-market. And I think that the main difference of today versus a couple of years ago is that, as I said before and also on some previous calls, is that, we go in and sign a lot of new partners. Some of them are bars and some of them are size.",
+            "And especially as we go to the international market, where we have less presence in terms of professional services that are critical and our ability to expand. So we are very happy with this expansion. And from our perspective is the customer preferred to have that work done by a partner we\u2019d be very \u2013 more than happy to engage the partner to do the work."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "61": {
+         "Remarks": [
+            "Great. And just to follow on, on the international comment there. As you move into these new markets, you know, how are you positioned to handle some of the local infrastructure there as far as GDPR and local domicile? Thanks."
+         ],
+         "Speaker": "Ryan Koontz"
+      },
+      "62": {
+         "Remarks": [
+            "Sure. So first of all, NICE even before that, before the cloud, we had a lot of presence internationally. So it helps us a lot to now take the cloud over that history that we have in many different territories, including legal entities and other aspect that you talked about and we have that experience.",
+            "As we started international expansion efforts about several years back, we already put into a plan and executed many different aspects of localization, you mentioned GDPR, other localization aspects. So we are well into the execution on those and every country or geography where we operate in, we are fully complying with the local regulation and local infrastructure and privacy and so on and so forth.",
+            "Don\u2019t forget that also a few years back, we also signed many customers that are may be based in the US, but have international presence with different franchises and branches. So that work was done already several years back and what we\u2019re expanding right now is mainly our go-to market capabilities in those international markets."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "63": {
+         "Remarks": [
+            "Excellent, thanks so much for the answers."
+         ],
+         "Speaker": "Ryan Koontz"
+      },
+      "64": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "65": {
+         "Remarks": [
+            "Thank you for your questions. I would now like to turn the call over to Barak for closing remarks."
+         ],
+         "Speaker": "Operator"
+      },
+      "66": {
+         "Remarks": [
+            "Thank you for joining us today and as I said before, we look forward to see all of you at our Virtual Event Interactions Live in September. Thank you and have a great day."
+         ],
+         "Speaker": "Barak Eilam"
+      },
+      "67": {
+         "Remarks": [
+            "Thank you, Barak and thank you, everyone for joined in. That concludes your call. Please disconnect your lines. Have a very good day."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

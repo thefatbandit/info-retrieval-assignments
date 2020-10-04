@@ -1,0 +1,611 @@
+{
+   "Date": "July 20, 2020",
+   "Presentation": {
+      "Daniel Boncel": [
+         "Good afternoon and thank you for joining the Limelight Networks second quarter 2020 financial results conference call. This call is being recorded on July 20, 2020, and will be archived on our Web site for approximately 10 days.",
+         "Let me start by quickly covering the Safe Harbor. We would like to remind everyone that we will be making forward-looking statements on this call. Forward-looking statements are all statements that are not strictly statements of historical fact such as our outlook for 2020 and beyond, our priorities, our expectations, our operational plans, business strategies, secular trends and product and feature functionality announcements and the impact of COVID-19.",
+         "Actual results could differ materially from those contemplated by our forward-looking statements and reported results should not be considered as an indication of future performance. For more information, please refer to the risk factors discussed in our periodic filings, including our most recent Annual Report on Form 10-K. The forward-looking statements on this call are based on information available to us as of today's date and we disclaim any obligation to update any forward-looking statements, except as required by law.",
+         "Joining me on the call today are Bob Lento, our Chief Executive Officer; and Sajid Malhotra, our Chief Strategy Officer. We will be available during the Q&A session at the end of prepared remarks.",
+         "I would now like to turn the call over to Bob Lento.",
+         "Thank you, Sajid. Before I begin, I\u2019d like to take a quick moment to thank Sajid for his strong leadership within this company, his mentorship to me professionally and most importantly his friendship for me personally. Limelight is in a much different place today than it was when he began as CFO. I am again excited for the opportunity to continue to build upon this foundation.",
+         "From a macro industry perspective, we operate in the $6.9 billion CDN market. Within that market and in line with our primary strategic focus, OTT video and online gaming represents a combined $5 billion market. We believe the growth within this market provides the underlying basis to achieve our long-term annual growth target of 15%.",
+         "In addition to the organic growth in the CDN space, we believe edge services represents the logical next step in our evolution. We offer an existing globally distributed network that is already connected to over 1,000 ISPs. We have a sales team dedicated to working with existing and new customers to provide ultra-low latency capabilities for a developing and expanding suite of needs. We are working with the growing pipeline of use cases to capitalize on this opportunity over the next several years.",
+         "As for the remainder of 2020, despite the continued uncertainty of where this pandemic takes us, we feel confident enough to again raise 2020 guidance. We expect sequential quarterly revenue growth for the remainder of the year and are raising the low and high ends of our revenue expectations to $230 million to $240 million.",
+         "We are also raising the low end of adjusted EBITDA guidance resulting in a revised range of $28 million to $35 million. We see ourselves making more investments to accelerate revenue growth in coming years.",
+         "The first half of 2020 has definitely been a time to remember on many different fronts. Limelight is fortunate to operate in an industry that helps people stay connected during the pandemic. We are grateful to not only sustain but grow during these times.",
+         "It has also been a year where many important social issues, specifically the push for equality and social justice have been more pronounced. Limelight is proud to support the Black Lives Matter movement. Through discussion and participation, we learn and can effect change. Limelight has put in place a program to match employee contributions to approved organizations and I am proud to work for a company that believes together we can make a difference.",
+         "Before we jump into the Q&A session, due to the pandemic and out of precaution, we are all taking this call from separate locations. Please bear with us as we direct questions as they come in.",
+         "With that, I will turn the call over to the operator to begin the question-and-answer session. Operator? "
+      ],
+      "Operator": [
+         "Good afternoon, and welcome to the Limelight Networks Second Quarter 2020 Earnings Conference Call. All participants will be in listen-only mode. [Operator Instructions]. After today\u2019s presentation, there will be an opportunity to ask questions. [Operator Instructions]. Please note this event is being recorded.",
+         "I would now like to turn the conference over to Dan Boncel, Chief Financial Officer. Please go ahead."
+      ],
+      "Robert Lento": [
+         "Thanks, Dan, and good afternoon. Q2 was a strong quarter as we maintained our focus and steady execution during these turbulent times. We continue to build on the first quarter\u2019s strong business momentum and strengthen our financial and operational performance.",
+         "Revenue in the second quarter was $58.5 million, up 28% year-over-year. GAAP net loss improved 76% over the year-ago quarter and our non-GAAP net loss improved by almost 200% over the second quarter of 2019. Adjusted EBITDA was more than 6x higher than the prior year amount and our balance sheet remains strong.",
+         "I\u2019m particularly pleased that our gross margin improved this quarter both sequentially and year-over-year. I\u2019m proud of our ability to generate these strong results as the world continues to navigate these uncertain times from the COVID-19 pandemic.",
+         "During these challenging times we have managed to add capacity, delivered record traffic with high quality, transition to a work-from-home model while seamlessly supporting and optimizing performance for our customers. ",
+         "We are fortunate that technology has allowed us to remain actively engaged with both our customers and employees and drive growth in Q2 along with significant progress toward our strategic goals.",
+         "Additionally, while commenting on meaningful elements of Q2, it is important to comment on the impact of the Black Lives Matter movement to our global community and our Limelight family. I want to take this opportunity to express our full support of the Black Lives Matter movement and share briefly what we have done at Limelight.",
+         "Like many companies, we have reflected on ways we can be better to further live up to our corporate values and to act. Internally, we are focused on broadening our commitment to diversity through a number of employee and policy-based initiatives.",
+         "Further, we engage with our employees to select organizations they want to support. Together, our employees and the company are participating in a financial donation and matching program to support organizations pushing to end racial injustices. We recognize much more work needs to be done and we are committed to do our part.",
+         "Turning back to our quarterly results, traffic levels in the second quarter reached record levels and we believe our traffic continues to grow much faster than overall Internet growth rates. As the world continues to navigate through these uncertain times, we play an important role in connecting people to information and entertainment.",
+         "COVID-19 has created an increased global reliance on the Internet and content delivery. We have good traction with our video-on-demand customers and we are encouraged that some live events are starting to return. While uncertainty remains as the pandemic unfolds, we are confident in the underlying momentum in our business and expect it to continue for the remainder of 2020.",
+         "One driver of higher traffic in the second quarter was our participation in the recent launches of new on-demand offerings, including the initial launch of NBCUniversal\u2019s Peacock to Comcast only users in April as well as WarnerMedia\u2019s HBO Max launch in May.",
+         "Most recently, I\u2019m pleased that we supported Peacock's nationwide launch on July 15 providing an excellent experience for their customers. These companies continue to look to us as a trusted partner, given our network\u2019s high-quality performance, global scale and strong value proposition.",
+         "While business and traffic from existing customers in Q2 were strong, new customer acquisition was slower given headwinds related to COVID-19. Despite some slowness, I\u2019m pleased that we closed a number of new logos across all regions and our pipeline of deals from new and existing customers is strong.",
+         "I'm particularly pleased with our growing pipeline and edge services as we continue to build out our edge capabilities. We are excited about some large customers that have completed successful proof of concept trials and we expect to close several of these deals this quarter. In fact, one is already closed with a global OTT provider who will be using Limelight video delivery and our edge services.",
+         "Customers choose us because of our unmatched global footprint and connectivity which positions us to win in the growing edge market. As we have consistently done in 2020, we made significant progress in Q2 on our strategy and this year's four strategic imperatives. Progress in these key strategic areas are key to driving our lead in video delivery and edge services.",
+         "Our first strategic imperative is expanding capacity. To ensure we can meet the expected growth in traffic, we continue to actively pursue our aggressive plan for 2020 to expand existing PoPs and build new ones in new geographies. Our goal coming into the year was to achieve 100 terabits per second of capacity and we expect to meet or exceed that goal even while having experienced some supply chain issues and travel and operational restrictions resulting from COVID-19.",
+         "The second strategic imperative is optimizing and expanding our proactive management of the network. We're in the process of deploying new next generation network management tools that we believe will provide industry-leading automation to address network saturation issues.",
+         "As a result of the great progress we made in this initiative in the second quarter, we are already seeing benefits through more efficiently managing our increasing traffic loads and delivering higher quality. These significant optimizations will allow us to more quickly react to changes in the Internet ecosystem around the world.",
+         "Our third strategic imperative is placing more control in the hands of our customers which we are doing through our newly created developer enablement portal called Developer Central. It has been in beta testing over the past few months and is scheduled to go GA at the end of this month.",
+         "It provides our customers with a one-stop source of API documentation, code samples, software development kits and innovative API Explorer, experts to answer questions and a forum to engage with other developers. We\u2019re looking forward to expanding this powerful resource in the coming months and will continue to share updates that will be guided by a strong partnership with and feedback from our developer community.",
+         "And last but perhaps most important strategic imperative is driving innovation. Even with the pandemic, our employees continue to work hard on our new product initiatives during the second quarter and I\u2019m excited to share some details of our progress.",
+         "During the second quarter, we launched the new service called Live Push Ingest which allows content providers to push live streaming video content to Limelight for distribution across our CDN. Live Push allows our customers to reduce latency, better manage egress costs and significantly scale live streaming events with no threat of overloading their content production or origin servers.",
+         "This is a strong example of listening to and partnering with our customers to prioritize development of functionality further enabling them to provide high-quality experiences for their customers.",
+         "Another area of significant progress in the second quarter was with the second major release of Limelight Realtime Streaming building on our existing offering of the industry's first global, scalable, sub-second live video streaming solution.",
+         "This new version will add greater functionality and scalability to better meet the significant demand we see in the marketplace. We are on track to launch Realtime Streaming version 2.0 later this year and also expect to seamlessly move all of our current Realtime Streaming customers to the new version by year-end.",
+         "Lastly, during the second quarter, we made significant progress with our new serverless compute capabilities known as EdgeFunctions. This offering, currently in beta testing with several customers, will provide a platform for our customers to deploy their own application functions on our network edge locations and run them on demand.",
+         "EdgeFunctions is designed to support the complex requirements of our video delivery customers and is expected to fully launch later this quarter. I\u2019m enormously proud of the Limelight team and their continued dedication to serving our customers while also making significant progress on our strategic imperatives during these difficult times.",
+         "Turning now to our management team. We recently announced changes to our senior leadership. Effective June 1st, we hired Christine Cross as our Senior Vice President and Chief Marketing Officer, responsible for all aspects of our global marketing and product efforts.",
+         "Christine comes to Limelight with a wealth of experience, including almost 10 years at GoDaddy in a variety of roles including Vice President of Global Customer Development and Marketing. We are very excited about her contributions already and expect to capture and maximize more opportunities in our market through her leadership.",
+         "As previously announced, effective July 1st, Sajid transitioned from CFO to Chief Strategy Officer, maintaining the responsibilities for corporate strategy, M&A and Investor Relations. Dan Boncel was promoted to the position of Chief Financial Officer. This transition has been smooth and we look forward to the contributions from both Sajid and Dan in their new roles.",
+         "In summary, this was a strong quarter for Limelight as we operated very well in an extremely challenging environment. As I look forward at the remainder of 2020, while there are many uncertainties, I'm confident in our future. Our industry is healthy and growing, our business momentum continues to strengthen and our financial position is solid.",
+         "We are excited about a number of new product launches, capacity additions and new customer deals expected over the next few months. We believe our strategy and disciplined execution will continue to drive customer satisfaction, revenue growth and sustainable above market returns.",
+         "With that, I\u2019ll turn the call over to Sajid."
+      ],
+      "Sajid Malhotra": [
+         "Thanks, Bob, and good afternoon. I will review the results for the quarter and Dan will discuss guidance and his priorities and areas of future focus. So let us review our strong second quarter performance.",
+         "Q2 revenue of $58.5 million in the highest reported second quarter revenue in history. That continues a trend and makes that the third consecutive quarter with the highest quarterly reported revenue, and establishes the revenue run rate in the high 50s from low 40s last year. Year-over-year, revenue increased 28% and it exceeded our previous highest second quarter by over $8 million, and beat our analysts expectations.",
+         "International customers accounted for 38% of total revenue in Q2 compared to 37% a year ago. Approximately 10% of our second quarter revenue was in non-U.S. dollar-denominated currencies. Foreign exchange headwinds in the quarter amounted to approximately $100,000 driven primarily due to the fluctuation in the pound.",
+         "Average revenue per customer remained at approximately $100,000. This is our entire revenue divided by our entire customer base, and we continue to believe our average revenue per customer is the highest in the industry.",
+         "Compared to others outside in our industry, the financial model focused on fewer and larger customers allows us to accept a slightly lower gross margin but against a much lower operating expense profile, resulting in higher operating margin, profitability and cash flows.",
+         "Within this revenue growth and as a result of the global pandemic, the video-on-demand business is growing at an above average rate and live events related traffic is well below normal levels.",
+         "Second quarter gross margin was 40.6%, an increase of 30 basis points year-over-year and a very impressive sequential increase of 430 basis points on slightly higher revenue. The increase was driven by improving asset utilization and negotiated lower costs.",
+         "As you may recall, our otherwise stellar performance in the first quarter showed some weakness in the gross margin line. While we were confident the first quarter was an exception, it is particularly rewarding to see our assumptions confirmed in a very strong sequential improvement of 430 basis points.",
+         "Our cash gross margin was similarly a strong 51.2%. Depreciation and amortization and a small amount of stock-based compensation make up the entire difference between GAAP and cash gross margins. Looking ahead and as mentioned, we continue to implement tools that will make our network even more efficient while at the same time improving service quality.",
+         "Operating expenses decreased approximately $0.5 million. We recorded a GAAP loss of $1.7 million in the second quarter or $0.01 per basic share compared to a GAAP loss of $7.2 million or $0.06 loss in the year-ago quarter.",
+         "Non-GAAP net income of $0.03 per share compares to $0.03 loss in the second quarter of last year. Adjusted EBITDA was a second quarter record high for us totaling $9.7 million compared to $1.4 million last year. Sequentially, our operating leverage resulted in 100% flow through of revenue and gross margin increases quarter-over-quarter.",
+         "We ended with tax and tax equivalents of $18.2 million at the end of second quarter, down about $3 million from the first quarter. At the end of June this year, DSO crept up to 70 days compared to 53 at the end of June last year and 48 days at the end of December attributable to just a couple of slower payments from our very well capitalized large customers. Despite this rise, we feel very confident in the strength and overall quality of our receivables. For example, we have already received over $50 million of this outstanding accounts receivable balance.",
+         "Capital expenditures during the quarter were $8.1 million, consistent with our plans for 2020. As of June 30, we had approximately 121.7 million shares outstanding. Total employee count at the end of the quarter was 627, up 11 from the end of last quarter.",
+         "Now before I hand the call over to Dan, I just want to say a word of thanks. To be the Limelight CFO for the last five years has been a great privilege. When Bob and the Board appointed me, our enterprise value was around $100 million and we had more questions than we had answers.",
+         "Limelight employees, supported by the executive team, have delivered what we believe then was only possible. We are growing possibly \u2013 the breadth and quality of our offerings is demonstrably better, our customers, employees and partners appreciate us. We are a responsible business entity in the communities we serve. And over this time our shareholders had benefitted from an almost tenfold rise in the enterprise value as it approaches $1 billion.",
+         "Looking ahead, we are fortunate to be facing the possibility of dramatically growing with the edge services opportunities with our incredible starting point that gives us a comparative advantage over so many others.",
+         "As I move to help Limelight capitalize on those opportunities, it is personally gratifying to have Dan take over the reins and be our next CFO. He has helped us all get here and I have confidence he will help Limelight deliver on the opportunity we have.",
+         "With that, I will turn the call over to Dan."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "We will now begin the question-and-answer session. [Operator Instructions]. Our first question comes from Lee Krowl with B. Riley FBR. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Great. Thanks for taking my questions. Hope everyone is well. And congrats on Sajid. We\u2019ll miss you on your last call, but looking forward to working with Dan. So I wanted to start off on the guidance for the second half. I wanted to just get a sense, kind of the key inputs to the knowns and the unknowns and perhaps maybe just speak to as it relates to video-on-demand and live sports and perhaps some of the more unknowns that you might anticipate for the second half both as upside and potential downside risk?"
+         ],
+         "Speaker": "Lee Krowl"
+      },
+      "3": {
+         "Remarks": [
+            "This is Bob. Thanks for your question, Lee. There\u2019s certainly more unknowns than knowns. We don\u2019t know what the future holds in terms of the spread and severity of the COVID-19 virus and its effect on the lifestyles of people around the world. So there\u2019s more than the usual unknowns for sure. What we do know is that even without a pandemic, the streaming services there\u2019s more choices today and within those choices there\u2019s more content, people are relying more on Internet connected devices to consume their content and so we like the long-term trend of the business, but it does make it tough in the short run when we\u2019re trying to decide what should the guidance be. Just to bring it home with an example, we don\u2019t know, is the NFL going to have a full schedule or is it \u2013 there\u2019s a lot of unknowns and what we said, for example, when it comes to live events that any one individual event even one as big as the Super Bowl isn\u2019t that material from a revenue perspective. But when you string them altogether all over the world every day, it is a material part of our business and right now that was zero in Q2 or pretty close to it and it\u2019s not much better than that right now, but we\u2019re hopeful and we\u2019re seeing signs that that will return. But it\u2019s hard to know exactly what the impact of that will be. At the same time, as you\u2019ve mentioned, the OTT video-on-demand continues to be on the rise and we continue to do well in terms of share of wallet with delivering that. So taking that all into consideration, we\u2019ve come up with the best guidance that we can give into a level of uncertainty that exists. So, I don\u2019t know, Sajid or Dan, do you have anything to add to that?"
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "4": {
+         "Remarks": [
+            "Yes, I would just say that -- "
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "5": {
+         "Remarks": [
+            "Go ahead, Dan."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "6": {
+         "Remarks": [
+            "These OTT offerings doesn\u2019t mean it just rolled out to some locations at the end of last year. They continue to rollout throughout this year. The other offerings like HBO Max and Peacock are just rolling out this year. And so there\u2019s a lot of even unknowns in those assumptions, but we try to be cautious in what we\u2019ve built into our numbers for the back half of the year, but we feel confident that we\u2019ll meet those numbers as we go forward here."
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "7": {
+         "Remarks": [
+            "Got it. And then you kind of outlined that you expect revenue to see sequential growth throughout the second half. On the margin front, you had some fairly significant gains sequentially and I think on the last call you guys kind of outlined that there was key drivers to see sequential improvement in gross margins throughout the year as well. Given the gain from Q1 to Q2, would you expect that to be the case or is the bulk of the gross margin gains kind of encapsulated in that Q2 number?"
+         ],
+         "Speaker": "Lee Krowl"
+      },
+      "8": {
+         "Remarks": [
+            "I\u2019ll start but let me pass that to Sajid to maybe give some perspective."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "9": {
+         "Remarks": [
+            "Yes. Look, I think what we try to do and you know this well over the five years that we try to manage through the year and give you the best possible information across the year. But if they have significant changes within the core that we pay attention to, then we try to explain what maybe causing them. I think we feel very good about the progress we\u2019ve made. The first issue was to make it perfectly clear that the first quarter was of normal in the low margin that we got at 36%. So correcting for that and correcting for it aggressively, we are congratulating the team for a job well done. They\u2019ve done a remarkable job getting us here. And I think as the business begins to build from here, we would expect the second half margins to be higher than the first half margins. And the goal is always to kind of show sequential, sequential, sequential. But if on the stage if it is a little bit wider or a little bit heavier, I wouldn\u2019t really get caught up in that. I want to make sure we don\u2019t have another 36% quarter like we did in the first quarter and keep as the 40% mark about there beginning to move higher from there. We\u2019ll see. We are more focused on the operating margin, the cash generation, the free cash flow, the EBITDA and our ability to predict are extensive and our cost is pretty good at this company, the best I\u2019ve seen."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "10": {
+         "Remarks": [
+            "Got it. And then last quick question for me. Do you guys expect any major renewals in the second half perhaps as you have some of these OTT launches, maybe a true-up on traffic or pricing or anything such as that renewal?"
+         ],
+         "Speaker": "Lee Krowl"
+      },
+      "11": {
+         "Remarks": [
+            "Not that I\u2019m aware of. Most of the big ones are behind us."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "12": {
+         "Remarks": [
+            "Got it. Great. Thanks for taking my questions, guys. Nice job on the quarter."
+         ],
+         "Speaker": "Lee Krowl"
+      },
+      "13": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "14": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "15": {
+         "Remarks": [
+            "The next question is from Robert Majek with Raymond James. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "16": {
+         "Remarks": [
+            "Thanks. Just given that Amazon Prime Video is a very large customer for you, can you just give us more color on the revenue growth you\u2019re seeing with them, how your share of their CDN spend is trending and maybe elaborate on the overall confidence in the long-term partnership with them?"
+         ],
+         "Speaker": "Robert Majek"
+      },
+      "17": {
+         "Remarks": [
+            "No, no and no."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "18": {
+         "Remarks": [
+            "Yes, we don\u2019t disclose any of that. What I would tell you is \u2013 and by the way they don\u2019t disclose numbers to us in terms of share of wallet or anything like that. What I would tell you is the quality of their content is very good. You\u2019ve seen them become more aggressive in the area of live events. That sits well with where we are positioning ourselves in terms of capability. And I would say that we\u2019re very pleased with the level of interaction we have with Amazon Prime Video around their strategy long term and how we fit into it. But I don\u2019t think we can kind of be more specific than that."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "19": {
+         "Remarks": [
+            "And can you elaborate on the interest you\u2019re seeing around EdgeFunctions? What sort of use cases or applications are customers beta testing right now?"
+         ],
+         "Speaker": "Robert Majek"
+      },
+      "20": {
+         "Remarks": [
+            "We have not gone for general availability. So GA will happen closer to the end of August I believe but for sure within the quarter. And typically what people are doing with EdgeFunctions are cases like watermarking, ad insertion and things where you can spin them up, you need it for literally milliseconds to seconds. And then the function sort of goes away as opposed to us serving up an application that may live for hours or days or longer. And so we\u2019re seeing some very interesting use cases where when you try to do those functions in the cloud, the latency gets in the way of effectiveness. And so while edge serverless compute is sort of the horizontal offering, the use cases that we are focused on are very much video-centric and we\u2019re seeing our customers find value in a lot of different ways from video delivery, including things as simple as A/B testing and as complex as ad insertion, watermarking and other things like that."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "21": {
+         "Remarks": [
+            "Great. Thanks a lot."
+         ],
+         "Speaker": "Robert Majek"
+      },
+      "22": {
+         "Remarks": [
+            "The next question is from Mike Latimore with Northland Capital Markets. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "23": {
+         "Remarks": [
+            "Great. Congratulations again on this great quarter. Just wanted to touch on the accounts receivable for a second. Can you elaborate a little bit more? You talked about maybe a couple of big customers there and maybe they paid already, but just maybe a little more detail around kind of what the customers are telling you why they maybe didn\u2019t pay quite as quickly?"
+         ],
+         "Speaker": "Mike Latimore"
+      },
+      "24": {
+         "Remarks": [
+            "Yes. In the first quarter we\u2019ve mentioned that we are willing to work with customers that have been significantly impacted by the pandemic and their customers who weren\u2019t paying them. So a portion of this is that, but that\u2019s not the majority of it. The majority of it is just simply timing of payments. As you know, we have some significantly large customers and when those payments kind of span over the course of a month, the AR balance will fluctuate accordingly. And we\u2019ve already received a significant amount of that cash that went over that month and we\u2019re not worried about it at all. Our balance sheet is strong. We can obviously support our customers in this way. And so we feel confident that it\u2019s just a timing thing and it will resolve itself."
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "25": {
+         "Remarks": [
+            "All right. And then on traffic, what kind of traffic growth year-over-year are you seeing? And then maybe can you talk just a little bit by month, is it kind of continuing to grow sequentially to your traffic level?"
+         ],
+         "Speaker": "Mike Latimore"
+      },
+      "26": {
+         "Remarks": [
+            "Again, we don\u2019t really disclose what those numbers are. I can tell you one of the reports out there is a report by Cisco Internet traffic they expected this year to grow by 26, video by 35 in round numbers. We\u2019re exceeding that. And then in terms of month-over-month traffic, we like what we\u2019re seeing from a trend standpoint and we continue to grow traffic on a year-over-year basis. And I can tell you Q2 traffic was higher than Q1, for example. But obviously our belief on what it will be in Q3 and Q4 is tied to our guidance, so you kind of have our view on that."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "27": {
+         "Remarks": [
+            "Great. And then --"
+         ],
+         "Speaker": "Mike Latimore"
+      },
+      "28": {
+         "Remarks": [
+            "If you wanted to kind of triangulate to that and get a sense of how this is, right, we talk about price compression of 15%, 20% and you can see what the revenue numbers are. So when you kind of work that math across, you\u2019ll roughly get to the number if you wanted to get a sense of what\u2019s going on in the business."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "29": {
+         "Remarks": [
+            "Yes. And just last one on edge, does edge generally help gross margin?"
+         ],
+         "Speaker": "Mike Latimore"
+      },
+      "30": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "31": {
+         "Remarks": [
+            "Okay. Thanks a lot."
+         ],
+         "Speaker": "Mike Latimore"
+      },
+      "32": {
+         "Remarks": [
+            "The edge business is good for us on multiple fronts, right. One, to get into the edge business anybody else would have to go ahead and put in place infrastructure. We have large components of that infrastructure already in place. Unlike the CDN business, the edge business should not have price compression in the industry like it does and the customer base is a lot more stickier. So if the edge business is just about taking cloud to the edge, not interesting to us; but when you add the dimension of security and private backbone and last mile connectivity, this is a very, very big and new industry and our position in it is really remarkable and we are seeing proof points with the pipeline that we have, the daily use cases that we have and the position that we are starting to get and how we\u2019re performing. So I think this is going to be a space to watch and I expect that we\u2019ll do very well in this space."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "33": {
+         "Remarks": [
+            "Great. Thank you."
+         ],
+         "Speaker": "Mike Latimore"
+      },
+      "34": {
+         "Remarks": [
+            "The next question is from Eric Martinuzzi with Lake Street. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "35": {
+         "Remarks": [
+            "Yes, I had a question on the edge services side. You talked about some of the initial \u2013 initially what people are focused on here, the examples were watermarking and ad insertion really kind of spinning up on demand services as you put it, Bob. I\u2019m wondering, do you have people kind of in process or beta on more steady demand, the gambling, the gaming, the autonomous vehicles, is that starting to register?"
+         ],
+         "Speaker": "Eric Martinuzzi"
+      },
+      "36": {
+         "Remarks": [
+            "So what we\u2019re seeing there is to your point is more application driven and the application needs to be close to the edge. And so we\u2019re actually going to be doing a build out with one of our customers and one of the larger deals that we hope to get contracts completed within the next month or so, is exactly that where the application itself is being moved to the edge so that they can deliver more realtime, lower latency video capabilities. And so the value that we have to add is our locations, our infrastructure, our connectivity. And then on top of that, we are going to be building out container-as-a-service and some orchestration capabilities that will be on top of that. So it\u2019s really serverless compute would be different than that. So think of serverless compute as mainly things that need to fire up in milliseconds and will last for milliseconds to seconds. The applications might be fired up very quickly but last for hours and days and in some cases never be brought down, but we are going down both paths and we see some exciting growth opportunities in both areas."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "37": {
+         "Remarks": [
+            "You didn\u2019t and maybe I missed it, but the CapEx I think coming out of last quarter, you were still talking about 25 million to 30 million for the year. Is that still the case?"
+         ],
+         "Speaker": "Eric Martinuzzi"
+      },
+      "38": {
+         "Remarks": [
+            "That is still the case. And what is remarkable is that that remains the case even as revenue has gone up. So we are driving efficiency and we are trying to make sure that we have the right amount of capacity at the right location, at the right time for the customers\u2019 needs. And as we work through that, we are able to manage this very well and make sure that all that capacity is deployed at the right price. So that remains unchanged even though revenues continue to inch up."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "39": {
+         "Remarks": [
+            "Got it. Thanks for taking my questions."
+         ],
+         "Speaker": "Eric Martinuzzi"
+      },
+      "40": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "41": {
+         "Remarks": [
+            "Thanks, Eric."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "42": {
+         "Remarks": [
+            "The next question is from Rishi Jaluria with D.A. Davidson. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "43": {
+         "Remarks": [
+            "Hi, guys. Thanks so much for taking my questions and definitely a very nice quarter. I\u2019m glad everyone is staying safe. Maybe a couple ones. First, wanted to start with the gross margin question. Obviously nice to see a sequential improvement from Q1 and even gross margins on a GAAP basis up 30 basis points year-over-year. Just how do we think about gross margins first of all for the full year? And then going beyond that, right, you\u2019ve talked about a longer-term GAAP gross margin target of 55% plus. Help us understand what are kind of the drivers to get from where we are today to that target? Is it just \u2013 is it having a better revenue mix? Is it better network efficiency? Maybe walk us through a few of the pieces. Then I\u2019ve got a follow up."
+         ],
+         "Speaker": "Rishi Jaluria"
+      },
+      "44": {
+         "Remarks": [
+            "Yes, I\u2019ll start. And then if Sajid wants to add anything, feel free to do so. So we mentioned that we were disappointed in the 36% number in the first quarter and that we had implemented certain things within our operations group to take a look at ways that we could utilize our asset base better. And to see that come through within one quarter was pretty impressive by the team. And so last year we were about 40% margin. Our long-term goal is to get into the 50s. We think that with the tools that we\u2019re implementing to better manage traffic throughout the network as well as edge services, as Bob mentioned, we expect to have a little bit better margin on that than the CDN business. And as we devote more attention to the edge services business and continue to build out those capabilities and add to that revenue stream, that will all contribute to that longer-term goal of getting into the 50s."
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "45": {
+         "Remarks": [
+            "Okay, got it. That\u2019s helpful. Bob, earlier in the call you had mentioned that you had seen some supply chain issues. Can you expand a little bit more on that? What\u2019s going on there and what\u2019s kind of the step to mitigate those issues?"
+         ],
+         "Speaker": "Rishi Jaluria"
+      },
+      "46": {
+         "Remarks": [
+            "Yes, so the good news is they\u2019ve largely cleared up. In Q1, we started to see some issues. So, for example, one of the largest factories for manufacturing solid-state drives which we use in all of our PoPs we were initially told that that factory had a fire and they had to shut down production, which actually was true, but beyond that it was affected pretty dramatically by COVID. And so while we could get servers from Dell or Super Micro, we could get the SSDs that we needed to be able to put them into production. And then we ran into some other issues down the road. But that largely has corrected itself as we got into sort of middle of Q2. And so as we look at our capacity build plan between now and the end of the year, we feel very confident that we either have inventory or have availability to meet our plan. So it was not as productive of Q1 and Q2 as we had planned for, but we believe that our plan for Q3 and early Q4 is very solid and we largely have most of that equipment already, and so we\u2019re really confident in our ability to build capacity to meet demand."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "47": {
+         "Remarks": [
+            "Got it. That\u2019s really helpful. And then last one if I can just squeeze it in. I want to go back to the guidance question asked earlier and then I apologize if this is making you repeat yourself, but just want to maybe understand if we look at the guidance right, you\u2019re talking about 7% growth in the back half of this year versus 30% growth that you\u2019ve had so far in the first half. Obviously you faced tougher comps, obviously there\u2019s a level of conservatism which is clearly the right thing to do, but maybe just help us understand what assumptions are you making specifically when you\u2019re talking about that level of difference in growth and maybe even macro level assumptions that might be baked into that? Thanks."
+         ],
+         "Speaker": "Rishi Jaluria"
+      },
+      "48": {
+         "Remarks": [
+            "Sure. So first of all I think \u2013 just keep in mind, Rishi, we have not grown 10% in our history as a public company and we gave guidance this year for some number that was closer to 230, right, and we are raising that number in the midpoint of 235. So think about full year numbers as opposed to the percentages because that takes into account what happened in the prior year. Then I think for us to go from a 200 number which in itself was a milestone for us to be thinking about a 225 to 230 to now a 235 midpoint number is what I consider to be the real achievement and the hallmark for what we\u2019ve achieved, and I look at the run rate. So for me if last quarter was 30 or 20, the growth would have been dramatically different. That to us is just a beta point. What is most interesting is what is the run rate of the business? And we are continuously striving for a higher and higher run rate. So we\u2019ve gone from 40s to 50s, from 50s hopefully into 60s and then higher from there. And that is the progression we are looking for. And when we look at next year and we think about giving guidance for next year, we\u2019ll again be thinking about what should the full year growth rate be of the endpoint or the full year number of this year and no so much quarter within quarter. So that\u2019s how I want you and us to \u2013 that\u2019s how I want you to think about full year numbers, because that\u2019s how we think about the full year number."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "49": {
+         "Remarks": [
+            "Okay, great. That\u2019s helpful. Thank you so much, guys. I appreciate it."
+         ],
+         "Speaker": "Rishi Jaluria"
+      },
+      "50": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "51": {
+         "Remarks": [
+            "The next question is from James Breen with William Blair. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "52": {
+         "Remarks": [
+            "Thanks for taking the questions. Just first on the edge compute side, the motivation as you\u2019re offering some of these things, is it coming from your customer base now that\u2019s asking you to put some of these things in place, these products in place and so you\u2019ll see growth not just from your existing customer base but also from potential new customers. And then secondly just on the live sports side, we\u2019ve seen a few things come back here, golf and a few other things. Given there\u2019s no fans at the events and there\u2019s probably some pent-up demand at the events that you have seen streamed, are you seeing an increasing usage just because of the environment we\u2019re in? Thanks."
+         ],
+         "Speaker": "Jim Breen"
+      },
+      "53": {
+         "Remarks": [
+            "Well, I think we\u2019re seeing increasing usage just because people are starving for something to watch and hopefully that will continue. When you think about the number of concurrent streams that are being streamed whether there\u2019s fans in the stadium or not, whether there\u2019s 50,000 fans in the stadium for an NFL game or 100,000 for Big Ten football game, really that will obviously help the streaming numbers but it\u2019s not that dramatic. I think that obviously the quality of the streaming has gotten better and is more available and more people are relying on, think of cord-cutters relying on streaming services. So I think all that bodes well for us in terms of the numbers going forward. Your first question again was --?"
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "54": {
+         "Remarks": [
+            "Just around the edge services side, is the decision to sort of go down the direction coming from your customer base asking for some of the stuff you\u2019re offering."
+         ],
+         "Speaker": "Jim Breen"
+      },
+      "55": {
+         "Remarks": [
+            "Yes, it\u2019s kind of interesting. Some of this is us triangulating from a few different areas, right. So a lot of the analysts have been talking about compute moving to the edge now for a few years kind of the next wave. We\u2019ve started hearing that from some of our customers in terms of having applications in the cloud that are not quite operating with the latency that allows them to really succeed in the market. And then our ability from a development standpoint to actually get those products designed and brought to market. And so we feel good about the opportunity in the market. We feel good about our starting point, right. So most people don\u2019t have the size of network we have, the connectivity we have and so for us it was developing the software capability and some of the partnerships to be able to bring it altogether. But if you think about somebody that is in the cloud business or whatever trying to develop what we have with the edge, that\u2019s a big hill to climb before you can match our capabilities. So we feel really good about how we\u2019re positioned from an infrastructure standpoint, our ability to develop the actual applications to drive it and the reception we\u2019ve gotten so far from customers in terms of interest."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "56": {
+         "Remarks": [
+            "Yes. Then as far as the live events go, we\u2019ve got MLB starting hopefully next week. We have NBA hopefully starting next week and hopefully those things can go off. And along with that there is gambling and other gaming sites that are our customers. And so we\u2019re hopeful that that can all contribute to a strong second half, but we\u2019ll see how things play out with the pandemic. But hopefully that actually --"
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "57": {
+         "Remarks": [
+            "We actually saw a pretty good uptick in traffic from one of our customers that was streaming English Premier League games and as you know, soccer or European football is not that big in the United States and we actually saw a pretty good increase in traffic kind of avoiding the point that people are just starving for stuff to watch. And so I think it could get exciting."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "58": {
+         "Remarks": [
+            "Great. Thank you."
+         ],
+         "Speaker": "Jim Breen"
+      },
+      "59": {
+         "Remarks": [
+            "The next question is from Jeff Van Rhee with Craig-Hallum. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "60": {
+         "Remarks": [
+            "Great. Thanks. Congrats, guys. Real nice numbers here. A few questions from me, starting at the edge, is there any way you can quantify the interest level that you\u2019re seeing there, namely maybe what the edge was as a percentage of pipe maybe 6, 12 months ago versus what it is now, some way you can sort of quantify the progress you\u2019re seeing? And then along those lines, I think you said that new business and new bookings again were slow in the quarter. Just curious the progression through the quarter and post quarter, kind of initial shocks from COVID after people kind of settled into the new norm, have you just seen steady slowness or sort of any changes in behavior month-to-month?"
+         ],
+         "Speaker": "Jeff Van Rhee"
+      },
+      "61": {
+         "Remarks": [
+            "I think we\u2019re seeing steady slowness from a decision-making standpoint. Obviously, people are making decisions that they deem as critical, but taking on new projects it\u2019s been a little slower. And so that\u2019s really what\u2019s exciting about the edge because we\u2019ve actually seen to your other question an increase in pipeline for edge and those tend to be to an earlier question higher margin, but there were also larger deals. And so we\u2019re seeing the potential for that business really starting to hit from a pipeline perspective. As I mentioned, we already closed one of the deals. We\u2019ve got verbal agreements with a couple of others that we hope to get in contract here in the next 30 days or less. So we\u2019re pretty excited about the reception that we\u2019re getting from customers regarding the match between their needs and our capabilities, but there\u2019s still more to go. We have to develop \u2013 over the next year or so we\u2019ll be developing container-as-a-service capabilities and some orchestration. But even what we have today is solving business problems for customers and so we like the trend on the pipeline and we like the fact that it is solving business problems. We\u2019re not just replacing some other edge provider, right. People are moving from either on-prem or cloud to the edge to solve a specific business problem and I think that bodes well for the future of that market."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "62": {
+         "Remarks": [
+            "And then, Jeff, just to add to that, right the point on kind of the slow decision making like offset that, we are seeing good traffic increase from people that are home because of the pandemic in the core business for CDN delivery, right. So there are aspects which may be a little bit slower than what we thought they might be, but there are countering aspects that are actually running ahead and overall it leads to an outcome which causes us to go ahead and deliver a solid quarter and raise guidance. Actually overall we feel good about where we are. Within that if you were saying, hey, what part of this business do you think is not? I think Bob was trying to give you some insight into that that listen, there are some parts of the business which \u2013 there are complete industries that have gotten decimated. And so we have to wait for and want their return. But there are other parts of the business that are growing way ahead of what we thought they might be just because of all the people staying home and caught up with whether it\u2019s distant learning or whether it\u2019s assumption of video or whether it\u2019s work from home. The environment has changed so much that the business looks quite different than what we planned for at the end of last year."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "63": {
+         "Remarks": [
+            "Yes, got it. Fair enough. One last question from me then also along the lines of the edge. Just as you\u2019re getting more experience of these deals and getting more of them in the pipe and closing some of them, I realize you try to focus on video-related edge use cases. And as you open the APIs and all the features that you\u2019re starting to offer to developers, how have you had to adapt your selling motion to get those edge customers and get those edge deals through the pipeline, how has that changed your motion if at all in terms of the sales push?"
+         ],
+         "Speaker": "Jeff Van Rhee"
+      },
+      "64": {
+         "Remarks": [
+            "In terms of sales push, we have put together a dedicated team, think of it as an overlay sales force that\u2019s very knowledgeable in edge services. And so we\u2019ve put some dedicated, focused, experienced people to work with the larger core sales force. But other than that, the nice thing for us is most of the customers that we are working with are also either using or interested in using our content delivery services. So it\u2019s the traditional with edge services as an add-on to it, and so it provides a great opportunity for us."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "65": {
+         "Remarks": [
+            "Got it. Great. Thank you."
+         ],
+         "Speaker": "Jeff Van Rhee"
+      },
+      "66": {
+         "Remarks": [
+            "And again, Bob, just one other thing.",
+            "This is all part of a multiyear strategy. So when we decided what part of the CDN business we wanted to concentrate on, we picked video because we thought that that is where we could add some differentiation, that part of the business had better ASPs, that there was clear demand and we thought that growth in that part of the business would be more than the other parts of the CDN. So the selection of that subcategory within CDN was the first step made a couple of years ago and you saw that we got rid of some of our other revenues. And then this just played into that. So when we think about some of the functions that we edge, we\u2019re trying to jumpstart and provide some use cases for our customers but we expect others will come about and we will devote our resources here, but people will go ahead and possibly write some functions that are not completely tied to the video business and that\u2019s fine. The idea is to give them a platform to go ahead and develop and build and implement what they need for their businesses."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "67": {
+         "Remarks": [
+            "Got it, sounds good. Again, real nice numbers, good great margins and good job guys."
+         ],
+         "Speaker": "Jeff Van Rhee"
+      },
+      "68": {
+         "Remarks": [
+            "Thanks, Jeff."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "69": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "70": {
+         "Remarks": [
+            "The next question is from Colby Synesael with Cowen. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "71": {
+         "Remarks": [
+            "Great. Thank you. Two questions if I may. First off on margin, you gave great color on what drove the gross margin \u2013 the improvement in asset utilization and how you negotiate lower costs. I was just curious if you can give some more color on the improvement in operating costs and how much of that might have been just improvement from some of the seasonal costs you may have seen in the first quarter, how much of that may have been just one time in the second quarter just to have a better sense in terms of how to think about that going forward? And then secondly and I apologize for belaboring the point, but as it relates to live events and maybe more specifically sports, you guys mentioned, for example, in your response to I think Jim\u2019s question Major League Baseball and Basketball coming back, have you now factored that into your guidance and therefore when that does resume that\u2019s kind of baked in, or are you being conservative and cautious and therefore if it actually does come back and is in fact \u2013 we\u2019re seeing live sports on a consistent basis, that would ultimately be upside to how you\u2019re thinking about the business? Thank you."
+         ],
+         "Speaker": "Colby Synesael"
+      },
+      "72": {
+         "Remarks": [
+            "Well, we hope when we look back we\u2019ll be able to say we were very conservative. But in looking forward, when we looked backward that live sports was as I say pretty close to zero. We are not assuming that going forward. We are assuming some contribution from live sports, but as you can imagine we\u2019re erring more on the conservative side because we don\u2019t know what is going to happen and as these teams start playing, do the players get COVID and have \u2013 there\u2019s a whole host of issues surrounding that. And so I don\u2019t think it\u2019s going to be zero and we haven\u2019t assumed that, but we have tried to be appropriately conservative in our forecast."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "73": {
+         "Remarks": [
+            "And then on the operating costs, I think you should think of this kind of as a sustainable run rate. We\u2019ve spent a lot of time and energy to kind of look at our operating costs and see exactly where they are. And I would tell you our ability to forecast and predict that is particularly good. So I think we think that this is a good way to think about the business and I think that the operating costs have leverage, so they should not rise nearly as fast as revenue when revenue grows. There\u2019s plenty of leverage in that business forward. That\u2019s what I would tell you there."
+         ],
+         "Speaker": "Sajid Malhotra"
+      },
+      "74": {
+         "Remarks": [
+            "Great. Thank you."
+         ],
+         "Speaker": "Colby Synesael"
+      },
+      "75": {
+         "Remarks": [
+            "Thanks."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "76": {
+         "Remarks": [
+            "[Operator Instructions]. The next question is from Tim Horan with Oppenheimer. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "77": {
+         "Remarks": [
+            "Hi, guys. Great quarter. On edge, can you give us a rough idea what you think the total addressable market will be? You must have some sense given that a lot of these applications can move from other areas onto your network? And if not that, maybe how much incremental spend do you think you can kind of see for some of your OTT clients for edge?"
+         ],
+         "Speaker": "Tim Horan"
+      },
+      "78": {
+         "Remarks": [
+            "I think it\u2019s too early to tell. What we believe is and what we\u2019ve seen evidence of is that the margins are higher. The service is a sticker service so we like that. Certainly, it is incremental revenue to what we are doing. But it\u2019s just new, right? If you go by the numbers that the analysts are providing, it is many times larger than the market for CDN, how much of that is addressable with our customer base remains to be seen, but no matter how we try to slice it, it always comes out that the market for edge services is bigger than the market for CDN."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "79": {
+         "Remarks": [
+            "And can you maybe just on edge, how do you think your capabilities compare to your peers out there who you\u2019re kind of competing with? And who would you say your primary competitor is for these edge products?"
+         ],
+         "Speaker": "Tim Horan"
+      },
+      "80": {
+         "Remarks": [
+            "Well, the interesting thing is there isn\u2019t really that much out there. I know two of our competitors have said they\u2019re in beta with serverless compute. But if you look at it, it\u2019s really geared towards Web developers and use cases around Web site acceleration. Clearly some of the cloud providers like AWS has Lambda@Edge, but there are big differences between what we\u2019re offering and what they\u2019re offering. And so I think it has just started to settle out. There\u2019s one pretty good-sized deal that we are hoping to get the contract signed in the next 30 days. They\u2019re a large enough company with a large number of resources that they were able to test four or five of the alternatives out there. And we outperformed \u2013 just on a performance basis, we outperformed all of our competition. So we were obviously delighted to hear that. Whether that holds up in every use case, I don\u2019t know, but that fills you with a lot of confidence when one of the larger opportunities you\u2019re working on, those are some pretty extensive testing with some traditional and non-traditional competitors for us comes back with the feedback that from a performance standpoint we outperformed everybody. So we\u2019re pleased with that."
+         ],
+         "Speaker": "Robert Lento"
+      },
+      "81": {
+         "Remarks": [
+            "Thanks. And Dan, just a clarification on the guidance, there are two points. So I think one, did you say maybe to a question asked, will revenue be positive sequentially for the next two quarters? Is that part of the guide or how you\u2019re thinking?"
+         ],
+         "Speaker": "Tim Horan"
+      },
+      "82": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "83": {
+         "Remarks": [
+            "Okay, great. And then, the goal on the 15% revenue for OTT, edge would be incremental to that goal to 15% revenue growth?"
+         ],
+         "Speaker": "Tim Horan"
+      },
+      "84": {
+         "Remarks": [
+            "Included in that 15%."
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "85": {
+         "Remarks": [
+            "Okay, great. And I know this has been asked a lot, but the guidance basically 7% for the second half of this year, 15% longer term. What gets us from the 7% to the 15% I guess and it\u2019s obviously a pretty big step down, but should we be thinking about 15% for the next couple of years or is that going to take a couple of years before the 15% kind of kicks in or any more color around that would be helpful?"
+         ],
+         "Speaker": "Tim Horan"
+      },
+      "86": {
+         "Remarks": [
+            "Sure. Like Sajid mentioned, we haven\u2019t grown at this growth rate ever before and with the new offerings that came out this year, that provided the tailwinds in order for us to get there, we think that those tailwinds continue at least for the near term. And while those tailwinds are happening, this edge services opportunity continues to kind of develop itself as well. And so the 15% is in \u2013 may not be next year but within the relative three to five-year time horizon."
+         ],
+         "Speaker": "Daniel Boncel"
+      },
+      "87": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Tim Horan"
+      },
+      "88": {
+         "Remarks": [
+            "This concludes our question-and-answer session and the conference has also now concluded. Thank you for attending today\u2019s presentation. You may now disconnect."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

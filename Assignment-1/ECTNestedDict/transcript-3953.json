@@ -1,0 +1,219 @@
+{
+   "Date": "August 6, 2020",
+   "Presentation": {
+      "Amy Agress": [
+         "Thank you, Anna. Good morning, everyone. Thank you for joining us today. Our speakers today are Jack Abuhoff, CEO of Innodata; and Robert O\u2019Connor, our CFO. We\u2019ll hear from Jack first, who will provide perspective about the business, and then Robert will follow with a review of our results for the second quarter. We\u2019ll then take your questions.",
+         "First, let me qualify the forward-looking statements that are made during the call. These statements are being made pursuant to the safe harbor provisions of Section 21E of the Securities and Exchange Act of 1934 as amended, and Section 27A of the Securities Act of 1933 as amended. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate or imply future results, performance or achievements.",
+         "These statements are based on management\u2019s current expectations, assumptions and estimates and are subject to a number of risks and uncertainties including without limitation, the expected or potential effects of the novel coronavirus, COVID-19, pandemic and the responses of governments, the general global population, our clients and the company thereto; that contracts may be terminated by clients; projected or committed volumes of work may not materialize; continuing Digital Data Solutions segment relying on project-based work, and the primarily at-will nature of such contracts; and the ability of these clients to reduce delay or cancel projects; the likelihood of continued development of the market, particularly new and emerging markets that are services and solutions support; continuing Digital Data Solutions segment revenue concentration in a limited number of clients; potential inability to replace projects that are completed, canceled or reduced; our dependency on content providers in our Agility segment; a continued downturn in or depressed market conditions, whether as a result of the COVID-19 pandemic or otherwise; changes in external market factors; the ability and willingness of our clients and prospective clients to execute business plans that give rise to requirements for our services and solutions; difficulty in integrating and deriving synergies from acquisitions, joint ventures and strategic investments; potential undiscovered liabilities of companies and businesses that we may acquire; potential impairments of the carrying value of goodwill and other acquired intangible assets of companies and businesses that we acquire; changes in our business or growth strategy; the emergence of new or growing competitors; potential effects on our results of operations from interruptions in or breaches of our information technology system; and various other competitive and technological factors and other risks and uncertainties indicated from time to time in our filings with the Securities and Exchange Commission, including our most recent report on Form 10-K, 10-Q and 8-K and any amendments thereto.",
+         "We undertake no obligation to update forward-looking information or to announce revisions to any forward-looking statements except as required by the federal securities laws, and actual results could differ materially from our current expectations.",
+         "Thank you. I will now turn the call over to Jack."
+      ],
+      "Jack Abuhoff": [
+         "Thanks very much, Amy. Good morning, everybody. Thank you for joining our call today. So Q2 was our first full quarter operating our business during the COVID-19 crisis. Now with 4.5 months of experience operating in this environment, I am increasingly confident that despite the environment, we are positioned to accomplish a great deal this year.",
+         "Here\u2019s what I believe we will succeed in accomplishing. I believe we will succeed at growing both our Synodex and Agility platform businesses this year. I believe we will succeed at landing dozens of new customers in the AI data annotation market, a new market which we are just going after or we just started going after in Q4 and which is predicted to grow rapidly. And I believe we will succeed at substantially reducing our operating costs with of $2 million this year and $2.6 million in 2021.",
+         "Let me take each of these and offer some context and some proof points. First, let\u2019s take Synodex and Agility. I\u2019m expecting that we grow both of these businesses this year. In our Synodex business, we have built the technology and systems to extract complex medical data from unstructured medical records, both electronic health records and traditional health records. This year, we are building additional automations into our routines using AI. We are expanding engagements with several of our existing insurance industry customers, and we are bringing on a select number of new customers.",
+         "Our Synodex first half revenues increased 28% over last year, with revenues this quarter increasing 31% year-over-year. While the business is still small scale, we believe that integrating AI into our data extraction process will enable us to expand our target markets and give us path to grow and scale the business. The business is contributing to free cash flow. It enjoys strong 60% plus incremental margins, and nearly all of its revenue is recurring in nature.",
+         "Now let\u2019s talk about Agility. Agility is a SaaS platform business, providing a full PR workflow platform that has been ranked among the top tier, even though right now, we\u2019re just a small player in the overall $3 billion global PR workflow market. Our subscription revenue is a function of our retention rate and our bookings. We ended the quarter with a year-to-date net retention of 87%, just a few points shy of our internal target of 90%, but a solid performance given the economic environment.",
+         "We booked about $750,000 of new business with a small direct sales staff, which in combination with our retention, we believe, is enough to continue to grow our business modestly. Now so far, we\u2019ve kept our sales team small because we want to first prove that we had cracked the code in terms of sales process, structure and hiring profiles. As a result of the refinements we\u2019ve made in these areas, from Q1 2019 to Q4 2019, we practically tripled bookings per sales executive.",
+         "Now with this improved sales productivity, the economics now support rapidly scaling the sales force, notwithstanding a tougher selling environment. We are now running the numbers through our models to figure out exactly how fast we can go given our resources.",
+         "We talk about AI data annotation now. Now if you\u2019ve been following our story the last past few years, you know that we launched Synodex and Agility because our core markets, legal, medical, financial information publishers and e-book publishers, those core markets were simply too small for us to support. But just late last year, we discovered a whole other market that is practically made-to-order for us and that is really just in its formative stages with significant growth expected in the next several years. This market is the AI data preparation and annotation market. It is estimated to grow from $1.9 billion this year to $3.2 billion by 2023.",
+         "Data sciences teams that want to build AI models need to train those models with large quantities of very high-quality data. But they express continued frustration that creating high-quality data is a task for which they are ill equipped. In fact, they report that even high-profile AI projects regularly fail because they are not trained on large high-quality data sets.",
+         "AI data preparation includes collecting, cleaning and normalizing data as well as annotating classifying and segmenting data. And these are precisely the things that we believe we\u2019re the best in the world of providing. But we\u2019ve traditionally provided them for a small market. Now a new, much larger market is emerging. Given our history of being the leading provider of high-quality data to leading legal financial and medical information companies, we see a clear task to becoming a leading provider of AI data preparation and annotation to companies that are seeking to build models in these and other areas.",
+         "We only started marketing and selling AI data prep and annotation services in Q4 of last year. Nevertheless, to date, we have closed 15 new customers. We have another 16 customers in late-stage pipeline that are expected to close in the second half. We are forecasting a total of $3.5 billion in bookings \u2013 excuse me, $3.5 million of bookings from this market this year, and we\u2019re expecting that a majority of these deals will produce recurring managed services revenue at our target margins. We have also identified opportunities to license our data annotation platform, which is a customer-facing version of our internal production platform that we have refined over many years.",
+         "It is worth mentioning that one of our recent data annotation wins is with a prominent big tech company. To secure this work, we beat out 7 incumbents, winning the business based on our quality and our capabilities. Our current pipeline includes banks, hedge funds, online trading platforms, financial research firms as well as drug companies, drone companies, AI software companies and 2 big tech companies.",
+         "In the quarter, we saw a sequential revenue dip of about $500,000 in DDS. We expect about half of this will come back as soon as we\u2019re able to get the full project team back into our delivery center because it\u2019s attributable to a customer project that we can only provide with equipment situated within the facility. The other half is from a combination of smaller customers with requirements decline due to COVID-19 disruption.",
+         "Looking out over the year, we\u2019re predicting that the durability of our new data annotation market in combination with a forecasted expansion from one of our largest traditional market clients will nevertheless enable us to show sequentially improving revenues.",
+         "We talked about bookings. I\u2019d like to talk just a little bit more about that and overall growth. Our new business signings, which we refer to as bookings, is a leading indicator of growth and an important indicator of sales effectiveness. Looking across our businesses, in just the first half of 2020, we have already booked 71% of our full year 2019 bookings. And we\u2019re presently forecasting beating 2019 bookings by 32%, and that\u2019s notwithstanding the environment that we\u2019re now working on.",
+         "Let\u2019s now turn to cost management. In order to enable our business continuity plan and our COVID response plan, we needed to provision our team members with encrypted laptops and desktops as well as remote Internet access and cloud processing and storage. In Q2, this cost us approximately $400,000. We now have plans in place to reduce these costs over the next several quarters, as well as a plan to drive additional significant cost savings across the business. We expect that the result will be a net savings of approximately $2 million in 2020 and $2.6 million in 2021, each as compared to 2019. Our savings include reducing lease space and data center costs and other costs associated with operating large-scale facilities.",
+         "We are continuing to undertake a strategic evaluation of how best to allocate our capital and resources in view of the divergent but compelling market opportunities we are presently pursuing for growth. COVID clearly presents a significant level of uncertainty. And we\u2019re all guessing about how and when normalcy returns and the effect and duration of the economic slowdown that is projected.",
+         "That said, we have so far prevailed. And for all the reasons I\u2019ve just discussed, we are forecasting meaningful progress notwithstanding the macro environment. We are waiting whether to continue to proceed along all the paths we\u2019re now on or to concentrate investment on fewer areas. We will provide updates as we progress through this evaluation.",
+         "I\u2019ll now turn the call over to Robert, who will take you through the numbers, after which we will come back and take your questions. Thank you very much. Robert, I\u2019ll turn it over to you."
+      ],
+      "Operator": [
+         "Good morning, and welcome to the Innodata Second Quarter 2020 Earnings Call. Today\u2019s conference is being recorded.",
+         "At this time, I would like to turn the conference over to Amy Agress. Please go ahead, ma\u2019am."
+      ],
+      "Robert O\u2019Connor": [
+         "Total revenue was $13.9 million in the second quarter of 2020, a 5% decline from $14.5 million in the first quarter of 2020. Total revenue was $13.6 million in the second quarter of 2019. Net loss was $0.6 million in the second quarter of 2020 or $0.02 per basic and diluted share compared to a net loss of $0.4 million or $0.01 per basic and diluted share in the second \u2013 in the first quarter of 2020 and a net loss of $0.7 million or $0.03 per basic and diluted share in the second quarter of 2019.",
+         "For the first 6 months of 2020, total revenue was $28.4 million, an increase of 4% from $27.3 million in the first 6 months of 2019. Net loss was $0.9 million or $0.04 per diluted share in the first 6 months of 2020. Net loss was $1.1 million or 4% \u2013 $0.04 per basic and diluted share in the first 6 months of 2019.",
+         "Cash and cash equivalents were $13.5 million at June 30, 2020, compared to $10.9 million at December 31, 2019. One other data point, 99% of Innodata\u2019s global team members are presently deployed with approximately 95% working remotely.",
+         "Thank you, operator. We\u2019re ready to take questions."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] And we take our first question from Tim Clarkson from Van Clemens. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Jack, on this cost reduction announcement, now are you \u2013 is it a $2 million this year, an additional $2.4 million or it would be the total $2.4 million when you factor in the combination of the expense reductions?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "3": {
+         "Remarks": [
+            "Yes. So it would be $2 million this year and $2.6 million next year, cumulative. In other words, we\u2019re measuring that savings in terms of structural costs and operating costs over 2019 as a baseline."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "4": {
+         "Remarks": [
+            "Right. So it\u2019s not $2 million plus $2.6 million. It\u2019s a total of $2.6 million."
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "5": {
+         "Remarks": [
+            "That\u2019s correct."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "6": {
+         "Remarks": [
+            "Right. Okay. Now in terms of the Agility, why don\u2019t you give us a little bit more color? Why you think we\u2019re suddenly doing better there growing in this difficult environment?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "7": {
+         "Remarks": [
+            "Yes. I think when you look at the SaaS business like Agility, there are a couple of things that have to be in place. The first thing is you need a product in place, the product that people want. And we\u2019ve done a tremendous amount of work on the product over the last couple of years. We did a very important release just in the fourth quarter. And the result of the work that we\u2019ve done, the release that we\u2019ve done is enabling us to compete with the 2 largest companies that dominate this market. In addition to that, the product has been validated by Atlas and ranked highly in, I think, 7 out of 9 areas. It\u2019s ranked as the top product.",
+            "We\u2019ve got a lot going on there. With that as a foundation, then you need to work on your bookings, and you need to look at your retention numbers. Our retention numbers are way up over where they\u2019ve been in the past. As I said in the call today, we\u2019re just a couple of points shy of the 90% net retention that we aim for. And we think that in this market, given what\u2019s going on, that\u2019s a tremendous result.",
+            "On the bookings side, we had a lot of things we have to figure out there. How do we train a team? How do we measure a team? How do we appropriately manage and monitor the team? Who do we recruit for the team? How do we compensate the team? There\u2019s a tremendous amount of experimentation and things that we wanted to get right subscale before we scaled it. Because if you scale a process that\u2019s broken or \u2013 it just magnifies a bad result. So we\u2019ve worked on that, and we\u2019re very happy with what we accomplished. We tripled our bookings per account executive over the course of last year, which is a tremendous result.",
+            "Now when you take that capability now, that\u2019s the result of all that work we\u2019ve done on process and training and sales oversight and management and measurement. When you take that in combination with of course a great product, a very large market and very \u2013 demonstrated high and improving retention rates, that is, in a SaaS business, recipe to grow. And we\u2019re very excited about being where we are right now.",
+            "Now obviously, this is not the economic environment and the business environment that any of us were hoping for. But we think with the numbers where they are, we\u2019ve got what it takes to power through those choppy waters."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "8": {
+         "Remarks": [
+            "I know at one time, you thought that companies in this industry are worth about 3x revenues. Do you still think that\u2019s true?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "9": {
+         "Remarks": [
+            "You know what? We saw a couple of important acquisitions take place last year in this space. One of which was \u2013 I want to say it was 5x revenue, their valuation. I\u2019ll have to check that and come back to you. But yes, I mean, when you look at SaaS businesses, they\u2019re typically valued based on their ability to grow, their ability to penetrate a market and the cash flows that are forecasted as a result of that. I think we\u2019re extraordinarily well positioned right now given the work that we\u2019ve done and the results that we\u2019re seeing."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "10": {
+         "Remarks": [
+            "Okay. Let\u2019s move to Synodex. So it seemed like it was forever trying to get these life insurance companies to move. What\u2019s changed that they\u2019re finally starting to sign some contracts?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "11": {
+         "Remarks": [
+            "Yes. I think \u2013 I think a few things have changed. First, one of the big things is we are becoming more and more efficient at what we do. We\u2019re cutting out cycle time that it takes for us to produce data. We\u2019re automating where we haven\u2019t automated before. And we have companies that are \u2013 or clients who are conservative by nature. But they\u2019ve become progressively more operationally reliant upon us. We\u2019ve got great partnerships in place with many of the leading insurance companies, and we\u2019re succeeding at expanding those relationships.",
+            "One of those that we\u2019re working on is integrating AI more essentially into our technology and our products in this area. And I think as we do that, we\u2019re going to see additional use cases open up for both within insurance, but then also outside of insurance, and we\u2019re very excited by that.",
+            "That will bring additional market availability to us. It will make us more efficient in terms of the work that we do. It will reduce cycle time, and those are all things that the industry is looking for. So very excited about that as well."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "12": {
+         "Remarks": [
+            "Right, right. I was listening to one of the seminars you gave. It was on the Innodata website, and you talked a lot about the advantage Innodata has in terms of quality of data. I know you mentioned at one point, you did some work for a major brokerage firm, and they were really astounded at the difference in the quality of the information. Can you explain exactly why Innodata is competing in coming up with better data than the competition?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "13": {
+         "Remarks": [
+            "Sure, happy to. So if you think about our legacy, our legacy was in taking companies like Apple and Bloomberg, Amazon and Thomson Reuters and satisfying their extraordinarily demanding requirements for high quality data. So we\u2019ve built our company around producing extraordinarily high-quality data at a very cost-effective means.",
+            "Now our problem and our constraining factor was that there are a couple of handfuls of companies who were customers for highly refined data for financial, medical and legal data sets, a few handfuls \u2013 or a couple of handfuls of publishers. But that didn\u2019t give us enough market space to grow into. And as a result, every now and then we see a big project, but then that project can come to an end, we\u2019re back with our small market.",
+            "Fast forward to today, and fast forward to what\u2019s going on in AI, you\u2019re seeing companies in all sorts of verticals who are launching AI projects. And a common denominator is that what you need to make an AI project successful is exactly what we\u2019re great at doing. It\u2019s high-quality data and lots of it. So all of a sudden, we went from a market of a couple of handfuls of companies to a market that is virtually any company that\u2019s looking to embrace artificial intelligence. And as we all know, from just moving the newspapers, that pretty much includes every company out there.",
+            "So high-quality data is absolutely the fuel that\u2019s going to feed the explosive growth in AI that we\u2019re all expecting to see take place. And we think we\u2019re just ideally positioned in order to provision that fuel."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "14": {
+         "Remarks": [
+            "Right. Right. Now you talked about doing maybe a total of about $3.5 million in AI this year. I mean how close are we at seeing some of these $200,000, $300,000, $400,000 deals turning into $2 million, $3 million, $4 million, $5 million deals. Is that 5 years away? Or is that pretty close?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "15": {
+         "Remarks": [
+            "Yes. So when I think about that, I look at some of the companies that have been in the space longer than we have, who incidentally, in competitive contests, we\u2019re now beating. So \u2013 but I look at them, and to see how are they successful. And one of the things that they\u2019ve \u2013 the most successful companies among has them done is they\u2019ve broken into big tech. You can think of the 5 \u2013 the big 5 tech companies, and then there\u2019s another 10 outside of that, that are almost or equally important. And these are companies that are spending tens of millions of dollars per year on high-quality data engineering for AI, high-quality data annotation.",
+            "So we know that one of the key things that we need to accomplish is we need to break into these companies as a market. And my understanding is you got to break into one, and once you do that, and that\u2019s kind of your ticket to another one and then you develop a reputation, and you can get a tremendous amount of traction from there.",
+            "So the truly good news in Q2 is that we closed the deal, our first deal in this market, we\u2019re going to start up slow. We\u2019ve got to prove ourselves. But as I said in my prepared remarks, we were competing against 7 incumbent providers. And when you\u2019re not an incumbent, I\u2019m telling you, it\u2019s so hard to break in. So when you get selected, [a road works], 7 incumbents who were fighting for the business, it\u2019s \u2013 you\u2019re doing something right. And we were told that what we were doing right was our quality was off the charts.",
+            "So our intention is to progressively grow that relationship, which we think that 1 relationship can \u2013 as I said, these are companies spending tens of millions of dollars a year on data for AI, expand that, cultivate that with the utmost of care and use that to pivot into other relationships in this market, where there\u2019s a lot of incestuous activity and a lot of people talk to people and share what they\u2019re doing, and we get referrals."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "16": {
+         "Remarks": [
+            "Right. One last question. Let me ask you this. If I was trying to break into the annotation business of AI. How difficult would it be for somebody or start-up that doesn\u2019t have the kind of experience in any data has to be able to do what needs to be done?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "17": {
+         "Remarks": [
+            "It\u2019s a funny thing. It\u2019s a market that looks like it should be simple until you try to go do it. We think we bring a couple of things to the table that are absolutely critical. One is our technology stack. We\u2019ve been building technologies to refine data for many, many, many years. And when you\u2019re talking about high quality data, you\u2019re not talking about being able to do 80% of it. You\u2019re talking about being able to do it to the point where you\u2019re making perhaps 1 error out of 20,000 possibilities. So that quality standard is critical. And we\u2019ve built the technologies to be able to handle that. That\u2019s right up there.",
+            "The second thing that we\u2019ve got is we\u2019ve got very deep domain expertise in the areas that are implicated by a lot of what\u2019s going on now in the world. Financial data, legal data, medical data, deep domain expertise that we can bring to the table there.",
+            "And the third thing that we\u2019ve got is we know how to integrate AI into the problem of training data for AI or building training data sets for AI. So we\u2019re able to build \u2013 bring level of efficiency to the problem that a lot of companies would not be able to."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "18": {
+         "Remarks": [
+            "Sure, sure. Well, it\u2019s very exciting. And one last question. What would be the incremental margins on some of this AI business?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "19": {
+         "Remarks": [
+            "It\u2019s not just similar to other business that we do. In DDS, I think it\u2019s safe to think about it as 50% to 60% incremental."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "20": {
+         "Remarks": [
+            "Right, right. So you start making a lot more money at slightly higher revenues?"
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "21": {
+         "Remarks": [
+            "Correct."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "22": {
+         "Remarks": [
+            "Right. Okay. I\u2019m done. I appreciate it. Good quarter, especially in the context. And one last thing. I know nobody pays attention to valuation anymore, but in a data trades for about 60% of sales, I mean Microsoft trades at 11x sales. So there\u2019s a big differential between the valuation of Innodata and some of these high tech stocks that have already gone way, way up. So with that, I\u2019ll pass."
+         ],
+         "Speaker": "Tim Clarkson"
+      },
+      "23": {
+         "Remarks": [
+            "Thanks, Tim."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "24": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] Ladies and gentlemen, I will turn the call back to our host for any additional remarks."
+         ],
+         "Speaker": "Operator"
+      },
+      "25": {
+         "Remarks": [
+            "Thank you, operator. Yes, I\u2019ll just recap a couple of things that we\u2019ve talked about. Notwithstanding COVID-19 and the environment that we\u2019re in, we\u2019re forecasting very meaningful progress in 2020. We are predicting growth in both our Synodex and Agility platform businesses. We\u2019ve validated Agility\u2019s readiness scale with additional investment in sales. In the core DDS business, we validated our ability to serve the new rapidly growing market for AI data prep and labeling services with 15 new customer wins just in the initial 6 months of marketing these services, and that includes one of the best-known global big tech companies.",
+            "We have another 16 companies in our late-stage pipeline that we\u2019re looking to close in the second half. We had $400,000 of BCP-related expenses in the quarter, which we anticipate we\u2019ll be reducing as we optimize our tech stack for working remotely. And we\u2019ve identified additional cost savings that we are continuing to roll into the way we work and until the second half and early next year.",
+            "When we net the new BCP-related expenses against our identified cost savings, we\u2019re actually expecting a net cost reduction as compared to 2019 of approximately $2 million in 2020 and $2.6 million in 2021. And we continue to have a very strong balance sheet with $13.5 million in cash at the end of Q2, which was an increase of $2.8 million over Q1.",
+            "Again, thank you all for joining us today. I wish you continued success and health and be well. Thank you."
+         ],
+         "Speaker": "Jack Abuhoff"
+      },
+      "26": {
+         "Remarks": [
+            "Thank you. Today\u2019s conference is available for replay from 2 p.m. Eastern \u2013 today on September 5, 2020 at 2 p.m. Eastern. You may access the recording by dialing (719) 457-0820 or 1 (888) 203-1112 using passcode 1289077.",
+            "This concludes today\u2019s conference. You may now disconnect."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

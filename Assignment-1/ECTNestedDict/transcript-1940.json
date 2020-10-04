@@ -1,0 +1,364 @@
+{
+   "Date": "September 14, 2020",
+   "Presentation": {
+      "Colette Kress": [
+         "Thanks, Simon. Today we announced the proposed acquisition of borrowing from SoftBank in a cash and stock transaction valued at 40 billion. We expect the acquisition to close in approximately 18 months subject to regulatory approvals in various jurisdictions. The transaction has been approved by NVIDIA\u2019s, SoftBank\u2019s and Arm\u2019s Board of Directors. In addition to the strategic rationale, Jensen outlined, we believe this is a financially compelling transaction.",
+         "Upon closing, we expect to be immediately accretive to our non-GAAP gross margins and non-GAAP earnings per share. Arm\u2019s has a great business model, with very high margin re-occurring revenues. In the trailing 12 months ended March, unaudited pro forma IFRS revenue was 1.8 billion with 94% gross margins and adjusted pro forma EBITDA margin of approximately 35%. Note, this does not include the IoT Services Group, which is not part of this transaction.",
+         "Let me also touch on the transaction structure. NVIDIA will pay as consideration to SoftBank and the Vision Fund an aggregate of 21.5 billion in common stock and 12 billion in cash, of which 2 billion of cash will be paid at the signing and the rest will be paid at closing. Additionally, NVIDIA will pay up to 5 billion in earn-out of cash or stock based on Arm financial performance targets.",
+         "NVIDIA will also issue 1.5 billion in equity to Arm employees proposed closing retention. Based on these terms, SoftBank and SoftBank Vision Fund is expected to own in aggregate less than 10% of NVIDIA stock depending on the final amount of the earn-out and the form of consideration elected by SoftBank contributing to continuity going forward. NVIDIA intends to finance the cash portion of the transaction with balance sheet cash.",
+         "Lastly, let me provide an update on our capital allocation strategy. We believe the proposal, acquisition of Arm is an outstanding use of cash. We expect to continue to generate a substantial amount of cash in the 18 months that we expect to take for the transaction to close. We currently have 11 billion in cash and cash equivalents and marketable securities on the balance sheet. And over the last four quarters, we generated 5 billion in free cash flow. ",
+         "Our business continues to grow to a robust pace, and we are positive on our future. We expect to maintain an investment grade rating following this transaction and plan to continue our dividend.",
+         "We will now open the call for questions. Operator, could you please poll for questions? Thank you."
+      ],
+      "Jensen Huang": [
+         "Thanks, Simona. And thanks, everyone for joining. I'm delighted to announce that NVIDIA has agreed with SoftBank to acquire one of the greatest technology companies the world has ever seen, Arm. This transaction is very significant for NVIDIA, for the tech sector, and for UK where Arm is based. As all of you know, Arm is the world's most popular computing platform. Arm\u2019s customers have shipped an astounding 180 billion chips based on its CPU, and its technology is used by 70% of the world's population.",
+         "Arm chips power everything from cell phones, smartphones, to PCs, to network infrastructures, supercomputers. We have also used Arm\u2019s technology for years, including our SOC for Nintendo Switch console, our self-driving car computer, the new Mellanox BlueField, SmartNIC, and our Jetson robotics computer. By combining the world's most popular CPU with NVIDIA's AI Computing Platform, we're creating the leading computing company for the age of AI.",
+         "Before I get into the deal announcement, let me explain how we see the world and how this transaction fits in with it. Today, the internet connects billions of people to giant cloud data centers. In the future, trillions of devices will be connected to millions of data centers, creating a new internet of things that is thousands of times bigger than today's internet of people.",
+         "From smart retail to manufacturing and service robots, self-driving cars to smart streets and cities. Computing will extend from cloud data centers to every corner of the world. The software powering this new internet will not be written by humans, but by computers, learning from data. This is the new way of computing and it\u2019s called AI. The age of AI is driving a tremendous acceleration in the demand for computing, precisely at a time that Moore's Law has slowed.",
+         "This requires a new approach in computing, as legacy architectures are not keeping up. Accelerators \u2013 NVIDIA\u2019s accelerated computing platform has risen to the challenge, and is leading the path forward. And it's the backdrop to why this deal is so compelling and complementary for both businesses. There are several exciting growth drivers in our combination. First, Arm\u2019s vast ecosystem. We can bring NVIDIA's GPU and AI Technology to large end markets, including mobile and PCs.",
+         "Second, in the data center, NVIDIA will turbocharge Arm\u2019s R&D and meet cloud computing customers demand for a higher velocity Arm\u2019s CPU \u2013 Arm\u2019s server CPU roadmap. NVIDIA AI would be an excellent support for all data center CPUs, x86, power and Arm. And third, we can accelerate our Edge AI and IoT roadmap and growth trajectory for the next wave of computing. The combination will boost our ecosystem of developers who are the cornerstone of our computing platform.",
+         "Arm expands NVIDIA\u2019s developer reach from 2 million to over 15 million. The deal will also bring tremendous benefits to customers who will offer Arm customer\u2019s access to NVIDIA's AI, and GPU IP. We will boost Arm\u2019s vast software ecosystem with NVIDIA's AI and accelerated computing platform. And we will offer cloud data center customers, the broader computer industry, a stronger server CPU roadmap.",
+         "NVIDIA will maintain Arm\u2019s open license model and customer neutrality, serving customers in any industry across the world. We will also retain the name and the strong brand identity of Arm that is homebase in Cambridge. Simon and his management team are excited to join NVIDIA. This combination makes financial sense. It is a great deal for both SoftBank and for us. We expect it to be immediately accretive to NVIDIA\u2019s non-GAAP gross margin and non-GAAP EPS are closing.",
+         "It will also more than double our target addressable market to $250 billion. Panning from computer graphics, smartphones, and other devices to data centers, automotive, Edge and IoT. I am beyond excited to join forces with the talented people of Arm to build this future together.",
+         "Let me now turn it over to Simon to say a few words. Simon?"
+      ],
+      "Operator": [
+         "Good morning. My name is Lisa and I'll be your conference operator today. At this time, I would like to welcome everyone to the NVIDIA to Acquire Arms Conference Call. All lines have been placed on mute to prevent any background noise. After the speaker\u2019s remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.",
+         "Simona Jankowski, Head of Investor Relations at NVIDIA, you may begin your conference."
+      ],
+      "Simon Segars ": [
+         "Thanks, Jensen, and thanks to everyone for joining. The proposed acquisition is a huge moment for Arm. And for Arm and NVIDIA it's a new chapter and a new opportunity for us to change the shape of computing over the next 30 years, just as we have in the last 30 years. The next wave of computing is where AI will be the defining technology.",
+         "The computing platform of the future runs a complex software stack upon an array of processing elements, CPUs, GPUs, and DPUs or data processing units. And that's across networks with applications running simultaneously in the cloud, on the endpoint and at the Edge. The hardware and software challenges that must be overcome to deliver this future of vast, bringing together the technological strengths of the Arm and NVIDIA will, I believe, enable us to uniquely address these challenges and put solutions in the hands of innovators who continue to deliver amazing products built on top of our platforms.",
+         "As part of NVIDIA, Arm will continue to operate its open licensing model, while maintaining the global customer neutrality that has been foundational to our success with 180 billion chips shipped to date by our licensees. There is so much more we can do together as a combined company.",
+         "As Jensen mentioned, NVIDIA has committed to opening a new global center of AI excellence in Cambridge, which will include an Arm-based supercomputer dedicated to AI research, and open the researchers in the UK and the rest of the world. This is a big investment in the UK, and will attract the world's best to come and work with us and advance the state of AI in industries such as healthcare, robotics, and automation.",
+         "We believe that the combined strengths in both companies will result in even better solutions for our partners and we are very excited about the possibilities. I truly believe that there is an exciting future ahead for Arm as part of NVIDIA, where together we can create even greater impact. This is an exciting new phase for Arm and we look forward to writing this next chapter together.",
+         "Let me turn it over now to Colette, who will give you more details on the proposed transaction."
+      ],
+      "Simona Jankowski": [
+         "Thank you. Good morning, everyone and good afternoon to those in the UK. With me on the call today are Jensen Huang, President and Chief Executive Officer of NVIDIA; Colette Kress, Executive Vice President and Chief Financial Officer of NVIDIA; and Simon Segars, Chief Executive Officer of Arm. I'd like to remind you that our call is being webcast live and on NVIDIA's Investor Relations website. The webcast will be available for replay following this call.",
+         "In addition, you can find a presentation on the proposed transaction on the NVIDIA Investor Relations website. The content of today's call is NVIDIA\u2019s property. It can be reproduced or transcribed without our prior written consent. During this call, we may make forward-looking statements based on current expectations. These are subject to a number of significant risks and uncertainties that our actual results may differ materially.",
+         "For a discussion of factors that could affect our results in business, please refer to our most recent forms 10-K and 10-Q, and the reports that we may file on Form 8-K with the Securities and Exchange Commission. All our statements are made as of today, September 14, 2020 based on information currently available to us. Except as required by law, we assume no obligation to update any such statements.",
+         "With that, let me turn the call over to Jensen."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Thank you. [Operator Instructions] Our first question comes from the line of Mark Lipacis from Jefferies. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Hi, thanks for taking my question and congrats on the announcement. Question for Jensen I think. Jensen, you've said that dominant compute platforms in the past have been general purpose platforms. And if you look at the data center 5 to 10 years from now, is your view that this is going to be you know, multiple different general purpose compute platforms with a different platform to run parallel processing apps and a different one for [indiscernible] or is this ultimately a single platform and \u2013 that runs all the workloads and is that where NVIDIA plus Arm really ends up, is that what you are really driving for? Thank you. "
+         ],
+         "Speaker": "Mark Lipacis"
+      },
+      "3": {
+         "Remarks": [
+            "Yeah. Thanks for the question appreciate that. The computing platform has to be programmable. A computing platform has to be \u2013 has to allow software developers to continue to advance and come up with creativity and run old software, run new software, is architecturally compatible from generation-to-generation. That's a computing platform. A computing platform of the last generation we know quite well as CPU [Isaac] that has retained its [Isaac] and its compatibility for generations.",
+            "Going forward, you're going to see that computers, because of the diverse workloads and because of the intense amount of computation in the data, data processing, that has to happen, because no computer stands alone anymore. And the type of application it runs, like artificial intelligence require acceleration, that the architecture that's the most sensible that the industry is gathering around is a multi-processor multi-type of processor what is otherwise known as heterogeneous type of a computing architecture.",
+            "The CPU is fantastic and low latency, single-threaded, really, really, really predictable latency type of processing. The GPU is really fantastic at high throughput data processing. And the DPU is really good at network and serial data movements, security processing. These three type of processors will define the future of computing. It is exactly the reason why we're so excited about this acquisition that with Arm and NVIDIA and Mellanox we have three computing platforms, one for networking, one for high throughput computing, accelerated computing, and AI computing, and one for CPUs and single-threaded computing. ",
+            "These three are incredible platforms, with large ecosystems, with industry support, broad and wide. And together, we're going to be able to do great things together."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "4": {
+         "Remarks": [
+            "Our next question comes from the line of Toshiya Hari from Goldman Sachs. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "5": {
+         "Remarks": [
+            "Good morning and thank you so much for taking the question. Jensen, congratulations on the deal. I had a question on how you're thinking about the R&D trajectory at Arm post close, and Arm\u2019s feature prospects in the server CPU space. In terms of R&D, if I\u2019d recall correctly, I think SoftBank more than doubled Arm\u2019s R&D budget post acquisition to accelerate innovation, but what are your plans from an R&D perspective, assuming the deal goes ahead? And in terms of server CPUs, what would you bring to the table that would turbocharge Arm\u2019s market share growth? And I asked the latter question because we've seen many companies in the past take a stab at Arm based server CPUs only to you know, for the most [part being successful]. Thank you."
+         ],
+         "Speaker": "Toshiya Hari"
+      },
+      "6": {
+         "Remarks": [
+            "Yeah. Toshiya, you and I both know that we've seen the journey of Arm server CPUs over the last several years and my enthusiasm is at a time when several things have changed, but let me first answer your question. There are three ways that we will turbocharge the R&D of our server CPU roadmap. The first is NVIDIA's R&D capacity or R&D platform is much larger than ours. And, and just leveraging the capabilities we have, the existing capabilities we have and recognizing that we have a lot of processor development ourselves, even though even though it's not related to relate to Arm CPUs, a lot of the tools, a lot of the capabilities will be used to develop very high performance processors could be very easily tapped into. ",
+            "The second is the infrastructure that is required to turn a CPU core into a data center server platform. It includes the SOC of course, the rest of the system logic on the motherboard, the rest of the system including the GPU, the DPU, the system software, all of the algorithms on top, the various system stacks necessary for the various domain applications, whether it's virtualized environments or high performance computing environments, or containerized, orchestrated type of environment, microservices type of environments. But each one of those stacks are, is really, really rigorous. And we have the capabilities, at NVIDIA, within are \u2013 already within our capabilities to bring all of that to Arm.",
+            "And so, for the very first time, we'll be able to create a choice for the data center world. That is absolutely world-class that is complete. The fully integrated, the fully developed and optimized stacks, and as a result data centers, whether it's in the cloud, for whatever applications or in the enterprise, or at the Edge can take advantage of this fully optimized stack. And then lastly, there are many things that we're developing both of us that are developing in future roadmaps that we can now harmonize.",
+            "And so, just the existing engineering we already have in our company, when we put them \u2013 target them to bear focus on to bear on Arm\u2019s CPU server strategy that will accelerate tremendously. And I think this is one of the reasons why the customers are going to love it. The data center, the cloud data centers have been waiting for the ability to pull all of this stuff together, the processors, the chips, the platforms, the software, until now, it's not really been possible. And that's one of the reasons why it never succeeded.",
+            "You know, building a chip alone is not sufficient anymore. You know, the x86 ecosystem is not just about the chip, but it's about the whole platform solution that has been optimized over time. For us, we've been doing this and this is one of the great strengths of our company. We are a computing platform company that is able to innovate from the chips, to the systems, system software all the way to the application stacks on top, and for all of the application domains that we do in AI computing in the cloud, we have a complete stack, and so we should be able to help our customers take advantage of the Arm CPUs readily.",
+            "Now, whether we build the Arm\u2019s CPUs ourselves or not is relevant. We're delighted that Amazon is doing it, that other Cloud CSPs have adopted Arm as building data center CPUs. We\u2019re delighted to see Fujitsu use it for supercomputers and we're delighted to see NVIDIA\u2019s own BlueField, use Arm CPUs to offload the data center operating system onto the SmartNIC, and we're seeing this all over the world. So, data center processors of all different types and shapes are going to evolve, and with our backing with our combination, we're going to be able to really accelerate that."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "7": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Toshiya Hari"
+      },
+      "8": {
+         "Remarks": [
+            "Thanks Toshiya."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "9": {
+         "Remarks": [
+            "Our next question comes from Vivek Arya from Bank of America Securities. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "10": {
+         "Remarks": [
+            "Thanks for taking my question and congratulations to all on the announcement. Jensen, my question is on the regulatory and the ecosystem hurdles, so what kind of pushback do you see from regulators, especially in China, given all the trade tensions and then separately, any pushback from Arm\u2019s customers, several of whom are your competitors today? And you know, they have unfettered access to Arm\u2019s Technology. So what kind of hurdles do you foresee, right, from both that regulatory and ecosystem perspective? And if I could just quickly sneak in one question for Colette, the sense of cost and revenue synergies and any initial reviews would be very helpful. Thank you."
+         ],
+         "Speaker": "Vivek Arya"
+      },
+      "11": {
+         "Remarks": [
+            "The customers after they heard the rumors have reached out to Simon and he\u2019s spoken to a lot of customers. And the fact that we're announcing the deal tells you a little something that we believe that the customers are going to be satisfied with our genuine intention to keep the platform open and neutral. We bought the company and we paid as you know, a very significant price, because of the vast network and the vast ecosystem of Arm, we love the business model. And they reach customers that we can't reach, they reach industries we don't reach.",
+            "The NVIDIA sells something along the lines of, you know, call it 100 million chips a year. Last year Arm sold in 22 billion chips. We believe all of those chips in the future are going to include AI computing. We believe all of those chips in the future will be accelerated computing. And we don't have to build all of them. We would love to extend our architecture to all of them. And so, the economics of leveraging the core architecture and the core technology NVIDIA has already built through the Arm network, and ecosystem, and this incredible support system they've created over the last 30 years, and the reputation for supporting IP that they've created.",
+            "We're going to be able to take our technology through that. That is incredibly exciting to me and so the fact that we would like to offer \u2013 number one, to keep the business model exactly as it was before. Open and fair and in fact offer all of those, all of Arm\u2019s customers even more IP, I think is going to be very exciting, regulatory. They're focused on pro competition, a condition that can ensure pro-competition and pro-customers, pro-customer choice. We are going to bring customers more choice. We are going to, for the very first time have credible plan to turn the Arm CPU core into a full-out data center platform.",
+            "And a data center platform that's for clouds, for high performance computing, for Edge, 5G Edge data centers to enterprise data centers. For the very first time, we can visualize the ability to do that. You know, frankly, we've been building that out for every CPU, for every x86 CPUs, which are a little different for power CPU. And last year, we decided we're going to do it for Arm CPUs.",
+            "We realized what an incredible investment this is going to be. And we\u2019ve realized that this is going to generate a lot of value. And so we, this combination really allows us to focus that energy and capture the value and deliver it to the market, a alternative platform that is going to be very powerful, very capable. And so the regulator's love to see pro-comp, you know, competitive dynamics in the marketplace. And so, we're pro-customer, we're pro-competition, the regulator should be very supportive of it."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "12": {
+         "Remarks": [
+            "And let me see if I can address your question that you've had regarding the synergies. When we look at this business remember, this is a piece of the overall Arm business as a whole. We have a high growth high performing group coming on board here to NVIDIA. We have the opportunity to now expand in terms of [our IoT], across both to really attack a good portion of this opportunity that's in front of us. So, at this time, it's a little bit early to talk about any of the synergies, but again, I think we're taking on already a very high growth well-performing group."
+         ],
+         "Speaker": "Colette Kress"
+      },
+      "13": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Vivek Arya"
+      },
+      "14": {
+         "Remarks": [
+            "Our next question comes from the line of Aaron Rakers from Wells Fargo. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "15": {
+         "Remarks": [
+            "Yeah, thanks for taking the question, and also congratulations on the acquisition. I wanted to go a little bit deeper in response to this last question. You know, in your presentation, you highlight you know, offering Arm customers access to NVIDIA's AI and GPU IP. Jensen, I'm just curious of how you see that evolving, how deeply you will go in terms of providing customers with licensable GPU IP? And how do you think about the NVIDIA business model evolving with this acquisition?"
+         ],
+         "Speaker": "Aaron Rakers"
+      },
+      "16": {
+         "Remarks": [
+            "We're in no mobile devices. The NVIDIA builds very few SOCs. We are in very few embedded systems. In the numbers, the numbers describe it perfectly. Arm sold 22 billion chips last year, 22 billion chips. NVIDIA is in the 100 million chips space, the opportunity, the un-served market is nearly all 22 billion. And so, that kind of tells you something about the opportunity that we see here. And yet all of those \u2013 all of those devices, I believe AI is going to define the way that software is going to get written. And AI processing will be done in every computer in every device. And those 22 billion chips are going to be AI computing chips, and they're going to do amazing things.",
+            "Some of them will be robots, some of them will be self driving cars, some of them will be 5G radios, and some of them will be, you know, embedded systems. And those are all, those are all wonderful platforms that we would like to go and participate in, but we can't build them all. And so the simple way that we're thinking about it is one to be great of NVIDIA IP, NVIDIA GPU cores, and AI cores were made available through that network and customers could take advantage of it.",
+            "It's really quite as elegant as that. We can do this. You know this idea that \u2013 it sounds so simple and elegant, but it really is impossible, if not for the incredible reach of Arm and the network of support and the reputation and the engineering operations of turning technology into IP, reusable blocks.",
+            "All of that is what we're buying into. This incredibly energy efficient processor, combined with the business model, combined with the vast ecosystem that has built over the years. This is a once in a generation company. And now we could take the NVIDIA IP through there. You could, you know, imagine some simple math and the economics could be really exciting."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "17": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Aaron Rakers"
+      },
+      "18": {
+         "Remarks": [
+            "And our next question comes from the line of C.J. Muse from Evercore. Your line is open. "
+         ],
+         "Speaker": "Operator"
+      },
+      "19": {
+         "Remarks": [
+            "Yeah. Good morning. Good afternoon. Thanks for taking the question. I guess two if I could? The first one Jensen, we've talked in the past about the difficulty of bringing CUDA to the edge for low cost type solutions, so curious, you know, how are you thinking about with the combination of Arm, unifying your solution, you\u2019re CUDA software from the datacenter to the Edge? So that's the first question. And then the second is, I guess more on the regulatory side with China. You're keeping the IP in the UK, so I think that's a good start, but you know, curious how you're thinking about their reaction, would you grant an evergreen license to China to get approval? Any thoughts there would be a great. Thank you."
+         ],
+         "Speaker": "C.J. Muse"
+      },
+      "20": {
+         "Remarks": [
+            "You know, one of the things, C.J., that we all know is that Moore's Laws come to an end. And there's several things that we know about those 22 billion chips that are going to get sold, and eventually, a trillion chips are going to get sold. The journey to a trillion chips is through AI and AI is an accelerated computing method of processing. And so, in order for us to go from 22 billion units a year to a lot more than that and having trillions of devices that are around the world that are operating AI software and operating autonomously, that computer architecture, the computing platform has to evolve.",
+            "The Arm CPU is so energy efficient and the NVIDIA GPU is so energy efficient that we could increase the adoption of accelerated computing [and computing] in those 22 billion units moving to, you know, hundreds of billions of units over years just through the course of time. And, you know, we can now build very sophisticated AI chips in just a few hundred milliwatts and that fits into a very large number of computing devices.",
+            "And so, I think it's a foregone conclusion that computing is going to be accelerated, that computing will \u2013 most computing platforms will be about AI processing and we\u2019re, as the world leader in AI computing, and ARM, the most popular CPU and the largest eco-system in the world, we should be able to connect these two things together and provide the AI processors in our AI architecture, accelerated computing architecture to all of the ARM partners. And so, I'm excited about that part.",
+            "With respect to China, the important thing to realize is that the ownership, the company ownership of the IP is not the relevant issue. The origin of the IP is the relevant factor in export control. The IP of ARM was originated, created, developed over three decades in Cambridge. And so, the amount of soft \u2013 the amount of core, the amount of innovation is measured in thousands of human years. And so, the IP will essentially stay in the UK. The headquarters of Arm will be in the UK. We're going to continue to advance the technology in the UK.",
+            "In Arm, in Cambridge is a pool \u2013 is a company of some of the finest computer scientists in the world. And so, of course, we're going to continue to invest there and build there. And so, the origin of the technology won't change and as a result, the fact that Arm now belongs to an American company versus a Japanese company, that doesn't change our exports control in anyway."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "21": {
+         "Remarks": [
+            "Our next question comes from the line of Stacy Rasgon from Bernstein Research. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "22": {
+         "Remarks": [
+            "Hi, guys. Thanks for taking my question. I wanted to come back to the customer acceptance of this. I hear what you're saying around keeping the eco-system neutral. I hear what you're saying about the potential value that customers will have. But at the same time, how does this really work in practice? I mean, it's a practical consideration that you're going to get first look at everything. You're going to control the direction of innovation of the company. You're going to know all of your customers\u2019 roadmaps before they do. So, how are they really going to get comfortable with this, especially in some of these like high-performance computing and servers? And I sort of asked this within the envelope of maybe some of your prior efforts to drive an IP licensing business, which, to my recollection, did not go all that well and was not really accepted [indiscernible] customers. So just in general, given all of that and how much you're going to \u2013 you own this eco-system, how much visibility you have into what they're doing? Like how are they \u2013 how are you really going to get them comfortable with this? And do you anticipate any issues and if there are customer disagreements that stand in the way of closing the deal?"
+         ],
+         "Speaker": "Stacy Rasgon"
+      },
+      "23": {
+         "Remarks": [
+            "We would protect the confidentiality information of all of our customers the way we do today and the way that Arm does today. Neither of us really know what the customers are doing with our technology. And so \u2013 and of course we have \u2013 we work with every company in the world and so does Arm work with every computer company in the world. We keep all of \u2013 we keep everybody's confidentiality protected for all of the obvious reasons. I mean, we are a computing platform company. NVIDIA sells chips to all of the computer makers.",
+            "We also license software to them today that runs in their datacenters or are doing optimizing compilers or, you know, all of our CUDA DNN. All of the AI optimization libraries are licensed to all of our partners. And then, of course, we provide application stacks even on top of that. We work in three layers. Our company has evolved far from the chip company, you know, years ago, and we offer technology, which is at chip level, but we offer a platform technology, which includes a lot of software, a lot of SDKs, and then, in some cases, we even offer the entire application stack on top.",
+            "We open up these \u2013 this three layer approach of accessing NVIDIA\u2019s platform, and the customers decide whether they want to use layer one, layer two or layer three. And if a customer would like to partner with us, for example, one of the telcos who want to partner with us to bring GeForce NOW to the market, we partner with them. If somebody would like to only by our GPU and develop the entire stack themselves for their own cloud gaming service, we're more than happy to do that. And they're willing to use \u2013 if they would like to use layer one and layer two, and then build on top of it themselves for their layer three service or store, now we're more than delighted to do that.",
+            "We do that in gaming. We do that in autonomous vehicles. We do that in robotics. And in the case of Arm, this will just be our layer one technology offering, meaning that in the case that a customer would like to have our technology already fixed and hardened in a chip, that's fine. But if they would like to have it be soft and malleable, that's fine too. I think that the business model, the modern business model, this is just not as odd as it seems. You know, we go to the cloud and we have infrastructure as a service, platform as a service, software as a service. And the platforms make themselves available to you however you would like to be \u2013 like you to engage it.",
+            "I think fundamentally, NVIDIA is, of course, going to continue to protect our most important thing, which is our enterprise reputation that we have to be a company that customers and our partners can trust. We are the only AI company in the world that I know of that work with every AI company in the world, and maintaining that trust of openness and fairness and protection of people\u2019s privacy and confidentiality, that's something that is pretty sacred to us, and we're going to continue to do that. And so, we decided that this business model was something that we want to bring to make part of an extension of our company that we think it's great for business, it's great for economics, that is great for our strategy, and that it's going to be a pillar for extending our computing platform. If we believe that as I do, and we make a commitment to keep it open, we will."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "24": {
+         "Remarks": [
+            "Got it. Thank you. If I could ask one quick housekeeping question to Colette, you said adjusted EBITDA margins of 35%, so [I think on] recent presentation suggest EBITDA margins on below 15%, is the differential just the removal of the IT services businesses? Is it stock comps? Just what's driving that differential?"
+         ],
+         "Speaker": "Stacy Rasgon"
+      },
+      "25": {
+         "Remarks": [
+            "That's correct, Stacy. As we discussed, we\u2019re just buying the IPG Group and leaving the IoT Data Science Group on that. So that is the most of the difference between the two."
+         ],
+         "Speaker": "Colette Kress"
+      },
+      "26": {
+         "Remarks": [
+            "Got it. Thank you very much, guys. Good luck."
+         ],
+         "Speaker": "Stacy Rasgon"
+      },
+      "27": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "28": {
+         "Remarks": [
+            "Our next question comes from the line of Harlan Sur from JPMorgan. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "29": {
+         "Remarks": [
+            "Good morning and congratulations on the announcement. Maybe to follow up on that last question, you know, Arm has built its business model around customer neutrality by not competing with its semiconductor customers. Maybe we can take, Jensen\u2019s specific examples, in the areas that you\u2019ve embedded with your Jetson platform, automotive with drive EGX, gaming with your ASIC solutions, networking with BlueField processors, will you guys design your own multi-core Arm-based processor chips? Here, you actually will be competing with your customers, so how again do you address ARM\u2019s customer neutrality philosophy in these particular areas?"
+         ],
+         "Speaker": "Harlan Sur"
+      },
+      "30": {
+         "Remarks": [
+            "By doing just that, keeping \u2013 staying neutral. Remember, we work with all of the companies that are in the semiconductor industry. We worked very closely with Intel. We worked very closely with AMD. We selected AMD in our latest generation DGX and we were delighted by it. We celebrated it. And the two engineering teams worked incredibly close together. We \u2013 people say that NVIDIA\u2019s primary competitor in AI computing is the TPU, and yet, on the first day of the Ampure launch, the only customer that stood there with us was the first customer that launched was Google. And so, there's a \u2013 I think that there's a maturity about the technology industry that it is possible to collaborate largely and in some areas where you compete.",
+            "We worked so closely with all the semiconductor companies. We buy it from them. Our systems are only possible because our chips and their chips \u2013 we don't build every chip, we don't build voltage regulators, we don't build a lot of repeaters, we don't build a lot of [indiscernible], a lot of very complicated things that are inside these systems and we don't build them and we rely on core partners to do so and we're grateful for their partnership. They support us with excellent engineering, and we will do so in return, but mostly, the important thing to realize is whatever business model you decide you want to endeavor, you've got to believe in it and you've got to be committed to it. And this business model, we're committed to the open computing business model. NVIDIA is an open computing company.",
+            "On the one hand, we build systems. But on the other hand, we completely open the insides of it so that people could use our components whether it's at the platform level, at the system component level, all the way down to the chip level and all the software in between. We make it possible for you to use whatever you decide to use. In the self driving car world, notice, on the one hand, in our Mercedes business model, we're developing the entire stack even creating the datacenter and operating the fleet for as long as we shall live. You know, for the for the 10 million, 20 million Mercedes cars that are going to be out there, we\u2019re going to operate them, offer services and software to it. ",
+            "Meanwhile, we're selling chips to Tier 1s and OEMs around the world and startups around the world who are building their software stack on top of our chips and sometimes they \u2013 and many times, they offer to the same end customers. We\u2019re delighted by that. We're delighted by that. We can't win everything in the world, but the one thing that we believe to be foundational to everything we do is that the more people use our computing platform. The more developers are developing on our computing platform, the more resilient, the more sustainable, the more contribution we can make and the more opportunities it will find for us, that we believe to be foundational.",
+            "And so, I will, all day long, be [more than joyed] for somebody to not buy our system, but buy our chip, to not buy our chip, but to license our IP, I'd be [more than joyed] for that. It's a win for us no matter what, okay. So, I think the business model is something we care \u2013 we love very much. You know, I just got to \u2013 you just got to see that now. NVIDIA sells 100 million chips a year. There are 21.9 billion chip opportunity for us to go and we believe they're all going to be accelerated, Moore's laws ended. ",
+            "We believe AI computing is going to be on all of them. Of course it is, of course it is. And so, considering those facts, the opportunity to use this business model that has taken three decades to build, of course, we're going to honor it, of course, we love it, and of course, we're going to use it to continue to extend our platform. It's wonderful for us."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "31": {
+         "Remarks": [
+            "Thank you, Jensen."
+         ],
+         "Speaker": "Harlan Sur"
+      },
+      "32": {
+         "Remarks": [
+            "Yeah, thank you."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "33": {
+         "Remarks": [
+            "Our next question comes from the line of Matt Ramsay from Cowen. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "34": {
+         "Remarks": [
+            "Thank you very much. Congrats all around. Actually I have a question that I wanted to ask from \u2013 to both Jensen and to Simon from your own perspectives. Obviously, NVIDIA has been an influential member of the Arm partnership. You guys have license for essentially all of Arm\u2019s core technology plus and architectural license for V8 and I'm sure V9 as it comes out, so I guess Jensen the question that I've been getting from folks is, why buy the whole company, right? What things are you looking forward to in close collaboration of CPU and GPU in the datacenter or putting your IP on clients and Edge devices? Could you\u2019ve not have accomplished by just being an influential member of the Arm partnership and doing your own architectural license implementation of chips? And I guess, Simon, from the opposite perspective of \u2013 what things are you now going to be able to do with NVIDIA\u2019s influence that you might not have done under the more traditional Arm relationship with partners? Thanks."
+         ],
+         "Speaker": "Matt Ramsay"
+      },
+      "35": {
+         "Remarks": [
+            "Yeah, really good question. Really excellent question. I\u2019m glad you asked that. Why didn't we just keep the license? We were delightful licensees of Arm. As you know, we used Arm in our \u2013 one of our most important new initiatives and very exciting and something I want to tell you guys a lot more about the BlueField DPU. We used it for the Nintendo Switch. It\u2019s going to be the most popular, the most successful game console in the history of game consoles. And so, we are enthusiastic Arm licensees.",
+            "There are three reasons why we should buy this company and we should buy it as soon as we can. And the reason for that, number one is this, as you know, we would love to take NVIDIA\u2019s IP through Arm\u2019s network. Unless we were one company, I think the ability for us to do that and to do that with all of our might, is very challenging. And so, I don\u2019t take other peoples products through my channel.",
+            "I don\u2019t expose my eco-system to other company\u2019s products. The eco-system is hard earned. It took 30 years for Arm to get here, and so, we have an opportunity to offer that whole network, that vast eco-system of partners and customers, NVIDIA\u2019s IP, number one. And so, you can do some simple math and try to, you know, decide the scale of your imagination, but the economics there should be very, very exciting.",
+            "Number two, we would like to lean in very hard into the Arm CPU datacenter platform. There\u2019s a fundamental difference between a datacenter CPU core and a datacenter CPU chip and a datacenter CPU platform, a datacenter computing platform. We, last year, decided that we would adopt and support the ARM architecture for the full NVIDIA stack, and that was a giant commitment. The day we decided to do that we realized this was going to be for as long as we shall live. And the reason for that is because once you start supporting the eco-system you can\u2019t back out.",
+            "And for all the same reasons, when you\u2019re a computing platform company and people depend on you, you have to support them for as long as you shall live, and we do, and we take that promise very seriously. And so, we are about to put the entire might of our company behind this architecture from the CPU core to the CPU chips from all of these different customers, all of these different partners, Ampere or Marvell or Amazon or Fujitsu or, you know, the number of companies out there that are considering building Arm CPUs out of their Arm CPU cores, datacenter CPU cores, is really quite exciting.",
+            "The investments that Simon and the team have made in the last four years while they were out of the public market, has proven to be incredibly valuable. And now, we want to lean hard into that and make Arm a first-class datacenter platform, a first-class datacenter platform from the chips to the GPUs to the DPUs to the software stack, to the system stack, to all the application stacks on top, we want to make it a full out first-class datacenter platform. Well, before we do that, it would be great to own it. We\u2019re going to accrue so much value to this architecture in the world of datacenter. Before we make that gigantic investment and gigantic focus, why don\u2019t we own it? And so, that\u2019s the second reason. ",
+            "Third reason, we want to go invent the future of cloud to edge. The future of computing where all these autonomous systems are powered by AI and powered by accelerated computing, all of the things that we have been talking about, that future is being invented as we speak, and there are so many great opportunities there. Edge data centers, 5G Edge data centers, autonomous machines of all sizes and shapes, autonomous factories.",
+            "NVIDIA has built a lot of software as you guys have seen, Metropolis, Clara, Isaac, Drive, Jarvis, Aerial, all of these platforms are built on top of ARM, all of these platforms are built on top of ARM, and before we go and see the inflection point, wouldn\u2019t it be great if we were one company. And so, the timing is really quite important. I think we\u2019ve invested so much in all \u2013 across all of these different areas that we felt that, you know, we really, really had to take the opportunity, own the company and collaborate deeply as we invent the future.",
+            "Okay, so that\u2019s the answer."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "36": {
+         "Remarks": [
+            "So, from my side, if I can follow up on that, if I can follow that. I \u2013 the way I look at it is through a couple of different dimensions. Firstly, just picking up on the point about AI, you know, I do truly believe that AI is going to be the defining technology of compute for the future. And, you know, we've made great progress on that. We've made great strides in thinking about AI in the Edge, AI running on the tiniest microcontrollers and how you enable that, how you do that in an energy efficient way, how you get the software stack going. But we are just at the starting point on this transition to the world of compute being a world of AI. And we think that by combining forces, there's just so much more resource and weight that we can put into that and that this gives us an opportunity to take a lead in a way that we couldn't have done on our own.",
+            "Similarly, when we think about the datacenter, the datacenter has been one of the big bets we've made over the last four years under SoftBank\u2019s ownership. We just couldn't have done that as a public company and you and I discussed that a number of times over the years, but the increase in R&D that we've done over the last four years has enabled us to get to a very different place and we can now go further, we can now take that to the next level by applying the might of NVIDIA behind it.",
+            "Now, technically, as we think about the NVIDIA\u2019s IP portfolio and how we might package that up into products that we could license to the rest of our customer base, you know, that gives us more to go and sell, that's great, and we're going to do that, but it is these kind of big systemic changes that are going on, these big strategic threads where the combination of the two companies I think puts us in a very unique and really exciting position."
+         ],
+         "Speaker": "Simon Segars"
+      },
+      "37": {
+         "Remarks": [
+            "Thanks very much to you both."
+         ],
+         "Speaker": "Matt Ramsay"
+      },
+      "38": {
+         "Remarks": [
+            "Thanks."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "39": {
+         "Remarks": [
+            "And our final question today will come from the line of John Pitzer from Credit Suisse. Your line is open."
+         ],
+         "Speaker": "Operator"
+      },
+      "40": {
+         "Remarks": [
+            "Yes. Good morning. Congratulations Jensen and Simon, appreciate you letting me ask the last question. Jensen, when you kind of look at the success you've had in the datacenter, I think one of the key pillars has been your ability to lower the cost of compute for your customer well summed up and what you always say, the more you buy, the more you save. When you look at the Mellanox acquisition, it's fairly easy to see how that fits into that prism of lowering the cost of compute in the datacenter. I'm just wondering if you can help me understand how I should view the Arm acquisition through that lens. And then, as a quick housekeeping for Colette, Colette, the $2 billion that you are giving to SoftBank at signing, is that effectively a breakup fee that has non-recourse? And is that the only breakup fee? Or how do I think about a potential breakup fee here if the regulators don't see the world the way you see it?"
+         ],
+         "Speaker": "John Pitzer"
+      },
+      "41": {
+         "Remarks": [
+            "As you know, Arm is the most energy efficient architecture in the world. It's the most energy efficient computer architecture in the world. And energy efficiency in a power limited datacenter, which is always power limited, whatever size datacenter you see, there's a limit to the power that it provisions. The more energy efficiency, the greater number of processors you could fit inside, the greater number of processor cores you could fit inside, the more throughput or the more customers you could serve.",
+            "So, whether you want to think about it, as in dollars per compute or the dollars you can make per compute with your datacenter, either way, the Arm energy efficiency is extraordinary. That is exactly the reason why Amazon is so excited about Gravitron 1 and Gravitron 2. You're going to see many others that want to follow soon. And so, the energy efficiency of the Arm processor has really, really revealed its amazing cost benefits in the world of datacenters, and now, with the workload, and this is a very important thing, a very important dynamic and I think it was Toshiya that mentioned it earlier about the previous history of why Arm CPUs weren't that successful in datacenters has fundamentally changed.",
+            "It used to be the datacenters that was hyper converged and the workload was monolithic virtualized, monolithic virtualized in a hyper converged environment. In that world, I used a lot of buzzwords and I'm sorry about that, but in that world, the right architecture is x86. It runs all of the applications in the world, but since then, the world has become aggregated containerized micro services. That is the way that these datacenters are built today. Because of that migration, because of that evolution, applications has been re-factored.",
+            "The applications have been re-factored and AI has been infused into it. It is now possible to run on any CPUs. It just has to be very energy efficient, it has to be performant, and most importantly, very importantly, it has to be supported by all of the computing infrastructure around it. You know, the value of the x86 CPU in datacenters is not just the core itself, but it's the core, it\u2019s the hardware eco-system. All of this system components that supported, all of the software services that run on top of it, it's all fully optimized. NVIDIA has that stack.",
+            "We have the networking, storage, security, virtualization stack as a result of Mellanox. We have NVIDIA\u2019s AI stack and computing stack whether it\u2019s Kubernetes based or virtualized based or cluster-based and multi-GPU based, multi-node based. No matter what the computing infrastructure environment is, NVIDIA has that stack now. We're going to bring all of it to Arm. We're going to bring all of it to this new eco-system and I think our ability to expand the market is going to be greatly enhanced."
+         ],
+         "Speaker": "Jensen Huang"
+      },
+      "42": {
+         "Remarks": [
+            "So, let me just quickly answer that last question regarding the breakup fee, the $2 billion that is paid at signing is essentially a down payment towards the $12 billion of cash that is owed. Yes, that is \u2013 all that is a breakup fee, but keep in mind, there's also an Arm license within that as well, so it's not all breakup fee. And no there's no other breakup fees."
+         ],
+         "Speaker": "Colette Kress"
+      },
+      "43": {
+         "Remarks": [
+            "Perfect. Thanks, guys. Very helpful."
+         ],
+         "Speaker": "John Pitzer"
+      },
+      "44": {
+         "Remarks": [
+            "Thank you, everyone."
+         ],
+         "Speaker": "Simona Jankowski"
+      },
+      "45": {
+         "Remarks": [
+            "This concludes today's conference call. You may now disconnect."
+         ],
+         "Speaker": "Operator"
+      },
+      "46": {
+         "Remarks": [
+            "Okay, you guys, thank you very much for joining us today. Today's announcement was super exciting. I hope you're as excited as I am in combining of two amazing companies. The most popular CPU in the world with the world\u2019s leading AI computing company so that we can create a premier computing company for the age of AI. I look forward to giving you guys updates on an ongoing basis. Thanks for joining us today."
+         ],
+         "Speaker": "Jensen Huang"
+      }
+   }
+}

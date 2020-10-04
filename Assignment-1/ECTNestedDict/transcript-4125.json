@@ -1,0 +1,1051 @@
+{
+   "Date": "January 1, 0000",
+   "Presentation": {
+      "Asylbek Osmonov": [
+         "Thank you, Zalman. Good morning, everyone. Net interest income before provision for credit losses for the three months ended June 30, 2020 was 259 million compared to 154.8 million for the same period in 2019, an increase of 104.1 million or 67.2%. The increase was primarily due to the merger with LegacyTexas in November 2019 and loan discount accretion of 24.3 million in the second quarter of 2020.",
+         "The net interest margin on a tax equivalent basis was 3.69% for the three months ended June 30, 2020 compared to 3.16% for the same period in 2019 and 3.81% for the quarter ended March 31, 2020. Excluding purchase accounting adjustments, the core net interest margin for the quarter ended June 30, 2020 was 3.33% compared to 3.14% for the same period in 2019 and 3.36% for the quarter ended March 31, 2020.",
+         "Noninterest income was 25.7 million for the three months ended June 30, 2020 compared to 30 million for the same period in 2019. The current quarter noninterest income was affected by 3.9 million in write-downs of certain assets and general impacts of COVID-19 pandemic.",
+         "Noninterest expense for the three months ended June 30, 2020 was 134.4 million compared to 80.8 million for the same period in 2019. The increase was primarily due to the merger with LegacyTexas and one-time merger-related expenses of 7.5 million due to the core system conversion that occurred in June. In addition to these merger-related expenses, the second quarter results reflected elevated expenses related to increased mortgage activities.",
+         "With the core system conversion and operational integration process behind us, we do not anticipate any significant merger-related expenses going forward and we expect to start realizing the remaining cost savings beginning in the third quarter of 2020. We expect this additional savings to be about 7 million to 9 million per quarter. This combined with the savings realized in the first and second quarters will be in line with our previously stated 25% cost savings in noninterest expense.",
+         "The efficiency ratio was 46.56% for the three months ended June 30, 2020 compared to 43.74% for the same period in 2019 and 42.9% for the three months ended March 31, 2020. Excluding merger-related expenses of 7.5 million, the efficiency ratio was 43.97% for the three months ended June 30, 2020. The bond portfolio metrics at 6/30/2020 showed a weighted average life of 2.69 years and projected annual cash flows of approximately 2.3 billion.",
+         "And with that, let me turnover the presentation to Tim Timanus for some detail on loans and asset quality. Tim?"
+      ],
+      "Charlotte Rasche": [
+         "Thank you. Good morning, ladies and gentlemen, and welcome to Prosperity Bancshares second quarter 2020 earnings conference call. This call is being broadcast live over the Internet at prosperitybankusa.com and will be available for replay at the same location for the next few weeks.",
+         "I'm Charlotte Rasche, Executive Vice President and General Counsel of Prosperity Bancshares. And here with me today is David Zalman, Senior Chairman and Chief Executive Officer; H.E. (Tim) Timanus, Jr., Chairman; Asylbek Osmonov, Chief Financial Officer; Eddie Safady, Vice Chairman; Kevin Hanigan, President and Chief Operating Officer; Randy Hester, Chief Lending Officer; Merle Karnes, Chief Credit Officer; Mays Davenport, Director of Corporate Strategy; and Bob Dowdell, Executive Vice President.",
+         "David Zalman will lead off with a review of the highlights for the recent quarter. He will be followed by Asylbek Osmonov, who will review some of our recent financial statistics; and Tim Timanus, who will discuss our lending activities, including asset quality. Finally, we will open the call for questions. During the call, interested parties may participate live by following the instructions that will be provided by our call moderator, Jamie.",
+         "Before we begin, let me make the usual disclaimers. Certain of the matters discussed in this presentation may constitute forward-looking statements for the purposes of the federal securities laws, and, as such, may involve known and unknown risks, uncertainties and other factors, which may cause the actual results, performance or achievements of Prosperity Bancshares to be materially different from future results, performance or achievements expressed or implied by such forward-looking statements.",
+         "Additional information concerning factors that could cause actual results to be materially different than those in the forward-looking statements can be found in Prosperity Bancshares' filings with the Securities and Exchange Commission, including Forms 10-Q and 10-K and other reports and statements we have filed with the SEC. All forward-looking statements are expressly qualified in their entirety by these cautionary statements.",
+         "Now, let me turn the call over to David Zalman.",
+         "Thank you, Tim. At that time, we are prepared to answer your questions. Jamie, can you please assist us with questions."
+      ],
+      "David Zalman": [
+         "Thank you, Charlotte, and good morning to everyone. I would like to welcome and thank everyone listening to our second quarter 2020 conference call. We are pleased with our second quarter 2020 results and with completing the operational integration of Legacy on schedule in early June.",
+         "The team members from Legacy, now Prosperity, have been excellent and we could not have achieved such a smooth integration without their commitment and efforts. I want to thank all of our team members who worked many hours to make this happen. We remain excited about the combination and look forward to continuing to build the best Bank anywhere.",
+         "For the second quarter of 2020, we showed impressive returns on average tangible common equity of 19.98% annualized and on average assets of 1.61%. Our earnings were 130.9 million in the second quarter of 2020 compared with 82 million for the same period in 2019, an increase of 48.6 million or 59.1%.",
+         "Our diluted earnings per share were $1.41 for the second quarter of 2020 compared with $1.18 for the same period in 2019, an increase of 19.5%. The second quarter 2020 earnings per share of $1.41 includes a $0.22 income tax benefit, a $0.06 charge from merger-related expenses and a $0.03 charge for the write-down of fixed assets related to the merger and some CRA funds.",
+         "In summary, there was $0.22 of benefit to earnings and $0.09 on deductions, mostly related to the merger. Loans at June 30, 2020 were 21.025 billion, an increase of $10.4 billion or 98.6% compared with $10.587 billion at June 30, 2019. Our linked quarter loans increased $1.898 billion or 9.9% from the $19.127 billion at March 31, 2020, of which $1.392 billion were SBA Paycheck Protection Program, sometimes referred to as PPP loans.",
+         "Mortgage warehouse loans also increased 843 million in the second quarter of 2020 compared to the first quarter. Our core loans, excluding held for sale and the warehouse purchase program and the PPP loans decreased $311 million.",
+         "However, a portion of this decrease resulted from loans that were intentionally removed that were identified in our due diligence of Legacy. We saw strong loan growth in the first part of the second quarter, but that slowed as business shutdown or reduced operations in response to various government orders.",
+         "Our deposits are June 30, 2020 were $26.153 billion, an increase of $9.265 billion or 54.9% compared with $16.888 billion at June 30, 2019. Our linked quarter deposits increased $2.326 billion or 9.8% from the $23.826 billion at March 31, 2020.",
+         "Historically, our deposits are lower in the second quarter of the year compared with the first quarter and then begin to increase in the third and fourth quarters for us. But this year, second quarter deposits are higher. A large portion is from the PPP loans as well as reductions in customer spending, in customer saving more right now.",
+         "With regard to asset quality, has always been one of the primary focuses of our Bank and always will be. I have always said, you will like us in the good times but love us in the bad times and this is playing out to be true again during this pandemic and oil price downturn.",
+         "Nonperforming assets totaled 77.9 million or 28 basis points of quarterly average interest earning assets at June 30, 2020. We continue to provide relief to our own customers through long extensions and deferrals when possible.",
+         "For the second quarter of 2020, net charge-offs were $13 million. Of these charge-offs, 12.4 million were related to PCD loans with specific reserves of 28.5 million that we acquired in the merger. Further, 16.1 million in specific reserves were released to the general reserve in addition to the 10 million provision for loan losses for the second quarter.",
+         "M&A activity has subsided during this pandemic, although there are some conversations and probably a few deals working, we believe that the M&A activity will start to pick up as businesses reopen and economic activity increases.",
+         "Size does seem to matter now, especially with lower net interest margins, the need for increased technology and the potential for additional regulatory burden if there\u2019s a change in the administration. An example is the increased volume at our customer call center with many older customers wanting to set up online and mobile banking that have previously not been interested in doing so.",
+         "The economy, the blue-chip consensus forecast estimates that fourth quarter 2020 GDP will end at a negative 5.6% compared with the fourth quarter of 2019. However, they\u2019re forecasting a positive 4.8% GDP for the fourth quarter of 2021 compared with the fourth quarter of 2020. They are also forecasting an unemployment rate of 9.4% for the fourth quarter of 2020 compared with unemployment rate of 6.9% for the fourth quarter of 2021. Based on these estimates, 2021 looks bright.",
+         "We are positive about our company\u2019s future. While our operating environment and economy is changing frequently, we remain focused on addressing whatever comes our way and taking care of our customers and associates. Prosperity continues to focus on building core relationships, maintaining sound asset quality and operating the Bank in an efficient manner while investing in ever-changing technology and product distribution channels.",
+         "We intend to continue to grow the company both organically and through mergers and acquisitions. We want to develop people to be the next generation of leaders, make every customer experience easy and enjoyable and operate in a safe and sound manner. I want to thank everyone involved in our company for helping to make it the success it has become. Thanks again for your support of our company.",
+         "Let me turn over our discussion to Asylbek, our Chief Financial Officer, to discuss some of the specific financial results we achieved. Asylbek?"
+      ],
+      "Operator": [
+         "Good day, everyone, and welcome to the Prosperity Bancshares Second Quarter 2020 Earnings Conference Call. All participants will be in a listen-only mode. [Operator Instructions]. After today's presentation, there will be an opportunity to ask questions. Please note today's event is being recorded.",
+         "At this time, I\u2019d like to turn the conference call over to Charlotte Rasche. Ma\u2019am, please go ahead."
+      ],
+      "Tim Timanus": [
+         "Thank you, Asylbek. Our nonperforming assets at quarter end June 30, 2020 totaled $77,942,000 or 37 basis points of loans and other real estate. The June 30, 2020 nonperforming assets total was made up of $71,595,000 in loans, $187,000 in repossessed assets and $6,160,000 in other real estate. Of the $77,942,000 in nonperforming assets, $12,173,000 or 16% are energy credits; $12,073,000 of which are service company credits and $100,000 are production company credits.",
+         "Since June 30, 2020, $15,786,000 has been removed from the nonperforming assets\u2019 list through the sale of collateral. This represents 20% of the nonperforming assets dollars. Net charge-offs for the three months ended June 30, 2020 were $13,001,000. $10 million was added to an allowance for credit losses during the quarter ended June 30, 2020.",
+         "The average monthly new loan production for the quarter ended June 30, 2020 was $871 million. This includes a total of $1,430,000,000 in PPP loans booked during the quarter. Loans outstanding at June 30, 2020 were $21.025 billion. The June 30, 2020 loan total is made up of 39% fixed rate loans, 36% floating rate loans and 25% loans resetting at specific intervals. The fixed rate percentage increased somewhat due to the inclusion of the PPP loans.",
+         "I'll now turn it over to Charlotte Rasche."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Ladies and gentlemen, at this time we\u2019ll begin the question-and-answer session. [Operator Instructions]. And our first question today comes from David Rochester from Compass Point. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Hi. Good morning, guys."
+         ],
+         "Speaker": "David Rochester"
+      },
+      "3": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "4": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "5": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "Charlotte Rasche"
+      },
+      "6": {
+         "Remarks": [
+            "You guys did a good job hitting the NIM range this quarter, ex accretion. So I\u2019m just wondering what your thoughts were on that going forward as well as the accretion trend in the back half of the year if you can? It seems like you guys have a lot of room to move deposit costs lower. Just looking at where you were with your rate cycle, so just was curious to get your thoughts there too."
+         ],
+         "Speaker": "David Rochester"
+      },
+      "7": {
+         "Remarks": [
+            "I\u2019ll probably let Asylbek take it, but I think our accretion was higher that we normally gave guidance for. I think Asylbek was looking at about $11 million to $13 million."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "8": {
+         "Remarks": [
+            "That\u2019s right. Going forward, I think next quarter we\u2019re looking at $11 million to $13 million. It\u2019s a little bit elevated because some of those PCD loans we\u2019re working out, which they had discounts in them and so those being paying off, bringing additional fair value income this quarter. But if you\u2019re looking going forward, we project $11 million to $13 million based on what our model shows right now."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "9": {
+         "Remarks": [
+            "And I think on the second part of the question, David, we have kept our rates a little bit higher than we really had to. I\u2019ve always said that sometimes in really good times, people pay more than we do. And then when things get a little tougher, we kept our rates a little higher than everybody else. But we are looking at it right now to reduce our rates a little bit and we should probably do that this week probably at some time."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "10": {
+         "Remarks": [
+            "Yes. So we did reduce our rates \u2013 we reduced rates in the second quarter, but we\u2019re looking managing further in the third quarter reducing it. And if you look at our deposits, our CDs are at the higher rate right now but we\u2019re waiting for them to be repriced. I think based what we see, we should have about $2 billion being repriced next 12 months."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "11": {
+         "Remarks": [
+            "Right. And I think the biggest \u2013 but we still have a lot of money, like in our premier money market now that we\u2019re still paying 40 basis points, so it\u2019s $1 million plus. So we have some room to come down a little bit."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "12": {
+         "Remarks": [
+            "And additional there is some brokered deposit, we still have about 100 million to get repriced."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "13": {
+         "Remarks": [
+            "About 100 million."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "14": {
+         "Remarks": [
+            "Yes, next 12 months. So there will be some movement in the deposit cost."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "15": {
+         "Remarks": [
+            "Great. I appreciate that color. And so just given all those opportunities, where do you think the NIM goes from here, ex the accretion?"
+         ],
+         "Speaker": "David Rochester"
+      },
+      "16": {
+         "Remarks": [
+            "For the next quarter, our model shows that our core margin to be a relatively stable given the current economic conditions, but however we do expect to see some additional pressure on NIM because of loan repricing. And if you look at for next quarter, we could see declines in the amount somewhere in mid-single digit I would say. But there\u2019s a lot of moving pieces. It\u2019s how the PPP forgiveness is going to work. And we have, as every bank experience right now, quite a lot of liquidity coming into the bank because of the PPP program we had and the government stimulus --"
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "17": {
+         "Remarks": [
+            "Yes. I don\u2019t \u2013 we never like to give evasive answers, but there\u2019s so many moving parts now. There\u2019s $2.3 billion in extra deposits that came in, a lot of people thought 1 billion of that is probably from the PPP loans. But you have to think or I have to think that it\u2019s that money we put out on PPP, they should have used half of that or more. Some are saying they\u2019re didn\u2019t spend it because they\u2019re waiting to see if \u2013 I don\u2019t know what the reason is, but I think there\u2019s more \u2013 there\u2019s going to be more liquidity than we anticipate, so you have that. You have the PPP loans. And if we do have some room on the deposit side, I would still say to be careful. You\u2019d still see some \u2013 probably getting some decline of maybe mid to single digits probably just to be careful on everything I think."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "18": {
+         "Remarks": [
+            "Okay. And then I guess some of that pressure, to your point, is from just higher liquidity levels."
+         ],
+         "Speaker": "David Rochester"
+      },
+      "19": {
+         "Remarks": [
+            "Higher liquidity levels is repricing of loans. And again, when we give you that, we\u2019re not showing any increase in loans. If we increase loans, that changes things. And if we buy some securities, which we\u2019ve been reluctant to do because they\u2019ve been so low, that changes things. So there\u2019s a lot of moving parts on this, this time than ever before for us I think."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "20": {
+         "Remarks": [
+            "That\u2019s right."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "21": {
+         "Remarks": [
+            "Understandable. I appreciate all that. And then just switching to expenses, just based on your comments on the cost savings, are you guys still feeling good about that previous expense guidance for \u2013 I think it was 115 to 116 for 4Q, or are you thinking you may come in a little bit higher than that?"
+         ],
+         "Speaker": "David Rochester"
+      },
+      "22": {
+         "Remarks": [
+            "Yes. I think we still believe that we\u2019re going to get $7 million to $9 million cost savings next few quarters. But remember, like in my notes, I said that we have elevated mortgage activities which have some expenses related to that. So with the current environment with the rate being so low, we see a lot of \u2013 getting new loans or mortgage loans. So that could keep up the volume which would increase the expenses. But if you look at our current expense for the second quarter, if you take out the one-time expenses and reduce that amount by 7 million to 9 million, that\u2019s what we believe is going to be on the next quarter."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "23": {
+         "Remarks": [
+            "What do you think about? 118 plus another 2 million --"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "24": {
+         "Remarks": [
+            "No. I think it will around 118, 119 including mortgage activity."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "25": {
+         "Remarks": [
+            "Okay. And that\u2019s for 3Q, the 118 to 119, all-in?"
+         ],
+         "Speaker": "David Rochester"
+      },
+      "26": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "27": {
+         "Remarks": [
+            "Assuming the mortgage level is going to continue as we saw in the second quarter."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "28": {
+         "Remarks": [
+            "Yes, got you. Maybe one last one on capital. You guys obviously have a lot of it and I\u2019m just curious how you\u2019re thinking about the buyback here, if you\u2019re hearing anything from the regulators on that front and if there\u2019s any willingness to reengage there at all?"
+         ],
+         "Speaker": "David Rochester"
+      },
+      "29": {
+         "Remarks": [
+            "I think right now we do have a lot of capital. We\u2019re making a lot of money. We like to milk money, no question about it. But I think that regulators at this point in time if I think that we bought back stock, we have no agreement with them. But I would think they would look at negatively if you\u2019re buying back stock right now until we see further what the pandemic is doing. So I don\u2019t see us buying stock back unless there\u2019s some really downturn in the stock, really strong or something like that. For the immediate future, I think it would be looked at \u2013 it would be frowned upon as they would say, I think, by the regulators if we bought some stock back right now probably."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "30": {
+         "Remarks": [
+            "Got it. All right, great. Thanks, guys. I appreciate it."
+         ],
+         "Speaker": "David Rochester"
+      },
+      "31": {
+         "Remarks": [
+            "Our next call comes from Jennifer Demba from SunTrust. Please go ahead with your questions."
+         ],
+         "Speaker": "Operator"
+      },
+      "32": {
+         "Remarks": [
+            "Thank you. Good morning."
+         ],
+         "Speaker": "Jennifer Demba"
+      },
+      "33": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "34": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "35": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "Charlotte Rasche"
+      },
+      "36": {
+         "Remarks": [
+            "A question for David. David, what do you see as the most stressed borrowers in your portfolio right now and what kind of business trends are they seeing right now, and what kind of loss content do you think could potentially arise in the next year or so?"
+         ],
+         "Speaker": "Jennifer Demba"
+      },
+      "37": {
+         "Remarks": [
+            "Well, those are all hard questions. Probably if you had asked me some time ago, we would have said the oil and gas department was the toughest. I think oil and gas, we\u2019re used to right now. I think the prices we were at were a lot better. I think we\u2019ve learned to live with that. Although having said that, from what they tell me at some of the meetings I\u2019m at is they still say that oil and gas companies, there\u2019s still a large amount of bankruptcies to come from that. I feel pretty good where we\u2019re at. I think the most stress that I would see looking at our portfolios, we have \u2013 again, I\u2019m talking off the top of my head, about 300 million in motel loans --"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "38": {
+         "Remarks": [
+            "380 million."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "39": {
+         "Remarks": [
+            "I think the businesses that are most affected by this pandemic are really the hotel, motel loans which we have about 380 million in that and then restaurant loans are about a little over 200 million. But again, we feel pretty good where we\u2019re at with most of our customers. I don\u2019t want to be Mr. Happy, but I don\u2019t want to be a downer either. I think that we have given some extensions I think that we extended or had forbearance on. Again, I\u2019m going to give you some numbers. I\u2019m going to let somebody else jump in just in a minute, but we extended about 6,700 loans. It\u2019s about 9.5% of our loans outstanding. On the other hand, at that 6,700, approximately 4,800 of those already started to being repaid. So don\u2019t take those for exact numbers. I\u2019ll let somebody give you the exact numbers. I\u2019m talking off the top of my head. But we really feel pretty good where we\u2019re at. Those loans that we charged off this quarter were probably \u2013 the $12.4 million of loans that came over due to the Legacy merger and we fully had reserved on those. In fact, we had $28 million reserved on that. So we were able to put another $16 million into the general reserve plus $10 million that we put. So I feel like we have a real good quarter. Again, I don\u2019t want to be a Pollyanna and say things are great, but I feel we\u2019re probably one of the best banks to be with, in these kind of times. And Kevin, you may want to jump in on some of the oil and gas, what\u2019s your feelings on that too."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "40": {
+         "Remarks": [
+            "Yes, I agree with David. If we look at stress areas, it\u2019s things to be on your top of mind. It\u2019s probably hotels, although I don\u2019t think we have any of them past due at the moment and I don\u2019t think we have any office buildings or retail centers past due either. Now some of those are in deferral periods and we could talk about that as a separate issue. On the oil and gas front, obviously the stress is less now with prices closer to $40 than it was and we saw single digit and worst kind of oil and gas numbers. Our portfolio continues to work its way down. If you just look quarter-over-quarter, the portfolio shrunk $80 million over the quarter. Unused commitments shrunk from, I don\u2019t know, 390 million to 277 million and that\u2019s largely due to redetermination time. So it was us cutting commitments at redetermination time and putting everybody on MCRs. A little over 54 million of that 80 million decline in oil and gas was from former Legacy clients that has marks on them, and that\u2019s where a lot of lost content we reported came from. Just in terms of loss content on that 54 million is about 18%, but we had close to 48% reserves up against that. So if you think about the reserve level prior, call the mark, that was put on this 18 months ago, it was pretty prescient of the Prosperity team to put big marks on that portfolio, because we had over $28 million of that $54 million was marked and we have loss content of about $12.5 million. So overall, I think the portfolio energy-wise is in good shape, a, because of the marks; b, because of the hedging; and c, because we continue to strike it down and we were pretty aggressive during the redetermination time about putting monthly commitment reductions in every deal. So I think we\u2019re managing the risks around that portfolio as good as could be expected."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "41": {
+         "Remarks": [
+            "Yes, and I would just say that \u2013 again, we have almost 1.9% in reserves when you exclude the PPP \u2013 again I\u2019m talking off the top of my head \u2013 and the mortgage warehouse. So we never really ever had that in reserve before. So I feel really good where we\u2019re at. And Tim, you wanted to comment too, didn\u2019t you?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "42": {
+         "Remarks": [
+            "I think I can maybe give a little help on the hotel and the restaurant question."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "43": {
+         "Remarks": [
+            "Go ahead."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "44": {
+         "Remarks": [
+            "Obviously, none of us can firmly predict the future. We can only talk about with certainty where we are today. But it\u2019s a lot better than one would probably think it would be. As of June 30, on the nonperforming assets list, we only had two hotels. H1 had a balance of about 7 million. So we had a total of about 14 million. One of them has already sold. So 7 million has come off the list and it\u2019s part of that number that I gave, that total number that\u2019s come off the list since the end of June. So there is only one remaining hotel in the nonperforming asset list, and it\u2019s got a balance of about 7 million and it\u2019s actually current right now. They\u2019ve resumed payments and they\u2019ve kept it current for a while. To be conservative, we left it on the list at the end of the quarter and we\u2019re going to watch it month by month going forward. But the good news is, it\u2019s current right now. There was only one restaurant on the nonperforming asset list at the end of the quarter and it had a relatively moderate balance of about $43,000. It happens to be SBA guaranteed and we\u2019ve already filed a claim with the SBA to get them to honor their obligation as it relates to that loan. If you look at the total hotel portfolio, about $52 million of that portfolio carries an SBA guarantee. And on the restaurant side, about little over 10 million of the portfolio carries an SBA guarantee. So right now, things are reasonably stable as it relates to our hotel/motel and restaurant loans that we\u2019ll just have to see how the future plays out."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "45": {
+         "Remarks": [
+            "And I would think \u2013 that\u2019s a good color, Tim. And I would say the restaurant loans, we really aren\u2019t doing a bunch of mom and pop restaurant loans. These are customers that have maybe 30 stores or franchises or something. They\u2019re usually bigger customers. So did we give you too much color, Jennifer?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "46": {
+         "Remarks": [
+            "Not at all. It was great. I have one more question on credit. And on one of your slides in your deck, it says \u2013 it just calls out medical loans. I\u2019m just curious, are you seeing any stress there or you just decided to strip that out for us?"
+         ],
+         "Speaker": "Jennifer Demba"
+      },
+      "47": {
+         "Remarks": [
+            "I\u2019d have to ask Cullen, but I didn\u2019t know. I didn\u2019t look at \u2013 but no, we\u2019re not seeing any stress in the medical side. I think it is something people have asked us \u2013 investors have asked us for a breakout and I just recently broke it out primarily."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "48": {
+         "Remarks": [
+            "Okay. Perfect. Thank you."
+         ],
+         "Speaker": "Jennifer Demba"
+      },
+      "49": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "50": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "51": {
+         "Remarks": [
+            "Our next question comes from Brad Milsaps from Piper Sandler. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "52": {
+         "Remarks": [
+            "Hi. Good morning."
+         ],
+         "Speaker": "Brad Milsaps"
+      },
+      "53": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "54": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "Charlotte Rasche"
+      },
+      "55": {
+         "Remarks": [
+            "Thanks for taking my questions. Just curious trying to figure out the impact of the PPP loans in the quarter. I was curious if you might be able to disclose the average balance and then the level of interest income that you, including fees and the coupon you recognized in the quarter, and any benefit maybe from FAS 91, deferred loan origination cost that might have been on expenses in the quarter?"
+         ],
+         "Speaker": "Brad Milsaps"
+      },
+      "56": {
+         "Remarks": [
+            "Yes. This is Asylbek. I\u2019ll give you a little bit color. So we recognized about $4 million on the fee income during the second quarter with about $2 million per month and we deferred all the fees, including fees \u2013 and deferred some direct expenses over 24 months. As you know, once those loans are going to get forgiven and pay off, we can recognize that income at that time. But for time being, it\u2019s on the deferral for the 24 months. I think on average, the average balance I believe for the second quarter was about 750 million or so on PPP loans. And if you calculate, including the 1% interest income, we\u2019re generating about 2.5% yield on those loans right now."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "57": {
+         "Remarks": [
+            "I think overall, Brad, we brought in around $50 million in fee income and probably had about $5 million or $6 million in expenses. So again, we\u2019ll amortize that over a 24-month period. But as those get forgiven, we\u2019ll probably \u2013 we\u2019ll bring it back into income right away. I think the average loan, you may be wrong on that, is 750 million. What\u2019s the average loan size about? $350 million?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "58": {
+         "Remarks": [
+            "Well, we booked 12,000 loans in round numbers."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "59": {
+         "Remarks": [
+            "What do you think, Eddie?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "60": {
+         "Remarks": [
+            "The average loan size is below $200,000."
+         ],
+         "Speaker": "Eddie Safady"
+      },
+      "61": {
+         "Remarks": [
+            "Below $200,000. So our average fee was \u2013 I will say our average fee was probably closer to around 3% probably or not?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "62": {
+         "Remarks": [
+            "It\u2019s about that."
+         ],
+         "Speaker": "Eddie Safady"
+      },
+      "63": {
+         "Remarks": [
+            "I think that if you\u2019re trying to get at where it is maybe --"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "64": {
+         "Remarks": [
+            "Yes, sorry. I wasn\u2019t giving the average balance for the quarter, but total PPP loans."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "65": {
+         "Remarks": [
+            "He may be right. I was just --"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "66": {
+         "Remarks": [
+            "Yes. We booked essentially a total of 1.430 billion and that was spread out over 12,000 loans in round numbers."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "67": {
+         "Remarks": [
+            "Yes, that\u2019s right."
+         ],
+         "Speaker": "Eddie Safady"
+      },
+      "68": {
+         "Remarks": [
+            "Did we get you what you need, Brad?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "69": {
+         "Remarks": [
+            "Yes, that was great. But just to be clear, Asylbek, the FAS 91 adjustment wasn\u2019t a huge number in the quarter and you still feel comfortable getting down to that kind of expense numbers you talked about earlier even with that adjustment?"
+         ],
+         "Speaker": "Brad Milsaps"
+      },
+      "70": {
+         "Remarks": [
+            "Yes. So those fees, the PPP fees, yes, we deferred it. All the direct expenses were also deferred. But it\u2019s part of the interest income part of it, the way how GAAP is done. So it\u2019s not going to be impacting our noninterest expense, Brad."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "71": {
+         "Remarks": [
+            "Got it. Okay. Thank you. And then just as a follow up maybe for Kevin. Obviously a great warehouse quarter. Kind of what\u2019s your crystal ball say over the next 90 days in terms of average? And also the yield was down there, maybe more than some of your peers. Just kind of curious, kind of thoughts on that competitive landscape and ability to hold on to pricing."
+         ],
+         "Speaker": "Brad Milsaps"
+      },
+      "72": {
+         "Remarks": [
+            "This is Kevin, Brad. I\u2019ll take that one. Obviously the quarter was really strong, averaging $1.843 billion I think and ending at much higher numbers, almost 2.6 billion. So that ending June month end balance gives us a great running start going into July because those balances carried on for much of the month. Based upon what we\u2019re hearing from our clients, we expect the end of this month to be really strong again and that comes to us by virtue of them asking for over lines or extending the facilities at larger levels to get them through this really robust period of time. What\u2019s particularly interesting to me is that the turn days, despite all that volume, the turn days which typically run for us and the industry at about 17 days only ran at 14 days this quarter. So when you think of that in terms of the amount of activity that have those level of balances with that quicker turn days, it\u2019s pretty remarkable. I\u2019ve been around this business a long time. And typically, we would average in a month \u2013 or the quarter 23,000 to 25,000 files and Q1 was a new record. We did 41,000 files and we did almost 82,000 files in Q2. So the amount of volume going through there is pretty high. And that volume does produce still off levels of fee income. We\u2019re collecting, I calculated this morning about $37 a file that we touch in fee income. So I think Q3 \u2013 and again, who knows beyond where we sit today, but if we\u2019re able to stay reasonably stable where they are, I think Q3 is going to be even stronger than Q2 was by \u2013 if we averaged 1.8 billion, I wouldn\u2019t be surprised if we average 2 billion or 2.1 billion for the quarter. We\u2019ll just see how it plays out from here; but all pretty strong. Finally on rates, I think rate pressure has kind of subsided I think finally and I would tell you that all of our loans have LIBOR floors in them. So everyone that we have \u2013 and we have 39 customers [ph] now has a LIBOR floor of LIBOR being 1%. So any moves in LIBOR from where we are now would impact pricing like it has in the past."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "73": {
+         "Remarks": [
+            "Great, that\u2019s helpful. Thank you, guys."
+         ],
+         "Speaker": "Brad Milsaps"
+      },
+      "74": {
+         "Remarks": [
+            "Thanks."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "75": {
+         "Remarks": [
+            "And our next question comes from Brady Gailey from KBW. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "76": {
+         "Remarks": [
+            "Hi. Thanks. Good morning, guys."
+         ],
+         "Speaker": "Brady Gailey"
+      },
+      "77": {
+         "Remarks": [
+            "Good morning, Brad."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "78": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "Charlotte Rasche"
+      },
+      "79": {
+         "Remarks": [
+            "I wanted to ask about the need or lack thereof of future provisioning. You had a zero provision last quarter, 10 million this quarter, but David as you said your reserves are almost 2%. I know you guys are known as having one of the cleanest loan books in the industry. So do you think that there will be a need for future provisioning just given how clean your book is and how strong the reserves are currently?"
+         ],
+         "Speaker": "Brady Gailey"
+      },
+      "80": {
+         "Remarks": [
+            "Well, this time, again, when I say this, something may go wrong, but even the $10 million provision that we made this time, under CECL or any other type of calculations that you have, you have a \u2013 you can either be at the high end, the mid end or the low end. And even to get the $10 million that we had this time we had to really try to be on the high end of our provisioning. So my gut feeling is unless something changes, I don\u2019t see us provisioning. I just don\u2019t see it right now. I\u2019m looking at Merle and the credit guys, they look to \u2013 they\u2019d always like to have everything in the world in there. But the bottom line is, again, I see us highly provisioned. When we do these stress tests, I remember where we had the DFAST test and even under a stress test, the most that you would lose over a two-year period \u2013 compared to what the stress test say, if they\u2019re right, I don\u2019t see it. Now the question is, what do regulators going forward through this pandemic or until we get some guidance to see what we have. But I think the 1.9% in our reserve for loan loss is too high for a bank like ours. Having said that, I think the regulators want to see that. I think our Chief Credit Officer wants to see that. But I think that $354 million that we have in there, I don\u2019t think we\u2019ve lost that since I\u2019ve been in banking. If you add all the years together, I\u2019d bet we haven\u2019t lost $100 million or $80 million and that\u2019s with some of the banks we\u2019ve bought. So God help us, I hope we don\u2019t get there. But in my lifetime, I\u2019ve never seen us getting close to we had in and what we would use. That\u2019s just me. But having said that, I know we have to be careful. We don\u2019t know when this will all end and when everything will open back up. But I don\u2019t know \u2013 I\u2019ll throw it out there. I don\u2019t see it. I think it\u2019s too much, but it is what it is and we have these calculations and we have to go with the calculations, and it\u2019s not just me running the bank. There\u2019s the credit people and the regulators and everybody else. But I think it\u2019s extremely hard really."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "81": {
+         "Remarks": [
+            "Well, where we are as an individual bank right now is relatively stable. Things are arguably a lot better than a lot of people would assume they would have been. But clearly there is a lot of instability in the economy out there. And our reserve is based on a lot of things. Obviously, a very important part of it is where we are as a bank but also there are economic factors that go in there, and a lot of those are not trending well right now for obvious reasons. So it\u2019s just very hard to say. I\u2019m inclined to agree with you, David. It\u2019s hard to imagine that our portfolio is going to fall apart overnight. But world is what it is and anything can happen."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "82": {
+         "Remarks": [
+            "Kevin, I don\u2019t know if you want to add to that at all?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "83": {
+         "Remarks": [
+            "No, I think you\u2019ve got it covered pretty well."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "84": {
+         "Remarks": [
+            "Okay. Brady, I don\u2019t know if I answered it but that\u2019s just our \u2013 the overall feelings about that."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "85": {
+         "Remarks": [
+            "Yes, no. That was great. And my second question is the 9.5% of loans that were modified, what is that as of today? And I\u2019m guessing that\u2019s come down some. Any idea how much of those initial modifications will need a second modification?"
+         ],
+         "Speaker": "Brady Gailey"
+      },
+      "86": {
+         "Remarks": [
+            "Well, I can give a little more certainty to that. Obviously, we can\u2019t give 100% certainty. As has been previously mentioned, we extended some payments on \u2013 to be precise, it was 6,727 loans. And the total aggregate outstanding balance of those loans together was $3.626 billion. And that\u2019s extending at least one month. Most of them were two or three months. There have been a few, not many, that has gone as far as four months being extended. But really the vast majority of those were two or three-month extensions. Out of that 6,727, 4,864 of those loans have already resumed making normal payments. And the aggregate total balance of those 4,864 that have resumed payments and are still paying, that balance is 2.283 billion. So how long those that have resumed payments continue to do so, obviously we can\u2019t say with certainty. But those customers are implying to us that they have reasonable stability in their business right now. We still continue to extend a payment here or there for a few customers, but not near as many as we did in April and May. So everything seems to have stabilized a bit, but obviously there are just no guarantees."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "87": {
+         "Remarks": [
+            "Yes. I think 4,800 loans resuming payments out of 6,727 loans that we extend is pretty good. I think that shows some pretty \u2013 it shows that our customers, the customers that we have are really good customers."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "88": {
+         "Remarks": [
+            "Great. Thanks, guys."
+         ],
+         "Speaker": "Brady Gailey"
+      },
+      "89": {
+         "Remarks": [
+            "Our next question comes from Ken Zerbe from Morgan Stanley. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "90": {
+         "Remarks": [
+            "Thanks. Were the PCD loans you guys took charge-offs on this quarter, were they sold in the quarter? I\u2019m just trying to figure out like how you also were able to release the $16 million of other reserves on those back into the general portfolio for general reserves."
+         ],
+         "Speaker": "Ken Zerbe"
+      },
+      "91": {
+         "Remarks": [
+            "The loans that were moved out of the bank were paid off."
+         ],
+         "Speaker": "Eddie Safady"
+      },
+      "92": {
+         "Remarks": [
+            "Got it, okay. And you took a charge on those --"
+         ],
+         "Speaker": "Ken Zerbe"
+      },
+      "93": {
+         "Remarks": [
+            "I\u2019m sorry."
+         ],
+         "Speaker": "Eddie Safady"
+      },
+      "94": {
+         "Remarks": [
+            "Got it, okay. And then I just want to make sure I got the math right on this. I understand, David, you certainly think the reserves are very high and you struggle to get the 10 million of provision. If you move to the $16 million of specific reserves into general reserves, is it a fair way of looking at it that your provision expense this quarter based on what your CECL model says, your CECL model says you should have booked a $26 million provision, but you have 16 million coming from the specific and then 10 million is coming from regular provisions?"
+         ],
+         "Speaker": "Ken Zerbe"
+      },
+      "95": {
+         "Remarks": [
+            "You\u2019re hitting the nail on the head, I think. We actually put $26 million into the general reserve this month, basically."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "96": {
+         "Remarks": [
+            "But you have a wide range in there and we were at the upper end of that range. If he\u2019s asking, would we have been required to put $26 million in there if we hadn\u2019t got that?"
+         ],
+         "Speaker": "Eddie Safady"
+      },
+      "97": {
+         "Remarks": [
+            "No, that\u2019s wrong. I see what you\u2019re saying. No, we took the upper range of what we could be in and so basically \u2013 but the bottom line is, technically we increased the general reserve by $26 million this quarter, basically."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "98": {
+         "Remarks": [
+            "Got it."
+         ],
+         "Speaker": "Ken Zerbe"
+      },
+      "99": {
+         "Remarks": [
+            "Because of the 28 million we had in reserve and what we collected, we\u2019ve \u2013 actually there were $16 million in more specific reserve that in the old days, that $16 million \u2013 before you had this new accounting, that $16 million would have come through the income statement. Now it doesn\u2019t. It used to be called SOP 303 or something like that. In today\u2019s world, it doesn\u2019t come through the income statement. It goes directly \u2013 well, I guess if we wouldn\u2019t have added to the other reserve, it might have but we put it to the reserves, the general reserves."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "100": {
+         "Remarks": [
+            "But it doesn\u2019t automatically go into income the way it used to."
+         ],
+         "Speaker": "Eddie Safady"
+      },
+      "101": {
+         "Remarks": [
+            "No. I guess \u2013 I\u2019m trying to put it from a technical standpoint. I\u2019m learning something myself I guess. If we were to just [indiscernible] that we couldn\u2019t put that 16 million into the general reserve, I guess that might have been pulled back into the income statement, I guess."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "102": {
+         "Remarks": [
+            "Technically on the old ways, you would take that 16 million as SOP 03 fair value income and technically it\u2019s a model we decided not to go with the upper end. You could technically take it as a provision income because once it releases, you could take a provision income. But based on the model and our discussion, we believe that just leaving it as general reserve was more appropriate."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "103": {
+         "Remarks": [
+            "It wouldn\u2019t be prudent in today\u2019s world to bring something back into income, I don\u2019t think, with the pandemic and not knowing where everything is going to eventually settle out at, I don\u2019t think."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "104": {
+         "Remarks": [
+            "Yes, but in perfect world, you technically should have taken --"
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "105": {
+         "Remarks": [
+            "In a perfect world, if we weren\u2019t in a pandemic and all that, we probably wouldn\u2019t have even put the 10 million in and we might have even take the 16 million back into --"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "106": {
+         "Remarks": [
+            "As a provision income."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "107": {
+         "Remarks": [
+            "Okay. And then just last question just in terms of fee income, are you seeing any rebound in deposit service charges? And also just more broadly, like how do you see fee income trending over the next quarter or two?"
+         ],
+         "Speaker": "Ken Zerbe"
+      },
+      "108": {
+         "Remarks": [
+            "You can jump in. I have seen this last month. Finally our service charges picked up over $1 million this last month, just general overall service charges. You were going to say something?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "109": {
+         "Remarks": [
+            "No, that\u2019s exactly. Because those fee income we saw down in the April and May month and we saw some bounce back in June. So if we continue that way, I believe the fee income will go up. So you are right, Mr. Zalman."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "110": {
+         "Remarks": [
+            "Yes. I think as the economy opens up \u2013 really the service charge income and people really just weren\u2019t spending money. They\u2019re saving money and they\u2019re not doing things. But I think we did see this last month, I saw that the service charge income did grow pretty good, $1 million or so."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "111": {
+         "Remarks": [
+            "Just one wildcard I would just throw out there. We just have to be conscious that there is a second stimulus package they are talking about passing it. So if they\u2019re going to give the stimulus money to people, they all have access liquidity there too that could impact, but it\u2019s just a wildcard."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "112": {
+         "Remarks": [
+            "Yes. And I think you could see another round of big deposits come in, probably increase this quarter with the stimulus package and all that, you probably could."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "113": {
+         "Remarks": [
+            "You also have to take into consideration that during the worst of it for us, which were the months of April and May, we specifically waived a number of service charges for customers to help them out."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "114": {
+         "Remarks": [
+            "That\u2019s a good point, Mr. Tim."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "115": {
+         "Remarks": [
+            "And we\u2019re not seeing the necessity right now to do as much of that."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "116": {
+         "Remarks": [
+            "I forgot, but that\u2019s a good point. A lot of \u2013 some of that decrease was because we waived service charges."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "117": {
+         "Remarks": [
+            "We purposely waived the service charges for a number of customers to help them out. And the necessity for that of course could come back, but right now we\u2019re not seeing it. So I think that by itself is going to create some addition compared to where we were during this last quarter."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "118": {
+         "Remarks": [
+            "All right. Perfect. Thank you."
+         ],
+         "Speaker": "Ken Zerbe"
+      },
+      "119": {
+         "Remarks": [
+            "Thank you."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "120": {
+         "Remarks": [
+            "And our next question comes from Peter Winter from Wedbush. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "121": {
+         "Remarks": [
+            "Good morning. I wanted to ask about the loan trends \u2013 the core loan trends. I was just curious how much is left in terms of the runoff of Legacy. And then secondarily, what\u2019s the loan demand like in the core portfolio, ex the mortgage warehouse?"
+         ],
+         "Speaker": "Peter Winter"
+      },
+      "122": {
+         "Remarks": [
+            "Okay. I\u2019m trying to read my notes here that they wrote for me. But I think we started off with about 400 million in loans. I think we started around 400 million in loans from Legacy that we decided that we thought that we would try to outsource out of the banks. I think so far, we\u2019ve moved out in the first quarter and the second quarter about $131 million of those loans. So still about 283 million left there, so we\u2019ll have to get through that. But as far as loans go, again, we had tremendous growth in the PPP. We had tremendous growth in the mortgage warehouse. We actually saw a decrease. I think if you looked in our core loans this quarter, I think I\u2019ve said \u2013 I\u2019m talking off the top of my head again, so forgive me if I\u2019m wrong, but around 311 million, 312 million less in core loans. And out of those core loans, I would say that about 65 million of that was really made up of these loans that we talked about earlier that we got out of them. We had some recoveries on them. So that was about 65 million. And I would say probably just some of the other loans from Legacy, the merger in the CRE product. We\u2019re not putting on as many of those particular loans. Naturally, in this type of economy doing commercial real estate on the retail side, it\u2019s not something we would jump in. So having said that, if you look just at core loans, I think you were down about \u2013 if you take out the 65 million, I think that was about 1.6% and of course you\u2019d have to annualize that. The 1.6% for the quarter, we were down. Really when I look at everybody else, that was considered pretty good. I think going forward, to give a number of loan growth going forward, I think it\u2019s hard, like I said before. The shutdowns \u2013 we were having great growth both in the first quarter and first part of the second quarter. As the shutdowns came, we saw things contract. So with us having to get out of still a couple hundred million dollars in loans, $280 million in loans at Legacy and looking at the pandemic where it\u2019s at, I would have to forecast that probably the best you could hope for, for us would probably be anywhere from a 0% to 3% growth rate this time, I think. That\u2019s just me talking. If somebody else may want to jump in? Kevin, you want to jump in on that?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "123": {
+         "Remarks": [
+            "David, I agree across the board. We\u2019re still seeing deals and loan committee every Thursday. Some new things are getting approved, but I think you can all understand it\u2019s a really tough time to underwrite a loan. The retail center comes in and what you do? How many of these people are paying and how many of these people are going to be able to continue to pay and how many are being deferred? Same on the commercial office building, what\u2019s the future of commercial office buildings? I don\u2019t think we \u2013 it would have to be a pretty spectacular amount of equity and a really strong guarantor to do a retail deal or a commercial office building deal. That\u2019s an already constructed office building. Forget new construction for the most part, unless it\u2019s again a really, really unusual situation. It\u2019s just \u2013 I want and like to say it\u2019s a really tough time for underwriting. On the other hand, I can tell you it\u2019s really easy. There is a lot of things we\u2019re just not going to touch during this period of time. So while loans shrunk, I guess the $312 million number and a good portion of that, it was running off of some stuff out of the Legacy portfolio we didn\u2019t want to keep. It\u2019s going to be tough in this environment and I\u2019m not worried about not producing loan growth right now. I\u2019d like to see a little more clarity as to what underwriting looks like across the board. I think we all would before we feel better about producing a whole lot of loan growth."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "124": {
+         "Remarks": [
+            "I think that\u2019s right. And I think also you could say the loans that we\u2019re looking at now, if you\u2019re coming to us for a multifamily project or an office building where we might have been willing to get 40% down \u2013 35% or 40% down in the past and go with somebody to lease it, we\u2019re probably going to ask for some guarantee support and other global support more than just the project itself. So I think your underwriting, we\u2019re toughening it up right now. We\u2019ll lose it if things turn around, but right now we\u2019re able to get a little bit better comfort if we\u2019re doing stuff we\u2019re able to get a little bit better collateral support and guarantor support I think."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "125": {
+         "Remarks": [
+            "The only sector really that doesn\u2019t appear to slow down a bit is homebuilding. Most of our homebuilders are still selling their houses and building their houses. We haven\u2019t seen a big drop in demand from our homebuilders."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "126": {
+         "Remarks": [
+            "Good point."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "127": {
+         "Remarks": [
+            "But everything else has slowed a bit. Not a screeching halt, but has slowed a bit. And we had already slowed our approach to apartments and office buildings before the virus \u2013 anybody ever knew anything about it."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "128": {
+         "Remarks": [
+            "I think that\u2019s right. So there should be an opportunity for us where other banks that are having loan issues, they\u2019re not going to be willing to do anything. I don\u2019t think. Where us, I think that we can be more optimistic on something and maybe we can get better terms, we may be able to do it where some of the other banks can\u2019t, at least we have in the past."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "129": {
+         "Remarks": [
+            "In the past, that\u2019s exactly been the case. When things have gotten bad, especially really bad and other banks have been crippled and found themselves in a position of really being unable to loan, we\u2019ve been able to get some customers in. They are good customers, because they can\u2019t find financing the way they have wanted it in the past. And our conservative terms become more acceptable to them. So it has worked that way almost every time."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "130": {
+         "Remarks": [
+            "Did we answer, Peter?"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "131": {
+         "Remarks": [
+            "Yes, above and beyond. That\u2019s very helpful. Just a follow-up question on earning asset yields. Can you talk about how much is cash flowing in the securities portfolio in which you\u2019re reinvesting that rate at? And then secondarily, the yield is still fairly high on the loans held for investment. I\u2019m just wondering what the new loans or reinvestments are going on, on the loan portfolio as well."
+         ],
+         "Speaker": "Peter Winter"
+      },
+      "132": {
+         "Remarks": [
+            "I\u2019m going to start from the top of my head. Again, I\u2019m not reading from anything. But again, we haven\u2019t been buying any securities. Most of \u2013 we\u2019ve let all of our borrowings run out and we\u2019ve taken that money and really just funded the mortgage warehouse deal now. We\u2019re having some liquidity right now. We still haven\u2019t bought anything, probably about 400 million, 500 million. We\u2019ll probably go in and buy some security that will probably be a mixture of some floating rate stuff with some 15-year in mortgage-backed security. It will be somewhere in between. But as Kevin mentioned earlier, we hope that some of the liquidity is going to be taken up by the mortgage warehouse financing toward the end of the quarter here or in the next few months. But we\u2019ll probably still have to buy some. But again, we\u2019ve been letting it run off. I think, gosh, I\u2019m talking from the top of my head, but we have probably over $1 billion a year that runs off --"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "133": {
+         "Remarks": [
+            "Our annual cash flow right now is projected about 2.3 billion."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "134": {
+         "Remarks": [
+            "It\u2019s going up."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "135": {
+         "Remarks": [
+            "Yes, it\u2019s going up significantly because all the refinances and a new mortgage. But yes, for the second quarter, we didn\u2019t buy any of those securities. We used all the money toward the warehouse and paying down the borrowings. But now we\u2019ll be looking into the --"
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "136": {
+         "Remarks": [
+            "I think we\u2019ll be forced to buy some securities this quarter probably. Again, I don\u2019t know if that will be 300 million or 500 million, but we\u2019ll probably be forced to do something like that."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "137": {
+         "Remarks": [
+            "And on the yield question, on the average, I\u2019d say most of the new loans we\u2019re booking now are about 4%. That\u2019s about where we are."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "138": {
+         "Remarks": [
+            "I think the fixed rate will probably get a little bit better."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "139": {
+         "Remarks": [
+            "Yes, I\u2019m just saying across the board."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "140": {
+         "Remarks": [
+            "Yes, across the board."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "141": {
+         "Remarks": [
+            "Across the board. That\u2019s pretty close to being what it would be."
+         ],
+         "Speaker": "Tim Timanus"
+      },
+      "142": {
+         "Remarks": [
+            "Okay, great. Thanks for taking my questions."
+         ],
+         "Speaker": "Peter Winter"
+      },
+      "143": {
+         "Remarks": [
+            "Sure. Thanks."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "144": {
+         "Remarks": [
+            "And our next question comes from Michael Rose from Raymond James. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "145": {
+         "Remarks": [
+            "Hi, guys. The two loans that were \u2013 the PCD loans, were they \u2013 I\u2019m sorry if I missed it, were they energy loans?"
+         ],
+         "Speaker": "Michael Rose"
+      },
+      "146": {
+         "Remarks": [
+            "It\u2019s more than two loans, but yes they were energy loans."
+         ],
+         "Speaker": "Asylbek Osmonov"
+      },
+      "147": {
+         "Remarks": [
+            "Yes, Michael, I think it was four loans totaling $54 million roughly."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "148": {
+         "Remarks": [
+            "That\u2019s correct."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "149": {
+         "Remarks": [
+            "Okay. So what was the haircut and what you guys sold then [ph]?"
+         ],
+         "Speaker": "Michael Rose"
+      },
+      "150": {
+         "Remarks": [
+            "I\u2019m sorry. It was 18% discount off the principal balance, whereas we had about 48% or 40% specific reserves up against them."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "151": {
+         "Remarks": [
+            "Okay. Thank you. Kevin, what\u2019s the go-forward outlook for the energy business for you guys? I know it\u2019s obviously a bigger piece at Legacy. But given that things have changed, is it still a business that Prosperity has a real interest in being in any sort of size or capacity?"
+         ],
+         "Speaker": "Michael Rose"
+      },
+      "152": {
+         "Remarks": [
+            "Yes, I should take that to David. But I would say our position is cautious. We\u2019re in Texas. So I think our intention is to remain in the business to stick to our knitting in terms of underwriting. And now that we\u2019ve gone through a redetermination period under the Prosperity loan policy, all of the Legacy loans are now more conforming with Prosperity loan policy in terms of advance rates and how we do engineering and things like that. The portfolio will probably continue to shrink, Michael, before it gets any bigger because we\u2019re being particularly cautious right now, and I think we\u2019ll remain that way. But I don\u2019t see us as a Texas bank exiting the business. But we\u2019ve got a little over 3% -- between 3% and 4% of our total loan assets and that\u2019s probably not a bad place to be, maybe a shade lower than that in the near term."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "153": {
+         "Remarks": [
+            "Okay. And maybe just one for --"
+         ],
+         "Speaker": "Michael Rose"
+      },
+      "154": {
+         "Remarks": [
+            "I\u2019ve asked David to weigh in on that."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "155": {
+         "Remarks": [
+            "Yes, I agree with everything you\u2019re saying. I think when Kevin and I first off put these deals together, I think Kevin said didn\u2019t care if we ever in the oil and gas business again. And I said, well, we are in Texas and we will be in the oil and gas business. I think it will just be difference \u2013 it will be a difference in underwriting. And again, I think probably not as many deals with shared credits and private equity and stuff like that. It will be to \u2013 the oil and gas fields will be primarily more to core customers that can show in underwriting whatever they buy that that particular deal can pay itself back in four or five years. And that\u2019s the way we would structure it, basically."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "156": {
+         "Remarks": [
+            "Okay, that\u2019s helpful. Maybe one final one for you, David. We\u2019re 90 days past the last earnings call. We\u2019re past the conversion for the Legacy deal. What have you learned at this point and has your views on potential M&A partners changed just given what you\u2019ve learned maybe in the past 90 days? Thanks."
+         ],
+         "Speaker": "Michael Rose"
+      },
+      "157": {
+         "Remarks": [
+            "Yes, I\u2019m back in love again with M&A after our bromance with Kevin. He may not be e in bromance with me, I don\u2019t know, his back\u2019s hurting right now today but --"
+         ],
+         "Speaker": "David Zalman"
+      },
+      "158": {
+         "Remarks": [
+            "I still love you, David."
+         ],
+         "Speaker": "Kevin Hanigan"
+      },
+      "159": {
+         "Remarks": [
+            "Okay, good. This has been great. I lost some of the love of M&A after one of the deals that we did. It just \u2013 everything that was said was just kind of the opposite. But this has been really good. And not only Kevin, his team. When I talked with the team, I really couldn\u2019t tell would we really be interested in this mortgage warehouse and it\u2019s really turned out, it\u2019s really felt a great need with interest rates going as low as they have. Having the option of doing this and I feel better with it, because I feel good with their team. Their team, the mortgage warehouse team, really knows what they\u2019re doing and I have a lot of confidence in them. So I really feel good with that piece of the business. And really almost everybody that I\u2019ve worked with at Legacy, all the people are very professional, very astute. I think they are \u2013 I couldn\u2019t be more pleased, let me just say that."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "160": {
+         "Remarks": [
+            "And going forward, any updated views on M&A for you guys?"
+         ],
+         "Speaker": "Michael Rose"
+      },
+      "161": {
+         "Remarks": [
+            "Yes. I think I mentioned that M&A probably right now where we\u2019ve had a lot of calling in the past when things are good. Everybody\u2019s called \u2013 not everybody, but usually we have two or three deals working at any given time. That\u2019s probably not the case right now. But having said that, generally what happens in times like this is generally we get a deal that we would never have been counted on. It\u2019s a deal that somebody has some issues and they have to get out of it, and I wouldn\u2019t be surprised if we get \u2013 a lot of it depends on this pandemic and how long it lasts, but I wouldn\u2019t be surprised if something like that comes to us. And we\u2019ve had deals. Even some really good deals come to us right now. But again, the price that they want right now would be \u2013 and where they\u2019re located wouldn\u2019t be what we want to do exactly right now."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "162": {
+         "Remarks": [
+            "Great. Thanks for taking my questions."
+         ],
+         "Speaker": "Michael Rose"
+      },
+      "163": {
+         "Remarks": [
+            "Sure."
+         ],
+         "Speaker": "David Zalman"
+      },
+      "164": {
+         "Remarks": [
+            "And ladies and gentlemen, at this time we\u2019ll end today\u2019s question-and-answer session. I\u2019d like to turn the conference call back over for any closing remarks."
+         ],
+         "Speaker": "Operator"
+      },
+      "165": {
+         "Remarks": [
+            "Thank you, Jamie. Thank you, ladies and gentlemen, for taking the time to participate in our call today. We appreciate the support that we get for our company and we will continue to work on building shareholder value."
+         ],
+         "Speaker": "Charlotte Rasche"
+      },
+      "166": {
+         "Remarks": [
+            "Ladies and gentlemen, with that we\u2019ll conclude today\u2019s conference call. We do thank you for joining. You may now disconnect your lines."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

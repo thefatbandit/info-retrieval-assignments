@@ -1,0 +1,515 @@
+{
+   "Date": "July 28, 2020",
+   "Presentation": {
+      "Ken Levy": [
+         "Thank you, Jamie. Good morning, and welcome to Iridium\u2019s second quarter 2020 earnings call. Joining me on this morning\u2019s call are our CEO, Matt Desch; and our CFO, Tom Fitzpatrick. Today\u2019s call will begin with a discussion of our Q2 results followed by Q&A. I trust you\u2019ve had the opportunity to review this morning\u2019s earnings release, which is available in the Investor Relations section of Iridium\u2019s website.",
+         "Before I turn things over to Matt, I\u2019d like to caution all participants that our call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that are not historical facts and include statements about our future expectations, plans and prospects. Such forward-looking statements are based upon our current beliefs and expectations, and are subject to risks which could cause actual results to differ from forward-looking statements. Such risks are more fully discussed in our filing with the Securities and Exchange Commission. Our remarks today should be considered in light of such risks.",
+         "Forward-looking statements presented \u2013 represent our views only as of today, and while we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so even if our views or expectations change. During the call, we\u2019ll also be referring to certain non-GAAP financial measures, including operational EBITDA and pro forma free cash flow, free cash flow yield and free cash flow conversion. These non-GAAP financial measures are not prepared in accordance with Generally Accepted Accounting Principles. Please refer to today\u2019s earnings release on the Investor Relations web section for further explanation of our non-GAAP financial measures and a reconciliation to the most directly comparable GAAP measures.",
+         "With that, let me turn things over to Matt."
+      ],
+      "Matt Desch": [
+         "Thanks, Ken. Good morning, everyone. We\u2019re all clear that 2020 will be defined by the coronavirus. While this global pandemic continues to create uncertainty for many industries and Iridium has felt the effects too, we are fortunate to operate a wholesale business and provide mission critical services that remain pretty resilient. Since the initial period following the lockdowns in mid-March, we have seen sequential monthly improvement in our business lines. Subscriber growth in May was better than April, and June was better than May, and this trend has now continued into July.",
+         "Overall results in the second quarter were flat compared to last year, which frankly a good outcome given where the quarter began. During the past three months, we\u2019ve also started to get improved visibility across our partners\u2019 channels to better assess what we think the full year impact of the coronavirus will be on our business. This improved visibility, gives us confidence in revising our full year outlook for service revenue and operational EBITDA. Perhaps most important in the current climate, we have maintained our ability to generate strong free cash flow and continue to deliver our balance sheet, which means our long-term investment thesis remains intact.",
+         "As I highlighted last quarter, the impact of the global lockdown was most pronounced in our commercial IoT business. This segment spans a variety of different industries and user types, and into the second quarter the pandemic continued away, particularly hard on our aviation partners and to a lesser extent partner activities in oil and gas. The decline in aviation flight hours means that IoT transmissions for cockpit safety services is running below normal seasonal trends. Aireon is measuring the global air traffic, has recovered almost 50% of the global movement since January, but the international flights that Iridium primarily serves are recovering more slowly. While their data is showing week by week recovery in traffic, most industry analysts still anticipate of relatively slow recovery in aviation, which means the current environment will likely persist for the remainder of the year and into 2021.",
+         "On a positive note, we\u2019ve seen a bounce back in consumer oriented IoT services, coinciding with the reopening of many retail stores in the second quarter and the desire of many to seek out remote activities. This has revived sales and use of devices like Garmin\u2019s inReach, and other personal communicators, like the new satellite communicator from Zoleo, Somewear Labs\u2019 Global Hotspot and Bivy Stick. In the second quarter, Iridium added 33,000 net new IoT subscribers, predominantly consumer-oriented subs with activations in June being the strongest month by far.",
+         "In our legacy voice business, we expressed concern in April that COVID disruptions would restrain activations during our peak selling season, which it has. Fortunately, the headwind has not been as great as we originally forecast. Based on the trends we saw through April, we had anticipated of a decline of more than 5,000 net voice subscribers in the quarter, but the decline has turned out to be only about a 2,000, which is encouraging. As we said last quarter, the problem hasn\u2019t been customer deactivations, it\u2019s been fewer customers activating new or reactivating existing devices for their typical summer activities, but there seems to be more of that as activities are slowly opening up again around the world. Now that we\u2019re halfway through our peak selling season, we\u2019re getting better visibility on usage trends.",
+         "Within maritime, the slowdown in shipping activity persists with a reduction in routes and ongoing logistical challenge of getting installation crews on vessels. Abundance of caution not to expose ships into their crew to the coronavirus, many vessels have remained in lockdown, making it difficult for our partners to access vessels to install new equipment already purchased as well as meet with ship owners on the procurement of new services.",
+         "Even in the current environment, we\u2019re not sitting idly by. We\u2019ve been engaging with our partners and been proactive with promotions and messaging. Many of our partners are attracting attention with deal featuring Iridium Certus, a VSAT companion service. We also have been supporting mariners and ship owners with access to some free voice calling cards for their crew to allow them to connect with family and friends during a particularly stressful time away. We\u2019ll also demonstrate in the enhanced voice quality of our new network. Even with the challenges in maritime, we were able to drive positive net installations of broadband terminals and a 15% increase in year-over-year broadband revenue. Overall, Iridium Certus remains an important vehicle for growth for us and we received great feedback on the product from those using that.",
+         "In the coming months, we\u2019re expecting Iridium\u2019s new GMDSS service will also launch. It\u2019s entering final beta trial soon on a number of ships around the world, connecting them in an emergency to regional rescue coordination centers, as well as critical navigation weather information sources. Our partners are excited about this offering as it targets a 65,000 SOLAS class vessels that are required to carry GMDSS, but have traditionally only had one supplier. Iridium\u2019s GMDSS is being offered as a standalone terminal initially, though we\u2019ll start the integration with Iridium Certus in 2021, and when complete, should serve as an additional tailwind to the adoption of Iridium Certus broadband.",
+         "We\u2019re also expecting a new high speed Certus broadband terminal from Korean manufacturing, Tealium, this quarter, which is a great maritime brand that many partners are looking forward to having access to. We\u2019re also introducing some new IoT products soon. Our new Iridium Edge Pro and the Iridium Edge Solar will make developing IoT services using Iridium\u2019s network easier and faster, as well as compliment the new Iridium cloud connect service powered by AWS, which is already in use by a number of our partners. With continued recovery from global lockdowns, we expect 2021 to start the recovery to more traditional IoT growth rates.",
+         "We are making progress on delivering Iridium Certus aviation products in 2021 and 2022. Our first terminal partners has started to test their products on our network and we\u2019re making progress on the regulatory front towards FAA certification for safety services on Iridium Certus to complement our existing legacy safety products. We remain excited about the aviation segment and its future contribution to broadband revenues in the coming years.",
+         "Our business with the U.S. government, particularly under the new EMSS contract remains largely unaffected by the pandemic. We continue to work with the government on upgrades to their dedicated gateway, to enable private Iridium Certus services, as well as other engineering upgrades and maintenance they pay us to do. We had some subscriber cleanup and some internal logistical activities with the transition to U.S. Space Command that netted out a roughly flat subscriber number in the second quarter, but that doesn\u2019t affect revenues with our fixed price contract and activity with the U.S. government remains at historically high levels overall.",
+         "Lastly, Aireon; obviously global air travel has taken a big hit with the pandemic, and that has affected the pace of Aireon\u2019s sales activities with new ANSPs. Overall, though, they are continuing to make progress on their business objectives. Aireon\u2019s data services are now being used and deployed by ANSPs covering 37 countries, including growing usage by the FAA. They are also seeing some initial success with selling their data for other commercial purposes like flow management, airport service surveillance and airfield management solutions. You might have seen their announcement a couple of weeks ago with PASSUR Aerospace on that front.",
+         "So while Iridium is certainly not immune to the effects of global pandemic, we continue to execute well in this challenging environment. We\u2019re managing our business effectively, making strong progress on product development, prioritizing growth and investing in the future. In a year of extraordinary business headwinds and global uncertainty, Iridium is adding net new subscribers, driving incremental revenue growth and most importantly generating significant free cash flow.",
+         "So with that, I\u2019ll turn it over to Tom for a review of our financials. Tom?"
+      ],
+      "Operator": [
+         "Good morning and welcome to the Iridium Communications\u2019 Second Quarter Earnings Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today\u2019s presentation, there will be an opportunity to ask questions. Please also note today\u2019s event is being recorded.",
+         "At this time, I\u2019d like to turn the conference call over to Ken Levy, VP of Investor Relations. Sir, please go ahead."
+      ],
+      "Tom Fitzpatrick": [
+         "Thanks, Matt. And good morning, everyone I\u2019ll get started by summarizing our key financial metrics for the quarter and providing some color on the trends we\u2019re seeing in our business lines. Then I\u2019ll recap, the 2020 guidance we updated this morning and close with the review of our liquidity position and capital structure.",
+         "Iridium generated total revenue of $140.2 million in the second quarter, which was 2% lower than last year\u2019s comparable quarter. This decline was primarily attributable to softness in subscriber equipment sales related to COVID-19 as well as the episodic nature of engineering and support revenue. Operational EBITDA was $85.3 million, which was up modestly from the prior year\u2019s quarter. On the commercial side of our business, we reported service revenue of $88.4 million in the second quarter which was 2% higher than a year ago. This increase primarily reflected strong growth in hosted payload revenue, which more than offset decline in revenue in our voice and IoT businesses.",
+         "During the quarter voice and data revenue fell 3%. This decrease was predominantly driven by a fall in seasonal activations attributable to the current pandemic and it\u2019s consistent with our observations from late April. We saw a net decrease of 2,000 subscribers on a sequential quarter basis, whereas last year we reported a gain of 10,000 subs in the second quarter. As Matt noted, this was better than our expectations given results through our call \u2013 last call on April.",
+         "Commercial IoT also felt the impact of the pandemic in the second quarter with revenue declining 5% to $22.6 million. The closure of retail outlets resulted in a slowdown in activations for much of the quarter. If not for the channels reopening in June and our record surge in activations Iridium not have achieved 20% increase in billable subscribers for the quarter to 863,000. As we noted in April, usage of IoT devices, particularly in aviation, and oil and gas have slowed as planes have been grounded and oil production, halted. These subscribers who are characterized by their ARPUs and high usage plans will continue to weigh on IoT revenue growth this year. In June, we saw a meaningful increase in the activation of personal communication devices. Though, it\u2019s too early for us to call this a trend it remains an encouraging sign.",
+         "Continuing onto commercial broadband, which we began to break out in our financial statements already this year, we reported revenue of $8.5 million in the second quarter up 15% from the year ago period. While positive these results are much less than our expectations given the disruption in the industry due to COVID-19. The good news is that the channel is happy with the performance of our broadband offering and we are confident that Iridium Certus will provide a long-term source of subscriber and revenue growth.",
+         "During the second quarter, we added 31,000 net new commercial subscribers with the increase heavily weighted toward IoT. Commercial IoT data subscribers now represent 71% of billable commercial subscribers up from 66% in the year ago period. Hosting and other data services revenues increased to $15.4 million in this quarter, up 29% from the comparable quarter in 2019. The majority of this increase was due to higher data service revenues associated with the step-up in Aireon\u2019s data service agreement with Iridium. However, there was also a true up about $1 million related to Harris due to observed usage patterns. We continue to forecast normalized revenue from hosted payloads of about 47 million per year.",
+         "Turning to our Government Service business, we reported revenue of $25 million in the second quarter up from $24.5 million in the prior year quarter represented a 2% rise. This increase was due to the contractual terms with the new EMSS contract, which we entered into last September. At the end of the second quarter, government subscribers were up 11% year-over-year to 139,000. Given the all you can eat nature of the EMSS contract this sub-movement during the quarter has no impact on contractual EMSS revenue.",
+         "The coronavirus pandemic has impacted a number of the industries that we support, which means it is also weighing on our equipment orders. They\u2019re down from a year ago, equipment sales are trending better than we forecasted in April. In the second quarter, we reported $19.8 million in revenue from equipment sales with equipment margin a bit lower than a year ago at 39%. We continue to anticipate a slowdown in equipment sales for the full year 2020 their results will likely be less severe than we expected at the time of our last call.",
+         "Engineering and support revenue was $7 million in the second quarter, compared to $8.9 million in the prior year\u2019s quarter. The change reflects the episodic nature of engineering spending. With the full quarter of results to reflect upon since COVID-19 struck the U.S. economy, Iridium has a much better handle on how the global pandemic is impacting its partners and subscribers. While we continue to feel the economic impact of the corona virus, we\u2019re now more comfortable assessing its impact in our business. Accordingly, we are updating our full year guidance for 2020 to reflect this information and the trends we see through year end.",
+         "We now expect that EBITDA will be approximately 340 million in 2020, predicated on total service revenue growth between 1% and 2%. This full year outlook reflects a modest stabilization in our voice and IoT businesses, following the initial shock of the coronavirus pandemic in mid-March and April. We continue to expect both lines of business to be down year-over-year.",
+         "Moving to our capital position, Iridium had cash and cash equivalents balance of approximately 119 million as of June 30th. We continue to forecast maintenance CapEx costs will average approximately 35 million a year for the next 10 years. Free cash flow provides a very useful benchmark for the health and earnings power of our company, perhaps even more so in the current environment. We believe that our growing cash flow is an indication of the health of Iridium\u2019s business and on this basis Iridium stacks up well against other communications infrastructure companies.",
+         "Based on the quarterly results we announced today and our updated outlook for EBITDA this year, we believe Iridium will generate pro forma free cash flow of approximately 185 million for the full year 2020 compared to pro forma free cash flow of 168 million in 2019.",
+         "For illustrative purposes consider the following, if we start with EBITDA of 340 million and subtract 90 million in pro forma net interest to reflect our new debt structure, 35 million for CapEx and 30 million in working capital, inclusive of the appropriate hosted payload adjustment, 2020\u2019s pro forma free cash flow support the conversion rate in excess of 50% and a dividend yield approaching 6%. This is indicative of the underlying strength of our core business. As in the past couple of quarters, we\u2019ve provided supplemental information on the Investor Relations section of our website laying out these pro forma free cash flow calculations. Iridium closed the second quarter with leverage at 4.4 times EBITDA and based upon guidance revisions, expects to exit 2020 with net leverage of approximately 4.3 times EBITDA.",
+         "Before I conclude my remarks, I\u2019d like to provide an update on Aireon\u2019s financial expectations with regard to Iridium in-light of COVID\u2019s ongoing impact on aviation. Aireon had expected to be cash flow positive in 2020, certain of its customers contracts are variable in nature, and expand and contract with air traffic volumes. Aireon\u2019s revenues have contracted with the material decrease in air traffic volumes since the beginning of the year. Accordingly Aireon no longer expects to be cash flow positive in 2020. Aireon now expects to be cash flow positive sometime between late-2021 and mid-2022. Aireon has arranged for funding of this extended cash flow deficit period. This funding consists of the undrawn portion of its existing $200 million credit facility and a standby investor bridge loan supported by its equity investors.",
+         "Iridium has committed a 11 million in support of this investor bridge, which will bear interest at 11%. Aireon does not expect to draw on this bridge in 2020, but may do so in 2021 and 2022 depending on the level of air traffic volumes. Aireon had planned on refinancing its existing credit facility and raising sufficient capital to repay the balance of the hosting fees due to Iridium in early 2022.",
+         "Given COVID Aireon now does not expect such refinancing to occur before mid-2022. COVID impacts on Aireon are expected to have limited impact on Iridium unless air traffic volumes fail to recover from their current levels. All amounts Iridium recognizes as revenue in 2020 and 2021 are expected to have been received as cash payments as part of Aireon\u2019s updated cash flow profile. Iridium expects to be financially compensated for the delay in Aireon\u2019s refinancing and resulting payment of hosting fees; unpaid hosting fees, contractually accrued interest at LIBOR plus 350 basis points.",
+         "We remain confident that Aireon will be a significant source of value to Iridium shareholders and are pleased with the company\u2019s recent developments with the FAA and other customers, which demonstrate that Aireon is becoming a critical part of the world\u2019s air traffic control infrastructure. Clearly the first half of the year has been anything but routine, but Iridium is fortunate to remain a strong \u2013 maintain a strong diverse base of customers and operate a wholesale business model, which generates more than 80% of revenue from recurring sources. We believe that we are positioned well to weather the global pandemic and will continue to generate meaningful free cash flow this year and into the future.",
+         "With that, I\u2019ll turn things back to the operator for the Q&A."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] And our first question today comes from Rick Prentiss from Raymond James. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Thanks. Good morning, guys. Glad to hear everybody\u2019s doing okay in these crazy times."
+         ],
+         "Speaker": "Rick Prentiss"
+      },
+      "3": {
+         "Remarks": [
+            "Hey, Rick."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "4": {
+         "Remarks": [
+            "Hey. Couple of questions. One let\u2019s start at the 30,000 foot view or 2,000 kilometer view. Matt, we get a lot of questions about the new LEOs, right? SpaceX in the marketplace, raising some money; OneWeb, maybe coming out of bankruptcy with the British government, and Bharti and other supporting it. As you think about your business and these new LEOs, what do they mean competitively to the new areas of your business, the Certus broadband, but also the legacy areas of your business, voice and data, IoT and even the government?"
+         ],
+         "Speaker": "Rick Prentiss"
+      },
+      "5": {
+         "Remarks": [
+            "Yes, Rick. I mean, I really don\u2019t think they are direct competitors in any way, perhaps around the edge long, long term, but really for the most part, we see all those new LEO players as potential partners and offering commodity broadband services that are complimentary to the much more mobile safety oriented services that we provide. So we\u2019ve had discussions with all of them, they all see it the same way. They see us as someone that could possibly be integrated into their services to supply a better service to their customers.",
+            "I think I\u2019ve talked about this before. The way our whole services are architected, are structured is very, very different from theirs. Their whole vision of all those players is to try to provide the most bandwidth to a specific customer as possible to every customer as possible. Our whole system is architected and structured to provide the most mobility. We provide as much data as possible in the smallest possible package, and those are two totally different sort of design philosophies. And really they\u2019re not \u2013 you can\u2019t really change one to the other and back and forth. So they really can\u2019t scale down to the levels we\u2019re at. They could never offer, say, a small device that operates in the palm of your hand and integrated into a mobile phone or onto a very consumer device. And frankly, our system doesn\u2019t scale up to offer 50 megabytes per second, which is what they all are looking to try to offer almost as a minimum.",
+            "So the two services worked very well. It\u2019s demonstrated today in the fixed-satellite service players, who our terminals are put right next to theirs on ships as a companion VSAT offering and really those small new \u2013 I mean, those new LEO players really are more focused on competing for that commodity broadband segment, which has been around for 20 years and for which we\u2019ve been very complimentary to all along than in any way to doing something that we have been doing or plan to do in the future."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "6": {
+         "Remarks": [
+            "Any thoughts of what it might mean to the government business? I know the government\u2019s been a long-term user and partner of Iridium, but just gets \u2013 we get that question occasionally."
+         ],
+         "Speaker": "Rick Prentiss"
+      },
+      "7": {
+         "Remarks": [
+            "Yes. And again, we\u2019ve been talking both to the government and to those players and they see our services complimentary as well. They\u2019re excited about the potential for a lower latency sort of commodity broadband service, but it doesn\u2019t \u2013 it\u2019s not \u2013 those are all still services, for example, that don\u2019t have inner satellite links, so therefore can\u2019t be delivered anywhere on the planet quickly. They can\u2019t have the same sort of portability profile we do. They\u2019re all in Ka and Ku band, which are good for high speeds, but aren\u2019t as good for delivering secured kind of services that L-band can do.",
+            "So again, we\u2019re really seeing \u2013 they\u2019re seen as both as complimentary, they want both L-band and Ka/Ku band services. I think they\u2019ll always want L-band and Ku/Ka band services. And I think they\u2019re really excited about getting our L-band services because now with Iridium Certus we can deliver really the best possible L-band product they could get. So that\u2019s why they\u2019re installing Certus at their private gateways, that\u2019s why they\u2019re actually have already deployed Certus, particularly in the land mobile area. And we think there\u2019s a long, great future of potential with \u2013 our kind of broadband, which I call specialty broadband with the U.S. government."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "8": {
+         "Remarks": [
+            "Makes sense. Appreciate that. And speaking of L-band and the government, the Ligado process, can you update us what\u2019s going on with Ligado and the Department of Defense and that whole band of spectrum?"
+         ],
+         "Speaker": "Rick Prentiss"
+      },
+      "9": {
+         "Remarks": [
+            "Well, for those who haven\u2019t followed it, I mean, the FCC sort of unexpectedly gave approval to Ligado some time ago. I mean, I think it was two months ago or so now. And I think all the different U.S. government agencies, as well as commercial interests who realize the potential impact that has have been working hard to make sure both the FCC and the U.S. government, legislature and others are aware of all the issues that that\u2019s going to cause.",
+            "I think a lot of the attention obviously has been on the GPS impact of Ligado and probably rightfully so. It has certainly potential impact there for many different agencies, perhaps not as much focus has been placed on the potential impact it could have on Iridium long-term. So we\u2019ve been making sure that they all understand that, and you\u2019ve probably seen that I\u2019ve been busy communicating that information to them. So we continue to fight it both on every front, both, I\u2019d say, procedurally, potentially, legally and obviously legislatively. And hope then would expect to prevail long-term to making sure that it doesn\u2019t impact our services in any way in the U.S."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "10": {
+         "Remarks": [
+            "Okay. And then let\u2019s bring it down a little closer to earth. Tom, on the guidance, can you talk to a little bit about the aviation IoT section? I think previously you had mentioned that that could be a couple of million dollars a quarter. And are we thinking now that that doesn\u2019t really recover much in 2020 and really see 2021 to get that, and that might be part of, what\u2019s obviously weighing on the second half of service revenue guidance?"
+         ],
+         "Speaker": "Rick Prentiss"
+      },
+      "11": {
+         "Remarks": [
+            "Right. So, yes, so it\u2019s \u2013 the usage based element in IoT is, I think we\u2019ve said before, it\u2019s about $2.5 million a quarter, and we\u2019re off about $1.5 million a quarter. And so it\u2019s $4.5 million, $5 million headwind on the full year results because it\u2019s three quarters of impact, Rick."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "12": {
+         "Remarks": [
+            "Right. Makes sense. Well, I\u2019m glad you guys are doing well. I hope you continue to do well. Thanks, guys."
+         ],
+         "Speaker": "Rick Prentiss"
+      },
+      "13": {
+         "Remarks": [
+            "Same to you, Rick."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "14": {
+         "Remarks": [
+            "Same to you, Rick. Thanks."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "15": {
+         "Remarks": [
+            "And our next question comes from Anthony Klarman from Deutsche Bank. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "16": {
+         "Remarks": [
+            "Hi. Thank you. A couple of questions. Matt, in your commentary, you talked a little bit about, obviously one of the issues is getting access to some of the ships which for good reasons are sort of being kept in dock and not given access to them. Can you give us a sense as to sort of what installs are kind of in the backlog here, so we can get a sense as to sort of what the potential revenue backlog that there is that\u2019s kind of sitting in queue waiting to be installed?"
+         ],
+         "Speaker": "Anthony Klarman"
+      },
+      "17": {
+         "Remarks": [
+            "Well, I guess, we don\u2019t have visibility to the specific backlog by each one of our partners. We are in discussions with them every week and talking to them about it. And they\u2019re the ones that are telling us that they probably would be doing, I don\u2019t know, twice as much business or more, if there weren\u2019t all these issues within ports, on ships, the inability to kind of talk to captains or talk to fleets who are more worried about other things than what they\u2019d be doing.",
+            "So, in general, they have the product, they have the desire, they like to pricing and the promotions there. And by the way, ships are getting installed. I mean, there were a few hundred that did get installed in the quarter and much more in June and previous months. And so I think that there\u2019s recovery going on to what level it is, I guess it\u2019s hard to \u2013 what level it will get to, it\u2019s a little bit hard to tell right now, because this is \u2013 a lot of this is new business for us. This is a whole new market segment, we\u2019ve been in open port for a while, but we\u2019ve never had such a great competitive product that could not only win lots of new ships, but could replace equipment on existing ships.",
+            "So our partners are telling us, they\u2019re seeing a lot of interest. They want to deploy the product. They believe there\u2019s an awful lot of ships who want our product, but I can\u2019t sort of define it as a specific backlog of exactly how that will play out, say, in the third and the fourth quarter, and mainly because we don\u2019t even know how the recovery will get to."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "18": {
+         "Remarks": [
+            "Got it. So maybe just sort of tagging on the back of that answer. As we think about how to build towards that exit, the 2021 exit revenue, incremental revenue run rate from broadband, is there a sort of a shape of the recovery that you feel you need to kind of get to that metric that you\u2019ve given us in terms of what the incremental revenue opportunity is exiting 2021?"
+         ],
+         "Speaker": "Anthony Klarman"
+      },
+      "19": {
+         "Remarks": [
+            "Well, kind of internally, I mean, I\u2019d say that we measure sort of how many ships net installations we have by month and we\u2019re tracking that. And we want to be to the point of, we\u2019re doing hundreds of \u2013 several hundreds of installations per \u2013 net installations per month, and we\u2019re not there yet. We\u2019re at a \u2013 we\u2019re probably less than half of where we kind of thought we would be or wanted to be, maybe even a third, but we\u2019re progressing towards it.",
+            "I\u2019m really encouraged by sort of the month-over-month progression since the February, March, April timeframe, when it was really, really locked down. June has been better. July is looking better, that sort of thing. Where it will get to and how fast? That\u2019s the big question. And that\u2019s why it\u2019s really, really hard and why we pulled away from focusing on a year-end 2021 number because we\u2019re not in control of what the market environment is out there. I think we\u2019re in control of the competitive environment, we\u2019ve done a good job with that, and we\u2019re continuing to sort of add to the product and add to the capabilities and add to the commercial of the product. But really how fast it will grow to what number in late 2021, we just can\u2019t really tell quite yet."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "20": {
+         "Remarks": [
+            "Yes, understood. And maybe for Tom, most subscriber based businesses that we all follow have had some measure of bad debt, where subscribers have either not paid or have asked for an extension of terms on payment. Could you update us on anything you\u2019re seeing on the on the AR and collections front as it relates to bad debt?"
+         ],
+         "Speaker": "Anthony Klarman"
+      },
+      "21": {
+         "Remarks": [
+            "So, nothing generally. I mean, we\u2019re \u2013 our accounts receivable are in decent shape. We talked last quarter about it, we do have some limited exposure to Speedcast, it\u2019s less than $1 million, and that\u2019s fully contemplated, any exposure we have there is fully contemplated in our guidance update."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "22": {
+         "Remarks": [
+            "Thanks. And then finally on Aireon. In addition to the hosting payments, I think you get some form of a monthly kind of date \u2013 recurring data fees from them. And are those revenues tied in any way to usage on their network or are those sort of flat fees? In other words, is there any variability to the recurring form of revenue that you get from Aireon?"
+         ],
+         "Speaker": "Anthony Klarman"
+      },
+      "23": {
+         "Remarks": [
+            "No, there\u2019s not. That\u2019s contractual."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "24": {
+         "Remarks": [
+            "Got it. And then when is the next sort of big milestone hosting payment due? And would you expect that they would probably have to draw on that backstop facility that you laid out to fund that milestone payment that they would owe on the hosting contract?"
+         ],
+         "Speaker": "Anthony Klarman"
+      },
+      "25": {
+         "Remarks": [
+            "So there\u2019s a contractual minimum of $16 million a year, and they have prepaid that through 2021, through the first half of 2021. So they would own us around another $8 million in the second half of 2021. And that payment, I would just say is fully reflected in how they think about their liquidity, as I said in my prepared remarks."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "26": {
+         "Remarks": [
+            "Got it. So there\u2019s really a full year operationally before Aireon would own a significant payment other than the recurring monthly revenue."
+         ],
+         "Speaker": "Anthony Klarman"
+      },
+      "27": {
+         "Remarks": [
+            "That\u2019s right. That\u2019s right. And they\u2019re paying on the data fee, they\u2019re paying that monthly, routinely."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "28": {
+         "Remarks": [
+            "Great. Thank you. That\u2019s all for me."
+         ],
+         "Speaker": "Anthony Klarman"
+      },
+      "29": {
+         "Remarks": [
+            "Our next question comes from Hamed Khorsand from BWS Financial. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "30": {
+         "Remarks": [
+            "Hi. Good morning. So first off, I just want to say, this is the first quarter where IoT\u2019s sub growth did not offset the ARPU decline. Is this a trend that\u2019s going to continue? Where does the IoT revenue decline even if subscriber growth is rising?"
+         ],
+         "Speaker": "Hamed Khorsand"
+      },
+      "31": {
+         "Remarks": [
+            "So the most acute impact is in aviation, right? We\u2019re hit for, as I said, $1.5 million in usage that has just fallen out. So that\u2019s the major reason for the decline in ARPU."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "32": {
+         "Remarks": [
+            "Okay. And with what you\u2019ve seen from commercial customers, does this mean that you\u2019ve missed the 2022 \u2013 2020 install season?"
+         ],
+         "Speaker": "Hamed Khorsand"
+      },
+      "33": {
+         "Remarks": [
+            "You mean in terms of maritime?"
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "34": {
+         "Remarks": [
+            "Yes."
+         ],
+         "Speaker": "Hamed Khorsand"
+      },
+      "35": {
+         "Remarks": [
+            "Yes. I mean, 2020 was supposed to be a big ramp year for us. We have a brand new product, it\u2019s better than the competition and COVID hit. And so that\u2019s kind of like the rug got pulled out from under us, if you will. In terms of sales ramp, 2020 was supposed to be a fast ramp and it\u2019s not because for obvious reasons."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "36": {
+         "Remarks": [
+            "Yes. I mean, remember, I assume you mentioned maritime, but I mean, in all of our product lines, we are a little bit more seasonal in the summer, second and third quarters are always our best quarter because the Northern hemisphere is warm and people are outdoors. So whether it\u2019s handsets or even IoT installed for shipping and tuna fishing and all the things that you would expect would be a little stronger in the summer. It has been a little weaker though, strengthening as in recovering back to some level of the season. So we are starting to see in June and July much better, not at the levels that we saw last year expected, but we\u2019re starting to see it kind of recovering back to something a lot closer to normality.",
+            "Maritime, they install all year round. So it\u2019s not like it\u2019s just in the summer. It\u2019s just we would have expected a \u2013 it\u2019s a little less seasonal really than, say, our land mobile business and aviation really isn\u2019t very seasonal either, but it\u2019s still is being impacted by the coronavirus."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "37": {
+         "Remarks": [
+            "Okay. And then lastly, just touching on your comments earlier from the installations, are your partners doing one-for-one inventory replacement with you as the equipment is placed? Are they purchasing every equipment that they place with?"
+         ],
+         "Speaker": "Hamed Khorsand"
+      },
+      "38": {
+         "Remarks": [
+            "No. No. I mean, they need to stage equipment all around the world in ports and in places where they need it. So there\u2019s not that level of kind of sophistication. There are thousands of our terminals right now, out in the market. They bought quite a few from our terminal suppliers. Remember, we just sell them in the case of Certus terminals to, say, a Cobham or Telus or soon Intellian a modem, a radio from our factory. And then months later that gets put into one of their terminals and then they sell the full complete terminal to the partners for sales.",
+            "And they\u2019ve reported to us that they\u2019ve sold thousands of these things because of the high interest by all the various maritime partners who sell our services. And those maritime partners are the ones telling us it\u2019s hard to get those things on the ships, but they\u2019re increasingly able to do it and it\u2019s growing month-by-month, but it\u2019s still not normal out there and may be still months before it still becomes that way."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "39": {
+         "Remarks": [
+            "Okay. Maybe I\u2019m not understanding, not communicating the question properly but I\u2019m just trying to engage how confident these partners that are installing the equipment are as far as being wanting to stock more your equipment within their warehouse as they place these the equipment at the ship right here."
+         ],
+         "Speaker": "Hamed Khorsand"
+      },
+      "40": {
+         "Remarks": [
+            "They\u2019re continuing to buy radios. They\u2019re continuing to order new terminals. So they are \u2013 they haven\u2019t liked stopped and we are seeing new devices going out there to replace the old devices. So I would say it isn\u2019t like they have lost confidence and they\u2019re just selling their inventory down to nothing or something. It still feels like there is still turnover of inventory as they put new terminals on the ships. They are ordering new terminals to backfill them, they might be at slightly lower inventory levels, you\u2019d have to ask them, that would be something to talk to Marlink, or to KVH, or to Speedcast or to 30 others that are really the main ones in the marketplace doing this, but they\u2019re still pretty busy.",
+            "And when I talked to them and we\u2019re talking to them all the time, they feel like there\u2019s a lot of activity around there. It\u2019s just slower than expected."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "41": {
+         "Remarks": [
+            "Okay. Thank you."
+         ],
+         "Speaker": "Hamed Khorsand"
+      },
+      "42": {
+         "Remarks": [
+            "Our next question comes from Louie DiPalma from William Blair. Please go ahead with your questions."
+         ],
+         "Speaker": "Operator"
+      },
+      "43": {
+         "Remarks": [
+            "Matt, Tom and Ken, good morning."
+         ],
+         "Speaker": "Louie DiPalma"
+      },
+      "44": {
+         "Remarks": [
+            "Good morning, Louie."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "45": {
+         "Remarks": [
+            "First, I hope you and your families are staying well during these difficult times. Second, I wanted to say nice work on how the Iridium next expense adjustments to operational EBITDA are now zero, this is a positive sign. And third, Tom I saw that you raised your free cash flow guidance which is good for your reduction of leverage and along these lines, I was wondering how do you expect that the shift in Aireon\u2019s free cash flow outlook may impact the timing on when Iridium announces a dividend or share buyback?"
+         ],
+         "Speaker": "Louie DiPalma"
+      },
+      "46": {
+         "Remarks": [
+            "Well, so you\u2019re referring to the lump sum payment of the remainder\u2026."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "47": {
+         "Remarks": [
+            "Yes, all the different payments that Aireon owes you and how that might impact your leverage and how your leverage is tied to when you might do some sort of like share buyback or dividends?"
+         ],
+         "Speaker": "Louie DiPalma"
+      },
+      "48": {
+         "Remarks": [
+            "Right. So the Aireon update is simply they\u2019ve said that they\u2019re refinancing which kind of is the source of their ability to pay us the lump sum the $150 million-ish, they pushed that back to mid-2022. Okay. So but I wouldn\u2019t say that necessarily impacts, if you pencil out the numbers we can get into our leverage guide without that lump sum payment prior to that. So I think it will impact to a degree but not necessarily the timing of it, because we get there without it, if you just model it out."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "49": {
+         "Remarks": [
+            "Got it, sounds good. And for Matt, new products and services are definitely a key part of your story that many investors are excited about, you discussed GMDSS, the new and Intellian terminal and the Iridium Edge services. Can you, Matt provide an update on the expected timeline for the new 9770 IoT devices and also the low-cost terminals? Have there been any delays in terms of when you expect to roll those out?"
+         ],
+         "Speaker": "Louie DiPalma"
+      },
+      "50": {
+         "Remarks": [
+            "Yes, there hasn\u2019t been any delay. By the way, I should remark you, thank you for saying things in terms of our health, that\u2019s been \u2013 it\u2019s been a very big focus obviously in the company to make sure all our employees and others are healthy and safe. I will tell you, we\u2019ve all learned how to work remotely and we\u2019ve found it surprisingly effective and productive.",
+            "We\u2019re really getting it hasn\u2019t affected development schedules or really just about anything in the company. In fact, many of my employees are remarking that they\u2019re even almost more productive and certainly appreciate that with all the uncertainties with family care and all that sort of thing. I will say, Tom and I have been talking, we probably can reduce a little real estate long-term here and possibly even move into kind of a new environment long-term which I think is probably just where everybody\u2019s going these days. So that\u2019s just one aspect.",
+            "As far as the 9770, for those who don\u2019t know, that\u2019s our new small form factor mid-band modem that kind of is going to be the first of a number of different radio products to drive additional ARPU into the IOT, and voice and data segments, because it enables more speed but it\u2019s still very small and compact and uses a very small antenna. Those are in beta trials with a bunch of partners this summer. They have been reporting that worked very well. We expected because it\u2019s going to get built into kind of complicated products that we\u2019d start seeing the first of those towards the end of this year and into 2021 and it will be made increasingly available beyond the first kind of 10 beta partners to more and more partners later this year, who will start building them into products that could come out later in 2021 and 2022.",
+            "Including things like a new handset, including a new device that would be much faster than our existing hotspot product, the Iridium GO!, including faster IoT products that would enable things like pictures and richer services, so those are still on track. Like I said the \u2013 we\u2019re just starting the additional lower \u2013 much smaller modems and much lower cost devices, those aren\u2019t going to really come until 2021 and 2022. We\u2019re just really getting started into the series in terms of new handsets, which will refresh our handset line and provide a richer service experience for those who want a very, very simple kind of satellite phone experience, that sort of thing. And those things all come, this 9770 is important because it\u2019s kind of the parent of all those devices, which is why we wanted to get it right.",
+            "And it is fully developed. Its manufacturable today we\u2019re just making sure it works in every kind of environment of our partners before we really turn on the spigot late this year and into early 2021 for everyone."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "51": {
+         "Remarks": [
+            "Sounds good. And when you say new handset is that your voice handset for satellite telephony? Or is that just for like Garmin, like personal navigational device type handsets?"
+         ],
+         "Speaker": "Louie DiPalma"
+      },
+      "52": {
+         "Remarks": [
+            "So there will be new devices that partners like Garmin are able to build into a much more fully functional, I mean a faster speed data only product or even possibly voice at what you would call the low-end. But yes, we planned and we have worked to replace, not replace but augment our satellite phone portfolio. I don\u2019t know how else to call it, but when it becomes sort of a rich multi-service device that\u2019s able to operate at higher speed and have more applications and whatnot, yes, it will be a replacement for that as well and that is sort of in the works right now."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "53": {
+         "Remarks": [
+            "Great. Thank you. And I am glad you and all of the Iridium employees and your families are generally doing okay. Thank you."
+         ],
+         "Speaker": "Louie DiPalma"
+      },
+      "54": {
+         "Remarks": [
+            "You too, Louie."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "55": {
+         "Remarks": [
+            "Take care, Louie."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "56": {
+         "Remarks": [
+            "[Operator Instructions] Our next question comes from Chris Quilty from Quilty Analytics. Please go ahead with your question."
+         ],
+         "Speaker": "Operator"
+      },
+      "57": {
+         "Remarks": [
+            "Matt, just wanted to follow-up on that voice handset. Is that something that you intend to outsource the partners are still something that you would do internally?"
+         ],
+         "Speaker": "Chris Quilty"
+      },
+      "58": {
+         "Remarks": [
+            "We\u2019re really in the final throes of that decision right now. I\u2019ll be honest it\u2019s an issue of speed and some other aspects. So, we\u2019ve had some really attractive offers to do it externally, which could, I expect we would still be selling it, but we made more partner externally with some \u2013 a company that has the capability of bringing a lot of expertise and skills to it, but we have a very effective and capable internal development that would be raring to do it as well. But we really literally are within a month or two of making that final decision."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "59": {
+         "Remarks": [
+            "Got it. And I guess it\u2019s kind of a two part question, because you\u2019ve also got your DoD FIPS certified handset, is that a separate decision and is there customer funding available for that?"
+         ],
+         "Speaker": "Chris Quilty"
+      },
+      "60": {
+         "Remarks": [
+            "Well, let me think you\u2019re referring to the current 9575A model that the government has a secure sleeve that allows them to operate it in Type I encryption and that sort of thing. That\u2019s available today took a long time to get there, but it\u2019s been out there for a while and is in use by the U.S. government. It is possible as part of this they could choose if they like what we come up with, they could choose to make a version of that, but we don\u2019t have a development plan with them yet on doing that. And that would really be based upon whether they like the advantages that our new device would offer them.",
+            "I would expect by the way, while that is still going to be out there and I don\u2019t really think that\u2019s going to impact our bottom line until more like 2022 or beyond. I think even before that would be a more fully featured device that is a data only device that would allow smartphones and iPads, and the like to operate on our network even with voice in that regard. So you could say it\u2019s an augmentation of sort of the Iridium GO!, but that will \u2013 that actually we have a plan for and is underway and has been underway a bit and would probably be ahead of the more fully featured satellite phone device."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "61": {
+         "Remarks": [
+            "Understand. It also looks like during the quarter you picked up, I don\u2019t know 20 or 30 new SPs and VARs, which is kind of surprising in the current environment. Is there anything specific behind that partner growth?"
+         ],
+         "Speaker": "Chris Quilty"
+      },
+      "62": {
+         "Remarks": [
+            "I don\u2019t think much as the activity that we\u2019ve had with interest in the company, our technology really hasn\u2019t waned. We haven\u2019t seen like, the company say for example who want to use this in drone application, they haven\u2019t gone away. I mean, it might be one more difficult environment but the opportunity long-term for drones and autonomous vehicles hasn\u2019t changed. So I still think we\u2019re seeing a lot of activity. We\u2019re seeing it in tracking devices, you see that we have some new consumer devices we\u2019re seeing interest in enterprise class devices as well.",
+            "I don\u2019t know if we\u2019ve had that many in the quarter, but I haven\u2019t been keeping close track. But we\u2019re still seeing good new partner activity, particularly because of the new platforms they see, being able to offer even more in a very, very small highly mobile package. I think has created a lot of interest in that whole, what we call mid-band product area. And we think that, that will really attract both existing partners and some new partners to our network."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "63": {
+         "Remarks": [
+            "Got it. And Tom, one question for you on the IoT ARPU, understanding that the aviation market is the single biggest drag on ARPUs, as you continue to grow the consumer business is it still mixing down the ARPU or are we mostly past that impact?"
+         ],
+         "Speaker": "Chris Quilty"
+      },
+      "64": {
+         "Remarks": [
+            "No. I would say \u2013 I would if you consider that consumers is kind of $4 and that\u2019s the biggest single area of growth in subscribers, the line\u2019s going to slope down, continue to slope down as that grows. While they had that kind of setback, if you will with COVID, June activations were really impressive. So we think that\u2019s going to be a long-term trend of significant growth in personal consumer and we liked the $4 ARPU because there\u2019s very little usage on our network."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "65": {
+         "Remarks": [
+            "Understand. And is there a long-term roadmap for the 9770 or Certus type products in the consumer market? And when would you be there in terms of form factor size, which I think is currently certainly within 9770 too large?"
+         ],
+         "Speaker": "Chris Quilty"
+      },
+      "66": {
+         "Remarks": [
+            "Yes. The 9770 can be a platform for some IoT and new voice and data applications, and that\u2019s what we\u2019re seeing in these initial partners and the interest right now amongst a whole bunch of platforms like drones, et cetera.",
+            "But I agree that it has a whole roadmap of additional new transceivers that are kind of right now underway. The really scaled-down version that doesn\u2019t offer quite as much speed, but is really, really has the potential being low cost and use very small antennas and being \u2013 really would be I think the ideal product for faster IoT applications that offer more data types to be sent across and obviously potentially then generate more ARPU.",
+            "That\u2019s probably still at least 18 months away from really being I think realized while it\u2019s underway. And the core platform now is really solid in the 9770, which will enable us to develop these additional sort of variants, it still got different power amplifiers, different layouts, different antenna types, et cetera, but those things are underway right now and I would say, I\u2019d be thinking more that these are big 2022, 2023 effects kind of for us right now."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "67": {
+         "Remarks": [
+            "Got it. And one clarification, did I hear you correctly that June was a record month for consumer IoT?"
+         ],
+         "Speaker": "Chris Quilty"
+      },
+      "68": {
+         "Remarks": [
+            "I would say it was a record month for IoT net activations, which are primarily were consumer. I mean, obviously we\u2019re always be sort of consumer basis because of the numbers involved. Yes, June was a really big month, I think. Maybe, I assume some of that might\u2019ve been catch-up, with people desperate to get their device in April and May, but couldn\u2019t get out. But hopefully some of that is just demonstrating, this was both to be a really, really good year overall and I\u2019d say, once the economy gets back, I would expect all of our IoT partners are aware and to get back into all the different important applications that they service in all the different industries they service."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "69": {
+         "Remarks": [
+            "Very good. Thank you very much."
+         ],
+         "Speaker": "Chris Quilty"
+      },
+      "70": {
+         "Remarks": [
+            "Thanks Chris."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "71": {
+         "Remarks": [
+            "Thanks Chris."
+         ],
+         "Speaker": "Tom Fitzpatrick"
+      },
+      "72": {
+         "Remarks": [
+            "And ladies and gentlemen at this time, I am showing no additional questions, I\u2019d like to turn the conference call back over to management for any closing remarks."
+         ],
+         "Speaker": "Operator"
+      },
+      "73": {
+         "Remarks": [
+            "Well, thanks for joining us in the second quarter, strange times as some of you said, everybody stay safe and stay productive. And we\u2019ll see you in the third quarter call. Take care."
+         ],
+         "Speaker": "Matt Desch"
+      },
+      "74": {
+         "Remarks": [
+            "Ladies and gentlemen, with that we\u2019ll conclude today\u2019s conference call. We do thank you for attending. You may now disconnect your lines."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

@@ -1,0 +1,352 @@
+{
+   "Date": "July 24, 2020",
+   "Presentation": {
+      "": []
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "[Operator Instructions] So the first question is from Stacy Pollard of JPMorgan. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Ola, a big picture question first, sort of for the group. How was June versus April? So sort of how did the quarter progress? And how do you view developments as we go into H2? And I know that can be difficult, but just kind of seeing what your pattern might be. And then two specific ones, maybe demand environment in automotives both for metrology and for the automated driving, how that's progressing? And then secondly, second-sub question, I guess, you've spoken of BLK247 and BLK2GO, do you think those new products are enough to push that division back into growth into the second half? Or is there just still an overlay of macroeconomic conservatism that might offset that?"
+         ],
+         "Speaker": "Stacy Pollard"
+      },
+      "3": {
+         "Remarks": [
+            "June was better than April, but June must be better than April, simply because in April, most major markets in Western Europe and North America were in lockdown whilst some of them were actually unlocked in June. So technically, you can't deliver products to a company that is in lockdown, but that wasn't the case in June. So it's too early to say that it's a recovery. June technically should be stronger than April.",
+            "Moving on to automotive, we've seen weak demand throughout the quarter in automotive, but as the automotive plants went back to starting producing cars, of course, our activity picked up as well. And in China, we saw a strong recovery for automotive in the quarter, primarily in the electric segment. When it comes to autonomous vehicles, yes, most of the R&D-related activities were shutdown and put on hold. And we hope they will gradually now come back. BLK is definitely going to be a driver for Geosystems in the second half. It is enough to return to growth, that's too early to answer really."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "4": {
+         "Remarks": [
+            "Maybe just a quick follow-up. I probably didn't ask that first question very well. Can you give us more color on June specifically? In the sense of, I don't -- even if you have a number for June, but would it have -- were there any divisions that would have grew in June on a year-on-year basis that didn't grow for the quarter on a year-on-year basis? Does that make sense?"
+         ],
+         "Speaker": "Stacy Pollard"
+      },
+      "5": {
+         "Remarks": [
+            "It does, but it's not very meaningful because it's -- you're comparing two months with complete lockdown to a month where you actually saw customers opening up. So you might draw a..."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "6": {
+         "Remarks": [
+            "Sorry, I meant June this year versus -- sorry, I meant June this year versus last year, let's say?"
+         ],
+         "Speaker": "Stacy Pollard"
+      },
+      "7": {
+         "Remarks": [
+            "Yes, we definitely saw growth in China. We saw growth in South America. We definitely saw growth in certain parts of the world June on June."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "8": {
+         "Remarks": [
+            "The next question is from Adam Wood of Morgan Stanley. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "9": {
+         "Remarks": [
+            "I've got 2, if I could, please. Maybe first of all, Ola, you're normally quite reticent to kind of call out what's going to happen in the future, but you're quite clear in the release this morning and -- that you think you've seen in the trough. Could you maybe just talk a little bit about what you're seeing in the business, whether it's pipeline, recoveries in certain regions that give you the confidence to make that statement in the release?",
+            "And then maybe just secondly, specifically on free cash flow, it was a very impressive performance in the quarter. I think a lot of investors were nervous that customers would want longer payment terms, and that would hurt your working capital. Is there any concerns as you go through the rest of the year that, that working capital could reverse? Or would you feel that's banked and we go back to a kind of more normal working capital cycle from here?"
+         ],
+         "Speaker": "Adam Wood"
+      },
+      "10": {
+         "Remarks": [
+            "First of all, the trough is -- I mean, it's simply that we do not expect organic growth to get worse. We might be wrong, but this is the view we got right now. Now it's all about the road to recovery and how quickly the global economy can recover from where we're at right now. And -- so we believe our organic growth to improve quarter-on-quarter when we do return to growth, but it's still a question that we have to come back to in the third quarter when we report that.",
+            "Regarding the free cash flow, I really don't see any normal behavior in the payments of goods. So I think this is just a function of more software and a combination of a harsh slowdown in the hardware business, the cash flow."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "11": {
+         "Remarks": [
+            "So it might moderate a little bit then as hardware comes back as a mix in the portfolio?"
+         ],
+         "Speaker": "Adam Wood"
+      },
+      "12": {
+         "Remarks": [
+            "It could. I mean, you typically give longer credit terms while you have an upfront payment for software. So is it dramatic? I don't know, but maybe we can't keep 9.8% working capital to sales as we've seen growth coming back."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "13": {
+         "Remarks": [
+            "The next question is from Mikael of Carnegie. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "14": {
+         "Remarks": [
+            "Yes, Mikael Las\u00e9en here, Carnegie. And just wondering about the short-term savings effect you had in Q2. Is it possible to quantify that in any way?"
+         ],
+         "Speaker": "Mikael Las\u00e9en"
+      },
+      "15": {
+         "Remarks": [
+            "It is. We believe the short-term savings are around \u20ac25 million to \u20ac35 million."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "16": {
+         "Remarks": [
+            "Great. And can you please explain what you mean by long-term cost savings offsetting this? So what -- do you believe it will -- how much savings can you have -- short term savings can you have now continuing to have in the short term? And how much long-term cost effect can you extract in the second half?"
+         ],
+         "Speaker": "Mikael Las\u00e9en"
+      },
+      "17": {
+         "Remarks": [
+            "That's a very difficult question. I mean, we've saved an enormous amount of money on reducing travel and that has been extraordinary in this quarter. We haven't saved that much on the announced layoffs, reduction in personnel. And we think that from now on, we're going to travel a bit more, but we're also going to see reduced payroll which we might not have seen in the second quarter. And that's what's going to happen."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "18": {
+         "Remarks": [
+            "Got it. And the second question about the seasonal pattern you highlighted again here as usual, that Q3 is typically weak than Q2, but I expect it also this year because Q2 is a bit better with lockdowns and just that should mean that Q3 should be better than Q2, like or?"
+         ],
+         "Speaker": "Mikael Las\u00e9en"
+      },
+      "19": {
+         "Remarks": [
+            "Yes. I predict that we will know that on the 25th of October, which I believe is our Q3 release."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "20": {
+         "Remarks": [
+            "The next question is from Sven Merkt of Barclays. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "21": {
+         "Remarks": [
+            "Maybe if I could start with the software side. You obviously had a very good and resilient quarter. Could you remind us at -- what your current mix of software deployment models is? I think OnCall is a SaaS solution, so that's probably recurring, but what about the overall division? And what about in PPM? I just want to get a sense of what is like recurring and what was recognized upfront? And then I have a follow-up question."
+         ],
+         "Speaker": "Sven Merkt"
+      },
+      "22": {
+         "Remarks": [
+            "Yes, it's -- we got three types of products at Hexagon. We got pure industrial software, which is SI, PPM, Geospatial products and so on. Then we have a combined offering where we embed software products into hardware, and then we have pure hardware. And the pure software business amounted to \u20ac337 million out of the \u20ac897 million. The pure-pure was almost 40%. And that grew in the quarter, and I would say that this is just my guess from top of my head, but I would say 80% of that was recurring revenue."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "23": {
+         "Remarks": [
+            "Okay, okay. And then the rest was upfront. And then a second question just on the AEC design. So we had, obviously, good growth in there again. Could you comment where this demand is coming from, i.e. which region, if it was residential or infrastructure? And maybe also are you're winning again from a competitive perspective?"
+         ],
+         "Speaker": "Sven Merkt"
+      },
+      "24": {
+         "Remarks": [
+            "We acquired a company called Bricsys that makes design software CAD for the construction industry in 2018. And we're now launching that product offering through our PP&M distribution channel across the world. So we actually see an uptick in the sales all over the world in all regions for this software. And that is now being prepared to be linked and connected to our costing and our project management software EcoSys and our SMART Build software that is about to be launched."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "25": {
+         "Remarks": [
+            "Is it then probably fair that it's mainly coming from infrastructure side rather than residential?"
+         ],
+         "Speaker": "Sven Merkt"
+      },
+      "26": {
+         "Remarks": [
+            "Now we don't know. Because if you sell to an architect, for example, we don't get to see what that architecture firm is working on. So I don't think we have the view on what they're working on."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "27": {
+         "Remarks": [
+            "The next question is from Mohammed Moawalla of Goldman Sachs. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "28": {
+         "Remarks": [
+            "Great. I have two questions. First, Ola, just circling back on the software growth. Could you give us a bit more color around that? Is that positive growth more in line with PP&M for the aggregate group? Or was it a bit faster than that? And then secondly, just on the short-term savings. Can you give us a sense of how much of those sort of \u20ac25 million to \u20ac35 million do you expect to kind of spend back in the second half? And to that extent, are you also looking to potentially start sort of reinvesting back in to business to sort of stimulate growth [indiscernible]?"
+         ],
+         "Speaker": "Mohammed Moawalla"
+      },
+      "29": {
+         "Remarks": [
+            "If we start with the software growth, recorded growth in the pure software portfolio was around 5%. So I think organic, it was slightly lower because we had some small acquisitions, but it was stronger than the 1% we're report in PP&M. And regarding the second half, as I've previously stated, we're going to start traveling a bit more in the second half. It's a global company, and you need to travel to meet customers and colleagues.",
+            "But as we do that, we're going to see these more longer-term payroll-related savings kick in. So I think it's a wash. We've previously stated that we're going to save in the range of \u20ac125 million once the program is fully implemented, and that would correspond to \u20ac31 million per quarter. So let's say, we've saved \u20ac25 million to \u20ac30 million in Q2 on short-term issues. Then obviously, the long-term program is going to bridge that."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "30": {
+         "Remarks": [
+            "Great. And then maybe if I can just come back to that sort of low single-digit growth in software, were there any particular product categories within the kind of PP&M software portfolio that sort of you would call out that are perhaps proving to be quite resilient and can sustain that growth?"
+         ],
+         "Speaker": "Mohammed Moawalla"
+      },
+      "31": {
+         "Remarks": [
+            "Absolutely, I think our OnCall product, the new dispatch software, is having a small success in the quarter. I also think MSC did well given the market performance. And I think that in our AEC segment, which is reported on the PP&M, we see solid growth."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "32": {
+         "Remarks": [
+            "The next question is from Daniel Djurberg of Handelsbanken. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "33": {
+         "Remarks": [
+            "Most questions are answered, but I missed the beginning. Out of the cost saving, you mentioned \u20ac25 million to \u20ac35 million arose -- seen in Q2. Was this in full or due to COVID-19? Or was it also including the cost savings? So how much of it was temporary, so to say?"
+         ],
+         "Speaker": "Daniel Djurberg"
+      },
+      "34": {
+         "Remarks": [
+            "Most of it was temporary. We haven't seen much impact from the long-term savings program in the second quarter. And that wasn't expected. It takes longer time to implement it. So short-term savings was actually -- the -- was the consequence of people working from home, not traveling, saving on normal expenses."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "35": {
+         "Remarks": [
+            "Perfect. And if I may, another question on COVID-19 impact, perhaps a bit longer on sales and marketing. I guess, of course, it's tough to make Hexagon LIVE. So -- but we will see any impact of product launches for late 2020 or early 2021 because we still, of course, have good traction with the black -- BLK2GO and BLK247, [indiscernible], et cetera. But should we be worried about next-generation due to COVID-19?"
+         ],
+         "Speaker": "Daniel Djurberg"
+      },
+      "36": {
+         "Remarks": [
+            "No. We're a brave organization. We're actually kicked off the planning for Hexagon LIVE '21. So we're -- we're planning to physically hold Hexagon LIVE in June of 2021. And that's the plan at the moment. And hopefully, the world will return to more normal situation next year. That's the plan."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "37": {
+         "Remarks": [
+            "Yes. That's helpful. And I have a last question a bit hypothetical also. We have this increased tension between U.S. and China, and you obviously sell software, smart 3D to Shandong, Petro, et cetera, and it seems to go quite well in China. Do you see any risk of, given that how Europe and U.S. treat Huawei, for example, and the risk for retaliation or that could hit also you and not only the network equipment providers? It's a bit of hypothetical but..."
+         ],
+         "Speaker": "Daniel Djurberg"
+      },
+      "38": {
+         "Remarks": [
+            "We haven't seen any retributions to our business yet, but in a fluid political situation, you never know what's going to happen. So of course, we don't have a crystal ball on how this will evolve. We just have to mitigate and plan ahead and that's what we're doing."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "39": {
+         "Remarks": [
+            "The next question is from Wasi Rizvi of RBC Capital Markets. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "40": {
+         "Remarks": [
+            "Three for me, if I could. Firstly, just on the new product pipeline. How are you thinking about new products? Do you think you'll delay? Do you think that's the right environment to launching new products? And I guess, you could talk a bit about how the new BLK products are doing. And the second one is on Geosystems specifically. I think that's a business where you use distributors a bit more than the rest of the business. How do you think they're feeling about the world and the confidence in the economy? I guess it feels like there's some infrastructure and construction spend coming. Do you think they're confident enough to start spending and stocking up yet?",
+            "And then the last one is a slightly broader one on the kind of AEC and construction market. It sounds like you're working towards a more complete offering combining Bricsys ecosystem and SMART Build. And it's probably a good time to be pushing efficiency in the construction industry, if we think that's going to -- infrastructure and construction is going to lead the recovery.",
+            "But what's the competitive landscape like there? I mean, who do you think are your competitors? We've seen RIP being acquired by Schneider and maybe more complete solutions. Do you think most of your sales and your competitors are going to be selling broad solutions? Or is it still in pockets of somebody selling CADs, somebody selling project management or do you think you can make that a bit -- the complete full solution in a bigger part of the market?"
+         ],
+         "Speaker": "Wasi Rizvi"
+      },
+      "41": {
+         "Remarks": [
+            "Let's see. If we start with question number one, no product launches. We've delayed most of our product launches till after summer. And the reason was because we canceled Hexagon LIVE in Las Vegas in June. We decided that we're going to launch the new products when people come back after their summer holidays. So that's the plan for new products.",
+            "When it comes to Geosystems' distributor, it's fair to say that, of course, they were all shut down, especially in Western Europe and North America. And we've begun to see a trend where they start restocking again. It's still early, but one has to remember that the peak season for construction is the third quarter.",
+            "So if you want to catch that demand, you have to have products in stock in the third quarter. And then, yes, it's true that we are stitching together our offering in the AEC market for the long term. And I think that, that industry is so undigitalized that we don't need to worry about competition. There is several players looking into this. I think we have a slightly different strategy where we focus on productivity and quality improvement and not just design. That's it."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "42": {
+         "Remarks": [
+            "Okay. That's helpful. And then is the -- will it -- for the forseeable future still be people buying Bricsys separately or EcoSys separately? Or do you think you can very quickly move to selling kind of the complete solution? Or is that kind of something that you need to educate the market on over time?"
+         ],
+         "Speaker": "Wasi Rizvi"
+      },
+      "43": {
+         "Remarks": [
+            "Our platform product is called SMART Build, and that will be integrated. Bricsys is a design CAD, and it will always be a CAD. SMART Build is something different. It's more like an MRP system for the construction industry."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "44": {
+         "Remarks": [
+            "The next question is from Viktor H\u00f6gberg of Danske Bank. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "45": {
+         "Remarks": [
+            "So just a brief question on the BLK2GO, which you commented on -- some service providers that you've teamed up with. Could you say if it contributed in any material extent to Q2? And also within PP&M, what to expect going forward, what we are seeing currently with the oil price and the prices in that sector? What do you expect in terms of mix within the PPM going forward?"
+         ],
+         "Speaker": "Viktor H\u00f6gberg"
+      },
+      "46": {
+         "Remarks": [
+            "PP&M, if we start with that. I mean, PP&M is a software business. So we expect to have a similar mix going forward as we've seen for the first six months this year. Regarding BLK2GO, it obviously contributed to the growth in the quarter, but it was less than 1% on group level. So it wasn't material in the second quarter."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "47": {
+         "Remarks": [
+            "The next question is from Supriya Subramanian of UBS. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "48": {
+         "Remarks": [
+            "I just have one remaining question. This is around the sort of slight differentiating growth trends in North America and EMEA. So you mentioned that these were the two markets that were the most impacted by the COVID restrictions in 2Q. Could you explain why there is such a big difference in the growth trends? Yes, both declining, but still the magnitude was quite different. And I think this pattern was similar in 1Q as well. So could you explain what was driving this in the quarter?"
+         ],
+         "Speaker": "Supriya Subramanian"
+      },
+      "49": {
+         "Remarks": [
+            "No. It's very simple. If you take the major countries in Western Europe throughout -- a great deal of March, April and May, people were locked into their homes, and they didn't go to work. So if you now think about a large automotive plant like Volsberg -- sorry Volkswagen, it's empty. They can't -- there is no product acceptance department there to accept your deliveries. There is no one there to take your phone calls. How do you do business?"
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "50": {
+         "Remarks": [
+            "Right. And would you say that the, let's say, the slowdowns in North America was as stringent maybe?"
+         ],
+         "Speaker": "Supriya Subramanian"
+      },
+      "51": {
+         "Remarks": [
+            "No, I would say that they were probably not as coordinated as the major countries in Western Europe. And I would also -- because certain states in North America kept business going. So you have less of an impact in North America."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "52": {
+         "Remarks": [
+            "Next question is a follow-up of Daniel Djurberg of Handelsbanken. Your line is now open."
+         ],
+         "Speaker": "Operator"
+      },
+      "53": {
+         "Remarks": [
+            "Just a follow-up on the balance sheet, accounts receivable down 10%, which we can understand, of course. Prepaid expenses and accrued income is quite flat year-over-year. Can you give perhaps the mix of the prepaid expenses versus accrued income and if accrued income is -- if you should read this positively into the coming growth in the quarters?"
+         ],
+         "Speaker": "Daniel Djurberg"
+      },
+      "54": {
+         "Remarks": [
+            "I'm going to see if I can do that. I mean, the software business is more stable, and it grew in the quarter. So obviously, you have an increase on the liability side because of that."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      },
+      "55": {
+         "Remarks": [
+            "There are now no further questions. I hand back to the speakers for the conclusion."
+         ],
+         "Speaker": "Operator"
+      },
+      "56": {
+         "Remarks": [
+            "Right. And the conclusion is, I hope you all have a great summer, and we'll talk again in October. Thank you, everyone, for listening."
+         ],
+         "Speaker": "Ola Roll\u00e9n"
+      }
+   }
+}

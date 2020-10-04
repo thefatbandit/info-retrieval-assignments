@@ -1,0 +1,660 @@
+{
+   "Date": "July 24, 2020",
+   "Presentation": {
+      "Alan Nicholl": [
+         "Yeah. Thank you, Don and good morning, everyone. The Canfor and Canfor Pulp quarterly results were released yesterday afternoon and come together with our overview slide presentation in the Investor Relations section of the respective company\u2019s websites. In my comments this morning I will briefly speak to quarterly financial highlights, a summary of which is included in an overview slide presentation.",
+         "Our lumber segment reported operating income of $107 million for the second quarter, compared to a loss of $89 million for the previous quarter. Our Q2 results included a net duty expense of $19 million, restructuring costs of $14 million and an $81 million recovery of a previously recorded inventory write-down provision reflecting the steep increase in lumber prices that we saw towards the end of the quarter and into July. After adjusting for these items the lumber segment generated operating income of $60 million.",
+         "Notwithstanding with disruptive impacts of COVID-19, which resulted in extensive production curtailments across our -- all of our operating regions during the quarter, improved lumber segment sales reflected a marked improvement in lumber demand and prices as the quarter progressed.",
+         "The company\u2019s U.S. site operations benefited from a strong pick-up in Southern Yellow Pine lumber prices in May and June, which translated into improved sales realizations and operating results, despite a 12% COVID related decline in production quarter-over-quarter.",
+         "Our European lumber business continued to perform well in the quarter, also generating improved results versus quarter one against a backdrop of minimal production disruption on solid demand, particularly from the repair and remodeling sector during the quarter. The business continues to meet our initial expectations with earnings so far in 2020 tracking ahead of 2019.",
+         "In Western Canada, operating results were impacted by extensive production curtailments as Western SPF lumber prices remained under pressure for most of the quarter. However, the sharp increase in Western SPF prices have supported a return to more normal operating rates in June and a strong finish to the quarter was the major factor and improved quarter-over quarter operating results for that region.",
+         "Our Pulp business reported an operating loss of $6 million for the second quarter, compared to operating income of the same amount reported for the previous quarter. For the quarter, the benefits of a weaker Canadian dollar and an improved BCTMP prices were outweighed by increased fiber costs resulting from materially lower fiber volumes available, as well as the $8 million inventory write-down at the end of June reflecting the weaker prices.",
+         "Pulp shipments were down 14% in the quarter, reflecting a 13% in pulp production related to production curtailments at Northwood combined with a vessel slippage over quarter end. Pulp unit manufacturing costs reflected the increased -- aforementioned increase in fiber costs, as well as the impact of reduced production volumes, but were largely offset by seasonally lower energy costs and readjustments in spending.",
+         "At the end of the second quarter, Canfor excluding Canfor Pulp had a net debt approximately at $860 million and available liquidity of approximately $655 million. Liquidity improved by approximately $255 million during the quarter reflecting higher cash earnings, a CECL unwind of working capital, a tax refund, various cash conservation measures in response to COVID-19, as well as increased and extended banking facilities.",
+         "Canfor Pulp ended the second quarter with net cash of $6 million and available liquidity of approximately $150 million. Liquidity improved by approximately $50 million during the quarter, supported by a drawdrown of accounts receivable balances and partial insurance proceeds related to the Northwood recovery boilers on schedule outage in the fall of 2018.",
+         "Excluding capitalized major maintenance we currently anticipate the 2020 capital spending will be approximately $100 million for the lumber segment and $45 million for Canfor Pulp. The aforementioned insurance proceeds for pulp will be reinvested in that same recovery boiler during an extended scheduled maintenance outage in the fall.",
+         "And with that, Don, I will turn the call back over to you. Thank you."
+      ],
+      "Don Kayne": [
+         "Thanks, Collin, and good morning, everyone. And thank you very much for joining the Canfor and Canfor Pulp quarter two 2020 results conference call. I will make a few comments before I turn things over to Alan Nicholl, our Executive Vice President of Canfor Pulp Operations and our Chief Financial Officer of both Canfor Corporation and Canfor Pulp. Alan will provide a more detailed overview of our performance in quarter two. In addition to Alan and I, we are joined by Kevin Pankratz, who is our Senior Vice President of Sales and Marketing.",
+         "I would like to start by thanking our incredible employees for their continued dedication and perseverance as we navigate the unprecedented challenges of COVID-19. As we have adapted to new working conditions, our employees have continued to perform extremely well, which contributed significantly to our positive results this quarter. In addition our new systems have worked very well, with the majority of our corporate employees continuing to work from home, which has been the case since mid-March.",
+         "As an organization we have demonstrated that we can work well in times of crisis and uncertainty. Our top two priorities continue to be protecting the health and safety of our employees, and executing on our strategy to support our value customers and sustain the business for the long-term.",
+         "As a result of the pandemic we had to make a series of difficult decisions to take extended downtime across all of our operating regions with our operations in British Columbia being impacted the most.",
+         "In addition, due to an insufficient supply of economically viable timber, we made the decision to permanently close our Isle Pierre sawmill in May. The timing of this decision was expedited by the impacts of the pandemic on our overall business.",
+         "We deeply regret the impacts of these very difficult decisions have had on our employees, on our contractors and the local communities. I want to thank our value customers for their understanding and support through this difficult period.",
+         "Since the onset of the pandemic, we have been working closely with the federal, provincial, municipal and state governments, and appreciate their willingness to work in partnership with Canfor and our industry.",
+         "Turning to our markets and beginning with lumber, conditions were extremely volatile during the second quarter. In April global lumber demand declined sharply in the wake of closures of non-essential businesses and lockdowns in many parts of North America, Europe and Asia.",
+         "Unprecedented demand from the repair and remodeling segment lean inventories across the supply chain and reduce lumber supply resulted in dramatic increases in North American and European lumber pricing as the quarter progressed.",
+         "Lumber prices have continued to increase early in the third quarter reflecting strong demand fundamentals and limited available supply combined with some challenges on the transportation front.",
+         "While lumber demand has been encouraging there remains significant uncertainty over the long-term. Offshore lumber demand was relatively stable during the quarter with prices seeing more modest increases.",
+         "During the second quarter we completed the 100% ownership of the Elliott Sawmilling Company, which increases our capacity in the U.S. South by our further CAD 210 million board feet.",
+         "In addition, Vida entered into an agreement to purchase the three sawmills in Sweden from Bergs Timber. This transaction is anticipated to close in the third quarter and is supported by Vida\u2019s strong performance and solid balance sheet.",
+         "These two acquisitions are a further step in our goal to diversify our business globally. In particular the strong local relationships of our co-owners in Vida allowed us to identify and complete the Bergs Timber transaction at very attractive pricing.",
+         "After taking the account of these acquisitions, our regional production mix is 43% British Columbia, 31% the U.S. South, 22% in Europe and 4% in Alberta. Compared to 2013, when our business was 88% Canadian based, we believe this more regionally diversified operating portfolio provides a more stable earnings platform for the future.",
+         "Our Pulp business was significantly impacted by a reduced residual fiber supply and increased fiber cost due to the extensive sawmill curtailments in British Columbia during the second quarter.",
+         "In addition, we experienced challenging global pulp prices as the quarter progressed in response to a much lower demand for printing and writing papers. Global pulp markets are anticipated to remain under pressure through the third quarter as a result of higher inventories and ongoing weakness in demand.",
+         "In response to reduced fiber availability and challenging market conditions, Canfor Pulp took a three-week curtailment at Northwood in the second quarter and is currently taking up four-week curtailment at PG and Intercon Pulp mills. As a result of the challenges and uncertainty caused by COVID-19 both Canfor and Canfor Pulp have taken a number of steps to further enhance our already solid liquidity position.",
+         "I will now turn it over to Alan Nicholl to talk about the quarter.",
+         "Yeah. Thanks, Alan. So, Operator, we are now ready to take the -- take questions from the analysts. Thank you."
+      ],
+      "Operator": [
+         "Good morning, ladies and gentlemen. Welcome to the Canfor Corporation and Canfor Pulp Second Quarter Analyst Call. A recording and transcript of the call will be available on Canfor\u2019s website.",
+         "During this call, Canfor Corporation and Canfor Pulp\u2019s Chief Financial Officer will be referring to a slide presentation that is available in the Investor Relations section of the company\u2019s website. Also, the companies -- I would like to point out that this call will include forward-looking statements, so please refer to the press releases for the associated risks of such statements.",
+         "I would now like to turn the meeting over to Mr. Don Kayne, Canfor Corporation and Canfor Pulp\u2019s Chief Executive Officer. Please go ahead, Mr. Kayne."
+      ]
+   },
+   "Questionnaire": {
+      "1": {
+         "Remarks": [
+            "Thank you. Okay. [Operator Instructions] Okay. So your first question comes from Hamir Patel of CIBC Capital Markets. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "2": {
+         "Remarks": [
+            "Thank you for the question."
+         ],
+         "Speaker": "Hamir Patel"
+      },
+      "3": {
+         "Remarks": [
+            "One second. Hamir, just one moment."
+         ],
+         "Speaker": "Operator"
+      },
+      "4": {
+         "Remarks": [
+            "Hi, Don. Can you me?"
+         ],
+         "Speaker": "Hamir Patel"
+      },
+      "5": {
+         "Remarks": [
+            "Yeah. I can hear you now, Hamir. Yeah."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "6": {
+         "Remarks": [
+            "Okay. Great. Thanks. So, Don, this lumber rally is getting a lot of comparisons to 2018. What do you think is different this time?"
+         ],
+         "Speaker": "Hamir Patel"
+      },
+      "7": {
+         "Remarks": [
+            "The lumber rally compared to 2018?"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "8": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Hamir Patel"
+      },
+      "9": {
+         "Remarks": [
+            "What the difference? Yeah. I don\u2019t know that, for us, I mean, I think that, as you look forward here clearly, we -- after the -- when COVID-19 started to impact us here, I think, we certainly, we saw obviously a significant retreat everywhere as people tried to get -- try to understand just the severity of things.",
+            "And I think that, compared to which we, of course, in 2018 was a completely different situation. So I think there -- with the all the reductions in production that we have seen during that period and now the recovery that we have seen just to some degree, I mean, it\u2019s just -- it\u2019s -- I think, it\u2019s just been a quite a bit different situation than 2018.",
+            "I mean, we are still obviously and we are looking forward here, we still got lots of challenges ahead of us. But I think that some of the fundamentals particularly on the retail side continue to look pretty decent frankly and better than what we would have expected.",
+            "And so, I think, really going forward here while we are certainly being very, very cautious beyond this quarter, right now we are seeing the results of that right now. So that I guess that\u2019s what I would maybe comment on that right this -- right now."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "10": {
+         "Remarks": [
+            "Okay. No. Thanks. That\u2019s helpful, Don. And just when you look at the capacity that\u2019s come out of British Columbia over the last 18 months, in this higher pricing environment, what do you see the sort of maybe risk that some of that stuff gets restarted and if you could speak to maybe how much but that that was removed do you think this was taken out permanently?"
+         ],
+         "Speaker": "Hamir Patel"
+      },
+      "11": {
+         "Remarks": [
+            "Yeah. Well, I think that, there\u2019s been a fair bit removed already. I mean, I think, some of the numbers that we have heard were upwards around $2 billion board feet, right, that\u2019s out there. And that\u2019s -- you got to remember most of the production has come out is due to the mountain pine beetle, right, and what the log supply is going to look like you are going forward.",
+            "We still believe our sales were another 1 billion board feet that still has to come out and whether that\u2019s all of that this year or that\u2019s over the next couple of years that\u2019s -- we still believe that that\u2019s has to happen and where that\u2019s going to happen in terms of British Columbia at this point that\u2019s probably still up for debate, but that\u2019s how we would look at that right now."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "12": {
+         "Remarks": [
+            "Great. Thanks. That\u2019s helpful. And so last question for me, Don are we have seen the U.S. delay these -- the next duty revision now by another 60 days. Did you see any risk of commerce just continuing to issue these extensions as we progress?"
+         ],
+         "Speaker": "Hamir Patel"
+      },
+      "13": {
+         "Remarks": [
+            "Absolutely. I mean, I think that we are in a period of time here where there\u2019s not a lot of certainty there at all and I think that, the risk of further delays for sure is a risk for sure in our view."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "14": {
+         "Remarks": [
+            "Great. That\u2019s I had all. I will turn it over. Thanks, Don."
+         ],
+         "Speaker": "Hamir Patel"
+      },
+      "15": {
+         "Remarks": [
+            "Okay. Thanks."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "16": {
+         "Remarks": [
+            "Your next question comes from Sean Steuart of TD Securities. Please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "17": {
+         "Remarks": [
+            "Thanks. Good morning, everyone. Following on Hamir\u2019s question, Don I am wondering if you can comment on your ability to squeeze extra production out of your sawmills. I guess potentially initially adding extra shifts across your portfolio. And any broader thoughts you have on how quickly or slowly the industry supply response might come in light of how strong margins are in the sector right now?"
+         ],
+         "Speaker": "Sean Steuart"
+      },
+      "18": {
+         "Remarks": [
+            "Yeah. I mean, I think, from our standpoint, we are basically now running other than the Mackenzie sawmill in British Columbia, which is currently down indefinitely, all the rest in British Columbia, certainly in Europe and certainly in the U.S. So they are essentially running now at 100% already.",
+            "So we are up in terms of ability to increase over and beyond that whatever -- over and above that we will be to some degree just based on some of the capital that we spent to maybe get a bit more out of it, but for the most part, Sean, I would say, that we are pretty close to our maximum at this stage, right? So -- and what was your second question was?"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "19": {
+         "Remarks": [
+            "Broader thoughts on how the industry might respond with extra supply, I mean, there\u2019s -- it doesn\u2019t look like there\u2019s any greenfield coming at this point, but\u2026"
+         ],
+         "Speaker": "Sean Steuart"
+      },
+      "20": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "21": {
+         "Remarks": [
+            "\u2026potentially for brownfield expansion those sorts of things?"
+         ],
+         "Speaker": "Sean Steuart"
+      },
+      "22": {
+         "Remarks": [
+            "Yeah. There might be a little bit here and there. I mean, there\u2019s still been some capital being spent I am sure everywhere, right? But I would say, right now based on price levels, I would say, that our view would be that pretty much everybody\u2019s running pretty hard now and running close to capacity.",
+            "I would definitely maybe the only caveat might be if there\u2019s been some log supply issues in parts of British Columbia potentially, but we are not seeing that ourselves, but perhaps others, but for the most part, I would say that, we are most there\u2019s not a lot of upside here in terms of production levels over and above where we are at and certainly that would be -- it would be our view."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "23": {
+         "Remarks": [
+            "Okay. A question maybe for Alan, you -- it looks like you are opening up on CapEx a little bit this year versus the initial sort of austerity spending. I guess you guys are guiding to in the initial wake of the pandemic. Do you have any sense of how spending might trend in the 2021, imagine there\u2019s room to take it even higher? And then can you give us a bit more detail on the boiler spending program at Northwood. Is that rebuild still in the cards longer term or is what you are doing now just extending the life that much more and you don\u2019t have to think about a larger CapEx spend down the road?"
+         ],
+         "Speaker": "Sean Steuart"
+      },
+      "24": {
+         "Remarks": [
+            "Okay. Yeah. No. Thanks, and good morning, Sean. So with respect to your first question around opening up the valves a little bit on capital, I think, that\u2019s fair to say, but the key words are a little bit. We are focused on a couple of very attractive high returning projects, the most notable of which is our second phase at our Camden mill, which is a fairly high performing mill in the U.S.A.",
+            "In the Pulp space, our expanded capital in large part reflects some targeted spend on our RB5, which you may recall was the boiler that cost we have the offset in the year 2018. So what we are doing there in essence is taking the part of the insurance proceeds that that we have received with respect to that payment thus far and focusing on extending the useful life of that RB5.",
+            "Today, we are thinking we will be able to get between four years and six years more life out of that. Based on what we know today we will have a much better sense of that here before the end of the year. But the intent is to -- just to be clear to extend the useful life of that particular recovery boiler.",
+            "In terms of the long-term, we still have -- we have two real options there, Sean. One of which is a brand new recovery boiler replacing the two that are there today. And the other option is extensive refurbishment of both RB1 and RB5 that\u2019s out today. So both have their merits, one obviously comes with a higher sticker price per se, but we have made no firm decision with respect to either option at this point."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "25": {
+         "Remarks": [
+            "Okay. Thanks very much for that. I will get back in the queue."
+         ],
+         "Speaker": "Sean Steuart"
+      },
+      "26": {
+         "Remarks": [
+            "All right. Thank you."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "27": {
+         "Remarks": [
+            "Thanks, Sean."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "28": {
+         "Remarks": [
+            "Your next question comes from Paul Quinn of RBC Capital Markets. Paul, please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "29": {
+         "Remarks": [
+            "Yeah. Thanks very much. Good morning, guys."
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "30": {
+         "Remarks": [
+            "Good morning."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "31": {
+         "Remarks": [
+            "Good morning, Paul."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "32": {
+         "Remarks": [
+            "It seemed like we had lower lumber inventory coming into 2020 and then COVID hit and people were retrenched and it seemed like it inventory in the channel get even lower, where we at right now in terms of versus this time last year or at the start of the year?"
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "33": {
+         "Remarks": [
+            "Yeah. I would say, Paul, I mean, like Kevin talked more about, but I would say, we would still think that when inventory levels are lower, lower than they were last year and are continue relatively low because the takeaway has been good. And so, I think, we are still in that situation and we will remain in that situation here for a while, right? And I -- and so, that\u2019s probably what I would say. Kevin, what are you seeing out there really when you look around the world?"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "34": {
+         "Remarks": [
+            "Yeah. No. So, Don, that for sure, in North America lumber inventories are low. The -- if you look at the R&R market segment there, they had that huge demand throughout Q2. And so, I think, you are still seeing some really strong demand signals there that are really putting pressure on inventories.",
+            "And then on the new home construction side there, I think, folks going into Q2, inventories are relatively balanced and then as people were going in this unknown situation with COVID and the impact on housing demand, there was a work -- a draw on working inventories and then -- and that didn\u2019t replenish sufficiently when we saw recovery in May. So, North America is still quite lean.",
+            "I think in Asia inventories are a little bit more -- a little bit higher and balanced. But then Europe, again very tight inventories and strong order file. So that would be my assessment on the inventory situation."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "35": {
+         "Remarks": [
+            "And Kevin\u2026"
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "36": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "37": {
+         "Remarks": [
+            "\u2026 I think also -- wouldn\u2019t you say, Kevin, that the goal as well, I mean, you talk a lot about this but the home center demand has been so strong compared to what we\u2026"
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "38": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "39": {
+         "Remarks": [
+            "\u2026anybody would have expected, combined with the industrial side with the treaters that, it\u2019s probably, pretty much unprecedented maybe a strong, too strong a word, but it\u2019s been extremely strong and much stronger than we ever would have expected and which just really allowed us to extend our order files. Kevin, that\u2019s correct pretty much."
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "40": {
+         "Remarks": [
+            "Yeah. Absolutely. And then under that whole R&R home center type segment, it\u2019s not just the do-it-yourself traditional customer base, it\u2019s also that customer base like that pro, the pro, that contractor that\u2019s coming in there and you are seeing more and more investment in people in their homes and into rural environments and so we think that\u2019s going to continue to drive demand and keep pressure on the inventories."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "41": {
+         "Remarks": [
+            "Okay. And then, just talking about order files, I mean, we have got pretty strong pricing here, how far does your order files go at this point?"
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "42": {
+         "Remarks": [
+            "Go ahead, Kevin."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "43": {
+         "Remarks": [
+            "Yeah. So for North America, yeah, actually our order files are well into August there, Paul, and in Europe, like, I think, we mentioned in the opening comments there order filed into pretty much October. And then, of course, our Asia order files are pretty much into -- pretty much locked into Q3 already. So very, very solid order files as compared to historical norms."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "44": {
+         "Remarks": [
+            "Okay. And then just recently you have made acquisitions in Europe, would it be safe to say that that\u2019s a continued area of interest for you guys to continue to grow that platform?"
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "45": {
+         "Remarks": [
+            "Absolutely, Paul. I mean, as we continue to spend more time on Europe and our European business and from our view, there\u2019s a tremendous amount of upside there. And we are really, really pleased with that acquisition, and we see much more opportunity to grow in the years ahead there. And the stability in Europe and the business there just continues to be positive. And so I was safe to say that we will continue to grow there over time."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "46": {
+         "Remarks": [
+            "All right. And then last question on -- just on lumber, Q3 cost with BC stumpage is it a material change and what do you expect in the quarter?"
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "47": {
+         "Remarks": [
+            "Kevin, do you want to take that one, in terms of how -- I think Paul\u2019s question is if you are looking forward here Q3 with a stump in -- with the reductions and so forth, where do we see pricing there?"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "48": {
+         "Remarks": [
+            "Yeah. I think for Q3, we see some pretty strong pricing. We think that\u2019s going to relatively continue into September and then beyond that don\u2019t really have a lot of uncertainties, but I feel that the pricing trend that we are in right now in this range here is going to continue into Q3."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "49": {
+         "Remarks": [
+            "Yeah. Whether it\u2026"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "50": {
+         "Remarks": [
+            "Okay."
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "51": {
+         "Remarks": [
+            "\u2026 continues or not, Paul, but -- the order files that we have got and Kevin, I think, you could substantiate this for sure is that we seen -- we have seen some of the more the longer order files than we have seen in quite some time, frankly, and that\u2019s really -- Europe we always have a strong order file. And so that\u2019s not such a big change potentially particularly, but certainly in the U.S. and in Canada both those operations we have seen order files, typically you don\u2019t see in terms of number of weeks, right?",
+            "So -- but, again, like Kevin mentioned, and I think, Alan mentioned also, when you get beyond Q3, that\u2019s when we -- we are taking a more obviously conservative approach here in terms of where we might see things go, so."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "52": {
+         "Remarks": [
+            "Great. That\u2019s all I have. Best of luck, guys. Thanks."
+         ],
+         "Speaker": "Paul Quinn"
+      },
+      "53": {
+         "Remarks": [
+            "All right. Thanks, Paul."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "54": {
+         "Remarks": [
+            "Your next question comes from Mark Wilde of Bank of Montreal. Mark, please go ahead."
+         ],
+         "Speaker": "Operator"
+      },
+      "55": {
+         "Remarks": [
+            "All right. Good morning, Don. Good morning, Alan."
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "56": {
+         "Remarks": [
+            "Hi."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "57": {
+         "Remarks": [
+            "Good morning, Mark."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "58": {
+         "Remarks": [
+            "It\u2019s a much different situation than we had three months ago."
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "59": {
+         "Remarks": [
+            "Yeah. That\u2019s a good thing, for sure."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "60": {
+         "Remarks": [
+            "Yeah. I wanted to start off by just kind of talking about capital allocation priorities. I mean, it looks like you are going to throw off a lot of cash in the third quarter. I am just curious about you are thinking about prioritizing that in terms of debt reduction, M&A, share repurchase, special dividend, all the different options there?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "61": {
+         "Remarks": [
+            "For sure, maybe, Alan, I know you have been -- we have been working a lot on this. Why don\u2019t you speak to that with the Mark\u2019s question?"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "62": {
+         "Remarks": [
+            "Yeah. No. For sure. Good morning, Mark. Yeah. I think, we typically have -- we tried to be fairly disciplined to -- as to how we allocate our cash and clearly the challenges have been more pronounced in more recent times.",
+            "But to answer your question, I think, it\u2019s fair to say, that debt reduction will remain a key area of focus for us. We accepted, we took out more debt obviously with respect to the Vida acquisition and to a lesser extent the Elliott acquisition as well, but debt reduction clearly is a top priority for us.",
+            "I think on the M&A front, I think, what you have seen through the Berg announcement is our desire to be able to take advantage of attractive smaller acquisition targets, but we think those will be more selective, and to Dan\u2019s earlier point, more targeted, obviously, in Europe and potentially in the U.S. sites as well.",
+            "And then we have to, obviously, maintain our focus on capital for our existing operations as well, Mark. You appreciate that we have curved the spend there this year and it\u2019s important that we go back to more normalized, targeted and disciplined spend in that arena as well. So those are the three big areas of focus, I would say, for us as we look right over the balance of the year and indeed into 2021."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "63": {
+         "Remarks": [
+            "I think\u2026"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "64": {
+         "Remarks": [
+            "And Alan, I think -- and Alan, you covered it\u2026"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "65": {
+         "Remarks": [
+            "Yeah."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "66": {
+         "Remarks": [
+            "\u2026well there and I think the thing though just to emphasize though is on the debt reduction piece of all of those areas like we -- our focus is going to continue to be, because there\u2019s still uncertainty out there for sure beyond Q3, perhaps, even into Q4, but debt reduction is going to continue to be our focus for sure. And then if there\u2019s an attractive target, an Alan mentioned, comes up, we will certain look at it on a very specific way, but debt reduction clearly is our number one focus."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "67": {
+         "Remarks": [
+            "Yeah. And just I am kind of curious on the share repurchase side, I mean, it\u2019s hard for me to imagine that you can make an acquisition of lumber capacity as cheaply as your own equity right now and any thoughts on that?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "68": {
+         "Remarks": [
+            "Yeah. Go ahead, Alan."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "69": {
+         "Remarks": [
+            "Yes. Mark, I think, I just echo what I said a few minutes ago. I think we believe there\u2019s higher priorities today. And I would say just in terms of your comment on share repurchasing. I think we are very encouraged by what we see in respect of the Bergs announced acquisition.",
+            "We believe that the economics of that are very compelling, the synergies are very attractive and the payback period is likewise. So one could, look, one could discuss the merits of both for some time Mark, but we are very comfortable with what we have outlined as our key priority certainly for the foreseeable future."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "70": {
+         "Remarks": [
+            "Okay. Can you just press on it just a little bit further, because if I go back two years ago, you were buying your stock at almost twice the price, let\u2019s say, at today. So I am just very curious, I mean, we are kind of getting a win -- unexpected windfall and I wonder if there isn\u2019t some merit in taking a portion of that windfall and being opportunistic right now about the stock?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "71": {
+         "Remarks": [
+            "Yeah. I think, I mean, again, Mark, maybe the best forum to have that conversation. But I think the diversification angle that we are taking here to Don\u2019s point earlier in the call is a key part of really driving value across the company.",
+            "And we believe that we are seeing the benefits of that, so not just more stable earnings, but also improved earnings in many parts of our business. So we are comfortable with the approach, as I say, that we are adopting there. And there\u2019s so much uncertainty -- there\u2019s so much uncertainty there too, Mark, that we just do well to be mindful of that as well."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "72": {
+         "Remarks": [
+            "Yeah. I thought like I have no problem with that. I wonder if we can turn to just sort of, as you think about M&A, sort of, how do you kind of weight opportunities in the U.S. South versus kind of opportunities in Europe right now?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "73": {
+         "Remarks": [
+            "Yeah. Alan you can jump in there too, but I think right now, I mean, we have made a year ago or a year and a half ago a pretty significant acquisition to move into Europe. I think that\u2019s turning out just exactly the way that we expected it to.",
+            "And at the same time, we have done the same thing in the U.S. South and we are trying to take extremely disappointed approach there and try to focus on companies that and this why we are focusing on the smaller companies because we can really target either -- whether it\u2019s product mix, whether it\u2019s location, but those two areas and where there\u2019s a strong employment base I guess it will be the other one. Those, first and foremost, right?",
+            "And as we look forward, I would say that, we don\u2019t -- I don\u2019t think we would rank Europe or the U.S. South any different. The both areas that we really believe on a long-term basis are going to add to the stability of the company through that diversification period.",
+            "And so, right now, I mean, there\u2019s clearly there\u2019s opportunities in both places today where we continue to look at. But I don\u2019t -- I would say that we would look at them both as positive opportunities going forward and at least it depends on what\u2019s kind of comes up at the time, right?",
+            "But clearly we are really, really pleased with what we have been able to do in the U.S. South from a regional point of view, from a company point of view, from a people point of view and exactly the same in Europe.",
+            "There are some opportunities in Sweden that we are continuing to look at. We have got a very strong management team there as we do in the U.S. South and we will just keep assessment as we go forward there."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "74": {
+         "Remarks": [
+            "Okay. And then just on the South, Don, if we go back a couple of years ago, you were looking at that greenfield down near Athens Georgia. Is the greenfield an option for you, if we look out over the next couple of years?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "75": {
+         "Remarks": [
+            "Yeah. I think, so, I mean, it is possible for sure. I mean, we were going to grow that business down in this the U.S. South. We really like it down there. There is a -- we have got a very good strong team down there that\u2019s -- that we are very confident in and comfortable with and they are looking at opportunities all the time.",
+            "So it\u2019s just going to depend and -- but we do think that over the next couple of years, as you outlined Mark, there could be that opportunity, but we are not there right now, we are just sort of we evaluating some existing companies potentially, but that\u2019s where we are at today, so but down the road it would definitely on the table."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "76": {
+         "Remarks": [
+            "Yeah. And can you -- Don is it possible for you guys to talk at all about what you are seeing in terms of imports coming into the U.S. I think when you get lumber prices up near these levels and you have got a relatively strong U.S. dollar, I was wondering about sort of European imports coming into the East Coast of the U.S.?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "77": {
+         "Remarks": [
+            "Yeah. Good question. I will throw that over to Kevin, he spends a lot of time on that himself and knows those all the players very, very well. So Kevin why don\u2019t you take that?"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "78": {
+         "Remarks": [
+            "Sure. Yeah, Mark. Yeah. We have seen an increase coming in especially from Germany and Central Europe with given their spruce beetle challenges and their desire to manufacture out as soon as possible, so between China and the Eastern U.S., those have been big markets for them.",
+            "And I think we are on track to be about like 1.2 billion board feet kind of an annualized pace there, Mark. And but the Europeans also have other options as well with Europe recovering that\u2019s going to keep them engaged especially in the U.K. and other parts of Europe. But definitely on the upside, but still within that $1.2 billion, $1.3 billion range is our expectation for this year."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "79": {
+         "Remarks": [
+            "Okay. That\u2019s helpful. [Inaudible]"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "80": {
+         "Remarks": [
+            "One thing, just one thing on, sorry, Mark, but just to add to what Kevin said. Kevin I think we would just say though that when that product coming out of Germany and Austria and so forth, in a lot of cases we don\u2019t compete with the rate because of the quality of it compared to what you are getting up in the north. Would that -- maybe talk to Mark a bit about that because there\u2019s quite a bit of a difference there from product coming from Central Europe versus coming from Scandinavia."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "81": {
+         "Remarks": [
+            "Yeah. Absolutely. I mean, the impacts of the spruce beetle and you start to see those challenges, which is why they have to ship it to different markets like China. And those products don\u2019t necessarily go to Japan with higher valued markets and that\u2019s where Scandinavia as the fiber is such that it has to go to more higher valued pieces where it\u2019s not so easily substitutable.",
+            "So definitely there\u2019s a dynamic playing around with the fiber quality. And you just can\u2019t say Europe one paint brush painting all of Europe, there is some changes there and of course there is some urgency to get out that spruce beetle before it deteriorates even further."
+         ],
+         "Speaker": "Kevin Pankratz"
+      },
+      "82": {
+         "Remarks": [
+            "Okay. All right. Makes perfect sense. The last one for me, Don, I wondered if you can just talk with us a little bit about where you see kind of the of pulp industry in British Columbia going. We have got -- we have definitely got constraints on fiber. You have talked about that and we are clearly heading for some rougher sledding in the global pulp market over the next -- at least the next quarter or two?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "83": {
+         "Remarks": [
+            "All right for sure. Yeah. We have been doing a lot of work on that particularly Alan and his group there. So maybe, Alan, what are you -- maybe you can give Mark a bit of an update there in terms of how you are looking at things going forward and particularly in British Columbia around your fiber -- your pulp business, excuse me?"
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "84": {
+         "Remarks": [
+            "Yeah. No. For sure, Mark, and I appreciate the question. It\u2019s one that I think every BC pulp producer is getting these days. I mean, we are all facing various challenges, but much -- many of which are around the fiber set up here.",
+            "So a lot of what we are doing today is responding obviously not just the weak markets, but the challenges that we saw through Q2 in the weaker summer operating rates. And we are focused on making sure that we are going to be able to run our pulp mills, our craft pulp mills in particular through the winter. That\u2019s step one and I think, probably, every BC pulp producer\u2019s thinking likewise in today\u2019s market.",
+            "Clearly, fiber is tight and so the onus is on producers like ourselves to be very mindful of targeting improved yields, looking for every ounce and ODT or fiber that we can\u2019t get. So we are working very hard there. I think, I have mentioned before that we have secured additional business in the last nine months, 12 months. We are pleased with that.",
+            "Part of the challenge is keeping a lid on the more expensive fiber stream notably whole log chips and that\u2019s probably our major concern and I would hazard a guess that it\u2019s a major concern of many in the BC context.",
+            "The price of whole log chips delivered to the pulp mills is much higher than it\u2019s ever been. So we are working really hard at that. We got some ideas as to how to drive costs out through capitals upgrades and such like, but it is a challenge, no question."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "85": {
+         "Remarks": [
+            "Do you anticipate, Alan, that we are going to see kind of a contraction in pulp capacity in the BC interior, the Northern interior?"
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "86": {
+         "Remarks": [
+            "Yeah. I can\u2019t comment definitively on that Mark. I think we have clearly seen some curtailments in the BC context and that\u2019s not a surprise. We will just have to wait and see, Mark. It\u2019s a fair question. It\u2019s just hard to call when you look out over the next two years to three years.",
+            "And certainly if the curtailments and rationalizations continue to occur, I think, at minimum you are going to see, what we have the potential to see more curtailments. That would be certainly one thing that we have seen over the last two years, more curtailments."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "87": {
+         "Remarks": [
+            "Okay. All right. Fair enough. I appreciate all the feedback. Thanks, guys."
+         ],
+         "Speaker": "Mark Wilde"
+      },
+      "88": {
+         "Remarks": [
+            "Okay."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "89": {
+         "Remarks": [
+            "Thanks, Mark."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "90": {
+         "Remarks": [
+            "Thanks, Mark. Take care."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "91": {
+         "Remarks": [
+            "As there are no further questions at this time, please proceed."
+         ],
+         "Speaker": "Operator"
+      },
+      "92": {
+         "Remarks": [
+            "Hello."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "93": {
+         "Remarks": [
+            "Oh! There are no further questions at this time. So you may proceed."
+         ],
+         "Speaker": "Operator"
+      },
+      "94": {
+         "Remarks": [
+            "Oh! Okay. I am sorry, I missed you there. So, yeah, well, thanks very much then everyone that joined the call. We appreciate all your support and look forward to working with all of you and speaking with you at the end of this Q3. So thanks very much and we will talk to you soon. Bye-bye."
+         ],
+         "Speaker": "Don Kayne"
+      },
+      "95": {
+         "Remarks": [
+            "Ladies and gentlemen\u2026"
+         ],
+         "Speaker": "Operator"
+      },
+      "96": {
+         "Remarks": [
+            "Thanks."
+         ],
+         "Speaker": "Alan Nicholl"
+      },
+      "97": {
+         "Remarks": [
+            "\u2026this concludes your conference call for today. We thank you for participating and ask that you please disconnect your lines."
+         ],
+         "Speaker": "Operator"
+      }
+   }
+}

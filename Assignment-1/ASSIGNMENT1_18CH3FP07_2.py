@@ -182,6 +182,7 @@ def main():
     # Creating "ECTText" folder
     txt_file_path = os.getcwd() + "/ECTText/"
     os.mkdir(txt_file_path)
+    
     # Function for Task 2.2
     CreateText(file_path, txt_file_path)
 

@@ -46,7 +46,7 @@ def TokenSearch(token, start, end):
 def QueryToToken(query):
     # mon* CASE
     if(query[-1] == "*"):
-        return query[:-1]
+        return ("$" + query[:-1])
     # *mon CASE
     elif(query[0] == "*"):
         return (query[1:] + "$")

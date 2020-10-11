@@ -87,7 +87,7 @@ def main():
 
     # Storing of Postings List
     with open("Inv_Pos_Index.json", 'w') as fp:
-        json.dump(inv_pos_index, fp, sort_keys=True, indent=3)
+        json.dump(inv_pos_index, fp, sort_keys=True)
 
     # Generating & Storing Permuterm
     perm_list = GeneratePermutermList()

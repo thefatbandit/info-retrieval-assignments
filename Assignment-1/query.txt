@@ -1,2 +1,2 @@
 acclimate
-ac*mate
+acc*

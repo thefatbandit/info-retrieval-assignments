@@ -4,6 +4,10 @@ from nltk.corpus import stopwords
 from copy import deepcopy
 import json
 
+# Downloading nltk requirements in case they don't exist in the environment
+nltk.download('wordnet')
+nltk.download('stopwords')
+
 # Tokenizer
 from nltk.tokenize import RegexpTokenizer
 tokenizer = RegexpTokenizer(r'[a-zA-Z]+')

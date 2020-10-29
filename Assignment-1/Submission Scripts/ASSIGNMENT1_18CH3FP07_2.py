@@ -170,7 +170,11 @@ def main():
     
     # Making "ECTNestedDict" directory
     script_file_path = os.getcwd() + "/ECTNestedDict/"
-    os.mkdir(script_file_path)
+    try: # Creating an ECTText file to store all the text data from the nested dicts.
+        os.mkdir(script_file_path)
+    except: 
+        pass #No handling needed if folder exists
+
     #  Listing out all files in "ECT"
     file_list = os.listdir(file_path)
     
@@ -181,8 +185,11 @@ def main():
     file_path = os.getcwd() + "/ECTNestedDict/"
     # Creating "ECTText" folder
     txt_file_path = os.getcwd() + "/ECTText/"
-    os.mkdir(txt_file_path)
-    
+    try: # Creating an ECTText file to store all the text data from the nested dicts.
+        os.mkdir(txt_file_path)
+    except: 
+        pass #No handling needed if folder exists
+   
     # Function for Task 2.2
     CreateText(file_path, txt_file_path)
 

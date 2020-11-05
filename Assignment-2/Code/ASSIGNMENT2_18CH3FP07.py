@@ -1,3 +1,8 @@
+'''
+Arnesh Kumar Issar
+18CH3FP07
+'''
+
 import os
 import math
 import json
@@ -7,6 +12,7 @@ import pickle5 as pickle
 from bs4 import BeautifulSoup
 import nltk
 from nltk.corpus import stopwords
+from tqdm import tqdm
 
 # Tokenizer
 from nltk.tokenize import RegexpTokenizer
@@ -18,7 +24,7 @@ lemmatizer = WordNetLemmatizer()
 
 file_path = os.getcwd()
 parent_dir = os.path.dirname(os.getcwd())
-data_path = parent_dir + "/Dataset"
+data_path = parent_dir + "/Dataset/Dataset"
 
 file_list = os.listdir(data_path)
 
@@ -28,7 +34,7 @@ cust_stop_words = ["'s"]
 for temp in cust_stop_words:
     stop_words.add(temp)
 
-with open(parent_dir + '/Leaders.pkl','rb') as fp:
+with open(parent_dir + '/Dataset/Leaders.pkl','rb') as fp:
     global leaders
     leaders = pickle.load(fp)
 
@@ -36,13 +42,16 @@ with open(parent_dir + '/Leaders.pkl','rb') as fp:
 # Converting the scored-documents to text lines for the result.txt
 def list_to_string(score_list):
     text = ""
-    for doc in score_list:
-        if(round(doc[1],5)==0):
-            text = text + '<' + str(doc[0]) + ',' + str(doc[1]) + '>,'
-        else:
-            text = text + '<' + str(doc[0]) + ',' + str(round(doc[1],5)) + '>,'
+    if(len(score_list)==0):
+        text = "No matching Documents found" + "\n" 
+    else:
+        for doc in score_list:
+            if(round(doc[1],5)==0):
+                text = text + '<' + str(doc[0]) + ',' + str(doc[1]) + '>,'
+            else:
+                text = text + '<' + str(doc[0]) + ',' + str(round(doc[1],5)) + '>,'
 
-    text = text[:-1] + '\n'
+        text = text[:-1] + '\n'
     return text
 
 # -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -59,7 +68,7 @@ def calc_champ():
 
     # Champion List Global
     champ_list_global = {}
-    with open(parent_dir + '/StaticQualityScore.pkl','rb') as fp:
+    with open(parent_dir + '/Dataset/StaticQualityScore.pkl','rb') as fp:
         g = pickle.load(fp)
 
         for token in inv_pos_index:
@@ -92,7 +101,7 @@ def calc_Vd():
 # Function for finding followers to each leader
 def find_followers(leaders, word_vec, lead_inv_pos_index):
     follow_dict = {}
-    for i in range(len(file_list)):
+    for i in tqdm(range(len(file_list)), desc= "Finding Leaders"):
         leader_score = []
         if(i in leaders): 
             pass
@@ -112,30 +121,46 @@ def ranked_retrieval(champ_list_global, champ_list_local, follow_list):
         query_list = query_file.readlines()
     
     with open("RESULTS2_18CH3FP07.txt","wt") as text_file:
-        for query in query_list:
+        for i in tqdm(range(len(query_list)), desc= "Ranked Retrieval"):
+            query = query_list[i]
             filtered_query = []
-
+            tf_idf_score = []
+            
+   
             query = query.rstrip("\n")
-            # Tokenizing
-            tokens = tokenizer.tokenize(query.lower())
 
-            # Stop-Word Removal + Lemmatization
-            for token in tokens:
-                if(token not in stop_words):
-                    filtered_query.append(lemmatizer.lemmatize(token))
-            tf_idf_score = tf_idf(filtered_query,inv_pos_index)
-            champ_local_score = champ(filtered_query, champ_list_local)
-            champ_global_score = champ(filtered_query, champ_list_global)
+            # For blank lines
+            if(query==""):
+                text_file.write("Empty Query \n \n")
+                print()
+                continue
+            
+            else:
+                print("Retrieval for " + '"' + query + '"' + " being done" ) 
 
-            cluster_score = cluster_scoring(filtered_query, follow_list, lead_inv_pos_index)
-            #  Writing query data
-            text_file.write(query + "\n")
-            text_file.write(list_to_string(tf_idf_score))
-            text_file.write(list_to_string(champ_local_score))
-            text_file.write(list_to_string(champ_global_score))  
-            text_file.write(list_to_string(cluster_score))  
+                # Tokenizing
+                tokens = tokenizer.tokenize(query.lower())
 
-            text_file.write("\n")       
+                # Stop-Word Removal + Lemmatization
+                for token in tokens:
+                    if(token not in stop_words):
+                        filtered_query.append(lemmatizer.lemmatize(token))
+
+                text_file.write(query + "\n")
+                if(len(filtered_query)==0):
+                    text_file.write("No matching Documents found \n \n")
+                else:
+                    tf_idf_score = tf_idf(filtered_query,inv_pos_index)
+                    champ_local_score = champ(filtered_query, champ_list_local)
+                    champ_global_score = champ(filtered_query, champ_list_global)
+                    cluster_score = cluster_scoring(filtered_query, follow_list, lead_inv_pos_index)
+                    #  Writing query data
+                    text_file.write(list_to_string(tf_idf_score))
+                    text_file.write(list_to_string(champ_local_score))
+                    text_file.write(list_to_string(champ_global_score))  
+                    text_file.write(list_to_string(cluster_score))  
+
+                    text_file.write("\n")   
 
 # ========================================================================================================================================
 def main():
@@ -144,9 +169,9 @@ def main():
     global lead_inv_pos_index
     lead_inv_pos_index = {}
     word_vec = []
-
+    
     # Buillding the & storing the inv_pos_index
-    for i in range(len(file_list)):
+    for i in tqdm(range(len(file_list)), desc="Building Positional Index"):
         filtered_tokens = []
         txt_file = open(data_path + "/" + str(i) + ".html")
         soup = BeautifulSoup(txt_file, features="html.parser")
@@ -193,6 +218,7 @@ def main():
         lead_inv_pos_index[token][0] = inv_pos_index[token][0]
 
     # Storing the inv_pos_index
+    print("Storing the Index")
     with open("Inv_Pos_Index.json", 'w') as fp:
         json.dump(inv_pos_index, fp, sort_keys=True, indent=3)
 
@@ -203,10 +229,16 @@ def main():
     Vd_norm= calc_Vd()
 
     # Finding followers of each leader
+    print("Building the Leader-Follower list")
     follow_list = find_followers(leaders, word_vec, lead_inv_pos_index)
 
+    with open("Leaders.json", 'w') as fp:
+        json.dump(follow_list, fp, sort_keys=True, indent=3)
+
     # Main Retreival Function
+    print("Ranked Retrival Initiated")
     ranked_retrieval(champ_list_global, champ_list_local, follow_list)
+    print("All documents retrievd successfully")
 
 # =========================================================================================================================================================
 # Normal tf-idf scoring & retrieval between a list of tokens in an inv_pos_index
@@ -270,7 +302,11 @@ def champ(filtered_query, champ_dict):
 # Part-IV Cluster Scoring Method
 def cluster_scoring(filtered_query, follow_list, lead_inv_pos_index):
     score_dict = {}
-    leader = tf_idf(filtered_query, lead_inv_pos_index)[0]
+    temp = tf_idf(filtered_query, lead_inv_pos_index)
+    if(len(temp)==0):
+        return []
+    else:
+        leader = temp[0]
     score_dict[leader[0]] = leader[1]
     
     followers = follow_list[leader[0]]

@@ -1,0 +1,9 @@
+NumFeature	1	10	100	1000	10000	
+MultinomialNB	0.55	0.88	0.94	0.95	0.96	
+BernoulliNB	0.72	0.87	0.91	0.89	0.87	
+
+b Values 	0	0.01	0.05	0.1	
+Rocchio 	0.96	0.79	0.45	0.45	
+
+k Values 	1	10	50	
+kNN       	0.95	0.96	0.94	

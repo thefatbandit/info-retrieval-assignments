@@ -56,29 +56,34 @@ def naive_bayes(x_traintf, y_train, x_testtf, y_test):
     mnb = MultinomialNB()
     bnb = BernoulliNB()
     scores = {}
-    # Multinomial-NB
-    temp = []
-    print("Applying Multinomial Naive-Bayes Model")
+    # Naive-Bayes Models
+    temp_mnb, temp_bnb = [] , []
+    print("Applying Models")
     for i in tqdm(range(len(k_best)), desc= "Progress"):
         entry = k_best[i]
         x_train, x_test = feature_selection(x_traintf, y_train, x_testtf, entry)
+        bnb.fit(x_train.toarray(), y_train)
         mnb.fit(x_train.toarray(), y_train)
-        yhat = mnb.predict(x_test.toarray())
-        f1 = f1_score(y_test, yhat, average='macro')
-        temp.append(tuple((entry,f1)))
-    scores["multi"] = temp
+        yhat_mnb = mnb.predict(x_test.toarray())
+        yhat_bnb = bnb.predict(x_test.toarray())
+        f1_mnb = f1_score(y_test, yhat_mnb, average='macro')
+        f1_bnb = f1_score(y_test, yhat_bnb, average='macro')
+        temp_bnb.append(tuple((entry,f1_bnb)))
+        temp_mnb.append(tuple((entry,f1_mnb)))
+    scores["multi"] = temp_mnb
+    scores["bernoulli"] = temp_bnb
     
-    # Bernoulli-NB
-    temp = []
-    print("Applying Bernoulli Naive-Bayes Model")
-    for i in tqdm(range(len(k_best)), desc= "Progress"):
-        entry = k_best[i]
-        x_train, x_test = feature_selection(x_traintf, y_train, x_testtf, entry)
-        bnb.fit(x_train, y_train)
-        yhat = bnb.predict(x_test)
-        f1 = f1_score(y_test, yhat, average='macro')
-        temp.append(tuple((entry,f1)))     
-    scores["bernoulli"] = temp
+    # # Bernoulli-NB
+    # temp = []
+    # print("Applying Bernoulli Naive-Bayes Model")
+    # for i in tqdm(range(len(k_best)), desc= "Progress"):
+    #     entry = k_best[i]
+    #     x_train, x_test = feature_selection(x_traintf, y_train, x_testtf, entry)
+    #     bnb.fit(x_train, y_train)
+    #     yhat = bnb.predict(x_test)
+    #     f1 = f1_score(y_test, yhat, average='macro')
+    #     temp.append(tuple((entry,f1)))     
+    # scores["bernoulli"] = temp
 
     return scores
 
@@ -182,7 +187,7 @@ def write_scores(scores):
 
         # Bernoulli-NB
         temp = scores["bernoulli"]
-        text = "MultinomialNB"
+        text = "BernoulliNB"
         for score in temp:
             text = text + " | " + str(round(score[1],5))
         

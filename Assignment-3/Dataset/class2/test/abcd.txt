@@ -1,0 +1,11 @@
+hello
+Num_Neighbours   1      10      50      
+KNN_Classifier | 0.94861 | 0.95968 | 0.94188
+
+Num_Neighbours   1      10      50      
+KNN_Classifier | 0.94861 | 0.95968 | 0.94188
+NumFeature      1       10       100       1000       10000       
+MultinomialNB | 0.35613 | 0.88042 | 0.93967 | 0.9509 | 0.95758
+NumFeature      1       10       100       1000       10000       
+Bernoulli | 0.71232 | 0.86152 | 0.90628 | 0.88742 | 0.86344
+
